@@ -5,4 +5,6 @@ São excluídas UCs inativas e UCs de 1.5 ECTS (tipicamente de Competências Tra
 
 [Abrir sumário global](https://joaopascoalfariafeup.github.io/AuditoriaFichasUCs/Auditoria_UCs_Cursos_FEUP/sumario_global.html)
 
-A análise é baseada nas recomendações e exemplo de ficha de UC indicado na proposta de Manual de Boas Práticas do Docente da FEUP.  
+A análise é baseada nas recomendações (secção 2.1) e exemplo (Anexo A) de ficha de UC indicado na [Proposta de Manual de Boas Práticas do Docente da FEUP]((https://joaopascoalfariafeup.github.io/AuditoriaFichasUCs/Manual%20do%20Docente%20da%20FEUP%20v0.9.pdf).  
+
+Para qualquer questão, sugestão ou feedback, contactar João Pascoal Faria pelo email da FEUP.
