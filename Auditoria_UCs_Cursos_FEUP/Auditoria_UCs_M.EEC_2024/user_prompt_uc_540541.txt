@@ -1,0 +1,93 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Regimes Estacionários do SEE
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Objetivos
+<p>1- Aquisição de conhecimentos sobre o suporte matemático das modelizações do sistema elétrico em regime estacionário, métodos e algoritmos de cálculo. Domínio de conceitos relativos a trânsito de potência, curtos circuitos e estabilidade estática e efetuar a sua programação simples. Conhecer princípios, técnicas e efeitos de ações de controlo em regime estacionário.<br />2 - Aquisição de conhecimentos que permitam preparar dados, construir programas simples, utilizar programas de cálculo comerciais, analisar resultados e tirar conclusões técnicas sobre os problemas em regime estacionário dos sistemas elétricos de energia.</p>
+
+## Resultados de aprendizagem e competências
+<p>Competências CDIO - Conceiving &#8212; Designing &#8212; Implementing &#8212; Operating-1.3,2.1,2.3,3.3 e 4.3</p>
+
+## Programa
+<p>Modelos de componentes para análise estacionária de sistemas elétricos de potência. Modelos e algoritmos de cálculo de fluxos de potência em regime estacionário e sistema trifásico simétrico: modelo DC, método de Newton-Raphson, Desacoplamento Rápido e modelos para redes radiais. <br /><br /> Cálculo de curto-circuitos trifásicos simétricos com base na matriz de impedâncias nodais. Modelização explícita de sistemas trifásicos e revisão da transformada em componentes simétricas. Cálculo de defeitos assimétricos por composição de redes de sequência direta, inversa e homopolar. <br /><br />Introdução à análise de segurança estática e contingências.  Introdução à estabilidade de tensão. </p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teóricas de exposição do conteúdo programático da unidade curricular com suportes de projeção diversos. Discussão de casos reais envolvendo a participação dos estudantes.<br /> Aulas teórico-práticas em laboratório de computadores para resolução de problemas e apresentação ou discussão de exemplos ilustrativos, bem como assistência aos alunos na elaboração dos dois trabalhos práticos definidos. Serão usados, para apoio, softwares específico (ex.:PSS/E, PowerWorld) em simulações realistas pilotadas pelos alunos sob supervisão docente.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Trabalho laboratorial: 50.0 %
+- Exame: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho laboratorial: 50.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Nota final =  EF x 0,5 + Tr1 x 0,25 + Tr2 x 0,25<br /> <br /> Exame final (EF), sem consulta, com um peso de 50%.<br /> Dois trabalhos escritos (Tr1 e Tr2), cada um com um peso de 25 % cada.<br /> <br /> A aprovação exige uma classificação mínima de 50% (10 valores) nas seguintes componentes: 1) Exame final e 2) média dos dois trabalhos escritos.</p>
+<p>Todas as classificações compreendem a escala 0-20 valores.</p>
+
+## Obtenção de frequência
+<p>Realização de dois trabalhos de grupo e entrega dos respetivos relatórios escritos. Não exceder o número de faltas legalmente permitido.<br /><br /></p>
+<p> </p>
+
+## Melhoria de classificação
+<p>Apenas é permitida a melhoria da componente de avaliação obtida através do exame final. A componente de avaliação referente aos trabalhos, pela sua natureza, não é suscetível de melhoria durante o ano letivo corrente.<br /><br /></p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Steady State Power System Analysis
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Objetivos
+<p>1- Acquisition of knowledge on the mathematical support of modeling of the electric power system in steady state, methods and calculation algorithms. To gain concepts in power flows, short circuits and static stability  and produce simple programming. To know principles, techniques and effects of control actions in steady state.<br />2 - Acquisition of knowledge to prepare data, build simple programs, use commercial calculation programs, analyze results and draw technical conclusions on steady state problems of electric power systems.</p>
+
+## Resultados de aprendizagem e competências
+<p>Competences CDIO - Conceiving &#8212; Designing &#8212; Implementing &#8212; Operating-1.3,2.1,2.3,3.3 e 4.3</p>
+
+## Programa
+<br />Models of components for stationary analysis of electrical power systems. Models and algorithms for steady-state power flow in symmetrical three-phase systems: DC model, Newton-Raphson method, Fast Decoupled and radial network models.<br /><br />Calculation of symmetrical three-phase short-circuits based on nodal impedance matrix. Explicit modeling of three-phase systems and review of the symmetrical components transform. Calculation of asymmetric faults by the composition of direct, inverse and zero (homopolar) sequence networks.<br /><br />Introduction to static security and contingency analysis. Introduction to voltage stability.
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Classes of theoretic exposition of the programmatic content with a diversity of projection support. Discussion of real cases involving student participation.<br />Tutorial classes in a computer lab to solve problems and presentation or discussion of illustrative examples, as well as students supervision in the development of the practical assignment work. Specific software (eg PSS/E, PowerWorld) will be used for support in realistic simulations piloted by students under instructional supervision.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Trabalho laboratorial: 50.0 %
+- Exame: 50.0 %
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho laboratorial: 50.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Final mark = EF x 0,5 + Tr1 x 0,25 + Tr2 x 0,25.<br /> <br /> Final exam (EF), no consulting, weighting 50 %.<br /> Two written assignments (Tr1 and Tr2), each one with a weight of 25 %.<br /> <br /> The course approval requires a minimum mark of 50% in the following evaluation components: 1) Final exam and 2) average scoring of the written assignments.<br /> <br /> The scoring of the different evaluation components is defined in the 0-20 scale. </p>
+
+## Obtenção de frequência
+<p>Development of two assignments and delivery of the associated written reports, in a group work regime. Do not exceed the legally allowed number of absences.</p>
+<p> </p>
+
+## Melhoria de classificação
+<p>Only the evaluation component associated to the final exam can be subject to improvement. The component to the written assignments, having a distributed nature,<span style="display: inline !important; float: none; background-color: transparent; color: #000000; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 11px; font-style: normal; font-variant: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-decoration: none; text-indent: 0px; text-transform: none; -webkit-text-stroke-width: 0px; white-space: normal; word-spacing: 0px;"> </span>cannot be improved in the current academic year. </p>
+

@@ -1,0 +1,24 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Dano e Fractura Computacional
+
+## Curso responsável
+Mestrado em Mecânica Computacional
+
+## Créditos ECTS
+7,5
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computational Damage and Fracture
+
+## Curso responsável
+Master in Computational Mechanics
+
+## Créditos ECTS
+7,5
+

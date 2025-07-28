@@ -1,0 +1,140 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sinais e Eletrónica
+
+## Curso responsável
+Licenciatura em Bioengenharia
+
+## Créditos ECTS
+6
+
+## Objetivos
+<p>Fornecer os conhecimentos básicos de teoria e análise de sinais contínuos e discretos, de eletrónica e de aquisição de dados, com especial realce nas aplicações em Bioengenharia, que permitam o encadeamento dos estudos com as unidades curriculares antecedentes e subsequentes.</p>
+<p>São dados: o conceito de sinal em diversos domínios, as quantidades, as dependências temporais, a extração de características, a análise, síntese ou manipulação, as transformações matemáticas frequenciais e as operações entre sinais, como a correlação e a modulação.</p>
+<p>É proposto o conceito de sistema, são tratadas as suas características, os formalismos de descrição matemática, a resposta impulsional, a função de transferência e a convolução.</p>
+<p>São tratadas a plataforma tecnológica eletrónica, a utilização de transdutores e sensores e as operações lineares e não-lineares básicas sobre sinais.</p>
+<p>São estudadas no âmbito da computação digital a utilização da amostragem, da conversão A/D e D/A, dos sistemas de aquisição de dados e de geração de sinais e da filtragem digital. A electrónica digital básica é também introduzida.</p>
+Em paralelo, o estudante deve desenvolver o pensamento analítico e sintético para resolução de problemas, a capacidade de realização de trabalhos experimentais neste domínio científico, a capacidade de integração de conhecimentos, a dinâmica do trabalho em grupo e a criatividade para desenvolver pequenos projetos.
+
+## Resultados de aprendizagem e competências
+<p>As competências adquiridas devem estender-se às seguintes capacidades:</p>
+<p>Conhecer sinais elementares e suas formulações matemáticas, e saber calcular as principais características dos sinais.</p>
+<p>Manipular e transformar sinais. Analisar e decompor sinais. Comparar sinais. Medir sinais no laboratório.</p>
+<p>Sintetizar e gerar sinais artificialmente nos domínios analógico e digital e disponibilizá-los experimentalmente.</p>
+<p>Operar com vários sinais e realizar a correlação, a modulação ou a convolução entre eles.</p>
+<p>Conhecer e manipular a descrição dos sinais no domínio frequencial (das frequências) pela série e pela transformada de Fourier, nos domínios contínuo e discreto com generalização às transformadas de Laplace e Z.</p>
+<p>Conhecer a descrição de sistemas genéricos e suas propriedades e, em particular, de sistemas lineares e invariantes no tempo. Conhecer o significado e a forma de obter e de analisar a função característica de um sistema e a resposta em frequência.</p>
+<p>Conhecer e utilizar os diagramas de blocos.</p>
+<p>Saber calcular a resposta de um sistema a um sinal de entrada no tempo e na frequência.</p>
+<p>Saber analisar um circuito eléctrico em corrente alternada e realizar a análise complexa e fasorial.</p>
+<p>Conhecer, saber calcular e saber interpretar os circuitos com blocos electrónicos básicos lineares, nomeadamente filtros elementares e amplificador operacional e não-lineares, retificador com díodo, amplificador com transístor, e o comutador com transístor aplicados em, nomeadamente, circuitos lógicos elementares, comparadores sem e com histerese.</p>
+<p>Conhecer os fundamentos teóricos e os processos electrónicos da amostragem e dos conversores A/D e D/A e saber interpretar o funcionamento dos sistemas de aquisição de dados e de produção ou processamento computacional de sinais.</p>
+
+## Programa
+<p>1. Conceitos básicos de sinais e sistemas electrónicos. Exemplos de bio-sinais e de sistemas de processamento de bio-sinais. Sinais: características; transformações, combinações, decomposição e comparação. Correlação de sinais. Modulação.</p>
+<p>2. Análise de Fourier para sinais contínuos e discretos. A Série de Fourier e a Transformada de Fourier.</p>
+<p>3. Sistemas lineares e invariantes no tempo: resposta impulsional e convolução. Diagramas de blocos.</p>
+<p>4. Análise de sistemas lineares.<br /><br />5. Eletrónica analógica: dispositivos e funções básicas: díodo semicondutor, transístor, díodo zener, retificação, estabilização, amplificação, filtragem e modulação. Circuitos não lineares: limitadores, comparadores, circuitos lógicos elementares.</p>
+<p>6. Análise de circuitos em corrente alternada: cálculo fasorial. Análise de circuitos recorrendo à análise de Fourier. Simulação.</p>
+<p>7. Amplificação operacional. Complemento de análise de circuitos. Circuitos lineares e não lineares.</p>
+<p>8. Aquisição de dados: amostragem, quantificação, codificação e reconstrução de sinais. Exemplos de sistemas biomédicos.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><strong>-</strong>Aulas Teórico-Práticas: exposição com exemplos de cálculo, de sinais e de circuitos. Resolução de problemas em papel e em computador fora das aulas.</p>
+<p>-Aulas laboratoriais: trabalhos de sinais e de eletrónica com guião incidindo sobre actividades de montagem electrónica experimental, medição e análise. Elaboração de relatórios fora das aulas.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Avaliação
+- Exame: 25.0 %
+- Trabalho laboratorial: 50.0 %
+- Teste: 25.0 %
+
+## Componentes de Ocupação
+- Elaboração de relatório/dissertação/tese: 28.0 horas
+- Estudo autónomo: 42.0 horas
+- Frequência das aulas: 68.0 horas
+- Trabalho laboratorial: 24.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>- Classificação final na escala: 0-20 valores.</p>
+<p>- Compponentes e elementos de avaliação e respetivos pesos:<br /><br />a) Componente de prática laboratorial Plab (peso total 50%, classificação mínima 10/20):</p>
+<p>Relatórios dos trabalhos práticos =&gt; discussão escrita e classificações -&gt; média pesada -&gt; classificação CTr (peso 30%)</p>
+<p>Relatório Mini-projecto -&gt; CPr (peso 20%)<br /><br />b) Componente teórico-prática TP (peso total 50%, classificação mínima 8,5/20):</p>
+<p> Teste e Exame -&gt; Cte (peso 25%) e CEx (Normal e Recurso) (peso 25%)<br /><br /></p>
+<p>- Classificação mínima de qualquer elemento de avaliação: nota mínima 8,5/20.<br /><br /></p>
+<p>- Fórmula da classificação final (CF):</p>
+<p>CF = 0,3 x CTr + 0,2 x CPr + 0,25 x CTe + 0,25 x CEx</p>
+<p><br />- Classificações acima de 18 (CF&gt;18) valores, poderão ser confirmadas por meio de discussão ou prova oral.</p>
+
+## Obtenção de frequência
+<p>Será obtida frequência à disciplina pelos alunos que tiverem assiduidade suficiente, de acordo com os regulamentos em vigor e que tiverem classificação positiva na avaliação da actividade laboratorial.</p>
+<p>A classificação da actividade laboratorial será válida nos 2 anos subsequentes, caso não haja mudanças de assinalar no respectivo programa.</p>
+<p>Aos estudantes que já possuam frequência válida recomenda-se assiduidade na presença nas aulas teórico-práticas, todavia não será exigida.</p>
+
+## Melhoria de classificação
+<p>Melhoria da classificação final: apenas se aplica aos resultados das provas escritas e pode ser realizada, com provas específicas para o efeito, no exame ou teste de 2ª época ou em épocas subsequentes segundo os regulamentos.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Signals and Electronics
+
+## Curso responsável
+Bachelor in Bioengineering
+
+## Créditos ECTS
+6
+
+## Objetivos
+<p>To endow students with basic knowledge in continuous and discrete signals theory and analysis, basic electronic circuits, data acquisition electronics focusing on bio-engineering applications and linking this study with prior and future subjects.</p>
+<p>The concept of signal in diverse domains is addressed, along with quantities, time dependency, feature extraction, analysis, synthesis or manipulation, the mathematical transforms, operations between signals such as  correlation and modulation.</p>
+<p>The system concept is proposed and its properties discussed. The mathematical formalism of representation, the impulse response and the frequency response are treated.</p>
+<p>The technologic platform of electronics, the use of sensors/transducers and signal operations, linear and non-linear, are addressed. <br /><br />In the context of digital computation the use of sampling, A-D conversion, signal generation and filtering are studied. Basic digital electronics is also addressed.</p>
+<p>In parallel, the student should develop problem solving critical thinking and the ability to conduct experimental work in the area, to develop group work dynamics and to integrate knowledge in the scope of a design case.</p>
+
+## Resultados de aprendizagem e competências
+<p>To be familiar with elementary signals, their mathematical formulations; to be capable of calculating their main characteristics;<br /><br /> To manipulate and transform signals; to analyse and decompose signals; to compare signals; to measure signals in the laboratory; <br /><br />To artificially synthesise and generate signals in the analogue and digital domains and to deploy signals in a practical way;<br /><br /> To operate with various signals and carry out their correlation, modulation or convolution; <br /><br />To be familiar and to manipulate signal description in the frequency domain by means of the Fourier series and transform in the continuous and discrete domains, with generalization to the Laplace and Z transforms;<br /><br />To be familiar with the description of general systems and their properties, particularly linear and time invariant systems; to be familiar with the meaning, way of obtaining and analysing the characteristic function of a system and its frequency response;<br /><br /> To be familiar with and use block diagrams; <br /><br />To learn how to calculate a system's response to an arbitrary signal; <br /><br />To know how to analyse an electronic circuit in alternating current and how to perform a phasorial analysis; <br /><br />To know how to calculate and interpret circuits with basic electronic linear blocks, namely the operational amplifier and the elementary filters, and the nonlinear blocks, such as the diode rectifier, the transistor amplifier and switch, the elementary logic gates, the comparators, simple and with hysteresis;<br /><br /> To be familiar with the theoretical notions and electronic processes of sampling, A/D and D/A converters and to know how to interpret the operation of data acquisition systems, signal generation and basic signal processing.</p>
+
+## Programa
+<p>1. Basic concepts of Signals and Systems. Examples of bio-signals and their processing systems. Signals: characteristics, transformations, combinations, decomposition and comparison; Signal correlation. Modulation.</p>
+<p>2. Fourier analysis for continuous and discrete signals. The Fourier series and the Fourier Transform.</p>
+<p>3. Linear and time invariant systems: impulse response and convolution. Block diagrams.</p>
+<p>4. Linear Systems Analysis.<br /><br />5. Analogue electronics: basic devices and functions: diode rectification, transistor, zener diode, regulation, amplification, elementary filtering and modulation. Non-linear circuits: limiters, comparators, elementary logic circuits.</p>
+<p>6. AC circuit analysis and phasor analysis. Circuit analysis with the Fourier transform. Simulation of circuits.</p>
+<p>7. Operational amplification. Complement of circuit analysis. Linear and non-linear circuits.</p>
+<p>8. Data acquisition: sampling, quantisation, coding and signal reconstruction. Biomedical systems examples.</p>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>-Theoretical-practical classes: presentation with calculus, signal and circuit analysis examples. Problem solving outside classes.</p>
+<p>-Laboratory classes: assignments on signals and electronics with construction, measurement and analysis. Reports done outside classes.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Avaliação
+- Exame: 25.0 %
+- Trabalho laboratorial: 50.0 %
+- Teste: 25.0 %
+
+## Componentes de Ocupação
+- Elaboração de relatório/dissertação/tese: 28.0 hours
+- Estudo autónomo: 42.0 hours
+- Frequência das aulas: 68.0 hours
+- Trabalho laboratorial: 24.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>-Grades: 0-20 mark</p>
+<p>- Evaluation components and elements and their weights:</p>
+<p>a) PLab component (50% - minimum grade 10/20):<br /><br />Lab Reports =&gt; discussion and grades -&gt; weighted average -&gt; CTr (30%)<br /><br />Mini-project report -&gt; CPr (20%)<br /><br />b) TP component (50% - minimum grade 8.5/20):<br /><br />Test and Exam -&gt; CTe (25%) and CEx (normal and second) (25%)<br /><br /><br />- Minimum grade of any evaluation element: 8.5/20.<br /><br /><br />- Calculation formula for final classification (CF):<br /><br />CF = 0,3 x CTr + 0,2 x CPr + 0,25 x CTe + 0,25 x CEx<br /> <br /><br />- If CF&gt;18, students may be requested to attend an oral exam.</p>
+
+## Obtenção de frequência
+<p>According to General Evaluation Rules of FEUP, students have to attend classes regularly. <br /><br />The grade of the laboratory activity is kept for the 2 following years unless the syllabus changes. <br /><br />Students with frequency are recommended to attend the theoretical classes, although this is not enforced.</p>
+
+## Melhoria de classificação
+<p>Recurso (resit) exam only applicable to the results of written tests and done by specific tests.</p>
+
