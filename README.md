@@ -1,6 +1,6 @@
 # Auditoria de Fichas de Unidades Curriculares
 
-A página seguinte tem os resultados da auditoria automática (com Claude Sonnet 4) efetuada às fichas de UCs da edição de 2024/2025 dos cursos de licenciatura e mestrado da FEUP em 2024/25 em 28/7/2025.
+A página seguinte tem os resultados da auditoria automática (com Claude Sonnet 4) efetuada às fichas de UCs da edição de 2024/2025 dos cursos de licenciatura e mestrado da FEUP em 28/7/2025.
 São excluídas UCs inativas e UCs de 1.5 ECTS (tipicamente de Competências Transversais).
 
 [Avaliação de Fichas de UCs de Cursos da FEUP](https://joaopascoalfariafeup.github.io/AuditoriaFichasUCs/Auditoria_UCs_Cursos_FEUP/sumario_global.html)
