@@ -1,0 +1,36 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Seminários em Inteligência Artificial
+
+## Curso responsável
+Mestrado em Inteligência Artificial
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Seminars in Artificial Intelligence
+
+## Curso responsável
+Master in Artificial Intelligence
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+

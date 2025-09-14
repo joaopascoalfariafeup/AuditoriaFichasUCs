@@ -1,0 +1,118 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Investigação Operacional
+
+## Curso responsável
+Licenciatura em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<h2>Objetivos</h2><br />
+
+## Resultados de aprendizagem e competências
+<h2>Resultados de aprendizagem e competências</h2><br /><p>Esta unidade curricular contribuirá para a aquisição, por parte dos estudantes, das seguintes competências, de acordo com a nomenclatura CDIO:</p><br />
+
+## Pré-requisitos e co-requisitos
+<h2>Pré-requisitos e co-requisitos</h2><br /><p>Cursos básicos de Álgebra, Estatística e Teoria das Probabilidades.</p>
+
+## Programa
+<h2>Programa</h2><br />
+
+## Bibliografia obrigatória
+Docentes de IO | DEGI | FEUP; Documentação de apoio a Investigação Operacional (Disponível a partir da página web da unidade curricular)<br>
+
+## Bibliografia complementar
+Hillier, Frederick S.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004563340108801" title="Introduction to operations research (Abre numa nova janela)" target="_blank" >Introduction to operations research</a>. ISBN: 0-07-118163-6 <br>
+Hamdy A. Taha; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004545930108801" title="Operations research (Abre numa nova janela)" target="_blank" >Operations research</a>. ISBN: 0-13-281172-3 (brochada)<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<h2>Métodos de ensino e atividades de aprendizagem</h2><br /><p>A unidade curricular combina exposição teórica com atividades práticas. Os temas programáticos são apresentados de forma estruturada, recorrendo sempre que possível a métodos de aprendizagem ativa que envolvem os estudantes na construção do conhecimento. A exposição é acompanhada por exemplos práticos, estudos de caso e problemas de decisão próximos da realidade dos estudantes.</p><br /><p>As aulas incluem momentos de resolução orientada de problemas, exercícios individuais e em grupo, e discussão de resultados. É dada especial atenção ao esclarecimento de dúvidas sobre os problemas propostos e à análise crítica das soluções obtidas. Sempre que adequado, são exploradas ferramentas computacionais de apoio à modelação e à resolução de problemas.</p><br /><p>Este conjunto de atividades visa não só consolidar os conteúdos técnicos, mas também estimular competências transversais, como o raciocínio crítico, a capacidade de comunicação e a integração de considerações de sustentabilidade nas soluções propostas.</p>
+
+## Software
+Excel Solver<br>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 horas
+- Frequência das aulas: 52.0 horas
+
+## Fórmula de cálculo da classificação final
+<h2>Fórmula de cálculo da classificação final</h2><br />
+
+## Obtenção de frequência
+<h2>Obtenção de frequência</h2><br /><p>Para obter frequência à unidade curricular, os estudantes devem alcançar uma classificação mínima de <strong>4 valores em 10</strong> na componente de <strong>avaliação distribuída (micro-exercícios)</strong>.</p><br /><p>Adicionalmente, é obrigatório o cumprimento do disposto nas <strong>Normas gerais de avaliação da FEUP</strong>, disponíveis em:<br /> <a href=&quot;web_base.gera_pagina?p_pagina=legisla%C3%A7%C3%A3o_exames&quot; target=&quot;_blank&quot;>https://sigarra.up.pt/feup/pt/web_base.gera_pagina?p_pagina=legislação_exames</a></p>
+
+## Melhoria de classificação
+<h2>Melhoria de classificação</h2><br /><p>Os estudantes podem inscrever-se para realizar novamente <strong>cada uma das componentes de avaliação</strong> (micro&#8209;exercícios e exame) em época de melhoria.</p><br /><ul><br /><li><strong>Micro&#8209;exercícios</strong>: avaliados através de uma prova escrita sem consulta (0 a 10 valores).</li><br /><li><strong>Exame</strong>: avaliado através de uma prova escrita sem consulta (0 a 10 valores).</li><br /></ul><br /><p>A classificação final será recalculada segundo a fórmula definida em <em>Fórmula de cálculo da classificação final</em>. Para cada componente (micro&#8209;exercícios e exame), considera&#8209;se a <strong>melhor classificação obtida</strong> pelo estudante, seja na <strong>época normal</strong> ou na <strong>época de melhoria</strong>.</p><br /><p class=&quot;muted&quot;>Exemplo: se um estudante obteve 7 valores nos micro&#8209;exercícios na época normal e 9 valores na prova de melhoria, será considerada a nota 9 para essa componente. O mesmo princípio aplica&#8209;se ao exame.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Operations Research
+
+## Curso responsável
+Bachelor in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<h2>Objectives</h2><br />
+
+## Resultados de aprendizagem e competências
+<h2>Learning outcomes and competences</h2><br /><p>This course will contribute to the acquisition of the following competences, according to the CDIO framework:</p><br />
+
+## Pré-requisitos e co-requisitos
+<h2>Prerequisites and co-requisites</h2><br /><p>Basic courses in Algebra, Statistics, and Probability Theory.</p>
+
+## Programa
+<h2>Syllabus</h2><br />
+
+## Bibliografia obrigatória
+Docentes de IO | DEGI | FEUP; Documentação de apoio a Investigação Operacional (Available at the course site)<br>
+
+## Bibliografia complementar
+Hillier, Frederick S.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004563340108801" title="Introduction to operations research (Opens in a new window)" target="_blank" >Introduction to operations research</a>. ISBN: 0-07-118163-6 <br>
+Hamdy A. Taha; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004545930108801" title="Operations research (Opens in a new window)" target="_blank" >Operations research</a>. ISBN: 0-13-281172-3 (brochada)<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<h2>Teaching methods and learning activities</h2><br /><p>The course combines theoretical exposition with practical activities. Programme topics are presented in a structured way, making use of active learning methods whenever possible to engage students in the construction of knowledge. Exposition is always supported by practical examples, case studies, and decision problems relevant to the students&#8217; context.</p><br /><p>Classes include guided problem solving, individual and group exercises, and discussion of results. Special attention is given to clarifying doubts regarding the proposed problems and to critically analysing the solutions obtained. Whenever appropriate, computational tools are used to support modelling and problem solving.</p><br /><p>These activities aim not only to consolidate technical knowledge but also to foster transversal skills such as critical thinking, communication, and the integration of sustainability considerations into the proposed solutions.</p>
+
+## Software
+Excel Solver<br>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 hours
+- Frequência das aulas: 52.0 hours
+
+## Fórmula de cálculo da classificação final
+<h2>Final grade calculation</h2><br />
+
+## Obtenção de frequência
+<h2>Attendance / eligibility (frequência)</h2><br /><p>To be granted <em>frequência</em> (course attendance / eligibility), students must obtain at least <strong>4 out of 10</strong> in the <strong>continuous assessment component (micro-exercises)</strong>.</p><br /><p>In addition, students must comply with FEUP&#8217;s <strong>General Assessment Regulations</strong>, available at:<br /> <a href=&quot;web_base.gera_pagina?p_pagina=legisla%C3%A7%C3%A3o_exames&quot; target=&quot;_blank&quot;>https://sigarra.up.pt/feup/pt/web_base.gera_pagina?p_pagina=legislação_exames</a></p>
+
+## Melhoria de classificação
+<h2>Grade improvement</h2><br /><p>Students may register to retake <strong>each assessment component</strong> (micro&#8209;exercises and exam) in the improvement period.</p><br /><ul><br /><li><strong>Micro&#8209;exercises</strong>: assessed through a written, closed&#8209;book test (0 to 10 marks).</li><br /><li><strong>Exam</strong>: assessed through a written, closed&#8209;book test (0 to 10 marks).</li><br /></ul><br /><p>The final grade is recalculated using the formula defined in <em>Final grade calculation</em>. For each component (micro&#8209;exercises and exam), the <strong>best grade obtained</strong> by the student is considered, whether from the <strong>regular period</strong> or from the <strong>improvement period</strong>.</p><br /><p class=&quot;muted&quot;>Example: if a student obtained 7 in the micro&#8209;exercises in the regular period and 9 in the improvement test, the grade 9 will be used for that component. The same rule applies to the exam.</p>
+

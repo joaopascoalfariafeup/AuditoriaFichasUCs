@@ -1,0 +1,36 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sinais e Sistemas
+
+## Curso responsável
+Licenciatura em Engenharia Aeroespacial
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Signals and Systems
+
+## Curso responsável
+Bachelor in Aerospace Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
