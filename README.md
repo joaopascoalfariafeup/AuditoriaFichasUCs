@@ -6,7 +6,7 @@ A página seguinte tem os resultados da revisão automática efetuada em 14/9/20
 
 É efetuada uma revisão individual de cada ficha, incluindo possíveis sugestões de melhoria, bem como uma análise da coerência do elenco de UCs de cada curso, sendo os resultados agregados para o nível do curso e da faculdade. 
 
-A revisão foi efetuada com a ajuda de Claude Sonnet 4 da Antrophic.
+A revisão foi efetuada com a ajuda de Claude Sonnet 4 da Anthropic.
 
 A análise é baseada nas recomendações (secção 2.1) e exemplo (Anexo A) de ficha de UC indicados no documento seguinte, com pequenas adaptações: 
 
