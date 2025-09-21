@@ -1,0 +1,112 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Gestão de Projetos de Construção
+
+## Curso responsável
+Mestrado em Projeto Integrado na Construção de Edifícios
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<div style=&quot;text-align: justify;&quot;>Compreender a complexidade na concretização de um empreendimento da IC e contextos de desenvolvimento.</div><br /><div style=&quot;text-align: justify;&quot;>Conhecer e aplicar estratégias de produção integrada das suas partes.</div><br /><div style=&quot;text-align: justify;&quot;>Conhecer e aplicar processos de avaliação do desempenho, redução de desperdício e incremento da eficiência.</div><br /><div style=&quot;text-align: justify;&quot;>Reflexos na atividade empresarial.</div><br /><div style=&quot;text-align: justify;&quot;>Entender as condições endógenas e exógenas que afetam um estaleiro de obra, condições de segurança e fatores de risco de acidente, estratégias para eficiência do espaço de trabalho e prevenção de sinistros.</div><br /><div style=&quot;text-align: justify;&quot;>Entender as vantagens do BIM na coordenação de projetos.</div><br /><div style=&quot;text-align: justify;&quot;>Conhecer os enquadramentos legais dos atos profissionais na IC, empresariais e singulares. Modelos de contratação e avaliação de propostas. Internacionalização da GPC e suas implicações&#894; contratos FIDIC, legislações e aculturação.</div><br /><div style=&quot;text-align: justify;&quot;>Como aproveitar a qualificação dos RH na melhoria da GPC&#894; utilização eficaz de subcontratos e trabalhadores independentes.</div><br /><div style=&quot;text-align: justify;&quot;>Discussão de aspetos éticos, deontológicos e de gestão de RH na IC</div>
+
+## Resultados de aprendizagem e competências
+-
+
+## Programa
+<div>1. Introdução. Processos e subprocessos de desenvolvimento do Projeto e da Construção: da ideia à utilização.</div><br /><div>2. Gestão e coordenação de equipas. O RIBA Plan of Work. Integrated Project Delivery. Cadeia de Produção em Parceria.</div><br /><div>3. Produção e organização de informação. Gestão da Informação na Construção.</div><br /><div>4. Avaliação e monitorização do desempenho. Análise do Valor Agregado, KPI&#8217;s na construção.</div><br /><div>5. Preparação de estaleiro e de obra. Segurança e Prevenção de Acidentes. Projetos e Obras Internacionais.</div><br /><div>6. Conceitos e ferramentas da construção &#8220;Lean&#8221;. Desperdícios, Produção Pull, 5S, PDCA, Last Planner, Kanban. Gestão de recursos e balanceamento.</div><br /><div>7. Organização, legislação, competências e atos profissionais.</div><br /><div>8. Processos de procura e contratação. Contratação de serviços e de empreitadas. CCP e Contratos FIDIC.</div><br /><div>9. Análise de Risco na Construção.</div><br /><div>10. Ética e Deontologia profissionais. Gestão de pessoas e de carreiras. Liderança.</div>
+
+## Bibliografia obrigatória
+Dupin, P.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005697390108801" title="Le Lean appliqué à la construction (Abre numa nova janela)" target="_blank" >Le Lean appliqué à la construction</a>, Paris, France : Eyrolles, 2014. ISBN: 978-2212138320<br>
+Rego, A., Braga, J.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005492740108801" title="Ética para Engenheiros (Abre numa nova janela)" target="_blank" >Ética para Engenheiros</a>, Lisboa, Portugal: LIDEL, 2014. ISBN: 978-989-752-065-5<br>
+Roldão, V. S.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004766090108801" title="Gestão de Projectos (Abre numa nova janela)" target="_blank" >Gestão de Projectos</a>, Lisboa, Portugal: Monitor, 2005. ISBN: 972-9413-62-2<br>
+Ostime, N. ; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005660120108801" title="RIBA Job Book (Ninth Edition) (Abre numa nova janela)" target="_blank" >RIBA Job Book (Ninth Edition)</a>, London, UK: RIBA Publishing, 2013. ISBN: 978-1859464960<br>
+Sinclair, D.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005665020108801" title="Guide to Using the RIBA Plan of Work 2013 (Abre numa nova janela)" target="_blank" >Guide to Using the RIBA Plan of Work 2013</a>, London, UK: RIBA Publishing, 2013. ISBN: 978-1859465042<br>
+Soeiro, A.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004833900108801" title="Segurança na Construção (Abre numa nova janela)" target="_blank" >Segurança na Construção</a>, Porto, Portugal : FEUP Edições, 2005. ISBN: 978-9727520725<br>
+The American Institute of Architects; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008986980108801" title="Integrated Project Delivery: A Guide (Version 1) (Abre numa nova janela)" target="_blank" >Integrated Project Delivery: A Guide (Version 1)</a>, Washington DC, USA: AIA, AIA CC, 2007<br>
+Williams, D.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004692000108801" title="Preparing for Project Management (Abre numa nova janela)" target="_blank" >Preparing for Project Management</a>, Reston VA, USA: ASCE Press, 1996. ISBN: 978-0784470183<br>
+Winch, G. M.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005801730108801" title="Managing Construction Projects (Abre numa nova janela)" target="_blank" >Managing Construction Projects</a>, Hoboken NJ, USA: WileyBlackwell, 2010. ISBN: 978-1-4051-8457-1<br>
+CE Database (ASCE) http://ascelibrary.org/; .<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<div style=&quot;text-align: justify;&quot;>Aulas com a duração de 3 horas, associando partes expositivas suportadas por apresentações áudiovisuais (slides, vídeos) a períodos de discussão e aplicação a pequenos trabalhos, a realizar na aula, de modo a concretizar os conceitos abordados. Nestes serão utilizados casos práticos reais ou especificamente desenvolvidos para a UC.</div><br /><div style=&quot;text-align: justify;&quot;>Avaliação semidistribuída, contemplando trabalhos de grupo a realizar numa perspetiva de TeamBased Learning, trabalhos individuais de pequena dimensão a realizar entre aulas e concentrados nas várias temáticas, complementado por um exame final (pesos relativos 60%+40%).</div>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Frequência das aulas: 60.0 horas
+- Trabalho escrito: 40.0 horas
+- Total:: 100.0 horas
+
+## Fórmula de cálculo da classificação final
+-
+
+## Obtenção de frequência
+-
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Management of Construction Projects
+
+## Curso responsável
+Master in Integrated Building Design and Construction
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<div style=&quot;text-align: justify;&quot;>Understand the complexity in implementing a CI project and its development contexts. Be acquainted with, and apply integrated production strategies for its parts.</div><br /><div style=&quot;text-align: justify;&quot;>Be acquainted with, and apply procedures for performance assessment, waste reduction and increasing efficiency.</div><br /><div style=&quot;text-align: justify;&quot;>Impact on business activity.</div><br /><div style=&quot;text-align: justify;&quot;>Understand the endogenous and exogenous conditions that affect a construction site, its security conditions and risk of accident factors, strategies for workspace efficiency and prevention of accidents.</div><br /><div style=&quot;text-align: justify;&quot;>Understand the advantages of BIM in the coordination of projects.</div><br /><div style=&quot;text-align: justify;&quot;>Be acquainted with the legal frameworks for professional acts on the CI, company and individualwise.</div><br /><div style=&quot;text-align: justify;&quot;>Procurement models and evaluation of bids. Internationalisation of PMC and its effects&#894; FIDIC contracts, laws and acculturation.</div><br /><div style=&quot;text-align: justify;&quot;>How to make use of HR competencies in improving PMC&#894; efficient use of subcontractors and selfemployed persons.</div><br /><div style=&quot;text-align: justify;&quot;>Discussion of ethical and professional conduct aspects of HR management in CI.</div>
+
+## Resultados de aprendizagem e competências
+-
+
+## Programa
+<div style=&quot;text-align: justify;&quot;>1. Introduction. Design and Construction development processes and subprocesses: from inception to use.</div><br /><div style=&quot;text-align: justify;&quot;>2. Management and team coordination. The RIBA Plan of Work. Integrated Project Delivery. Partnering the supply chain.</div><br /><div style=&quot;text-align: justify;&quot;>3. Production and organisation of information. Information management in construction.</div><br /><div style=&quot;text-align: justify;&quot;>4. Assessment and monitoring of performance. Valueadded analysis, KPIs in construction.</div><br /><div style=&quot;text-align: justify;&quot;>5. Preparation of a construction site and building work. Safety and accident prevention. International Design Construction works.</div><br /><div style=&quot;text-align: justify;&quot;>6. Lean Construction concepts and tools. Waste, Pull Production, 5S, PDCA, Last Planner, Kanban. Resource management and balancing.</div><br /><div style=&quot;text-align: justify;&quot;>7. Organisation, legislation, competences and professional acts.</div><br /><div style=&quot;text-align: justify;&quot;>8. Procurement and hiring processes. Tendering for services and construction works. Portuguese Contract law and FIDIC Contracts.</div><br /><div style=&quot;text-align: justify;&quot;>9. Risk Analysis in construction.</div><br /><div style=&quot;text-align: justify;&quot;>10. Ethics and Professional Conduct. People and career management. Leadership.</div>
+
+## Bibliografia obrigatória
+Dupin, P.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005697390108801" title="Le Lean appliqué à la construction (Opens in a new window)" target="_blank" >Le Lean appliqué à la construction</a>, Paris, France : Eyrolles, 2014. ISBN: 978-2212138320<br>
+Rego, A., Braga, J.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005492740108801" title="Ética para Engenheiros (Opens in a new window)" target="_blank" >Ética para Engenheiros</a>, Lisboa, Portugal: LIDEL, 2014. ISBN: 978-989-752-065-5<br>
+Roldão, V. S.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004766090108801" title="Gestão de Projectos (Opens in a new window)" target="_blank" >Gestão de Projectos</a>, Lisboa, Portugal: Monitor, 2005. ISBN: 972-9413-62-2<br>
+Ostime, N. ; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005660120108801" title="RIBA Job Book (Ninth Edition) (Opens in a new window)" target="_blank" >RIBA Job Book (Ninth Edition)</a>, London, UK: RIBA Publishing, 2013. ISBN: 978-1859464960<br>
+Sinclair, D.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005665020108801" title="Guide to Using the RIBA Plan of Work 2013 (Opens in a new window)" target="_blank" >Guide to Using the RIBA Plan of Work 2013</a>, London, UK: RIBA Publishing, 2013. ISBN: 978-1859465042<br>
+Soeiro, A.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004833900108801" title="Segurança na Construção (Opens in a new window)" target="_blank" >Segurança na Construção</a>, Porto, Portugal : FEUP Edições, 2005. ISBN: 978-9727520725<br>
+The American Institute of Architects; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008986980108801" title="Integrated Project Delivery: A Guide (Version 1) (Opens in a new window)" target="_blank" >Integrated Project Delivery: A Guide (Version 1)</a>, Washington DC, USA: AIA, AIA CC, 2007<br>
+Williams, D.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004692000108801" title="Preparing for Project Management (Opens in a new window)" target="_blank" >Preparing for Project Management</a>, Reston VA, USA: ASCE Press, 1996. ISBN: 978-0784470183<br>
+Winch, G. M.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005801730108801" title="Managing Construction Projects (Opens in a new window)" target="_blank" >Managing Construction Projects</a>, Hoboken NJ, USA: WileyBlackwell, 2010. ISBN: 978-1-4051-8457-1<br>
+CE Database (ASCE) http://ascelibrary.org/; .<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<div style=&quot;text-align: justify;&quot;>Classes of 3 hours, combining lectures supported by audiovisual presentations (slides, videos) with periods of discussion and application to small works, to be accomplished in class in order to materialise the ideas covered. Case studies specifically developed for the module will be used.</div><br /><div style=&quot;text-align: justify;&quot;>Semicontinuous assessment, including group assignments to be carried out in a perspective of TeamBased Learning, smallscale individual assignments to be carried out between classes and focused on several themes, complemented by a final exam (60% +40% relative weights).</div>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Frequência das aulas: 60.0 hours
+- Trabalho escrito: 40.0 hours
+- Total:: 100.0 hours
+
+## Fórmula de cálculo da classificação final
+-
+
+## Obtenção de frequência
+-
+

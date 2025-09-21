@@ -1,0 +1,102 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Modelação da Agitação Marítima
+
+## Curso responsável
+Mestrado em Mecânica Computacional
+
+## Créditos ECTS
+7,5
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+Understanding of the physical concepts of generation, propagation, deformation and dissipation of ocean waves sea. Understanding of the mathematical models for these concepts.
+
+## Resultados de aprendizagem e competências
+Competence for the use of computational tools to model the generation and propagation of waves and wave-structure interaction problems in the context of oceanography (sea wave prediction) and coastal engineering (simulating design scenarios).
+
+## Pré-requisitos e co-requisitos
+Calculus; mechanics of vibrations; fluid mechnics; computer programming.
+
+## Programa
+Fundamental concepts of wave propagation. Description of wave models in deep water (ocean) and in shallow waters (coastal). Distinction between phase averaging models and phase resolving models. Numerical schemes methods applied in each case and definition of boundary conditions. Case studies.<br />&#8226;Fundamental Concepts of Wave Propagation: Processes of wave generation, transformation and dissipation.<br />&#8226;Linear Models for waves of Infinitesimal Amplitude: Monochromatic waves. Elliptic Helmholtz and Berkhoffequations. Discretization of the equation of Berkhoffby the finite element method (FEM).<br />&#8226;Phase Resolving Models: Nonlinear models for long waves of finite amplitude. Non dispersive models (Saint-Venant) and dispersive models (Boussinesq). Problems of stability and accuracy in the discretization of long waves models by the FEM.<br />&#8226;Phase Averaging Models: Statistical description of the waves. Concept of energy spectrum. Description of the SWAN model.
+
+## Bibliografia obrigatória
+Robert G. Dean and Robert A. Dalrymple; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004202150108801" title="Water wave mechanics for engineers and scientists (Abre numa nova janela)" target="_blank" >Water wave mechanics for engineers and scientists</a>. ISBN: 981-02-0421-3<br>
+Maarten W. Dingemans; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004509170108801" title="Water wave propagation over uneven bottoms (Abre numa nova janela)" target="_blank" >Water wave propagation over uneven bottoms</a>. ISBN: 981-02-0427-2 s<br>
+Leo H. Holthuijsen; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005392590108801" title="Waves in oceanic and coastal waters (Abre numa nova janela)" target="_blank" >Waves in oceanic and coastal waters</a>. ISBN: 978-0-521-860-28-4 <br>
+
+## Bibliografia complementar
+Zienkiewicz O.C., Taylor R.L., Nithiarasu P.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005452670108801" title="The Finite Element Method for Fluid Dynamics (Abre numa nova janela)" target="_blank" >The Finite Element Method for Fluid Dynamics</a>, Elsevier, 2005. ISBN: 0-7506-6322-7<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Lectures where theoretical concepts will be exposed and practical classes, where students will be introduced to several software packages, and discussion and analysis of case studies will take place.</p>
+
+## Software
+SWAN: Simulating WAves Nearshore<br>
+Matlab<br>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Fórmula de cálculo da classificação final
+Final mark: CF= (CF_1 + CF_2 + CF_N)/N<br /><br />N = Total number of written projects<br /><br />CF_i = mark obtained in the ith project
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Ocean Waves Modelling
+
+## Curso responsável
+Master in Computational Mechanics
+
+## Créditos ECTS
+7,5
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+Understanding of the physical concepts of generation, propagation, deformation and dissipation of ocean waves sea. Understanding of the mathematical models for these concepts.
+
+## Resultados de aprendizagem e competências
+Competence for the use of computational tools to model the generation and propagation of waves and wave-structure interaction problems in the context of oceanography (sea wave prediction) and coastal engineering (simulating design scenarios).
+
+## Pré-requisitos e co-requisitos
+Calculus; mechanics of vibrations; fluid mechnics; computer programming.
+
+## Programa
+Fundamental concepts of wave propagation. Description of wave models in deep water (ocean) and in shallow waters (coastal). Distinction between phase averaging models and phase resolving models. Numerical schemes methods applied in each case and definition of boundary conditions. Case studies.<br />&#8226;Fundamental Concepts of Wave Propagation: Processes of wave generation, transformation and dissipation.<br />&#8226;Linear Models for waves of Infinitesimal Amplitude: Monochromatic waves. Elliptic Helmholtz and Berkhoffequations. Discretization of the equation of Berkhoffby the finite element method (FEM).<br />&#8226;Phase Resolving Models: Nonlinear models for long waves of finite amplitude. Non dispersive models (Saint-Venant) and dispersive models (Boussinesq). Problems of stability and accuracy in the discretization of long waves models by the FEM.<br />&#8226;Phase Averaging Models: Statistical description of the waves. Concept of energy spectrum. Description of the SWAN model.
+
+## Bibliografia obrigatória
+Robert G. Dean and Robert A. Dalrymple; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004202150108801" title="Water wave mechanics for engineers and scientists (Opens in a new window)" target="_blank" >Water wave mechanics for engineers and scientists</a>. ISBN: 981-02-0421-3<br>
+Maarten W. Dingemans; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004509170108801" title="Water wave propagation over uneven bottoms (Opens in a new window)" target="_blank" >Water wave propagation over uneven bottoms</a>. ISBN: 981-02-0427-2 s<br>
+Leo H. Holthuijsen; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005392590108801" title="Waves in oceanic and coastal waters (Opens in a new window)" target="_blank" >Waves in oceanic and coastal waters</a>. ISBN: 978-0-521-860-28-4 <br>
+
+## Bibliografia complementar
+Zienkiewicz O.C., Taylor R.L., Nithiarasu P.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005452670108801" title="The Finite Element Method for Fluid Dynamics (Opens in a new window)" target="_blank" >The Finite Element Method for Fluid Dynamics</a>, Elsevier, 2005. ISBN: 0-7506-6322-7 (This book exists in the library's  catalogue)<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Lectures where theoretical concepts will be exposed and practical classes, where students will be introduced to several software packages, and discussion and analysis of case studies will take place.
+
+## Software
+SWAN: Simulating WAves Nearshore<br>
+Matlab<br>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Fórmula de cálculo da classificação final
+Final mark: CF= (CF_1 + CF_2 + CF_N)/N<br /><br />N = Total number of written projects<br /><br />CF_i = mark obtained in the ith project
+

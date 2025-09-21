@@ -1,0 +1,182 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Construções em Madeira
+
+## Curso responsável
+Mestrado em Engenharia Civil
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>O principal objetivo consiste em fornecer aos estudantes informação fundamental sobre o material madeira para aplicar em edifícios. Para tal, são objetivos complementares:</p>
+<p>- conhecer as propriedades da madeira e seus derivados</p>
+<p>- conhecer a tecnologia dos sistemas construtivos em madeira mais correntes</p>
+<p>- fornecer aos estudantes conhecimentos que lhes permitam conhecer as mais modernas tendências e inovações no domínio ao nível de materiais, componentes e de soluções arquitetónicas</p>
+<p>- obter noções sobre a verificação da estabilidade de elementos de construção de madeira, novos ou existentes</p>
+
+## Resultados de aprendizagem e competências
+<p data-start="210" data-end="276">No final da unidade curricular, o estudante deverá ser capaz de:</p>
+<ol data-start="278" data-end="902">
+<li data-start="278" data-end="442">
+<p data-start="281" data-end="442">Compreender as propriedades, os produtos derivados e os sistemas construtivos em madeira, bem como os princípios de dimensionamento segundo o Eurocódigo 5.</p>
+</li>
+<li data-start="443" data-end="547">
+<p data-start="446" data-end="547">Avaliar a durabilidade, patologias e soluções de proteção de elementos e estruturas em madeira.</p>
+</li>
+<li data-start="548" data-end="667">
+<p data-start="551" data-end="667">Aplicar critérios técnicos e ambientais na análise de sistemas construtivos e soluções estruturais em madeira.</p>
+</li>
+<li data-start="668" data-end="798">
+<p data-start="671" data-end="798">Integrar princípios de sustentabilidade e economia circular na conceção e avaliação de projetos de construção em madeira.</p>
+</li>
+<li data-start="799" data-end="902">
+<p data-start="802" data-end="902">Comunicar resultados de estudos e projetos de forma fundamentada, individualmente e em equipa.</p>
+</li>
+</ol>
+
+## Pré-requisitos e co-requisitos
+Conhecimentos adequados de: Teoria de Estruturas; Resistência de Materiais; Materiais de Construção
+
+## Programa
+<ol><br /><li>Introdução: Madeira e Construções em Madeira</li><br /></ol><br /><p>1.1. Contexto histórico</p><br /><p>1.2. Madeira como material de construção sustentável</p><br /><ol start=&quot;2&quot;><br /><li>Propriedades Físicas, Mecânicas, Térmicas, Acústicas e de Segurança ao Fogo</li><br /></ol><br /><p>2.1. Estrutura anatômica, comportamento higroscópico e anisotropia</p><br /><p>2.2. Resistência mecânica</p><br /><p>2.3 Isolamento térmico e propriedades acústicas</p><br /><p>2.4 Reação e resistência ao fogo</p><br /><ol start=&quot;3&quot;><br /><li>Tipos de Madeira e Produtos Derivados</li><br /></ol><br /><p>3.1 Madeiras nacionais e tropicais</p><br /><p>3.2. Madeira laminada colada</p><br /><p>3.3. OSB, MDF e outros painéis</p><br /><p>3.4. CLT, LVL (derivados estruturais)</p><br /><p>3.5. Plywood (derivados de última geração), compósitos e madeira modificada (térmica e/ou química)</p><br /><ol start=&quot;4&quot;><br /><li>Durabilidade, Patologias e Proteção da Madeira</li><br /></ol><br /><p>4.1. Diagnóstico e degradação biológica</p><br /><p>4.2. Métodos de preservação e tratamentos químicos</p><br /><p>4.3. Proteção contra umidade, fogo e radiação UV</p><br /><ol start=&quot;5&quot;><br /><li>Sistemas Construtivos em Madeira</li><br /></ol><br /><p>5.1. Paredes estruturais em CLT</p><br /><p>5.2. Sistemas de pisos, lajes e coberturas em madeira</p><br /><p>5.3. Construções modulares e pré-fabricadas</p><br /><ol start=&quot;6&quot;><br /><li>Estruturas em Madeira</li><br /></ol><br /><p>6.1. Noções de dimensionamento segundo Eurocódigo 5</p><br /><p>6.2. Ligações estruturais: metálicas, parafusadas, coladas e encaixes</p><br /><p>6.3. Técnicas de reforço e reabilitação de estruturas de madeira</p><br /><ol start=&quot;7&quot;><br /><li>Sustentabilidade e Economia Circular em Construções em Madeira</li><br /></ol><br /><p>7.1. Pegada de carbono</p><br /><p>7.2. Reutilização e reciclagem</p>
+
+## Bibliografia obrigatória
+Lino Maia, Duarte Lopes; Apontamentos dos docentes para a unidade curricular<br>
+
+## Bibliografia complementar
+Francisco Arriaga Martitegui; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004677610108801" title="Intervención en estructuras de madera (Abre numa nova janela)" target="_blank" >Intervención en estructuras de madera</a>. ISBN: 84-87381-24-3 <br>
+Albino de Carvalho; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004658400108801" title="Madeiras portuguesas (Abre numa nova janela)" target="_blank" >Madeiras portuguesas</a>. ISBN: 972-8097-23-9 (vol. 1)<br>
+Willis H. Wagner; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004568400108801" title="Modern carpentry (Abre numa nova janela)" target="_blank" >Modern carpentry</a>. ISBN: 1-56637-569-X <br>
+Karacabeyli, E., & Douglas, B. J. ; CLT Handbook &#8211; Cross-Laminated Timber. FPInnovations., 2013<br>
+Green, D. W., & Winandy, J. E. ;  Mechanical Properties of Wood. Wood Handbook, USDA Forest Service., 1999<br>
+
+## Métodos de ensino e atividades de aprendizagem
+O modelo de ensino da UC contemplará aulas teóricas e aulas teórico-práticas. Nas aulas teóricas serão abordados conhecimentos de base fundamentais e transmitidos conhecimentos teóricos relevantes. Nas aulas teórico-práticas procurar-se-á conciliar exposições teóricas dos conceitos e das metodologias correspondentes aos assuntos a estudar, apresentação e discussão de casos práticos que representem boas práticas ou situações a evitar no âmbito da Construção em Madeira e, ainda, promover o contacto com projetos relevantes através de palestrantes convidados e(ou) visitas a obras e empresas.
+
+## Software
+AutoCAD<br>
+Robot Structural Analysis Prof<br>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Elaboração de projeto: 36.0 horas
+- Estudo autónomo: 56.5 horas
+- Frequência das aulas: 45.5 horas
+- Trabalho escrito: 12.0 horas
+- Apresentação/discussão de um trabalho científico: 12.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>NF - nota final<br />EX - nota do exame<br />TA - nota do trabalho de apresentação<br />TE - nota do trabalho escrito<br />TP - nota do trabalho prático<br /><br />NF = 0,50*EX + 0,30*TP + 0,1*TA + 0,1*TE<br /><br />Para obter aprovação, é obrigatório obter mínimo de 8.0 na nota do exame (EX)</p>
+
+## Obtenção de frequência
+Máximo de 25% de faltas às aulas
+
+## Exames ou Trabalhos Especiais
+1 trabalho tipo projeto<br />1 trabalho tipo apresentação oral<br />1 trabalho tipo relatório escrito
+
+## Melhoria de classificação
+Exame final (segunda possibilidade). Nota trabalho TP, TE e TA contam
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Timber Constructions
+
+## Curso responsável
+Master in Civil Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>The main objective is to provide students with fundamental knowledge about timber as a construction material for use in buildings. To achieve this, the following complementary objectives are established:</p>
+<p>- to understand the properties of timber and its engineered products</p>
+<p>- to become familiar with the technology of the most common timber construction systems</p>
+<p>- to provide students with knowledge of the latest trends and innovations in the field, including materials, components, and architectural solutions</p>
+<p>- to gain basic understanding of the structural verification of timber construction elements, whether new or existing</p>
+
+## Resultados de aprendizagem e competências
+<p data-start="45" data-end="108">At the end of the course unit, the student should be able to:</p>
+<ul data-start="110" data-end="736">
+<li data-start="110" data-end="261">
+<p data-start="112" data-end="261">Understand the properties, engineered wood products, and timber construction systems, as well as the design principles according to Eurocode 5.</p>
+</li>
+<li data-start="262" data-end="368">
+<p data-start="264" data-end="368">Evaluate the durability, pathologies, and protection solutions for timber elements and structures.</p>
+</li>
+<li data-start="369" data-end="492">
+<p data-start="371" data-end="492">Apply technical and environmental criteria in the analysis of timber construction systems and structural solutions.</p>
+</li>
+<li data-start="493" data-end="622">
+<p data-start="495" data-end="622">Integrate principles of sustainability and circular economy in the design and assessment of timber construction projects.</p>
+</li>
+<li data-start="623" data-end="736">
+<p data-start="625" data-end="736">Communicate the results of studies and projects in a well-founded manner, both individually and in teams.</p>
+</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+Enough knowledge of: Structures Theory; Materials Resistance; Construction Materials
+
+## Programa
+<ol><br /><li><br /><p>Introduction: Wood and Timber Constructions</p><br /></li><br /></ol><br /><p>1.1. Historical context<br /><br />1.2. Wood as a sustainable construction material</p><br /><ol start=&quot;2&quot;><br /><li><br /><p>Physical, Mechanical, Thermal, Acoustic, and Fire Safety Properties</p><br /></li><br /></ol><br /><p>2.1. Anatomical structure, hygroscopic behavior, and anisotropy<br /><br />2.2. Mechanical strength<br /><br />2.3. Thermal insulation and acoustic properties<br /><br />2.4. Reaction and resistance to fire</p><br /><ol start=&quot;3&quot;><br /><li><br /><p>Types of Wood and Engineered Wood Products</p><br /></li><br /></ol><br /><p>3.1. Native and tropical woods<br /><br />3.2. Glued laminated timber (glulam)<br /><br />3.3. OSB, MDF, and other panels<br /><br />3.4. CLT, LVL (structural engineered wood products)<br /><br />3.5. Plywood (latest generation), composites, and modified wood (thermal and/or chemical)</p><br /><ol start=&quot;4&quot;><br /><li><br /><p>Durability, Pathologies, and Protection of Wood</p><br /></li><br /></ol><br /><p>4.1. Diagnosis and biological degradation<br /><br />4.2. Preservation methods and chemical treatments<br /><br />4.3. Protection against moisture, fire, and UV radiation</p><br /><ol start=&quot;5&quot;><br /><li><br /><p>Timber Construction Systems</p><br /></li><br /></ol><br /><p>5.1. CLT structural walls<br /><br />5.2. Timber floor, slab, and roof systems<br /><br />5.3. Modular and prefabricated constructions</p><br /><ol start=&quot;6&quot;><br /><li><br /><p>Timber Structures</p><br /></li><br /></ol><br /><p>6.1. Design principles according to Eurocode 5<br /><br />6.2. Structural connections: metallic, screwed, glued, and joinery<br /><br />6.3. Strengthening and rehabilitation techniques for timber structures</p><br /><ol start=&quot;7&quot;><br /><li><br /><p>Sustainability and Circular Economy in Timber Constructions</p><br /></li><br /></ol><br /><p>7.1. Carbon footprint<br /><br />7.2. Reuse and recycling</p>
+
+## Bibliografia obrigatória
+Lino Maia, Duarte Lopes; Apontamentos dos docentes para a unidade curricular<br>
+
+## Bibliografia complementar
+Francisco Arriaga Martitegui; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004677610108801" title="Intervención en estructuras de madera (Opens in a new window)" target="_blank" >Intervención en estructuras de madera</a>. ISBN: 84-87381-24-3 <br>
+Albino de Carvalho; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004658400108801" title="Madeiras portuguesas (Opens in a new window)" target="_blank" >Madeiras portuguesas</a>. ISBN: 972-8097-23-9 (vol. 1)<br>
+Willis H. Wagner; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004568400108801" title="Modern carpentry (Opens in a new window)" target="_blank" >Modern carpentry</a>. ISBN: 1-56637-569-X <br>
+Karacabeyli, E., & Douglas, B. J. ; CLT Handbook &#8211; Cross-Laminated Timber. FPInnovations., 2013<br>
+Green, D. W., & Winandy, J. E. ;  Mechanical Properties of Wood. Wood Handbook, USDA Forest Service., 1999<br>
+
+## Métodos de ensino e atividades de aprendizagem
+The teaching model of the course unit will include theoretical and theoretical-practical classes. Theoretical classes will cover fundamental foundational knowledge and convey relevant theoretical content. In theoretical-practical classes, the aim will be to combine theoretical explanations of concepts and methodologies related to the topics under study, with the presentation and discussion of practical cases that represent best practices or situations to avoid in the context of Timber Construction. These sessions will also promote engagement with relevant projects through guest speakers and/or visits to construction sites and companies.
+
+## Software
+AutoCAD<br>
+Robot Structural Analysis Prof<br>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Elaboração de projeto: 36.0 hours
+- Estudo autónomo: 56.5 hours
+- Frequência das aulas: 45.5 hours
+- Trabalho escrito: 12.0 hours
+- Apresentação/discussão de um trabalho científico: 12.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+NF -  final grade<br />EX - grade of final exam<br />TA - grade of presentation work<br />TE - grade of written work<br />TP - grade of pratical work<br /><br />NF = 0,50*EX + 0,30*TP + 0,1*TA + 0,1*TE<br /><br />To obtain approval, it is mandatory to achieve a minimum score of 8.0 on the grade of final exam (EX)
+
+## Obtenção de frequência
+Maximum of 25% of hours of missed classes
+
+## Exames ou Trabalhos Especiais
+1 work type project (design)<br />1 work type oral presentation<br />1 work type written report
+
+## Melhoria de classificação
+Final exam (second chance) - Grade of TP, TE and TA will be considered
+

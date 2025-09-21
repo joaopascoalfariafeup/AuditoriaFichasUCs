@@ -1,0 +1,129 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Segurança em Sistemas Informáticos
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Esta Unidade Curricular tem por âmbito o estudo da problemática de segurança de sistemas Informáticos, de forma a fornecer aos estudantes um painel básico dos conceitos e das ameaças e defesas de uma utilização abusiva e destrutiva de tais sistemas.</p>
+
+## Resultados de aprendizagem e competências
+<p>No final desta unidade curricular, os estudantes com aprovação deverão ser capazes de: - descrever os conceitos fundamentais da segurança de sistemas informáticos; - especificar uma política de segurança para um sistema típico e saber selecionar os mecanismos adequados à sua implementação e controlo de cumprimento; - analisar um canal de comunicação típico e identificar os principais níveis de proteção que lhe estão associados ou de que carece; - estudar, programar e operar alguns dispositivos ou técnicas de segurança em situações reais.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Conhecimentos básicos de programação, de redes, de sistemas operativos e de sistemas distribuídos.</p>
+
+## Programa
+<p>1. Conceitos fundamentais.<br />2. Programação segura<br />3. Criptografia<br />4. Segurança nos SOs, políticas de segurança e computação confiável<br />5. Segurança nos sistemas distribuídos<br />6. Segurança na web<br /><br />Aulas práticas: Aspetos práticos em sistemas, em redes e na programação.</p>
+
+## Bibliografia obrigatória
+William Stallings, Lawrie Brown; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005381960108801" title="Computer Security: Principles and Practice, 4th Edition (Abre numa nova janela)" target="_blank" >Computer Security: Principles and Practice, 4th Edition</a>, Pearson, 2018. ISBN: 9780134794105<br>
+Seacord Robert C.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005754170108801" title="Secure coding in C and C++ (Abre numa nova janela)" target="_blank" >Secure coding in C and C++</a>. ISBN: 0-321-33572-4 <br>
+
+## Bibliografia complementar
+Bishop Matt; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004844770108801" title="Introduction to Computer Security (Abre numa nova janela)" target="_blank" >Introduction to Computer Security</a>. ISBN: 0-321-24744-2 <br>
+Fred Long, Dhruv Mohindra, et al; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009249120108801" title="The CERT Oracle Secure Coding Standard for Java (Abre numa nova janela)" target="_blank" >The CERT Oracle Secure Coding Standard for Java</a>, Pearson, 2012. ISBN: 978-0-321-80395-5<br>
+Justin Richer, Antonio Sanso; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009119110108801" title="OAuth 2.0 in Action (Abre numa nova janela)" target="_blank" >OAuth 2.0 in Action</a>, Manning, 2017. ISBN: 9781617293276<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas de exposição e discussão da matéria, acompanhadas pela apresentação de exemplos e complementadas com períodos de estudo e pesquisa de técnicas e situações publicadas na literatura e na Internet.<br />Aulas práticas com problemas e desenvolvimento relativos a situações concretas.<br />Eventual apresentação, pelos estudantes, de aspectos específicos e ilustrativos dos trabalhos laboratoriais realizados.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho laboratorial: 25.0 horas
+- Elaboração de projeto: 38.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Nota final = 0,5 F + 0,5 E<br />                = 0,2 L + 0,3 P + 0,5 E<br />onde<br />    F - nota de frequência<br />    L - nota do trabalho laboratorial (5/6 relatórios)<br />    P - nota do mini projecto<br />    E - nota do exame escrito</p>
+
+## Obtenção de frequência
+<p>Como especificado nas Normas Gerais de Avaliação em vigor.</p>
+
+## Exames ou Trabalhos Especiais
+<p>Ao longo do unidade curricular, os alunos, trabalhando em grupo, efetuarão um conjunto de trabalhos de caráter laboratorial, incluindo um mini-projecto. Os membros do mesmo grupo poderão ter uma classificação diferente neste item, face a uma patente diferença de contribuição no esforço global.</p>
+
+## Melhoria de classificação
+<p>A melhoria de classificação por exame incide na componente de prova escrita, que será idêntica à prova de exame da época normal.<br />A componente prática (laboratorial e mini-projecto) da classificação poderá ser melhorada na edição seguinte da disciplina.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computer Systems Security
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>This Course aims the study of IT security systems, in order to provide students with a basic understanding of the concepts and of the threats and defenses to the misuse and operational destruction of these systems.</p>
+<div> </div>
+
+## Resultados de aprendizagem e competências
+<p>At the end of this course unit, the students that have passed should be able to: - describe the security fundamentals of computer systems; - specify a security policy for a typical computer system and select the adequate mechanisms for enforcing the policy and for verifying its compliance; - analise a typical communication channel and identify its associated main protection levels or the ones that should be in use; - study, program and operate some security devices and tecniques in real situations.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Basic knowledge of programming, networks, operating systems and distributed systems.</p>
+
+## Programa
+<p>1. Fundamental concepts.<br />2. Secure coding<br />3. Cryptography<br />4. OS security, policies and trusted computing<br />5. Distributed systems security<br />6. Web security<br /><br />Practical classes: Practical aspects in systems, in networks and in programming.</p>
+
+## Bibliografia obrigatória
+William Stallings, Lawrie Brown; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005381960108801" title="Computer Security: Principles and Practice, 4th Edition (Opens in a new window)" target="_blank" >Computer Security: Principles and Practice, 4th Edition</a>, Pearson, 2018. ISBN: 9780134794105<br>
+Seacord Robert C.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005754170108801" title="Secure coding in C and C++ (Opens in a new window)" target="_blank" >Secure coding in C and C++</a>. ISBN: 0-321-33572-4 <br>
+
+## Bibliografia complementar
+Bishop Matt; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004844770108801" title="Introduction to Computer Security (Opens in a new window)" target="_blank" >Introduction to Computer Security</a>. ISBN: 0-321-24744-2 <br>
+Fred Long, Dhruv Mohindra, et al; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009249120108801" title="The CERT Oracle Secure Coding Standard for Java (Opens in a new window)" target="_blank" >The CERT Oracle Secure Coding Standard for Java</a>, Pearson, 2012. ISBN: 978-0-321-80395-5<br>
+Justin Richer, Antonio Sanso; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009119110108801" title="OAuth 2.0 in Action (Opens in a new window)" target="_blank" >OAuth 2.0 in Action</a>, Manning, 2017. ISBN: 9781617293276<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The classes will consist of the exposition and discussion of contents, followed by the presentation of examples and complemented with periods of search and study of techniques and case studies published in the literature and in the Web.<br />Practical classes for solving problems with coding, relative to concrete scenarios.<br />Possible presentation, by students, of specific and illustrative aspects of the laboratory work carried out.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho laboratorial: 25.0 hours
+- Elaboração de projeto: 38.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Final Grade = 0,5 F + 0,5 E <br />                = 0,2 L + 0,3 P + 0,5 E<br />where<br />    F - distributed evaluation's grade<br />    L - laboratory grade (5/6 reports)<br />    P - mini project's grade<br />    E - written exam's grade</p>
+
+## Obtenção de frequência
+<p>As specified in the current FEUP's General Evaluation Rules.</p>
+
+## Exames ou Trabalhos Especiais
+<p>Throughout the course, students, working in groups, will carry out a set of laboratory work, including a mini-project. Members of the same group may have a different classification in this item, due to a clear difference in contribution in the global effort.</p>
+
+## Melhoria de classificação
+<p>The improvement of classification per exam focuses on the written test component, which will be identical to the exam of the normal season.<br />The practical component (laboratory and mini-project) of the classification may be improved in the next edition of the course.</p>
+

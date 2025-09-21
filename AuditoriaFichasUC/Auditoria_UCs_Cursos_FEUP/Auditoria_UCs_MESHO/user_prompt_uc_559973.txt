@@ -1,0 +1,199 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Avaliação de Riscos e Emergência
+
+## Curso responsável
+Mestrado em Engenharia de Segurança e Higiene Ocupacionais
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Os principais objetivos da Unidade Curricular são os seguintes:<br /><br /></p>
+<ul>
+<li>
+<p>Conhecer metodologias de análise de Riscos ( Ocupacionais, Naturais e Tecnológicos);</p>
+</li>
+<li>
+<p>Definir um sistema integrado de gestão da segurança ocupacional e ambiental;</p>
+</li>
+<li>
+<p>Entender e aplicar técnicas e métodos de análise de gestão de riscos;</p>
+</li>
+<li>
+<p>Identificar e dimensionar sistemas de gestão para planear e organizar a resposta a situações de risco grave e iminente.</p>
+</li>
+<li>
+<p>Compreender o papel dos diferentes elementos de um sistema e a contribuição relativa que têm para o risco global;</p>
+</li>
+<li>
+<p>Identificar e analisar o papel do elemento humano na causalidade de acidentes e perturbações ou disfuncionalidades;</p>
+</li>
+<li>
+<p>Estabelecer os princípios da organização da emergência.</p>
+</li>
+</ul>
+<p><br /><br /><br /></p>
+
+## Resultados de aprendizagem e competências
+<p><br />No final da UC, o estudante deve ser capaz de implementar um Processo de Gestão do Risco Ocupacional qualquer setor de atividade.</p>
+
+## Pré-requisitos e co-requisitos
+N/A
+
+## Programa
+<p>Principais conceitos relacionados com Hestão do Risco (Ocupacionais, Naturais e Tecnológicos);</p>
+<p>Introdução de Modelos de causalidade de acidentes e perturbações;</p>
+<p>Metodologias de Análise de Riscos - Exemplos de aplicação;</p>
+<p>Gestão de Riscos;</p>
+<p>Abordagens para identificação de medidas para reduzir/controlar os Riscos;</p>
+<p>Legislação e regulamentação aplicáveis;</p>
+<p>Gestão da Emergência.</p>
+
+## Bibliografia obrigatória
+Laird Wilson, Doug McCutcheon ; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005704590108801" title="Industrial Safety and Risk Management  (Abre numa nova janela)" target="_blank" >Industrial Safety and Risk Management </a>, The University of Alberta Press, 2003. ISBN: 0-88864-394-2<br>
+Instituto Português da Qualidade Portugal; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008746430108801" title="Gestão do risco (Abre numa nova janela)" target="_blank" >Gestão do risco</a><br>
+International Electrotechnical Commission; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005791610108801" title="Risk management (Abre numa nova janela)" target="_blank" >Risk management</a>. ISBN: 2-8318-1068-2<br>
+Wenmei Gai; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009088730108801" title="Decision-making analysis and optimization modeling of emergency warnings for major accidents (Abre numa nova janela)" target="_blank" >Decision-making analysis and optimization modeling of emergency warnings for major accidents</a>. ISBN: 978-981-13-2871-8<br>
+
+## Bibliografia complementar
+Jesús Torres Pombo, Antonio Lama Varela; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004691850108801" title="Riscos relacionados coa exposición a axentes biolóxicos (Abre numa nova janela)" target="_blank" >Riscos relacionados coa exposición a axentes biolóxicos</a>. ISBN: 84-453-3322-4 <br>
+Ed. C. Guedes Soares, A. P. Teixeira, P. Antão; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004805490108801" title="Análise e Gestão de Riscos, Segurança e Fiabilidade (Abre numa nova janela)" target="_blank" >Análise e Gestão de Riscos, Segurança e Fiabilidade</a>. ISBN: 972-689-230-9<br>
+ed. C. Guedes Soares...[et al.] ; org. Instituto Superior Técnico; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005636210108801" title="Riscos Industriais e Emergentes (Abre numa nova janela)" target="_blank" >Riscos Industriais e Emergentes</a>. ISBN: 978-972-689-233-5<br>
+António Ataíde... [et al.] ; [publ.] Caixa Nacional de Seguros de Doenças Profissionais. Laborat; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004522730108801" title="Riscos de doenças profissionais (Abre numa nova janela)" target="_blank" >Riscos de doenças profissionais</a><br>
+José Gomes MeleiroFernando Paiva Brandão; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004794960108801" title="Riscos do trabalho (Abre numa nova janela)" target="_blank" >Riscos do trabalho</a><br>
+Ministério das Corporações e Previdência Social. Gabinete de Higiene e Segurança do Trabalho da; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004775150108801" title="Prevenção dos riscos profissionais (Abre numa nova janela)" target="_blank" >Prevenção dos riscos profissionais</a><br>
+A. C. Neto; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004870880108801" title="Riscos de electricidade (Abre numa nova janela)" target="_blank" >Riscos de electricidade</a><br>
+C. Guedes Soares; T. Moan; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005495360108801" title="Análise de riscos e segurança de estruturas de navios (Abre numa nova janela)" target="_blank" >Análise de riscos e segurança de estruturas de navios</a><br>
+; Caixa Nacional de Seguros de Doenças Profissionais. Laboratório de Avaliação de Riscos; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005501230108801" title="Riscos de doenças profissionais nas fundições portuguesas de ferro e aço (Abre numa nova janela)" target="_blank" >Riscos de doenças profissionais nas fundições portuguesas de ferro e aço</a><br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas Teóricas: Expositivas;<br />Aulas práticas: Discussão de casos de estudo e Trabalhos em Grupo.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 56.0 horas
+- Trabalho de campo: 46.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Trabalhos de Grupo:  50%</p>
+<p>Mini-testes: 50%</p>
+<p> </p>
+
+## Obtenção de frequência
+<p><br />Presença em 75% das aulas.</p>
+<p>A atribuição pela ACT do referido CCP está condicionada à frequência em 90% da aulas.</p>
+<p> </p>
+
+## Exames ou Trabalhos Especiais
+Em casos especiais devidamente justificados e fundamentados  pelos estudantes como. por exemplo, experiência profissional relevante, pode ser aceite pelo regente da UC, ouvidos os restantes docentes, a apresentação de um Estudo de Caso sobre a Gestão do Risco ( Ocupacional, Natural e Tecnológico)<br /><br />-O Estudo de Caso deve ser desenvolvido de acordo com as regras de exposição científica deste tipo.<br />- A Revisão bibliográfica deve seguir a metodologia PRISMA.<br /><br />O trabalho a ser desenvolvido por cada estudante deve ter a qualidade necessária para fazer parte do portfólio dos trabalhos a serem apresentados como exemplo aos estudantes da UC do ano letivo corrente e nos anos seguintes.<br /><br />Os trabalhos sem o mínimo de qualidade para apresentação a congresso terão classificação negativa.
+
+## Melhoria de classificação
+<p>A classificação final será o resultado da média ponderadas do exame e dos trabalhos realizados.<br /><span class="TextRun SCXP248645698 BCX0" lang="PT-PT" xml:lang="PT-PT" data-usefontface="false" data-contrast="none"><span class="NormalTextRun SCXP248645698 BCX0">Cada uma das componentes de avaliação considera nota mínima de </span></span><span class="TextRun SCXP248645698 BCX0" lang="PT-PT" xml:lang="PT-PT" data-usefontface="false" data-contrast="none"><span class="NormalTextRun SCXP248645698 BCX0">7 valores.</span></span><br /><br />É possível a melhoria da classificação através de exame de recurso. <br /><br />É possível fazer melhoria do trabalho realizado durante o semestre.<br /><br /></p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Risk Assessment and Emergency
+
+## Curso responsável
+Master in Occupational Safety and Hygiene Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>The main goals of the course are:</p>
+<ul>
+<li>
+<p>Understanding Risk analysis methodologies (Occupational, Natural and Technological);</p>
+</li>
+<li>
+<p>To design an integrated occupational safety and environmental system;</p>
+</li>
+<li>
+<p>To understand and apply risk management analysis methods;</p>
+</li>
+<li>
+<p>To identify and develop management systems to plan and organise the response to serious and imminent risk situations;</p>
+</li>
+<li>
+<p>To understand the role of the different elements in a system and the relative contribution to the global risk;</p>
+</li>
+<li>
+<p>To identify and analyse the role of the human component in the causality of accidents and malfunctions or disturbances;</p>
+</li>
+<li>
+<p>To establish emergency management principles.</p>
+</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p>At the end of the curricular unit, the student should be able to implement an Occupational Risk Management Process in any sector of activity.</p>
+
+## Pré-requisitos e co-requisitos
+N/A
+
+## Programa
+<ul><br /><li><br /><p>Main concepts related to Risk Management (Occupational, Natural and Technological);</p><br /></li><br /><li><br /><p>Introduction of accident and disturbance causality models;</p><br /></li><br /><li><br /><p>Risk Analysis Methodologies (application exercises);</p><br /></li><br /><li><br /><p>Risk Management;</p><br /></li><br /><li><br /><p>Approaches to identify measures to reduce/control risks;</p><br /></li><br /><li><br /><p>Applicable laws and regulations;</p><br /></li><br /><li><br /><p>Emergency Management.</p><br /></li><br /></ul>
+
+## Bibliografia obrigatória
+Laird Wilson, Doug McCutcheon ; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005704590108801" title="Industrial Safety and Risk Management  (Opens in a new window)" target="_blank" >Industrial Safety and Risk Management </a>, The University of Alberta Press, 2003. ISBN: 0-88864-394-2<br>
+Instituto Português da Qualidade Portugal; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008746430108801" title="Gestão do risco (Opens in a new window)" target="_blank" >Gestão do risco</a><br>
+International Electrotechnical Commission; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005791610108801" title="Risk management (Opens in a new window)" target="_blank" >Risk management</a>. ISBN: 2-8318-1068-2<br>
+Wenmei Gai; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009088730108801" title="Decision-making analysis and optimization modeling of emergency warnings for major accidents (Opens in a new window)" target="_blank" >Decision-making analysis and optimization modeling of emergency warnings for major accidents</a>. ISBN: 978-981-13-2871-8<br>
+
+## Bibliografia complementar
+Jesús Torres Pombo, Antonio Lama Varela; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004691850108801" title="Riscos relacionados coa exposición a axentes biolóxicos (Opens in a new window)" target="_blank" >Riscos relacionados coa exposición a axentes biolóxicos</a>. ISBN: 84-453-3322-4 <br>
+Ed. C. Guedes Soares, A. P. Teixeira, P. Antão; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004805490108801" title="Análise e Gestão de Riscos, Segurança e Fiabilidade (Opens in a new window)" target="_blank" >Análise e Gestão de Riscos, Segurança e Fiabilidade</a>. ISBN: 972-689-230-9<br>
+ed. C. Guedes Soares...[et al.] ; org. Instituto Superior Técnico; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005636210108801" title="Riscos Industriais e Emergentes (Opens in a new window)" target="_blank" >Riscos Industriais e Emergentes</a>. ISBN: 978-972-689-233-5<br>
+António Ataíde... [et al.] ; [publ.] Caixa Nacional de Seguros de Doenças Profissionais. Laborat; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004522730108801" title="Riscos de doenças profissionais (Opens in a new window)" target="_blank" >Riscos de doenças profissionais</a><br>
+José Gomes MeleiroFernando Paiva Brandão; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004794960108801" title="Riscos do trabalho (Opens in a new window)" target="_blank" >Riscos do trabalho</a><br>
+Ministério das Corporações e Previdência Social. Gabinete de Higiene e Segurança do Trabalho da; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004775150108801" title="Prevenção dos riscos profissionais (Opens in a new window)" target="_blank" >Prevenção dos riscos profissionais</a><br>
+A. C. Neto; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004870880108801" title="Riscos de electricidade (Opens in a new window)" target="_blank" >Riscos de electricidade</a><br>
+C. Guedes Soares; T. Moan; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005495360108801" title="Análise de riscos e segurança de estruturas de navios (Opens in a new window)" target="_blank" >Análise de riscos e segurança de estruturas de navios</a><br>
+; Caixa Nacional de Seguros de Doenças Profissionais. Laboratório de Avaliação de Riscos; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005501230108801" title="Riscos de doenças profissionais nas fundições portuguesas de ferro e aço (Opens in a new window)" target="_blank" >Riscos de doenças profissionais nas fundições portuguesas de ferro e aço</a><br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical classes: Expositive.<br />Practical classes: Case study discussion and working groups reports.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 56.0 hours
+- Trabalho de campo: 46.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><span class="tlid-translation translation"><span class="" title="">Group work</span></span>: 50%<br /><br />Mini-tests: 50%</p>
+
+## Obtenção de frequência
+<p>75% attendance in all classes.<br />To obtain the CCP is conditioned to the attendance in 90% of the classes.</p>
+
+## Exames ou Trabalhos Especiais
+In specific cases duly justified and grounded by the students, such as relevant professional experience in the field, it may be accepted by the regent of the CU, after hearing the other professors, the presentation of a Case Study of Risk Management (Occupational, Natural and Technological);<br /><br />-The case study should be prepared according to the rules for scientific presentation of this kind.<br />-The Bibliographic Review must follow the guidelines of the PRISMA statement.<br /><br />The works to be developed must have the necessary quality to be part of the works' portfolio and presented as an example to UC students in the current and future academic years.<br /><br />Works without the minimum quality for presentation to a congress will have a negative grade.
+
+## Melhoria de classificação
+<p>The final grade will result from the weighted average of the tests and the group work done.<br />Each assessment component will be marked with a minimum of 7 marks.<br /><br /><br />It is possible to improve the classification by examining all the contents at the time of the appeal.<br /><br />It is possible to improve the classification of group work carried out during the semester.</p>
+

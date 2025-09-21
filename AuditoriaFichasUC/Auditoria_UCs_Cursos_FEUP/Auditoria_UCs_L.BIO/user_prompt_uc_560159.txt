@@ -1,0 +1,149 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Interfaces em Sistemas Biológicos
+
+## Curso responsável
+Licenciatura em Bioengenharia
+
+## Créditos ECTS
+4,5
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>Objectivos &#8211; O principal objectivo desta unidade curricular é dotar os alunos com as ferramentas necessárias para compreender os vários tipos de interacção que existem entre as células e tecidos, assim como o seu ambiente natural e artificial. A interface entre células e matriz extra-celular e entre células e matriz extra-celular com dispositivos médicos são exemplos importantes de interfaces biológicas. <br />A topografia, assim como a composição química e as propriedades mecânicas das superfícies, têm uma influência decisiva no comportamento dos vários tipos de células, nas quais se incluem as células estaminais. Este aspecto tem uma grande importância na aplicação de biomateriais, onde se incluem biosensores, vários tipos de implantes (ortopédicos, dentais, cardiovasculares, etc.) e terapias regenerativas. Assim, um dos objectivos desta unidade curricular é explicar como é que a adesão, a proliferação e a diferenciação celulares podem ser afectadas pelas propriedades acima referidas. <br />O tipo, a densidade da superfície, a conformação e a renovação de proteínas adsorvidas numa superfície desempenham um papel bastante importante no seu comportamento. Por isso, a interface proteína-biomaterial tem que ser compreendida e observada detalhadamente. A físico-química destas interfaces, onde a água assume um papel importante, é abordada. <br />As modificações radicais no comportamento da interface sólido-líquido e da interface biomaterial-célula podem ser introduzidas através da manipulação de superfícies e materiais à nanoescala. São dados, também, exemplos de nanotecnologias que se aplicam à modificação das características das interfaces biológicas (por exemplo: hidrofobicidade, inibição ou promoção da adesão celular e proliferação celular). <br />É necessária uma caracterização das superfícies e das suas interacções com ambientes biológicos (incluindo fluidos, células e tecidos), sendo estes de grande importância para os processos anteriormente referidos. Para isso, são necessárias ferramentas especiais para a observação e quantificação das mudanças que acontecem na interface entre o material e o seu bioambiente. São abordadas algumas das ferramentas utilizadas, assim como os princípios físicos e químicos. <br />Outros dos pontos também abordados nesta unidade curricular são a microscopia de força atómica (inclui microscópio de força por reconhecimento molecular), assim como a elipsometria, o potencial zeta, a determinação dos ângulos de contacto e da energia interfacial, a análise da superfície (por exemplo, por espectroscopia de foto-electrões de raios X) e a microbalança de cristal quartzo. <br /> <br /><br /></p>
+
+## Resultados de aprendizagem e competências
+<p>Competências e resultados de aprendizagem: Os alunos devem desenvolver o seu conhecimento e capacidades nos princípios, conceitos e métodos abordados, para assim serem capazes de explicar, avaliar e modificar a interacção entre superfícies naturais e artificiais, assim como com o ambiente biológico.<br /><br />Os resultados de aprendizagem da UC são:<br /><br /></p>
+<ul>
+<li>Reconhecer como se efetua a caracterização física e química de interfaces</li>
+<li>Conhecer as propriedades de superfície dos biomateriais;</li>
+<li>Reconhecer e compreender os mecanismos de adsorção de proteínas a biomateriais incluindo os fenómenos relacionados e as técnicas de caracterização;</li>
+<li>Perceber quais os tipos de resposta imune e inflamatória aos biomateriais;</li>
+<li>Conhecer os diferentes métodos para modificação da superfície de biomateriais.</li>
+</ul>
+
+## Programa
+<ol><br /><li>Química Física de Interfaces</li><br /></ol><br /><p>1.1 Estrutura e propriedades de superfícies sólidas e líquidas</p><br /><p>1.2 Energia e fenómenos interfaciais</p><br /><ul><br /><li>Tensão superficial e energia interfacial</li><br /><li>Angulo de contacto e molhabilidade</li><br /></ul><br /><p> </p><br /><ol start=&quot;2&quot;><br /><li>Adsorção de Proteínas em Biomateriais</li><br /></ol><br /><ul><br /><li>Mecanismos físico-químicos de adsorção</li><br /><li>Fatores que influenciam a adsorção</li><br /><li>Efeitos da adsorção na biocompatibilidade</li><br /></ul><br /><p> </p><br /><ol start=&quot;3&quot;><br /><li>Resposta Imune e Inflamatória aos Biomateriais</li><br /></ol><br /><ul><br /><li>Reconhecimento imunológico de superfícies artificiais</li><br /><li>Cascata inflamatória e ativação de macrófagos</li><br /><li>Estratégias para mitigar respostas adversas</li><br /></ul><br /><p> </p><br /><ol start=&quot;4&quot;><br /><li>Técnicas de Caracterização de Interfaces Biológicas</li><br /></ol><br /><ul><br /><li>Técnicas para avaliar adsorção de proteínas (ex: QCM, SPR, espectroscopia)</li><br /><li>Microscopia de superfície (AFM, SEM)</li><br /></ul><br /><p> </p><br /><ol start=&quot;5&quot;><br /><li>Interações de Fármacos com Membranas Biológicas</li><br /></ol><br /><ul><br /><li>Propriedades físico-químicas das membranas</li><br /><li>Transporte passivo e ativo de fármacos</li><br /></ul><br /><p> </p><br /><ol start=&quot;6&quot;><br /><li>Modificação de Superfícies de Biomateriais</li><br /></ol><br />&#8195;&#8226; Modificações químicas e físicas
+
+## Bibliografia obrigatória
+1.	Butt, Hans-Jurgen; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002971450108801" title="Physics and chemistry of interfaces (Abre numa nova janela)" target="_blank" >Physics and chemistry of interfaces</a>, Wiley, 2013. ISBN: 978-3-527-41216-7<br>
+2.	M. Agrawal, J. L. Ong, M. R. Appleford and G. Mani; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008990900108801" title="Introduction to Biomaterials Basic Theory with Engineering Applications (Abre numa nova janela)" target="_blank" >Introduction to Biomaterials Basic Theory with Engineering Applications</a>, Cambridge University Press, 2014. ISBN: ISBN 978-0-521-11690-9<br>
+3.	Martins MCL, Sousa SR, Antunes JC and Barbosa MA.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009091860108801" title="Adsorption Characterization. In Methods in Molecular Biology, &#8220;Nanotechnology in Regenerative Medicine: Methods and Protocols&#8221; edited by Josep A. Planell and Melba Navarro (Abre numa nova janela)" target="_blank" >Adsorption Characterization. In Methods in Molecular Biology, &#8220;Nanotechnology in Regenerative Medicine: Methods and Protocols&#8221; edited by Josep A. Planell and Melba Navarro</a>, Human Press (Springer Science & Business Media) USA Academic Press Inc., San Diego, CA, USA, 2012<br>
+4.	Felgueiras HP, Antunes JC, Martins MCL, Barbosa MA; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008987040108801" title="Fundamentals of protein and cell interactions in biomaterials, In &#8220;Peptides and Proteins as Biomaterials for Tissue Regeneration and Repair&#8221; edited by Martins MCL, Barbosa MA (Abre numa nova janela)" target="_blank" >Fundamentals of protein and cell interactions in biomaterials, In &#8220;Peptides and Proteins as Biomaterials for Tissue Regeneration and Repair&#8221; edited by Martins MCL, Barbosa MA</a>, Woodhead Publishing; Elsevier, United Kingdom, 1st Edition, 2017<br>
+
+## Bibliografia complementar
+5.	G.H. Pollack; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma9910227602408801" title="Cells, Gels and the Engines of Life (Abre numa nova janela)" target="_blank" >Cells, Gels and the Engines of Life</a>, Ehbner and Sons Publishers, 2001. ISBN: 978-0962689529<br>
+Kay C. Dee David A. Puleo Rena Bizios; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004869800108801" title="An Introduction to Tissue-Biomaterial Interactions (Abre numa nova janela)" target="_blank" >An Introduction to Tissue-Biomaterial Interactions</a>, Wiley-Liss, 2002. ISBN: 0471253944<br>
+Alberts, Bruce 070; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005314430108801" title="Molecular biology of the cell (Abre numa nova janela)" target="_blank" >Molecular biology of the cell</a>. ISBN: 978-0-8153-4105-5 <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A unidade curricular adota metodologias de ensino centradas no estudante, alinhadas com o modelo pedagógico baseado na aprendizagem ativa, integrada e contextualizada. A diversidade de métodos visa promover a construção de conhecimento, o desenvolvimento de pensamento crítico e a aplicação prática em contextos reais.</p>
+<p>Aulas teórico-práticas expositivas e interativas, apoiadas por recursos multimédia, para introdução e aprofundamento dos conceitos fundamentais relacionados com interfaces em sistemas biológicos.</p>
+<p>Discussão de estudos de caso e resolução de problemas, incentivando a aplicação do conhecimento a situações reais e o desenvolvimento do raciocínio científico.</p>
+<p>Discussão de artigos selecionados pelos estudantes, baseada numa pesquisa bibliográfica levada a cabo por grupos.</p>
+<p>Aulas laboratoriais, focadas na experimentação e uso de técnicas de caracterização de superfícies, proporcionando a aquisição de aptidões práticas.</p>
+<p>Estas metodologias estão articuladas para garantir a ligação entre teoria e prática, o desenvolvimento de competências transversais e a formação científica sólida e aplicada, essencial para o desempenho profissional e investigativo na área das interfaces em sistemas biológicos.</p>
+
+## Tipo de avaliação
+Avaliação por exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 92.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho laboratorial: 28.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A nota final é baseada na nota dos testes ou do exame de recurso (60%; mínimo 7 valores), aulas laboratoriais (30%) e no desempenho dos alunos durante as aulas (10%; apresentações, discussões e sessões de perguntas/respostas).</p>
+
+## Obtenção de frequência
+<p>Para obter frequência, os alunos têm que obter uma classificação no trabalho laborarorial igual ou superior a 10 valores e ter classificação igual ou superior a 10 em pelo menos duas sessões de perguntas e respostas.</p>
+
+## Exames ou Trabalhos Especiais
+<p>Não aplicável</p>
+
+## Melhoria de classificação
+<p>De acordo com as regras Licenciatura em Bioengenharia</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Biological Systems Interfaces
+
+## Curso responsável
+Bachelor in Bioengineering
+
+## Créditos ECTS
+4,5
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>Objectives - The main aim of the course is to provide scientific tools required to understand various types of interactions that take place between cells and tissues and their natural and artificial environments. The interfaces between cells and extra-cellular matrix (ECM), and cells and ECM with medical devices are important examples of biological interfaces. <br />Topography, chemical composition and mechanical properties of surfaces influence decisively the behaviour of various types of cells, including stem cells. This is of great relevance in the application of biomaterials, including in biosensors, various types of implants (orthopaedic, dental, cardiovascular, etc) and in regenerative therapies. Hence, one of the purposes of the course will be to explain how cell adhesion, proliferation and differentiation may be affected by the above properties. <br />The type, surface density, conformation and renewal of proteins adsorbed onto a surface play a critical role in its behaviour. Thus, the protein-biomaterial interface has to be understood and observed in detail. The physical chemistry of these interfaces, where the presence of water is of fundamental importance, will be covered. <br />Radical modifications in the behaviour of solid-liquid and biomaterial-cell interfaces may be introduced by manipulating surfaces and materials at the nanoscale. Examples of nanotechnologies applied to modify essential features of biological interfaces (e.g. hydrophobicity, inhibition or promotion of cell adhesion and guided cell growth) will be given. <br />Characterization of surfaces and their interactions will biological environments (including fluids, cells and tissues) is of great importance in all the above processes. Therefore, special tools are required for observation and quantification of changes taking place at the interface between a material and its bioenvironment. Some of those tools and the physical and chemical principles in which they are based will be presented in the course. Atomic force microscopy (including molecular recognition force microscopy), elipsometry, zeta potential measurements, contact angle and interfacial energy determinations, surface analysis (e.g. X-ray photoelectron spectroscopy - XPS), and quartz crystal microbalance will be covered.</p>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>Skills and learning outcomes: Develop knowledge and capacities in principles, concepts and methods applicable to explain, evaluate and modify the interplay between natural and artificial surfaces/substrates and their biological environment.<br /><br /><br />The learning outcomes of the UC are:<br /><br /></p>
+<ul>
+<li>Recognize how to perform the physical and chemical characterization of interfaces</li>
+<li>Know the surface properties of biomaterials;</li>
+<li>Recognize and understand the mechanisms of protein adsorption to biomaterials including related phenomena and characterization techniques;</li>
+<li>Understand the types of immune and inflammatory response to biomaterials;</li>
+<li>Know the different methods for modifying the surface of biomaterials.</li>
+</ul>
+
+## Programa
+<ol><br /><li>Physical Chemistry of Interfaces</li><br /></ol><br /><p>1.1 Structure and properties of solid and liquid surfaces</p><br /><p>1.2 Energy and interfacial phenomena</p><br /><ul><br /><li>Surface tension and interfacial energy</li><br /><li>Contact angle and wettability</li><br /></ul><br /><p> </p><br /><ol start=&quot;2&quot;><br /><li>Protein Adsorption on Biomaterials</li><br /></ol><br /><ul><br /><li>Physicochemical mechanisms of adsorption</li><br /><li>Factors influencing adsorption</li><br /><li>Effects of adsorption on biocompatibility</li><br /></ul><br /><p> </p><br /><ol start=&quot;3&quot;><br /><li>Immune and Inflammatory Response to Biomaterials</li><br /></ol><br /><ul><br /><li>Immunological recognition of artificial surfaces</li><br /><li>Inflammatory cascade and macrophage activation</li><br /><li>Strategies to mitigate adverse responses</li><br /></ul><br /><p> </p><br /><ol start=&quot;4&quot;><br /><li>Techniques for Characterizing Biological Interfaces</li><br /></ol><br /><ul><br /><li>Techniques to evaluate protein adsorption (e.g. QCM, SPR, spectroscopy)</li><br /><li>Surface microscopy (AFM, SEM)</li><br /></ul><br /><p> </p><br /><ol start=&quot;5&quot;><br /><li>Drug Interactions with Biological Membranes</li><br /></ol><br /><ul><br /><li>Physicochemical properties of membranes</li><br /><li>Passive and active transport of drugs</li><br /></ul><br /><p> </p><br /><ol start=&quot;6&quot;><br /><li>Surface Modification of Biomaterials</li><br /></ol><br />&#8226; Chemical and physical modifications
+
+## Bibliografia obrigatória
+1.	Butt, Hans-Jurgen; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002971450108801" title="Physics and chemistry of interfaces (Opens in a new window)" target="_blank" >Physics and chemistry of interfaces</a>, Wiley, 2013. ISBN: 978-3-527-41216-7<br>
+2.	M. Agrawal, J. L. Ong, M. R. Appleford and G. Mani; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008990900108801" title="Introduction to Biomaterials Basic Theory with Engineering Applications (Opens in a new window)" target="_blank" >Introduction to Biomaterials Basic Theory with Engineering Applications</a>, Cambridge University Press, 2014. ISBN: ISBN 978-0-521-11690-9<br>
+3.	Martins MCL, Sousa SR, Antunes JC and Barbosa MA.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009091860108801" title="Adsorption Characterization. In Methods in Molecular Biology, &#8220;Nanotechnology in Regenerative Medicine: Methods and Protocols&#8221; edited by Josep A. Planell and Melba Navarro (Opens in a new window)" target="_blank" >Adsorption Characterization. In Methods in Molecular Biology, &#8220;Nanotechnology in Regenerative Medicine: Methods and Protocols&#8221; edited by Josep A. Planell and Melba Navarro</a>, Human Press (Springer Science & Business Media) USA Academic Press Inc., San Diego, CA, USA, 2012<br>
+4.	Felgueiras HP, Antunes JC, Martins MCL, Barbosa MA; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008987040108801" title="Fundamentals of protein and cell interactions in biomaterials, In &#8220;Peptides and Proteins as Biomaterials for Tissue Regeneration and Repair&#8221; edited by Martins MCL, Barbosa MA (Opens in a new window)" target="_blank" >Fundamentals of protein and cell interactions in biomaterials, In &#8220;Peptides and Proteins as Biomaterials for Tissue Regeneration and Repair&#8221; edited by Martins MCL, Barbosa MA</a>, Woodhead Publishing; Elsevier, United Kingdom, 1st Edition, 2017<br>
+
+## Bibliografia complementar
+5.	G.H. Pollack; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma9910227602408801" title="Cells, Gels and the Engines of Life (Opens in a new window)" target="_blank" >Cells, Gels and the Engines of Life</a>, Ehbner and Sons Publishers, 2001. ISBN: 978-0962689529<br>
+Kay C. Dee David A. Puleo Rena Bizios; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004869800108801" title="An Introduction to Tissue-Biomaterial Interactions (Opens in a new window)" target="_blank" >An Introduction to Tissue-Biomaterial Interactions</a>, Wiley-Liss, 2002. ISBN: 0471253944<br>
+Alberts, Bruce 070; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005314430108801" title="Molecular biology of the cell (Opens in a new window)" target="_blank" >Molecular biology of the cell</a>. ISBN: 978-0-8153-4105-5 <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The curricular unit adopts student-centered teaching methodologies, aligned with the pedagogical model based on active, integrated and contextualized learning. The diversity of methods aims to promote the construction of knowledge, the development of critical thinking and practical application in real contexts.</p>
+<p>Expository and interactive theoretical-practical classes, supported by multimedia resources, to introduce and deepen fundamental concepts related to interfaces in biological systems.</p>
+<p>Discussion of case studies and problem solving, encouraging the application of knowledge to real situations and the development of scientific reasoning.</p>
+<p>Discussion of articles selected by students, based on bibliographic research carried out by groups.</p>
+<p>Laboratory classes, focused on experimentation and use of surface characterization techniques, providing the acquisition of practical skills.</p>
+These methodologies are articulated to ensure the connection between theory and practice, the development of transversal skills and solid and applied scientific training, essential for professional and investigative work in the area of &#8203;&#8203;interfaces in biological systems.
+
+## Tipo de avaliação
+Evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 92.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho laboratorial: 28.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final mark will result from the mark obtained in the final exam (60%; minimum &#8220;7 valores&#8221;), lab sessions (30%) and the mark obtained in the classes (10%: presentations, discussions and answer/questions sessions).</p>
+
+## Obtenção de frequência
+<p>In order to be admitted to the final exam <span lang="en" tabindex="0">students must have a laboratory work score of 10 or higher and have a score of 10 or higher in at least two question and answer sessions.<br /></span></p>
+
+## Exames ou Trabalhos Especiais
+<p>Not applicable.</p>
+
+## Melhoria de classificação
+<p>As specified by the rules applicable <span class="VIiyi" lang="en"><span class="JLqJ4b ChMk0b" data-language-for-alternatives="en" data-language-to-translate-into="pt" data-phrase-index="0" data-number-of-phrases="1">to the Degree in Bioengineering</span></span></p>
+

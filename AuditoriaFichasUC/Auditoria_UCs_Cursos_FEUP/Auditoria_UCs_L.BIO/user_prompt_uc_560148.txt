@@ -1,0 +1,112 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Matemática III
+
+## Curso responsável
+Licenciatura em Bioengenharia
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+Curso introdutório de equações diferenciais ordinárias com aplicações à biologia e medicina.
+
+## Resultados de aprendizagem e competências
+<p>Os conteúdos lecionados nesta disciplina permitirão ao aluno resolver analiticamente um conjunto variado de equações diferenciais e aplicar técnicas qualitativas quando uma solução analítica não é possível.<br />Os estudantes deverão entender a grande utilidade do uso das equações diferenciais qualitativa e quantitativamente nas áreas da biologia e química.</p>
+
+## Pré-requisitos e co-requisitos
+Cálculo diferencial e integral.
+
+## Programa
+1. Equações diferenciais lineares<br />1.1 Equação lineares de primeira ordem<br />1.2 Equações lineares homogéneas de segunda ordem<br />1.3 Equações lineares não-homogéneas de segunda ordem<br />1.4 Transformadas de Laplace<br /><br />2. Equações diferenciais não-lineares<br />2.1 Equações separáveis<br />2.2 Equações exatas<br />2.3 Teorema da existência e unicidade<br />2.4 Teoria qualitativa de equações autónomas de primeira ordem<br />2.5 Aproximação analítica de soluções<br /><br />3. Sistemas de equações diferenciais lineares<br /><br />4. Sistemas de equações diferenciais não-lineares<br />4.1 Teorema da linearização<br />4.2 Equação Cartesiana das trajetórias<br />4.3 Casos especiais: sistemas gradientes e sistemas Hamiltonianos.<br /><br />5. Modelos Matemáticos
+
+## Bibliografia obrigatória
+Braun M.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004214430108801" title="Differential equations and their applications (Abre numa nova janela)" target="_blank" >Differential equations and their applications</a>. ISBN: 0-387-90266-X<br>
+
+## Bibliografia complementar
+J.D. Murray; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004928520108801" title="Mathematical biology: An introduction (Abre numa nova janela)" target="_blank" >Mathematical biology: An introduction</a><br>
+
+## Métodos de ensino e atividades de aprendizagem
+Exposição de matéria teórica e prática no quadro.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 horas
+- Frequência das aulas: 52.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+A avaliação consiste em duas provas escritas - T1 e T2 - ambas cotadas para 20 valores.<br />O momento T1 realizar-se-á durante o período letivo e o T2 terá lugar na data do exame da época normal. Nessa data, os estudantes terão a oportunidade de realizar também o momento T1 e, caso o façam, a classificação obtida previamente é anulada.<br />A não comparência a um momento de avaliação implica a classificação de zero ao respetivo momento.<br />Cálculo da classificação no exame da época normal (N):<br />N = 0.5*T1 + 0.5*T2 .<br /><br />O exame da época de recurso será dividido em duas partes, R1 e R2, (ambas cotadas para 20 valores) permitindo aos estudantes melhorar as classificações nos momentos T1 e/ou T2 da seguinte forma:<br /><br />(A) Se o estudante desejar melhorar apenas uma das partes deverá entregar a sua prova ao fim do tempo parcial estipulado e a sua classificação final é dada por:<br /><br />CF = max{0.5*T1 ; 0.5*R1} + 0.5*T2 - caso entregue R1,<br />ou<br />CF = 0.5*T1 + max{0.5*T2 ; 0.5*R2} - caso entregue R2;<br /><br />(B) Se o estudante desejar melhorar as duas partes deverá realizar, R1 e R2, e a sua classificação final é dada por:<br /><br />CF = max{N ; 0.5*R1 + 0.5*R2}.
+
+## Obtenção de frequência
+<p>Nos termos das normas gerais de avaliação um estudante obterá frequência se o número de faltas às aulas não exceder 25% das aulas previstas. </p>
+
+## Melhoria de classificação
+<p>No exame de recurso.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Mathematics III
+
+## Curso responsável
+Bachelor in Bioengineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+Introductory course on ordinary differential equations with applications to biology and medicine.
+
+## Resultados de aprendizagem e competências
+<br />The sylabus of this course will enable the student to either solve analitically a variety of differential equations and apply qualitative techniques when such an analytical solution is not possible.<br />Students will learn the important role that both qualitative and quantitative methods of differential equations theory play in areas like biology and chemistry.
+
+## Pré-requisitos e co-requisitos
+Differential and integral calculus.
+
+## Programa
+1. Linear differential equations<br />1.1 First order linear equations<br />1.2 Second order homogeneous linear equations<br />1.3 Second order nonhomogeneous linear equations<br />1.4 Laplace transforms<br /><br />2. Nonlinear differential equations<br />2.1 Separable equations<br />2.2 Exact equations<br />2.3 Existence and uniqueness theorem<br />2.4 Qualitative theory of autonomous first order equations<br />2.5 Analytical approximation of solutions<br /><br />3. Linear systems of differential equations<br /><br />4. Nonlinear systems of differential equations<br />4.1 Linearisation theorem<br />4.2 Cartesian equation of trajectories<br />4.3 Special cases: gradient and Hamiltonian systems<br /><br />5. Mathematical Models
+
+## Bibliografia obrigatória
+Braun M.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004214430108801" title="Differential equations and their applications (Opens in a new window)" target="_blank" >Differential equations and their applications</a>. ISBN: 0-387-90266-X<br>
+
+## Bibliografia complementar
+J.D. Murray; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004928520108801" title="Mathematical biology: An introduction (Opens in a new window)" target="_blank" >Mathematical biology: An introduction</a><br>
+
+## Métodos de ensino e atividades de aprendizagem
+Both theoretical and practical matters will be presentend on the board.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 hours
+- Frequência das aulas: 52.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+The assessment consists of two written tests - T1 and T2 - both marked out of 20 marks.<br />T1 will take place during the academic year and T2 will take place on the date of the normal exam period. On that date, students will also have the opportunity to take T1 and, if they do so, the grade obtained previously will be cancelled.<br />Failure to attend an assessment will result in a mark of zero for that assessment.<br />Calculation of the mark for the normal exam period (N):<br />N = 0.5*T1 + 0.5*T2 .<br /><br />The resit exam will be divided into two parts, R1 and R2, (both worth 20 marks) allowing students to improve their grades in moments T1 and/or T2 as follows:<br /><br />(A) If the student wishes to improve only one of the parts, they must hand in their exam at the end of the stipulated time and their final grade is given by:<br /><br />CF = max{0.5*T1 ; 0.5*R1} + 0.5*T2 - if R1 is submitted,<br />or<br />CF = 0.5*T1 + max{0.5*T2 ; 0.5*R2} - if R2 is submitted;<br /><br />(B) If the student wishes to improve both parts, they must complete R1 and R2, and their final grade will be calculated as follows:<br /><br />CF = max{N ; 0.5*R1 + 0.5*R2}.
+
+## Obtenção de frequência
+<p>The presence of each student, in the classes, is registered. The student cannot miss more than 25% of the planned classes.</p>
+
+## Melhoria de classificação
+<p>In the second possibility of the final exam (ER) or following the evaluation rules in this School.</p>
+

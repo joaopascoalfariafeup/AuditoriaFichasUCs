@@ -1,0 +1,148 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Mecânica
+
+## Curso responsável
+Licenciatura em Engenharia Física
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p class="western" align="left"><span style="font-size: small;"><span style="color: #000000;"><span lang="pt-PT">Os estudantes devem demonstrar conhecimento dos conceitos e princípios básicos da mecânica clássica, com ênfase na compreensão e aplicação ao mundo real. Os estudantes devem ter a capacidade de manipular conceitos fundamentais e saber como aplicá-los na análise de situações concretas do mundo real. Através dessa análise, os estudantes devem ser capazes de obter resultados quantitativos utilizando cálculo diferencial, integral e vetorial, dentro dos princípios da mecânica clássica. Será dada atenção particular à formação na resolução de problemas, familiarizando os estudantes com heurísticas e modos de pensar dos físicos experientes.</span></span></span></p>
+
+## Resultados de aprendizagem e competências
+Estudantes deverão demonstrar boa compreensão de conceitos fundamentais da mecânica (descrição do movimento, massa, força, momento linear e angular, energia) através da correcta  resolução de problemas de aplicação direta destes conceitos, e da modelização e análise, em termos de conceitos de mecânica, de situações do mundo real.
+
+## Pré-requisitos e co-requisitos
+Trigonometria básica, cálculo vetorial básico, derivação de funções reais de variável real, fundamentos de geometria no espaço.
+
+## Programa
+<p class="western" align="left"><span style="font-size: small;"><span lang="pt-PT">Parte I</span></span></p>
+<p class="western" align="left"><span style="font-size: small;"><span lang="pt-PT">1. Cálculo diferencial e integral. Série de Taylor.</span></span></p>
+<p class="western" align="left"><span style="font-size: small;"><span lang="pt-PT">2. Vetores e sua álgebra. Referenciais e sistemas de coordenadas.</span></span></p>
+<p class="western" align="left"> </p>
+<p class="western" align="left"><span style="font-size: small;"><span lang="pt-PT">Parte II</span></span></p>
+<p class="western" align="left"><span style="font-size: small;"><span lang="pt-PT">1. Quantidades fundamentais, medições, unidades, análise dimensional.</span></span></p>
+<p class="western" align="left"><span style="font-size: small;"><span lang="pt-PT">2. Movimento: deslocamento, posição, velocidade, aceleração, cinemática.</span></span></p>
+<p class="western" align="left"><span style="font-size: small;"><span lang="pt-PT">3. Leis de Newton, referenciais inerciais, equações de movimento, forças do quotidiano e aplicação das leis de Newton.</span></span></p>
+<p class="western" align="left"><span style="font-size: small;"><span lang="pt-PT">4. Sistemas de partículas: momento linear, centro de massa, conservação de momento, massa variável.</span></span></p>
+<p class="western" align="left"><span style="font-size: small;"><span lang="pt-PT">5. Trabalho e energia: energia cinética, teorema trabalho-energia, energia potencial, forças conservativas, conservação de energia. </span></span></p>
+<p class="western" align="left"><span style="font-size: small;"><span lang="pt-PT">6. Colisões e leis de conservação.</span></span></p>
+<p class="western" align="left"><span style="font-size: small;"><span lang="pt-PT">7. Momento angular, torque, momento de inércia e conservação do momento angular, rotação em torno de eixo fixo.</span></span></p>
+<p class="western" align="left"><span style="font-size: small;"><span lang="pt-PT">8. Dinâmica do corpo rígido, natureza vetorial da velocidade angular, precessão, giroscópio.</span></span></p>
+
+## Bibliografia obrigatória
+Kleppner, Daniel,; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma9910243407208801" title="Quick calculus : a self-teaching guide / (Abre numa nova janela)" target="_blank" >Quick calculus : a self-teaching guide /</a>. ISBN: 9781119743194<br>
+Kleppner , Daniel; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004764250108801" title="An introduction to mechanics (Abre numa nova janela)" target="_blank" >An introduction to mechanics</a>. ISBN: 0-07-085423-8<br>
+
+## Bibliografia complementar
+Marcelo Alonso; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002098510108801" title="Fisica (Abre numa nova janela)" target="_blank" >Fisica</a>. ISBN: 84-03-20990-8 Conjunto 3 vols.<br>
+Feynman; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002437100108801" title="The^Feynman Lectures on Physics. Vols. I (Abre numa nova janela)" target="_blank" >The^Feynman Lectures on Physics. Vols. I</a><br>
+Ohanian, H. C  and Markert, J. T. ; Physics fo Engineers and Scientists, W.W. Norton & Company, 2007. ISBN: 978-0-393-11101-9<br>
+Serway , Raymond A.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990001986450108801" title="Physics for scientists and engineers with modern physics (Abre numa nova janela)" target="_blank" >Physics for scientists and engineers with modern physics</a>. ISBN: 0-03-022657-0<br>
+Tipler , Paul A.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990001810750108801" title="Physics for scientists and engineers : with modern physics (Abre numa nova janela)" target="_blank" >Physics for scientists and engineers : with modern physics</a>. ISBN: 978-0-7167-8964-2<br>
+Halliday , David; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005585160108801" title="Fundamentals of physics : extended (Abre numa nova janela)" target="_blank" >Fundamentals of physics : extended</a>. ISBN: 978-0-471-75801-3<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p class="western" align="left"><span style="font-size: small;"><span style="color: #000000;"><span lang="pt-PT">Aulas teóricas com exposição participada das matérias após leituras pré-aula sugeridas. Os conceitos principais são ilustrados nas aulas teóricas recorrendo à realização de simples experiências demonstrativas e à projeção de simulações. <br /><br />As aulas teórico-práticas são dedicadas à resolução dos problemas presentes nas folhas de apoio à disciplina, com ênfase no tratamento matemático de algum pormenor não aprofundado na aula teórica e na discussão numérica dos resultados, tendo em vista a sua interpretação física.</span></span></span></p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 108.0 horas
+- Frequência das aulas: 54.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p> </p>
+<p class="western" align="left"><span style="font-size: small;"><span style="color: #000000;"><span lang="pt-PT">Max[0,1*Q + 0,9*(T1 + T2 + T3)/3, E]<br /><br />A classificação final é obtida por avaliação distribuída realizando três testes (90% da nota final). O primeiro e o segundo testes (T1 e T2) realizam-se durante o período de aulas, o terceiro teste (T3) coincide com a época normal. <br /><br />Na aula teórica os estudantes respondem a uma pergunta ("quiz", Q) para verificação de presenças e com peso na classificação (10% da nota final). <br /><br />A classificação final pode também ser obtida por realização de um exame (E) na época de recurso. </span></span></span></p>
+
+## Obtenção de frequência
+<p class="western" align="left"><span style="font-size: small;"><span style="color: #000000;"><span lang="pt-PT">Presença a pelo menos 3/4 das aulas previstas, incluindo teóricas e teórico-práticas.</span></span></span></p>
+
+## Melhoria de classificação
+<p class="western" align="left"><span style="font-size: small;"><span style="color: #000000;"><span lang="pt-PT">(De acordo com o artigo 12º do regulamento de avaliação do aproveitamento dos estudantes da FCUP.)<br /><br />- Por frequência da UC no ano letivo seguinte realizando todas as componentes da avalição contínua.<br /><br />- Por frequência da UC no ano letivo seguinte realizando parte das componentes de avaliação contínua. Neste caso será mantida a nota das restantes componentes obtida no ano letivo em que teve aprovação.<br /><br />- Por exame final realizado na época de recurso do ano em que teve aprovação ou do ano letivo seguinte ao que teve aprovação.<br /></span></span></span></p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Mechanics
+
+## Curso responsável
+Bachelor in Engineering Physics
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p class="western" align="left"><span style="font-size: small;"><span style="color: #000000;"><span lang="en-GB">Students should demonstrate knowledge of the basic concepts and principles of classical mechanics, with an emphasis on understanding and application to the real world. Students should be able to manipulate fundamental concepts and know how to apply them to the analysis of concrete real world situations. Through such analysis, students should be able to obtain quantitative results using differential, integral, and vectorial calculus, within the principle of classical mechanics. Particular attention will be paid to training in problem solving by familiarizing students with heuristics and modes of thinking of experienced physicists.</span></span></span></p>
+
+## Resultados de aprendizagem e competências
+<span id=&quot;result_box&quot; lang=&quot;en&quot;><span class=&quot;hps&quot;>Students</span> <span class=&quot;hps&quot;>should demonstrate</span> <span class=&quot;hps&quot;>good</span> <span class=&quot;hps&quot;>understanding</span> <span class=&quot;hps&quot;>of</span> fundamental <span class=&quot;hps&quot;>mechanical</span> <span class=&quot;hps&quot;>concepts</span> <span class=&quot;hps&quot;>(description</span> <span class=&quot;hps&quot;>of motion</span>, <span class=&quot;hps&quot;>mass</span>, <span class=&quot;hps&quot;>force</span>, <span class=&quot;hps&quot;>linear and angular momentum</span>, <span class=&quot;hps&quot;>energy)</span> <span class=&quot;hps&quot;>by correctly solving problems </span><span class=&quot;hps&quot;>of</span> <span class=&quot;hps&quot;>direct application</span> <span class=&quot;hps&quot;>of these</span> <span class=&quot;hps&quot;>concepts</span>, <span class=&quot;hps&quot;>and by </span> <span class=&quot;hps&quot;>modeling</span> and analysing, in <span class=&quot;hps&quot;>terms of</span> <span class=&quot;hps&quot;>mechanics concepts, </span><span class=&quot;hps&quot;>real world situations.</span></span>
+
+## Pré-requisitos e co-requisitos
+Basic trigonometry, basic vector calculus, basic derivative of a function, elementary geometry.
+
+## Programa
+<p class="western" align="left"><span style="font-size: small;"><span lang="en-US">1. Differential and integral calculus. Taylor series.</span></span></p>
+<p class="western" align="left"><span style="font-size: small;"><span lang="en-US">2. Vectors and their algebra. Reference frames and coordinate systems.</span></span></p>
+<p class="western" align="left"> </p>
+<p class="western" align="left"><span style="font-size: small;"><span lang="en-US">Part II</span></span></p>
+<p class="western" align="left"><span style="font-size: small;"><span lang="en-US">1. Fundamental quantities, measurements, units, dimensional analysis.</span></span></p>
+<p class="western" align="left"><span style="font-size: small;"><span lang="en-US">2. Motion: displacement, position, velocity, acceleration, kinematics.</span></span></p>
+<p class="western" align="left"><span style="font-size: small;"><span lang="en-US">3. Newton's laws, inertial reference frames, equations of motion, everyday forces and application of Newton&#8217;s laws.</span></span></p>
+<p class="western" align="left"><span style="font-size: small;"><span lang="en-US">4. Particle systems: linear momentum, center of mass, momentum conservation, variable mass systems.</span></span></p>
+<p class="western" align="left"><span style="font-size: small;"><span lang="en-US">5. Work and energy: kinetic energy, work-energy theorem, potential energy, conservative forces, energy conservation.</span></span></p>
+<p class="western" align="left"><span style="font-size: small;"><span lang="en-US">6. Collisions and conservation laws.</span></span></p>
+<p class="western" align="left"><span style="font-size: small;"><span lang="en-US">7. Particle angular momentum, torque, moment of inertia and conservation of angular momentum, fixed axis rotation.</span></span></p>
+<p class="western" align="left"><span style="font-size: small;"><span style="color: #000000;"><span lang="en-US">8. Rigid body dynamics, the vector neture of angular velocity, precession and gyroscopic motion.</span></span></span></p>
+
+## Bibliografia obrigatória
+Kleppner, Daniel,; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma9910243407208801" title="Quick calculus : a self-teaching guide / (Opens in a new window)" target="_blank" >Quick calculus : a self-teaching guide /</a>. ISBN: 9781119743194<br>
+Kleppner , Daniel; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004764250108801" title="An introduction to mechanics (Opens in a new window)" target="_blank" >An introduction to mechanics</a>. ISBN: 0-07-085423-8<br>
+
+## Bibliografia complementar
+Marcelo Alonso; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002098510108801" title="Fisica (Opens in a new window)" target="_blank" >Fisica</a>. ISBN: 84-03-20990-8 Conjunto 3 vols.<br>
+Feynman; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002437100108801" title="The^Feynman Lectures on Physics. Vols. I (Opens in a new window)" target="_blank" >The^Feynman Lectures on Physics. Vols. I</a><br>
+Ohanian, H. C  and Markert, J. T. ; Physics fo Engineers and Scientists, W.W. Norton & Company, 2007. ISBN: 978-0-393-11101-9<br>
+Serway , Raymond A.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990001986450108801" title="Physics for scientists and engineers with modern physics (Opens in a new window)" target="_blank" >Physics for scientists and engineers with modern physics</a>. ISBN: 0-03-022657-0<br>
+Tipler , Paul A.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990001810750108801" title="Physics for scientists and engineers : with modern physics (Opens in a new window)" target="_blank" >Physics for scientists and engineers : with modern physics</a>. ISBN: 978-0-7167-8964-2<br>
+Halliday , David; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005585160108801" title="Fundamentals of physics : extended (Opens in a new window)" target="_blank" >Fundamentals of physics : extended</a>. ISBN: 978-0-471-75801-3<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p class="western" align="left"><span style="color: #000000;"><span style="font-size: small;"><span lang="en-US">Theory classes where the program is presented in a participatory manner after oriented readings. The main concepts are illustrated in theoretical classes through simple demonstrative experiments and the projection of simulations. <br /><br />The practical classes are dedicated to solving the problems presented in the course support sheets, with an emphasis on the mathematical treatment of details not deeply covered in the theoretical class and the numerical discussion of the results, aiming at their physical interpretation.</span></span></span></p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 108.0 hours
+- Frequência das aulas: 54.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p class="western" align="left"><span style="font-size: small;"><span style="color: #000000;"><span lang="pt-PT">Max[0,1*Q + 0,9*(T1 + T2 + T3)/3, Exam]<br /><br />* T1, T2, T3 - Tests (T1 and T2 midterm, T2 final examination date "época normal")<br />* E - final exam (final examination date "época recurso")<br />* Q - Quizzes (1 per theory class)</span></span></span></p>
+
+## Obtenção de frequência
+<p class="western" align="left"><span style="font-size: small;"><span style="color: #000000;"><span lang="pt-PT">Attendance at least 3/4 of the scheduled classes, including theoretical and practical classes.</span></span></span></p>
+
+## Melhoria de classificação
+<p class="western" align="left"><span style="font-size: small;"><span style="color: #000000;"><span lang="pt-PT">- By repeating all continuum evaluation components in the next academic year.<br />- By repeating part of the continuum evaluation components in the next academic year.<br />- By final examination (2nd date "época de recurso") in the current or in the next academic year.</span></span></span></p>
+

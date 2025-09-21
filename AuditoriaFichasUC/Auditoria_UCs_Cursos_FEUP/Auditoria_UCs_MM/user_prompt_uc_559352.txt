@@ -1,0 +1,138 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Laboratório Multimédia
+
+## Curso responsável
+Mestrado em Multimédia
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Os objetivos de aprendizagem desta unidade curricular incluem o desenvolvimento das seguintes atitudes profissionais, competências e capacidades:</p>
+<p>a) autonomia e iniciativa na aquisição e integração de conhecimentos na área das tecnologias multimédia;<br />b) competências de gestão de projetos multi-disciplinares e de trabalho em equipa;<br />c) capacidade de conceber, projectar e implementar sistemas e aplicações multimédia inovadores, com base em tecnologias emergentes;<br />d) capacidade de estruturar e produzir conteúdos multimédia com eficácia comunicacional e adequados ao público-alvo.</p>
+
+## Resultados de aprendizagem e competências
+<p>Como resultado da aprendizagem, baseada em projetos desenvolvidos em equipas multi-disciplinares, pretende-se que os estudantes adquiram competências na área multimédia, de integração de conhecimentos, de gestão de projetos, de produção de conteúdos e de projeto e implementação de novos produtos, sistemas e aplicações.</p>
+
+## Programa
+<p>Mediação tecnológica da comunicação humana.<br />Empatia e emoção na narrativa e cultura.<br />Economia comportamental e experiência de utilizador.</p>
+<p>Projeto 1: Narrativas digitais <br />A transmissão da cultura humana sempre se fez através da narrativa. Neste projeto pretende-se explorar a linguagem dos novos media na construção de narrativas.</p>
+<p>Projeto 2: Sistemas de interação social <br />É a interação social que nos torna humanos. Neste projeto pretende-se desenvolver novas formas de interação social mediada tecnologicamente.</p>
+
+## Bibliografia obrigatória
+Russ Unger , Carolyn Chandler; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005795480108801" title="A Project Guide to UX Design: For user experience designers in the field or in the making (Abre numa nova janela)" target="_blank" >A Project Guide to UX Design: For user experience designers in the field or in the making</a>, New Riders, 2012. ISBN: 978-0321815385<br>
+
+## Bibliografia complementar
+Dan Saffer; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005413480108801" title="Designing for interaction (Abre numa nova janela)" target="_blank" >Designing for interaction</a>. ISBN: 978-0-321-64339-1 <br>
+Bill Moggridge; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002790520108801" title="Designing interactions (Abre numa nova janela)" target="_blank" >Designing interactions</a>, MIT Press, 2007. ISBN: 978-0262134743<br>
+Friedman, Anthony; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005312110108801" title="Writing for visual media (Abre numa nova janela)" target="_blank" >Writing for visual media</a>. ISBN: 978-0-240-80726-3 <br>
+Tapscott, Don; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005336530108801" title="Wikinomics (Abre numa nova janela)" target="_blank" >Wikinomics</a>. ISBN: 978-1-84354-636-8 <br>
+Sherry Turkle ; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008145780108801" title="Alone Together: Why We Expect More from Technology and Less from Each Other (Abre numa nova janela)" target="_blank" >Alone Together: Why We Expect More from Technology and Less from Each Other</a>, Basic Books, 2011. ISBN: 978-0465010219<br>
+Dan Ariely; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990001735670108801" title="Predictably Irrational: The Hidden Forces That Shape Our Decisions (Abre numa nova janela)" target="_blank" >Predictably Irrational: The Hidden Forces That Shape Our Decisions</a>, Harper, 2009. ISBN: 978-0061854545<br>
+written by Alexander Osterwalder and Yves Pigneur; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005502480108801" title="Business model generation (Abre numa nova janela)" target="_blank" >Business model generation</a>. ISBN: 978-0-470-87641-1 <br>
+Doumont, Jean-Luc; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005382670108801" title="Trees, maps, and theorems (Abre numa nova janela)" target="_blank" >Trees, maps, and theorems</a>. ISBN: 978-90-813677-07 <br>
+Anna Meroni, Daniela Sangiorgi ; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005563560108801" title="Design for Services (Abre numa nova janela)" target="_blank" >Design for Services</a>, Routledge, 2011. ISBN: 978-0566089206<br>
+David Eagleman; The Brain: The Story of You, Canongate Books, 2016. ISBN: 978-1782116615<br>
+Whitney Quesenbery, Kevin Brooks; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005543990108801" title="Storytelling for user experience (Abre numa nova janela)" target="_blank" >Storytelling for user experience</a>. ISBN: 978-1-933820-47-7 <br>
+Yuval Noah Harari; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008496330108801" title="Homo Deus: A Brief History of Tomorrow (Abre numa nova janela)" target="_blank" >Homo Deus: A Brief History of Tomorrow</a>, Harvill Secker, 2016. ISBN: 978-1910701874<br>
+Antonio Damasio; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009758570108801" title="The Strange Order of Things: Life, Feeling, and the Making of Cultures (Abre numa nova janela)" target="_blank" >The Strange Order of Things: Life, Feeling, and the Making of Cultures</a>, Pantheon, 2018. ISBN: 978-0307908759<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Dada a natureza multi-disciplinar da área multimédia e sendo esta uma unidade curricular centrada na prática laboratorial, considerou-se adequado como método o ensino/aprendizagem baseado em projetos de grupo.<br /><br />A metodologia de desenvolvimento destes projetos organiza-se em quatro fases iterativas: descobrir, definir, desenvolver, entregar (duplo diamante). São também abordadas ferramentas para a pesquisa, o planeamento, documentação e comunicação dos projetos.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Elaboração de projeto: 100.0 horas
+- Frequência das aulas: 30.0 horas
+- Trabalho escrito: 20.0 horas
+- Apresentação/discussão de um trabalho científico: 12.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação final resulta da média aritmética das classificações obtidas nos projetos. Em cada projeto são avaliadas as seguintes componentes:<br /><br />a) 50% Resultados do projeto<br />demonstração do protótipo (cumprimento dos objetivos, competência técnica, eficácia do produto).<br /><br />b) 25% Pitch do projeto<br />apresentação da ideia (clareza e concisão, inovação e originalidade, potencial de mercado, viabilidade e âmbito, qualidade da apresentação, experiência do utilizador),<br /><br />c) 25% Comunicação do projeto<br />documento vídeo<br /><br />A classificação final de cada estudante dependerá também da <strong>avaliação entre pares</strong> da sua participação na equipa de projeto.</p>
+
+## Obtenção de frequência
+<p>Deverá ser demonstrada a participação ativa no planeamento e concretização dos projetos de grupo.</p>
+
+## Melhoria de classificação
+<p>Sendo a avaliação distribuída sem exame final e resultante do desenvolvimento dos projetos em grupo, a classificação final só pode ser melhorada pela frequência de uma nova edição da unidade curricular.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Multimedia Laboratory
+
+## Curso responsável
+Master in Multimedia
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>The learning objectives of this course include the development of the following professional attitude and skills:</p>
+<p>a) autonomy and initiative in knowledge acquisition and integration of multimedia technologies;<br />b) multidisciplinary project and teamwork management skills;<br />c) concept, design and implementation of new innovative multimedia systems and applications, based in emergent technologies;<br />d) multimedia content specification and production, with communication effectiveness for the target public.</p>
+
+## Resultados de aprendizagem e competências
+<p>As a result of project based learning, developed in multi-disciplinary teams, it is intended that students acquire multimedia skills in knowledge integration, project management, content production, design and implementation of new products, systems and applications.</p>
+
+## Programa
+<p>Technology mediated human communication.<br />Empathy and emotion in narrative and culture.<br />Behavioural economics and user experience.<br /><br />Project 1: Digital Storytelling<br />The transmission of human culture has always been made through storytelling. In this project we intend to explore the language of the new media in the construction of narratives.<br /><br />Project 2: Social interaction systems<br />It is the social interaction that makes us human. This project intends to develop new forms of technology mediated social interaction.<br /><br /><br /></p>
+
+## Bibliografia obrigatória
+Russ Unger , Carolyn Chandler; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005795480108801" title="A Project Guide to UX Design: For user experience designers in the field or in the making (Opens in a new window)" target="_blank" >A Project Guide to UX Design: For user experience designers in the field or in the making</a>, New Riders, 2012. ISBN: 978-0321815385<br>
+
+## Bibliografia complementar
+Dan Saffer; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005413480108801" title="Designing for interaction (Opens in a new window)" target="_blank" >Designing for interaction</a>. ISBN: 978-0-321-64339-1 <br>
+Bill Moggridge; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002790520108801" title="Designing interactions (Opens in a new window)" target="_blank" >Designing interactions</a>, MIT Press, 2007. ISBN: 978-0262134743<br>
+Friedman, Anthony; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005312110108801" title="Writing for visual media (Opens in a new window)" target="_blank" >Writing for visual media</a>. ISBN: 978-0-240-80726-3 <br>
+Tapscott, Don; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005336530108801" title="Wikinomics (Opens in a new window)" target="_blank" >Wikinomics</a>. ISBN: 978-1-84354-636-8 <br>
+Sherry Turkle ; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008145780108801" title="Alone Together: Why We Expect More from Technology and Less from Each Other (Opens in a new window)" target="_blank" >Alone Together: Why We Expect More from Technology and Less from Each Other</a>, Basic Books, 2011. ISBN: 978-0465010219<br>
+Dan Ariely; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990001735670108801" title="Predictably Irrational: The Hidden Forces That Shape Our Decisions (Opens in a new window)" target="_blank" >Predictably Irrational: The Hidden Forces That Shape Our Decisions</a>, Harper, 2009. ISBN: 978-0061854545<br>
+written by Alexander Osterwalder and Yves Pigneur; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005502480108801" title="Business model generation (Opens in a new window)" target="_blank" >Business model generation</a>. ISBN: 978-0-470-87641-1 <br>
+Doumont, Jean-Luc; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005382670108801" title="Trees, maps, and theorems (Opens in a new window)" target="_blank" >Trees, maps, and theorems</a>. ISBN: 978-90-813677-07 <br>
+Anna Meroni, Daniela Sangiorgi ; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005563560108801" title="Design for Services (Opens in a new window)" target="_blank" >Design for Services</a>, Routledge, 2011. ISBN: 978-0566089206<br>
+David Eagleman; The Brain: The Story of You, Canongate Books, 2016. ISBN: 978-1782116615<br>
+Whitney Quesenbery, Kevin Brooks; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005543990108801" title="Storytelling for user experience (Opens in a new window)" target="_blank" >Storytelling for user experience</a>. ISBN: 978-1-933820-47-7 <br>
+Yuval Noah Harari; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008496330108801" title="Homo Deus: A Brief History of Tomorrow (Opens in a new window)" target="_blank" >Homo Deus: A Brief History of Tomorrow</a>, Harvill Secker, 2016. ISBN: 978-1910701874<br>
+Antonio Damasio; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009758570108801" title="The Strange Order of Things: Life, Feeling, and the Making of Cultures (Opens in a new window)" target="_blank" >The Strange Order of Things: Life, Feeling, and the Making of Cultures</a>, Pantheon, 2018. ISBN: 978-0307908759<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Due to the multidisciplinary nature of multimedia, this Lab course is operated in Project Based Learning groups.<br /><br />The methodology for development is organized in four iterative phases: discover, define, develop, deliver (double diamond). Tools for research, planning, document and communicate the projects are also addressed.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Elaboração de projeto: 100.0 hours
+- Frequência das aulas: 30.0 hours
+- Trabalho escrito: 20.0 hours
+- Apresentação/discussão de um trabalho científico: 12.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final grade results of the arithmetic average of the marks obtained in the projects. In each project are evaluated the following components:<br /><br />a) 50% Project results <br /><span style="font-weight: 400;">prototype demonstration (fulfillment of </span><span style="font-weight: 400;">goals</span><span style="font-weight: 400;">, technical proficiency, product effectiveness).</span><br /><br />b) 25% Project pitch<br /><span style="font-weight: 400;">idea pitch (</span><span style="font-weight: 400;">clarity and conciseness, innovation and originality, market potential, feasibility and scope, presentation quality, user experience)</span><br /><br />c) 25% Project communication<br />video document<br /><br /><span style="font-weight: 400;">The final grade of each student will also depend on the </span><strong>peer review</strong><span style="font-weight: 400;"> of his participation in the project team.</span></p>
+
+## Obtenção de frequência
+<p>Active participation in the planning and implementation of the teamwork projects must be demonstrated.</p>
+
+## Melhoria de classificação
+<p>Since the assessment is distributed without a final exam and results from the development of group projects, the final grade can only be improved by attending a new edition of the course.</p>
+

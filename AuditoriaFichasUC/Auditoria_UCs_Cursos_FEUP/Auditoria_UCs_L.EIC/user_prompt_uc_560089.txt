@@ -1,0 +1,461 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Matemática Discreta
+
+## Curso responsável
+Licenciatura em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p><!-- [if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--></p>
+<p><!-- [if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>PT</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="--"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!-- [if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]--><!-- [if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+</style>
+<![endif]--></p>
+<p><strong>Enquadramento</strong></p>
+<p>A Lógica constitui a base de qualquer raciocínio científico e essa é a razão primeira da sua inclusão no 1º ano do curso. Para além disso, no caso da Engenharia Informática, a Lógica tem um interesse direto operacional em múltiplas dimensões da profissão.</p>
+<p><strong>Objetivos específicos</strong></p>
+<p>- Identificar o significado de fórmulas lógicas.<br />- Identificar teoremas, contradições, e fórmulas satisfazíveis, utilizando álgebra booleana, dedução natural, ou tabelas de verdade.<br />- Identificar e calcular as formas normais de fórmulas lógicas.<br />- Criar fórmulas lógicas para representar conhecimento e construir modelos para as mesmas.<br />- Interpretar e provar propriedades de números usando teoria de números.<br />- Interpretar operações sobre conjuntos e os seus resultados.<br />- Provar propriedades de conjuntos e das suas operações.<br />- Associar relações binárias e funções às suas propriedades.<br />- Examinar grafos de forma a identificar propriedades dos mesmos.<br />- Aplicar a indução matemática a provas de propriedades.</p>
+<p><strong>Distribuição percentual</strong></p>
+<p>Componente científica: 100%</p>
+<p>Componente tecnológica: 0%.</p>
+
+## Resultados de aprendizagem e competências
+<p>- Ser capaz de utilizar lógica proposicional e de 1ª ordem para representar conhecimento. <br />- Ser capaz de analizar fórmulas das lógicas estudadas quer na perspetiva semântica, quer na perspetica de prova.<br />- Conseguir identificar, aplicar, e provar propriedades de números, conjuntos, relações binárias, funções e grafos.<br />- Ser capaz de provar propriedades de conjuntos infinitos, utilizando indução.<br />- Ser capaz de resolver problemas das estruturas lecionadas.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Conhecimentos de matemática elementar.</p>
+
+## Programa
+<p>Lógica proposicional.<br />Métodos de prova em lógica proposicional.<br /><br />Quantificadores e representação do conhecimento.<br />Métodos de prova em lógica de primeira ordem.<br /><br />Introdução à teoria dos números.<br />Congruências e equações de aritmética modular.<br /><br />Conjuntos, relações e ordens parciais.<br /><br />Funções.<br /><br />Teoria de Grafos.<br /><br />Indução e recursão.</p>
+
+## Bibliografia obrigatória
+Ralph P. Grimaldi; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002982990108801" title="Discrete and Combinatorial Mathematics: An Applied Introduction (Abre numa nova janela)" target="_blank" >Discrete and Combinatorial Mathematics: An Applied Introduction</a>, Pearson, 2003. ISBN: 978-0201726343<br>
+Michael Huth; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002634060108801" title="Logic in Computer Science (Abre numa nova janela)" target="_blank" >Logic in Computer Science</a>. ISBN: 0-521-54310-X <br>
+Edgar G. Goodaire, Michael M. Parmenter; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005578520108801" title="Discrete mathematics with graph theory (Abre numa nova janela)" target="_blank" >Discrete mathematics with graph theory</a>. ISBN: 0-13-167995-3 <br>
+
+## Bibliografia complementar
+John O.Donnell; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009635250108801" title=" Discrete mathematics using a computer (Abre numa nova janela)" target="_blank" > Discrete mathematics using a computer</a>, Springer. ISBN: 1-84628-241-1<br>
+Richard Johnsonbaugh; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004799090108801" title="Discrete mathematics (Abre numa nova janela)" target="_blank" >Discrete mathematics</a>. ISBN: 0-13-127767-7 <br>
+Edward R. Scheinerman; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005673060108801" title="Mathematics: A Discrete Introduction, 3rd ed. (Abre numa nova janela)" target="_blank" >Mathematics: A Discrete Introduction, 3rd ed.</a>, Brooks/Cole Cengage Learning, 2013. ISBN: 978-0-8400-6528-5<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Aulas teóricas de exposição dos conteúdos programáticos. <br />Aulas práticas de resolução de exercícios propostos semanalmente. Cinco semanas terão exercícios de avaliação.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 92.0 horas
+- Frequência das aulas: 70.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+Exercícios para avaliação nas aulas práticas (20% do peso da nota final) - EX.<br />Primeiro teste (40% de peso na nota final) - PT.<br />Segunto teste (40% de peso na nota final) - ST.<br /><br />Sendo EX a classificação obtida nos exercícios para avaliação das aulas práticas, PT a classificação obtida no primeiro teste, e ST a classificação obtida no segundo teste, então a nota final é dada por:<br />F = EX * (0,2) + PT*(0,4) + ST*(0,4) <br />EX &gt; 0, PT,ST &gt;= 6 e F &gt;= 9.5<br /><br />Não obterão aprovação na avaliação distribuída, os alunos que não obtiverem um mínimo de 6 valores (em 20), em ambos os testes, e um mínimo de 9.5 valores de nota final. Também não obterão aprovação na avaliação distribuída os estudantes que não obtiverem nenhum ponto em nenhum exercício para avaliação nas aulas práticas.<br /><br />Para os alunos que não obtiverem aprovação, haverá um exame de recurso com os conteúdos totais da disciplina. Os estudantes devem fazer a totalidade do exame e o resultado neste será a nota que obteram na segunda fase.
+
+## Obtenção de frequência
+<p>Para obter frequência, o estudante não pode exceder o limite legal de faltas.<br /><br />Os estudantes que que obtiveram frequência no ano anterior NÃO estão isentos de frequentar as aulas práticas.</p>
+
+## Melhoria de classificação
+<p>O exame de recurso é sobre toda a matéria. Um estudante que pretenda fazer melhoria realizará este exame.<br /><br />O exame de recurso NÃO está dividido em partes.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Discrete Mathematics
+
+## Curso responsável
+Bachelor in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p data-pm-slice="1 1 []"><strong>Background</strong></p>
+<p>Logic is the foundation of any scientific reasoning, and that is the main reason for its inclusion in the first year of the degree. Furthermore, in the case of a Computer Science program, Logic has direct operational relevance in multiple professional aspects.</p>
+<p><strong>Specific aims</strong></p>
+<p>- Identify the meaning of logic formulas.<br />- Identify theorems, contradictions, and satisfiable formulas, using Boolean algebra, natural deduction, or truth tables.<br />- Identify and calculate normal forms of logic formulas.<br />- Create logic formulas to represent knowledge and construct models for them.<br />- Interpret and prove properties of numbers using number theory.<br />- Interpret operation on sets and their results.<br />- Prove properties of sets and their operations.<br />- Associate binary relations and functions to their properties.<br />- Examine graphs so as to identify their properties.<br />- Apply mathematical induction to proofs of properties.</p>
+<p><strong>Percentual distribution</strong></p>
+<p>Scientific component: 100%</p>
+<p>Technological component: 0%.</p>
+
+## Resultados de aprendizagem e competências
+<p>- Be able to use propositional and first-order logic to represent knowledge.<br />- Be able to analyse formulas of the studied logics both from the semantics perspective and the proof perspective.<br />- Be able to identify, apply, and prove properties of numbers, sets, binary relations, functions, and graphs.<br />- Be able to prove properties of infinite sets using induction.<br />- Be able to solve problems about the structures studied in class.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Knowledge of elementary mathematics.</p>
+
+## Programa
+<p>Propositional logic.<br />Proof methods in propositional logic.<br /><br />Quantifiers and knowledge representation.<br />Proof methods in first order logic.<br /><br />Introduction to number theory.<br />Congruences and modular arithmetic equations.<br /><br />Sets, relations, and partial orders.<br /><br />Functions.<br /><br />Graph theory.<br /><br />Induction and recursion.</p>
+
+## Bibliografia obrigatória
+Ralph P. Grimaldi; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002982990108801" title="Discrete and Combinatorial Mathematics: An Applied Introduction (Opens in a new window)" target="_blank" >Discrete and Combinatorial Mathematics: An Applied Introduction</a>, Pearson, 2003. ISBN: 978-0201726343<br>
+Michael Huth; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002634060108801" title="Logic in Computer Science (Opens in a new window)" target="_blank" >Logic in Computer Science</a>. ISBN: 0-521-54310-X <br>
+Edgar G. Goodaire, Michael M. Parmenter; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005578520108801" title="Discrete mathematics with graph theory (Opens in a new window)" target="_blank" >Discrete mathematics with graph theory</a>. ISBN: 0-13-167995-3 <br>
+
+## Bibliografia complementar
+John O.Donnell; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009635250108801" title=" Discrete mathematics using a computer (Opens in a new window)" target="_blank" > Discrete mathematics using a computer</a>, Springer. ISBN: 1-84628-241-1<br>
+Richard Johnsonbaugh; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004799090108801" title="Discrete mathematics (Opens in a new window)" target="_blank" >Discrete mathematics</a>. ISBN: 0-13-127767-7 <br>
+Edward R. Scheinerman; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005673060108801" title="Mathematics: A Discrete Introduction, 3rd ed. (Opens in a new window)" target="_blank" >Mathematics: A Discrete Introduction, 3rd ed.</a>, Brooks/Cole Cengage Learning, 2013. ISBN: 978-0-8400-6528-5<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Lectures: exposition of the elements in the syllabus. <br />Lab classes: resolution of proposed exercises each week. Five weeks will have evaluation exercises.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 92.0 hours
+- Frequência das aulas: 70.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+Evaluation exercises in the practical lectures (20% of the final grade) - EX.<br />First test (40% of the final grade) - FT.<br />Second test (40% of the final grade) - ST.<br /><br />If EX is the grade obtained in the evaluation exercises from the practical lectures, FT is the grade obtained in the first test, and ST the grade obtained in second test, then the final mark is given by:<br />F = FT*(0.5) + ST*(0.5)  <br />EX &gt; 0, FT,ST &gt;= 6 and F &gt;= 9.5<br /><br />To get approval in the distributed evaluation, students must obtain a minimum of 6 points (in a total of 20) in each test, and a minimum of 9.5 as final mark. Moreover, to get approval, the students must have some point in at least one of the evaluation exercises in the practical lectures.<br /><br />The students not obtaining approval, can take a resit exam with the contents of the totality of the course. Students must do the full exam and their grade will be the grade obtained in the exam.
+
+## Obtenção de frequência
+<p>To get an attendance certificate, the student must attend the required number of lectures.<br /><br />Students who obtained attendance in the previous year are NOT exempted from attending practical classes.</p>
+
+## Melhoria de classificação
+<p>The resit exam scope is on the whole course contents. A student that pretends to improve his grade must attend this exam.<br /><br />The resit exam is NOT divided into parts.</p>
+

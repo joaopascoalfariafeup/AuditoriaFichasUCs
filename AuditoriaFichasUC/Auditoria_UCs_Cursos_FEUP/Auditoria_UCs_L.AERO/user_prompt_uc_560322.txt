@@ -1,0 +1,116 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Competição em Engenharia Aeroespacial
+
+## Curso responsável
+Licenciatura em Engenharia Aeroespacial
+
+## Créditos ECTS
+1,5
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+O objetivo da unidade curricular é envolver os estudantes na conceção prática e fabrico de uma aeronave. Ao aplicarem os conhecimentos teóricos adquiridos no início da unidade curricular, os estudantes colaboram em equipas para construir planadores/pequenas aeronaves, melhorando as competências de trabalho em equipa, pensamento crítico e resolução de problemas. Através da experiência prática, desenvolvem a criatividade, inovação e gestão de projetos. Os estudantes comunicam as escolhas de conceção e competem contra as outras equipas. Esta unidade curricular proporciona um ambiente dinâmico para aplicar princípios de engenharia, preparando os estudantes para desafios do mundo real e fornecendo competências essenciais para as suas carreiras futuras.
+
+## Resultados de aprendizagem e competências
+Espera-se que os estudantes tenham uma primeira interação com a conceção e fabrico de uma aeronave. Para além disso, espera-se que não só adquiram e pratiquem os conceitos abordados num ambiente real, mas igualmente desenvolvam o espirito de colaboração, cooperação e trabalho em equipa. O acompanhamento da evolução dos projetos permite uma aferição efetiva da evolução dos conhecimentos e competências adquiridas. Através de uma metodologia de ensino baseado em projetos, é possível não só aplicar os conceitos já adquiridos, como também aprofundá-los através da prática e integração dos mesmos, com um acompanhamento e monitorização regulares. Desta forma, adota-se uma filosofia pedagógica de &quot;aprender, fazendo&quot; que estimula a interiorização dos conhecimentos e expõe os estudantes aos problemas reais que surgem durante um projeto de engenharia.
+
+## Programa
+Os estudantes aplicarão os seus conhecimentos num projeto integrado que engloba a conceção, análise e fabrico de um planador/aeronave. Os estudantes serão agrupados em equipas e receberão responsabilidades individuais (e.g, conceção, análise, fabrico). Cada estudante receberá formação inicial, abordando conceitos fundamentais para uma conceção eficiente da aeronave:<br /><br />- Conceção: Tipos de aeronaves de asa fixa, princípios básicos, variáveis no dimensionamento da asa.<br />- Análise: Forças aerodinâmicas, pontos críticos na conceção estrutural, conexões entre fuselagem e asas.<br />- Fabrico: Materiais apropriados para cada parte, produção de componentes, etc.<br /><br />Será disponibilizado material e ferramentas básicas. Os estudantes receberão um regulamento para a competição. Cada equipa conceberá, fabricará a estrutura e competirá internamente no final da unidade curricular. O projeto compreende:<br /><br />- Definição detalhada do problema.<br />- Pesquisa bibliográfica.<br />- Elaboração de um relatório síntese.<br />- Desenvolvimento e/ou aplicação de modelos.<br />- Competição.
+
+## Bibliografia obrigatória
+Frati , Stelio; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009896820108801" title="The glider (Abre numa nova janela)" target="_blank" >The glider</a><br>
+
+## Bibliografia complementar
+Megson, T. H. G.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma9910145053708801" title="Aircraft structures for engineering students / (Abre numa nova janela)" target="_blank" >Aircraft structures for engineering students /</a>. ISBN: 0128228687<br>
+Megson, T. H. G.,; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma9910114182808801" title="Introduction to aircraft structural analysis / (Abre numa nova janela)" target="_blank" >Introduction to aircraft structural analysis /</a>. ISBN: 0-08-102076-7<br>
+Gudmundsson , Snorri; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008568390108801" title="General aviation aircraft design : applied methods and procedures (Abre numa nova janela)" target="_blank" >General aviation aircraft design : applied methods and procedures</a>. ISBN: 978-0-12-397329-0(Ebook)<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Os estudantes serão agrupados em equipas e receberão responsabilidades individuais (por exemplo, conceção, análise, fabrico). Cada estudante receberá formação inicial, abordando conceitos fundamentais para uma conceção eficiente da aeronave.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Elaboração de projeto: 27.5 horas
+- Frequência das aulas: 13.0 horas
+- Total:: 40.5 horas
+
+## Fórmula de cálculo da classificação final
+A <strong>classificação final</strong> corresponderá à classificação do projeto, conforme estabelecido no regulamento da competição.
+
+## Obtenção de frequência
+Os estudantes obtêm frequência desde que não excedam o número limite de faltas (25% do número de aulas teórico-práticas previstas).
+
+## Exames ou Trabalhos Especiais
+Não aplicável.
+
+## Melhoria de classificação
+Não aplicável.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Competition in Aerospace Engineering
+
+## Curso responsável
+Bachelor in Aerospace Engineering
+
+## Créditos ECTS
+1,5
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+The objective of the course is to engage students in hands-on design and manufacturing of a aerostructure. By applying theoretical knowledge learned at the beginning of the course, students collaborate in teams to build functional gliders/small aircraft, enhancing teamwork, critical thinking, and problem-solving skills. Through practical experience, they learn creativity, innovation, and project management. Students communicate design choices, and compete, fostering communication and healthy competition. This course provides a dynamic environment to apply engineering principles, preparing students for real-world challenges and equipping them with essential skills for their future careers.
+
+## Resultados de aprendizagem e competências
+Students are expected to have a first grasp of design and manufacturing of a glider/aeroplane. Moreover, the project-based teaching methodology allows students not only to acquire and practice the concepts covered in a real-world setting but also to develop a spirit of collaboration, cooperation and teamwork. Monitoring the progress of the projects provides an effective assessment of the acquired knowledge and skills. Through a project-based teaching methodology, it is possible not only to apply the concepts already acquired but also to deepen them through practical application and integration, with regular guidance and monitoring. This way, a pedagogical philosophy of &quot;learning by doing&quot; is adopted, which exposes students to real-world problems that arise during an engineering project.
+
+## Programa
+The students will apply their knowledge in an integrated project that encompasses the design, analysis and manufacturing of a glider/aircraft. The students will be grouped into teams and assigned responsibilities (e.g., design, analysis, manufacturing). Each student will receive initial training specific to their task, covering fundamental concepts for efficient aircraft design:<br /><br />- Design: Types of fixed-wing aircraft, basic principles, variables in wing sizing.<br />- Analysis: Aerodynamic forces, critical points in structural design, connections between fuselage and wings.<br />- Manufacturing: Appropriate materials for each part, component production.<br /><br />Basic materials and tools will be provided for manufacturing. Students will receive a competition regulation. Each team will design, manufacture and compete internally at the end of the course. The project includes:<br /><br />- Detailed problem definition.<br />- Literature review.<br />- Preparation of a report.<br />- Models development and/or application.<br />- Competition.
+
+## Bibliografia obrigatória
+Frati , Stelio; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009896820108801" title="The glider (Opens in a new window)" target="_blank" >The glider</a><br>
+
+## Bibliografia complementar
+Megson, T. H. G.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma9910145053708801" title="Aircraft structures for engineering students / (Opens in a new window)" target="_blank" >Aircraft structures for engineering students /</a>. ISBN: 0128228687<br>
+Megson, T. H. G.,; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma9910114182808801" title="Introduction to aircraft structural analysis / (Opens in a new window)" target="_blank" >Introduction to aircraft structural analysis /</a>. ISBN: 0-08-102076-7<br>
+Gudmundsson , Snorri; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008568390108801" title="General aviation aircraft design : applied methods and procedures (Opens in a new window)" target="_blank" >General aviation aircraft design : applied methods and procedures</a>. ISBN: 978-0-12-397329-0(Ebook)<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Students will be grouped into teams and assigned individual responsibilities (e.g., design, analysis, manufacturing). Each student will receive initial training, covering fundamental concepts for efficient aircraft design.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Elaboração de projeto: 27.5 hours
+- Frequência das aulas: 13.0 hours
+- Total:: 40.5 hours
+
+## Fórmula de cálculo da classificação final
+The<strong> final mark</strong> results from the grade of the project, following the regulations established for the competition.
+
+## Obtenção de frequência
+The students are eligible for approval if they attend at least 75% of the planned lectures.
+
+## Exames ou Trabalhos Especiais
+Non-applicable.
+
+## Melhoria de classificação
+Non-applicable.
+

@@ -1,0 +1,116 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Eletromagnetismo II
+
+## Curso responsável
+Licenciatura em Engenharia Física
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+Complementar e alargar a formação em Eletromagnetismo. Desenvolver a capacidade de formulação matemática do Electromagnetismo fazendo pleno uso do cálculo diferencial e integral. Integrar conhecimentos adquiridos em outras UC para uma abordagem abrangente dos fenómenos físicos. Descrever situações físicas envolvendo as questões abordadas na UC, de solucionar problemas desses tópicos, e de estabelecer ligações a situações experimentais e tecnológicas. Apresentar e descrever aplicações relevantes do Eletromagnetismo em ciência e tecnologia. Preparar os estudantes para UC mais específicas e avançadas do curso.
+
+## Resultados de aprendizagem e competências
+<div class=&quot;flex basis-auto flex-col -mb-(--composer-overlap-px) [--composer-overlap-px:55px] grow overflow-hidden&quot;><br /><div class=&quot;relative h-full&quot;><br /><div class=&quot;flex h-full flex-col overflow-y-auto [scrollbar-gutter:stable_both-edges] @[84rem]/thread:pt-(--header-height)&quot;><br /><div class=&quot;@thread-xl/thread:pt-header-height flex flex-col text-sm pb-25&quot;><br /><article class=&quot;text-token-text-primary w-full&quot; dir=&quot;auto&quot; data-testid=&quot;conversation-turn-8&quot; data-scroll-anchor=&quot;true&quot;><br /><div class=&quot;text-base my-auto mx-auto py-5 [--thread-content-margin:--spacing(4)] @[37rem]:[--thread-content-margin:--spacing(6)] @[72rem]:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)&quot;><br /><div class=&quot;[--thread-content-max-width:32rem] @[34rem]:[--thread-content-max-width:40rem] @[64rem]:[--thread-content-max-width:48rem] mx-auto flex max-w-(--thread-content-max-width) flex-1 text-base gap-4 md:gap-5 lg:gap-6 group/turn-messages focus-visible:outline-hidden&quot; tabindex=&quot;-1&quot;><br /><div class=&quot;group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn&quot;><br /><div class=&quot;relative flex-col gap-1 md:gap-3&quot;><br /><div class=&quot;flex max-w-full flex-col grow&quot;><br /><div class=&quot;min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-5&quot; dir=&quot;auto&quot; data-message-author-role=&quot;assistant&quot; data-message-id=&quot;813efe5f-a879-415b-ad54-a74fcf675c7a&quot; data-message-model-slug=&quot;gpt-4o&quot;><br /><div class=&quot;flex w-full flex-col gap-1 empty:hidden first:pt-[3px]&quot;><br /><div class=&quot;streaming-animation markdown prose dark:prose-invert w-full break-words dark&quot;><br /><ol data-start=&quot;320&quot; data-end=&quot;2317&quot;><br /><li data-start=&quot;320&quot; data-end=&quot;445&quot;><br /><p data-start=&quot;323&quot; data-end=&quot;445&quot;><strong data-start=&quot;323&quot; data-end=&quot;335&quot;>Explicar</strong> o significado físico de cada uma das equações de Maxwell, tanto em suas formas diferenciais quanto integrais.</p><br /></li><br /><li data-start=&quot;447&quot; data-end=&quot;581&quot;><br /><p data-start=&quot;450&quot; data-end=&quot;581&quot;><strong data-start=&quot;450&quot; data-end=&quot;463&quot;>Descrever</strong> a distinção entre eletrostática, magnetostática e eletrodinâmica, apresentando exemplos apropriados para cada regime.</p><br /></li><br /><li data-start=&quot;583&quot; data-end=&quot;722&quot;><br /><p data-start=&quot;586&quot; data-end=&quot;722&quot;><strong data-start=&quot;586&quot; data-end=&quot;601&quot;>Interpretar</strong> o papel da polarização e da magnetização na modificação das equações dos campos elétrico e magnético em meios materiais.</p><br /></li><br /><li data-start=&quot;724&quot; data-end=&quot;918&quot;><br /><p data-start=&quot;727&quot; data-end=&quot;918&quot;><strong data-start=&quot;727&quot; data-end=&quot;739&quot;>Resolver</strong> problemas de valor de contorno envolvendo as equações de Laplace e de Poisson para distribuições simples de carga, utilizando métodos como separação de variáveis e cargas-imagem.</p><br /></li><br /><li data-start=&quot;920&quot; data-end=&quot;1055&quot;><br /><p data-start=&quot;923&quot; data-end=&quot;1055&quot;><strong data-start=&quot;923&quot; data-end=&quot;934&quot;>Aplicar</strong> a Lei de Ampère e a Lei de Biot&#8211;Savart para calcular campos magnéticos gerados por distribuições simétricas de corrente.</p><br /></li><br /><li data-start=&quot;1057&quot; data-end=&quot;1214&quot;><br /><p data-start=&quot;1060&quot; data-end=&quot;1214&quot;><strong data-start=&quot;1060&quot; data-end=&quot;1072&quot;>Analisar</strong> a energia armazenada nos campos elétrico e magnético, bem como <strong data-start=&quot;1136&quot; data-end=&quot;1147&quot;>avaliar</strong> densidades de energia e o vetor de Poynting em sistemas dinâmicos.</p><br /></li><br /><li data-start=&quot;1216&quot; data-end=&quot;1401&quot;><br /><p data-start=&quot;1219&quot; data-end=&quot;1401&quot;><strong data-start=&quot;1219&quot; data-end=&quot;1231&quot;>Utilizar</strong> as equações de Maxwell para obter as equações de onda no vácuo e em meios dielétricos, e <strong data-start=&quot;1323&quot; data-end=&quot;1335&quot;>resolvê-las</strong> para as características de propagação das ondas eletromagnéticas.</p><br /></li><br /><li data-start=&quot;1403&quot; data-end=&quot;1542&quot;><br /><p data-start=&quot;1406&quot; data-end=&quot;1542&quot;><strong data-start=&quot;1406&quot; data-end=&quot;1418&quot;>Calcular</strong> coeficientes de reflexão e transmissão em interfaces entre meios distintos, aplicando as condições de fronteira apropriadas.</p><br /></li><br /><li data-start=&quot;1544&quot; data-end=&quot;1692&quot;><br /><p data-start=&quot;1547&quot; data-end=&quot;1692&quot;><strong data-start=&quot;1547&quot; data-end=&quot;1560&quot;>Manipular</strong> identidades vetoriais, integrais de superfície e de volume, e utilizá-las para expressar e simplificar expressões eletromagnéticas.</p><br /></li><br /><li data-start=&quot;1694&quot; data-end=&quot;1866&quot;><br /><p data-start=&quot;1698&quot; data-end=&quot;1866&quot;><strong data-start=&quot;1698&quot; data-end=&quot;1709&quot;>Avaliar</strong> grandezas de campo utilizando sistemas de coordenadas apropriados (cartesiano, cilíndrico, esférico) e <strong data-start=&quot;1813&quot; data-end=&quot;1826&quot;>converter</strong> entre esses sistemas quando necessário.</p><br /></li><br /><li data-start=&quot;1868&quot; data-end=&quot;1984&quot;><br /><p data-start=&quot;1872&quot; data-end=&quot;1984&quot;><strong data-start=&quot;1872&quot; data-end=&quot;1883&quot;>Modelar</strong> sistemas realistas que envolvem dielétricos e condutores, e <strong data-start=&quot;1944&quot; data-end=&quot;1954&quot;>prever</strong> sua resposta eletromagnética.</p><br /></li><br /><li data-start=&quot;1986&quot; data-end=&quot;2134&quot;><br /><p data-start=&quot;1990&quot; data-end=&quot;2134&quot;><strong data-start=&quot;1990&quot; data-end=&quot;2014&quot;>Avaliar criticamente</strong> as suposições envolvidas em modelos eletromagnéticos (por exemplo, aproximações quasiestáticas, materiais idealizados).</p><br /></li><br /><li data-start=&quot;2136&quot; data-end=&quot;2317&quot;><br /><p data-start=&quot;2140&quot; data-end=&quot;2317&quot;><strong data-start=&quot;2140&quot; data-end=&quot;2154&quot;>Sintetizar</strong> conhecimentos desde os fenómenos independentes do tempo até as ondas eletromagnéticas para <strong data-start=&quot;2226&quot; data-end=&quot;2238&quot;>explicar</strong> sistemas reais de interesse tecnológico.</p><br /></li><br /></ol><br /></div><br /></div><br /></div><br /></div><br /></div><br /></div><br /></div><br /></div><br /></article><br /></div><br /></div><br /></div><br /></div><br /><div id=&quot;thread-bottom-container&quot; class=&quot;content-fade relative isolate z-10 w-full basis-auto has-data-has-thread-error:pt-2 has-data-has-thread-error:[box-shadow:var(--sharp-edge-bottom-shadow)] md:border-transparent md:pt-0 dark:border-white/20 md:dark:border-transparent flex flex-col&quot;> </div>
+
+## Pré-requisitos e co-requisitos
+Conhecimentos consolidados de Mecânica, Análise Vectorial, Análise Real, e Electromagnetismo I.
+
+## Programa
+1. Eletrostática. Leis da eletrostática no vácuo na forma diferencial. Expansão multipolar de campos. Equações de Poisson e Laplace; soluções em coordenadas cartesianas, esféricas e cilíndricas. Método das imagens. Eletrostática em dielétricos; problemas de fronteira. Energia eletrostática, forças e momentos. Coeficientes de capacidade e indução.<br /><br />2. Campo magnético de correntes estacionárias. Leis da magnetostatica na forma diferencial. Expansão multipolar de campos. Potencial vetor magnético. Potencial magnético escalar. Magnetostatica na matéria; problemas de fronteira. Circuitos magnéticos e ímãs permanentes.<br /><br />3. Campos elétricos e magnéticos dependentes do tempo. Indução magnética. Auto-indutância e indutância mútua. Energia magnética, forças e momentos. Indução elétrica. Leis de Maxwell. Energia e impulso do campo eletromagnético.<br /><br />4. Ondas eletromagnéticas. Ondas planas monocromáticas em dielétricos e meios condutores. Subreposição de ondas. Dispersão. Ondas esféricas. Ondas planas e interfaces dielétricas, leis de Snell e Fresnel.
+
+## Bibliografia obrigatória
+Griffiths David J.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002813630108801" title="Introduction to electrodynamics (Abre numa nova janela)" target="_blank" >Introduction to electrodynamics</a>. ISBN: 0-13-919960-8 <br>
+Reitz John R.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002969440108801" title="Foundations of electromagnetic theory (Abre numa nova janela)" target="_blank" >Foundations of electromagnetic theory</a>. ISBN: 0201063328 :<br>
+
+## Bibliografia complementar
+Jackson John David; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990001986330108801" title="Classical electrodynamics (Abre numa nova janela)" target="_blank" >Classical electrodynamics</a>. ISBN: 0-471-30932-X <br>
+Feynman Richard Phillips; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002781170108801" title="The Feynman lectures on physics (Abre numa nova janela)" target="_blank" >The Feynman lectures on physics</a>. ISBN: 0-8053-9047-2 (Vol. II)<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Aulas teóricas de exposição e discussão dos temas abordados, apresentando exemplos para a compreensão dos conceitos, leis e técnicas de cálculo. Aulas teórico-práticas de resolução de exercícios e problemas.
+
+## Tipo de avaliação
+Avaliação por exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 114.0 horas
+- Frequência das aulas: 48.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+Exame final: 100%.
+
+## Obtenção de frequência
+Frequência das aulas teórico-práticas, de acordo com o Regulamento de Avaliação da UPorto. Os estudantes que tiverem obtido frequência no ano anterior poderão solicitar dispensa das aulas teórico-práticas.
+
+## Melhoria de classificação
+Por exame final.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Electromagnetism II
+
+## Curso responsável
+Bachelor in Engineering Physics
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+Deepen knowledge of the fundamental phenomena and principles of electromagnetism. Apply differential and integral calculus techniques to formulate problems. Integrate knowledge obtained in other courses for a comprehensive approach of the physical phenomena. Describe physical situations involving the issues addressed in the course, to solve problems, and to establish links to experimental and technological situations. Present and describe relevant applications of Electromagnetism in science and technology. Prepare the students to advanced courses.
+
+## Resultados de aprendizagem e competências
+<ul><br /><li data-start=&quot;457&quot; data-end=&quot;569&quot;><br /><p data-start=&quot;460&quot; data-end=&quot;569&quot;><strong data-start=&quot;460&quot; data-end=&quot;471&quot;>Explain</strong> the physical significance of each of Maxwell&#8217;s equations in both differential and integral forms.</p><br /></li><br /><li data-start=&quot;570&quot; data-end=&quot;689&quot;><br /><p data-start=&quot;573&quot; data-end=&quot;689&quot;><strong data-start=&quot;573&quot; data-end=&quot;585&quot;>Describe</strong> the distinction between electrostatics, magnetostatics, and electrodynamics, with appropriate examples.</p><br /></li><br /><li data-start=&quot;690&quot; data-end=&quot;815&quot;><br /><p data-start=&quot;693&quot; data-end=&quot;815&quot;><strong data-start=&quot;693&quot; data-end=&quot;706&quot;>Interpret</strong> the role of polarization and magnetization in modifying the electric and magnetic field equations in matter.</p><br /></li><br /><li data-start=&quot;844&quot; data-end=&quot;1022&quot;><br /><p data-start=&quot;847&quot; data-end=&quot;1022&quot;><strong data-start=&quot;847&quot; data-end=&quot;856&quot;>Solve</strong> boundary value problems involving Laplace&#8217;s and Poisson&#8217;s equations for simple charge configurations using methods such as separation of variables and image charges.</p><br /></li><br /><li data-start=&quot;1023&quot; data-end=&quot;1132&quot;><br /><p data-start=&quot;1026&quot; data-end=&quot;1132&quot;><strong data-start=&quot;1026&quot; data-end=&quot;1035&quot;>Apply</strong> Ampère&#8217;s Law and Biot&#8211;Savart Law to compute magnetic fields for symmetric current distributions.</p><br /></li><br /><li data-start=&quot;1133&quot; data-end=&quot;1268&quot;><br /><p data-start=&quot;1136&quot; data-end=&quot;1268&quot;><strong data-start=&quot;1136&quot; data-end=&quot;1147&quot;>Analyze</strong> the energy stored in electric and magnetic fields and evaluate energy densities and Poynting vectors in dynamic systems.</p><br /></li><br /><li data-start=&quot;1309&quot; data-end=&quot;1471&quot;><br /><p data-start=&quot;1312&quot; data-end=&quot;1471&quot;><strong data-start=&quot;1312&quot; data-end=&quot;1319&quot;>Use</strong> Maxwell&#8217;s equations to derive wave equations in vacuum and in dielectric media, and <strong data-start=&quot;1404&quot; data-end=&quot;1413&quot;>solve</strong> for propagation characteristics of electromagnetic waves.</p><br /></li><br /><li data-start=&quot;1472&quot; data-end=&quot;1584&quot;><br /><p data-start=&quot;1475&quot; data-end=&quot;1584&quot;><strong data-start=&quot;1475&quot; data-end=&quot;1488&quot;>Calculate</strong> reflection and transmission coefficients at boundaries between media using boundary conditions.</p><br /></li><br /><li data-start=&quot;1738&quot; data-end=&quot;1871&quot;><br /><p data-start=&quot;1742&quot; data-end=&quot;1871&quot;><strong data-start=&quot;1742&quot; data-end=&quot;1756&quot;>Manipulate</strong> vector identities, surface and volume integrals, and use them to express and simplify electromagnetic expressions.</p><br /></li><br /><li data-start=&quot;1872&quot; data-end=&quot;2024&quot;><br /><p data-start=&quot;1876&quot; data-end=&quot;2024&quot;><strong data-start=&quot;1876&quot; data-end=&quot;1888&quot;>Evaluate</strong> field quantities using appropriate coordinate systems (Cartesian, cylindrical, spherical), and <strong data-start=&quot;1984&quot; data-end=&quot;1995&quot;>convert</strong> between them when necessary.</p><br /></li><br /><li data-start=&quot;2057&quot; data-end=&quot;2174&quot;><br /><p data-start=&quot;2061&quot; data-end=&quot;2174&quot;><strong data-start=&quot;2061&quot; data-end=&quot;2070&quot;>Model</strong> realistic systems involving dielectrics and conductors, and <strong data-start=&quot;2131&quot; data-end=&quot;2142&quot;>predict</strong> their electromagnetic response.</p><br /></li><br /><li data-start=&quot;2175&quot; data-end=&quot;2296&quot;><br /><p data-start=&quot;2179&quot; data-end=&quot;2296&quot;><strong data-start=&quot;2179&quot; data-end=&quot;2200&quot;>Critically assess</strong> assumptions in electromagnetic models (e.g., quasi-static approximations, idealized materials).</p><br /></li><br /><li data-start=&quot;2306&quot; data-end=&quot;2432&quot;><br /><p data-start=&quot;2308&quot; data-end=&quot;2432&quot;><strong>Synthesiz</strong>e knowledge from static phenomena to time to waves to explain real-world EM systems.</p><br /></li><br /></ul>
+
+## Pré-requisitos e co-requisitos
+Solid background in Mechanics, Vector Analysis, Real Analysis, and Electromagnetism I.
+
+## Programa
+1. Electrostatics. Electrostatics laws in differential form in vacuum. Multipolar expansion of fields. Poisson and Laplace equations; solutions in Cartesian, spherical and cylindrical coordinates. Method of images. Electrostatics in dielectrics; boundary problems. Electrostatic energy, forces and moments. Coefficients of capacity and induction.<br /><br />2. Magnetic field of steady currents. Laws of Magnetostatics in differential form. Multipolar expansion of fields. Magnetic vector potential. Scalar magnetic potential. Magnetostatics in matter; boundary problems. Magnetic circuits and permanent magnets.<br /><br />3. Time-dependent electric and magnetic fields. Magnetic induction. Self and mutual inductance. Magnetic energy, forces and moments. Electric induction. Maxwell's Laws. Energy and momentum of the electromagnetic field.<br /><br />4. Electromagnetic waves. Monochromatic plane waves in dielectrics and conducting media. Superposition of waves. Plane waves and dielectric interfaces, Snell's and Fresnel laws.
+
+## Bibliografia obrigatória
+Griffiths David J.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002813630108801" title="Introduction to electrodynamics (Opens in a new window)" target="_blank" >Introduction to electrodynamics</a>. ISBN: 0-13-919960-8 <br>
+Reitz John R.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002969440108801" title="Foundations of electromagnetic theory (Opens in a new window)" target="_blank" >Foundations of electromagnetic theory</a>. ISBN: 0201063328 :<br>
+
+## Bibliografia complementar
+Jackson John David; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990001986330108801" title="Classical electrodynamics (Opens in a new window)" target="_blank" >Classical electrodynamics</a>. ISBN: 0-471-30932-X <br>
+Feynman Richard Phillips; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002781170108801" title="The Feynman lectures on physics (Opens in a new window)" target="_blank" >The Feynman lectures on physics</a>. ISBN: 0-8053-9047-2 (Vol. II)<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Lectures used to present and discuss the referred topics, using examples to help understanding concepts, laws and calculation techniques. Problem classes used to solve problems and exercises.
+
+## Tipo de avaliação
+Evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 114.0 hours
+- Frequência das aulas: 48.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+Final exam: 100%.
+
+## Obtenção de frequência
+Attendance of theoretical-pratical classes, according the assessement rules of UPorto. The students who have obtained frequency in the previous year may request exemption from the theoretical-pratical classes.
+
+## Melhoria de classificação
+Final exam.
+

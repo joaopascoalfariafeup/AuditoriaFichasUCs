@@ -1,0 +1,239 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Eletromagnetismo I
+
+## Curso responsável
+Licenciatura em Engenharia Física
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p style="display: inline !important;">Abordam-se conteúdos basilares na formação de físicos e engenheiros físicos, permitindo ainda consolidar, por aplicação prática, conhecimentos matemáticos apreendidos pelos estudantes. Pretende-se:</p>
+<ul>
+<li>Desenvolver a formação académica de base em Eletromagnetismo.</li>
+<li>Deduzir e apresentar as leis e métodos do Eletromagnetismo numa perspetiva fenomenológica.</li>
+<li>Evidenciar a importância do conceito de &#8220;campo&#8221; na formulação das leis do Eletromagnetismo.</li>
+<li>Apresentar e descrever aplicações relevantes do Eletromagnetismo em ciência e tecnologia.</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p>O método de ensino procura:</p>
+<ul>
+<li>Estabelecer ligações e paralelismos entre o Eletromagnetismo e a Mecânica, aplicando conceitos transversais, como força, trabalho e energia.</li>
+<li>Aplicar, no contexto do eletromagnetismo, conceitos e métodos da Análise Vectorial e do Cálculo Integral no espaço.</li>
+</ul>
+<p>Pretende-se ainda desenvolver competências para a análise, modelização e resolução de situações básicas, conceptuais e laboratoriais,  envolvendo os tópicos da UC.</p>
+
+## Pré-requisitos e co-requisitos
+Serão importantes conceitos e técnicas matemáticas adquiridas em UC de Análise Matemática (sucessões, séries de Taylor, limites e continuidade). <br /><br />A unidade curricular utiliza conceitos matemáticos trabalhados numa segunda UC de Análise matemática (cálculo diferencial simples e cálculo integral). As duas UCs, funcionando em paralelo, permitem ilustrar/demonstrar  a aplicação de técnicas matemáticas (cálculo integral, diferencial e vectorial) e proporcionam uma melhor compreensão dos pressupostos físicos e matemáticos (campos vectoriais, teoremas da divergência/Lei de Gauss, teorema de Stokes/Lei de Ampère).
+
+## Programa
+1. Conceitos fundamentais<br /><br /><ul><br /><li>Carga elétrica; conservação de carga.</li><br /><li>Propriedades elétricas dos materiais</li><br /><li>Processos de eletrização</li><br /></ul><br />2. Eletrostática no vácuo.<br /><br /><ul><br /><li>Força de Coulomb</li><br /><li>Princípio de Sobreposição</li><br /><li>Campo elétrico e linhas de campo elétrico</li><br /><li>Lei de Gauss</li><br /></ul><br />3. Energia em Eletrostática<br /><br /><ul><br /><li>Potencial e linhas equipotenciais</li><br /><li>Campo conservativo</li><br /><li>Energia eletrostática</li><br /></ul><br />4. Eletrostática em meios materiais<br /><br /><ul><br /><li>Materiais Condutores</li><br /><li>Materiais dielétricos e polarização</li><br /><li>Forma integral da lei de Gauss com dielétricos</li><br /></ul><br />5. Circuitos elétricos<br /><br /><ul><br /><li>Corrente elétrica; densidade de corrente.</li><br /><li>Resistividade, Resistência elétrica e Lei de Ohm.</li><br /><li>Energia elétrica em circuitos e Lei de Joule.</li><br /><li>Fontes Elétricas, Circuitos Resistivos e Circuito RC</li><br /></ul><br />6. Campo Magnético<br /><br /><ul><br /><li>Forças e Torques em circuitos elétricos.</li><br /><li>Campo Magnético e lei de Biot-Savart</li><br /><li>Lei de Ampère e Lei de Gauss para o campo magnético</li><br /><li>Indução Magnética e lei de Faraday</li><br /></ul>
+
+## Bibliografia obrigatória
+David J. Griffiths; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002813630108801" title="Introduction to electrodynamics (Abre numa nova janela)" target="_blank" >Introduction to electrodynamics</a>. ISBN: 0-13-919960-8 <br>
+P. A. Tipler; Physics for scientists and engineers, Worth Publishers, 1991<br>
+
+## Bibliografia complementar
+R. P. Feynman, R. B. Leighton, M. Sands; The Feynmam Lectures on Physics, Addison-Wesley, 1964<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li>Aulas teóricas de exposição e discussão dos temas abordados, apresentando exemplos para a compreensão dos conceitos, leis e técnicas de cálculo. Aulas teórico-práticas de resolução de exercícios e problemas.</li><br /><li>Recursos computacionais para o cálculo e visualização de dados são estimulados e utilizados ao longo da aprendizagem.</li><br /></ul>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 108.0 horas
+- Frequência das aulas: 54.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p><strong>Modalidades de Avaliação</strong>: <strong><br /></strong></p>
+<div><strong>A</strong>:  Avaliação distribuída com exame final;<br /> <strong>B</strong>:  Avaliação por exame final.<br /><br />O acesso a estas modalidades é definido por: </div>
+<ul>
+<li><strong>modelo A</strong></li>
+<ul>
+<li>estudantes em 1a inscrição na UC</li>
+<li>estudantes em 2a inscrição, <span style="text-decoration: underline;">sem frequência</span> ou  <span style="text-decoration: underline;">sem avaliações em exame em 24/25</span></li>
+</ul>
+<li><strong>modelo B</strong></li>
+<ul>
+<li>restantes estudantes;</li>
+<li>estudantes com estatutos especiais que assim o requeiram.</li>
+</ul>
+</ul>
+<p><strong><br />Componentes de Avaliação: </strong></p>
+<ul>
+<li><strong>Modelo A, </strong>Considera as componentes:</li>
+<ul>
+<li><strong>T1 [0-100]:  </strong>Teste: 75% escolha múltipla, 25% resposta aberta</li>
+<li><strong>T2 [0-100]: </strong>Teste, em data de Exame Normal</li>
+</ul>
+</ul>
+<ul>
+<li><strong>Modelo B, </strong>Considera apenas a componente E (exame).</li>
+</ul>
+<p><strong>Cálculo da Nota Final</strong></p>
+<div>
+<ul>
+<li><strong>Nota Ponderada (NP) </strong></li>
+<ul>
+<li>modelo A: NP_A [0-20] = ( 40% T1+60% T2) x 0.2</li>
+<li>modelo B: NP_B [0-20] = (100% E) x 0.2</li>
+</ul>
+<li><strong>Nota Final (NF)</strong></li>
+<ul>
+<li><strong>modelo A</strong> - com Nota Mínima de 35% em T2. <br />Se inferior, a NF é majorada por 9 valores. <br />Assim: </li>
+<ul>
+<li><strong>T2 &lt;   35%,  NF = Mínimo(9, NP)</strong></li>
+<li><strong>T2 &gt;= 35%, NF=NP<br /><br /></strong></li>
+</ul>
+</ul>
+<ul>
+<li><strong>modelo B</strong>: NP_B [0-20] = (100% E) x 0.2</li>
+</ul>
+</ul>
+<div> </div>
+</div>
+
+## Obtenção de frequência
+<p><strong>Fatores para obtenção de frequência:<br /></strong>Frequência das aulas TP de acordo com regras gerais FCUP.</p>
+<p><strong>Dispensa de Frequência<br /></strong>Podem ser dispensados de frequência:</p>
+<ul>
+<li>estudantes que tenham obtido frequência à UC em anos letivos anteriores <span style="text-decoration: underline;">com</span> avaliação;</li>
+<li>detentores do estatuto Trabalhador-Estudante.</li>
+</ul>
+<p><strong>Pedidos de dispensa<br /></strong>Os estudantes que pretendem dispensa devem:<strong><br /></strong></p>
+<ol>
+<li>Fazer a sua inscrição, a título condicional, na "Turma de Dispensa"</li>
+<li>Formalizar o pedido em questionário próprio,via<strong> página Moodle da UC (até ao início das aulas)</strong></li>
+<li>Aguardar a confirmação, pelo regente.  </li>
+</ol>
+<p>Os <span style="text-decoration: underline;">estudantes dispensados de frequência só têm acesso à modalidade B de avaliação</span> (avaliação por exame, em época normal e/ou recurso)</p>
+
+## Exames ou Trabalhos Especiais
+não se aplica
+
+## Melhoria de classificação
+<p>A melhoria da classificação final poderá ser realizada mediante exame (Época de Recurso, Especial). <br /><br /></p>
+<p id="yui_3_17_2_1_1707337303064_32">Para melhoria aplica-se apenas a modalidade de avaliação B.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Eletromagnetism I
+
+## Curso responsável
+Bachelor in Engineering Physics
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p style="display: inline !important;">Basic contents in the training of physicists and physical engineers are addressed, also allowing to consolidate, by practical application, mathematical knowledge learned by students. It is intended to:</p>
+<ul>
+<li>Develop basic academic training in Electromagnetism.</li>
+<li>Deduce and present the laws and methods of Electromagnetism from a phenomenological perspective.</li>
+<li>Highlight the importance of the concept of "field" in the formulation of the laws of Electromagnetism.</li>
+<li>Present and describe relevant applications of Electromagnetism in science and technology.</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p>The teaching method seeks to:</p>
+<ul>
+<li>Establish links and parallelisms between Electromagnetism and Mechanics, applying transversal concepts, such as force, work and energy.</li>
+<li>Apply, in the context of electromagnetism, concepts and methods of Vector Analysis and Integral Calculus in space.</li>
+</ul>
+<p>It is also intended to develop skills for the analysis, modelling and resolution of basic, conceptual and laboratory situations, involving the topics of the UC.</p>
+
+## Pré-requisitos e co-requisitos
+Concepts and mathematical techniques acquired in Real Analysis I (sequences, Taylor's series, limits and continuity, differential and integral calculus) will be important for the course formalism.<br /><br />The CU also makes use of the mathematical concepts thta are introduced simultaneously in Analysis II. The simultaneity of the two courses allow the demonstration/illustration of the math techniques (vectorial differential calculus) and allow a better understanding of the physical and mathematical assumptions (vectorial fields, divergence theorem/Gauss law, Stokes theorem/Ampère's Law).
+
+## Programa
+1. Fundamental concepts<br />1.1. Electric charge; charge conservation. <br />1.2. Electrical properties of materials<br />1.3. Electrification processes<br />2. Electrostatics in vacuum.<br />2.1. Coulomb&#8217;s Law<br />2.2. Principle of Superposition<br />2.3. Electric field and electric field lines<br />2.4. Gauss&#8217;s Law<br />3. Energy in Electrostatics<br />3.1. Potential and equipotential lines<br />3.2. Conservative field <br />3.3. Electrostatic energy<br />4. Electrostatics in Matter<br />4.1. Conductors<br />4.2. Dielectrics and Polarization<br />4.3. Gauss&#8217;s law in the presence of dielectrics<br />5. Electrical circuits<br />5.1. Electric current; current density.<br />5.2. Resistivity, Electrical Resistance and Ohm's Law.<br />5.3. Electrical energy in circuits and Joule's Law.<br />5.4. Electrical Sources, Resistive Circuits and RC Circuit<br />6. Magnetic field<br />6.1. Forces and Torques in electrical circuits.<br />6.2. Magnetic Field and Biot-Savart's Law<br />6.3. Ampere&#8217;s Law and Gauss's Law for the Magnetic Field<br />6.4. Magnetic Induction and Faraday's Law
+
+## Bibliografia obrigatória
+David J. Griffiths; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002813630108801" title="Introduction to electrodynamics (Opens in a new window)" target="_blank" >Introduction to electrodynamics</a>. ISBN: 0-13-919960-8 <br>
+P. A. Tipler; Physics for scientists and engineers, Worth Publishers, 1991<br>
+
+## Bibliografia complementar
+R. P. Feynman, R. B. Leighton, M. Sands; The Feynmam Lectures on Physics, Addison-Wesley, 1964<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li>Lectures used to present and discuss the referred topics, using examples to help understanding concepts, laws and calculation techniques. Problem classes used to solve problems and exercises.</li><br /><li>The use of computational resources for calculus and data visualization is stimulated and used throughout the course.</li><br /></ul>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 108.0 hours
+- Frequência das aulas: 54.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><strong>Assessment Modalities</strong><strong><br /></strong></p>
+<div><strong>A:</strong> Continuous assessment with final exam. <br /><strong>B:</strong> Assessment based solely on the final exam.<br />
+<ul>
+<li><strong>modality A:</strong></li>
+<ul>
+<li>Students on 1st UC inscription</li>
+<li>students on a 2nd UC inscription, without frequency, or without previous exam assessment on 23/24</li>
+</ul>
+<li><strong>modality B:</strong></li>
+<ul>
+<li>remaining students</li>
+<li>students under special status, as requested</li>
+</ul>
+</ul>
+<strong>Assessment Components</strong><br /><strong><br /></strong></div>
+<ul>
+<li><strong>Modality A: </strong>Considers the following components:</li>
+<ul>
+<li><strong>T1 [0-100]:  </strong>Test: 75%  multiple choice, 25% open answer</li>
+<li><strong>T2 [0-100]: </strong>Test, on the normal exam date. <br /><br /></li>
+</ul>
+<li><strong>Modality B: </strong>Considers only the Exam component (E). </li>
+</ul>
+<p><br /><strong>Final Grade determination</strong></p>
+<ul>
+<li><strong>Weighted grade (NP)</strong></li>
+<ul>
+<li><strong>Mod. A: </strong>NP_A [0-20] = ( 40% T1+60% T2) x 0,2<br /><br /></li>
+</ul>
+<li><strong>Final Grade (NF)</strong></li>
+<ul>
+<li><strong>mod.A</strong> -  Minimum T2 Grade of 35%<br />If T2  is below the minimum, NF is maximized at 9 points: </li>
+<ul>
+<li><strong>iT2 &lt; 35%, NF = Minimum(9, NP)</strong></li>
+<li><strong>T2 &gt;=35%, NF=NP<br /><br /></strong></li>
+</ul>
+<li><strong>Mod. B: </strong>NP_B [0-20] = E * 0,2</li>
+</ul>
+</ul>
+
+## Obtenção de frequência
+<strong>Factors To attain <em>frequencia(</em>attendance) at Electromagnetism I:  <br /></strong>Frequency of practical classes according to the regulations of FCUP.<br /><p><strong>Class Disimissal requests<br /></strong>Attendance may be exempted for:</p><br /><ul><br /><li>Students who have attended the course in previous academic years <span style=&quot;text-decoration: underline;&quot;>and have been</span> evaluated.</li><br /><li> students under Trabalhador-estudante (working students) status.</li><br /></ul><br /><strong>The request for exemption must be formalized :</strong><br /><br /><ol><br /><li>Register, conditionally, in the &quot;Exemption Class&quot;</li><br /><li>Formalize the request in a specific questionnaire, via the UC Moodle page (until the start of classes)</li><br /><li>Wait for confirmation from the teacher.</li><br /></ol><br /><span style=&quot;text-decoration: underline;&quot;>Students exempted from attendance only have access to assessment mode B</span> (assessment by exam in both exams periods - normal e recurso)
+
+## Exames ou Trabalhos Especiais
+does not apply
+
+## Melhoria de classificação
+<p>Improvement of the final grade can be achieved through exame (at "Recurso" and "Especial" exam periods). <br /><br />The improvement final grade is calculated according to the Assessment B modality.<br /><br /></p>
+

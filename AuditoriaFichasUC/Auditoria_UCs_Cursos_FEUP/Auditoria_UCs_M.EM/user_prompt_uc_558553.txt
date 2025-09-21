@@ -1,0 +1,138 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Transferência de Calor Avançada
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<div>Principais objetivos</div><br /><ol><br /><li>Aquisição de conhecimentos relativos a tópicos mais avançados da Transferência de Calor e Massa (não tratados na Transferência de Calor básica).</li><br /><li>Utilização de métodos numéricos e computacionais para a resolução de problemas práticos.</li><br /><li>Aplicação de modelos numéricos/computacionais à simulação de sistemas energéticos.</li><br /></ol><br /><p>No final da unidade curricular é esperado que o estudante tenha adquirido conhecimentos mais aprofundados de Transferência de Calor, a capacidade de desenvolver modelos matemáticos de sistemas energéticos específicos e conhecer ferramentas computacionais para resolver os.</p>
+
+## Resultados de aprendizagem e competências
+<p>Capacidade para identificar hipóteses simplificativas na definição de um modelo matemático para um sistema térmico/energético. Competência para escolha do modelo mais adequado em cada caso. Capacidade de utilização de ferramentas computacionais para modelação de sistemas.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Análise Matemática: integração de equações diferenciais.</p>
+<p>Análise Numérica: interpolação, ajustamento de funções, integração numérica.</p>
+<p>Termodinâmica e Mecânica de Fluidos básicas.</p>
+<p>Transferência de Calor básica.</p>
+
+## Programa
+<p>1. Modelação de sistemas termicos e componentes em regime estacionário<br /><br />2. Introdução ao programa ENGINEERING EQUATION SOLVER (EES): Principais características e funcionalidades do EES.</p>
+<p>3. Modelação de sistemas termicos e componentes em regime dinâmico: modelos em forma de equações diferenciais ordenárias, métodos de solução, implementação em EES<br /><br />4. Problemas de condições de fronteira aplicadas para modelar transferência de calor: introdução aos métodos de diferenças fínitas, elementos fínitos e volumes fínitos.<br /><br />5. Transferêcnia combinada de calor e massa: : Difusão e convecção de massa, e respectivos coeficientes. Evaporação e secagem. Aplicações com o programa EES.<br /><br /></p>
+
+## Bibliografia obrigatória
+Frank P. Incropera; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005315970108801" title="Fundamentals of heat and mass transfer (Abre numa nova janela)" target="_blank" >Fundamentals of heat and mass transfer</a>. ISBN: 978-0-471-45728-2 <br>
+Jaluria, Yogesh; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004552800108801" title="Design and optimization of thermal systems (Abre numa nova janela)" target="_blank" >Design and optimization of thermal systems</a>. ISBN: 0-07-032388-7<br>
+Patankar, Suhas V.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004125270108801" title="Numerical Heat Transfer and Fluid Flow (Abre numa nova janela)" target="_blank" >Numerical Heat Transfer and Fluid Flow</a>. ISBN: 0-07-048740-5<br>
+
+## Bibliografia complementar
+EES Software Manual<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A disciplina está estruturada em aulas teórico-práticas e orientação tutorial. Nas aulas é apresentada a teoria do ponto de vista de ferramentas e algoritmos, e esboça-se a resolução de alguns problemas típicos. Nalgumas aulas os alunos resolvem problemas de cálculo utilizando computadores, com a ajuda do professor, com o objetivo de consolidar e aplicar os conhecimentos adquiridos. A orientação tutorial está destinada à resolução de trabalhos de computação personalizados a realizar por grupos de 2/3 alunos. </p>
+
+## Software
+EES - Engineering Equation Solver<br>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 57.0 horas
+- Frequência das aulas: 39.0 horas
+- Elaboração de projeto: 25.0 horas
+- Total:: 121.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A nota final será calculada como média pessada de dois componentes de avaliação: exame final e trabalho de computação. A nota do exame final será considerado com peso de  65% e nota do trabalho de computação com peso de 35%. Ambas notas (exame final e trabalho computacional) serão divulgadas numas escala de 1 - 20.<br /><br /></p>
+
+## Obtenção de frequência
+<p>Não exceder o número limite de faltas (25%) e entregar o trabalho de computação dentro do prázo definido durante o semestre.</p>
+
+## Exames ou Trabalhos Especiais
+EXAME FINAL: Será composto por parte teórica (sem consulta e em papel) e parte prática (com consulta e em papel). Não haverá nota mínima nos componentes do exame. Na parte teórica, a avaliação será mais virada para medir o conhecimento dos alunos em termos de seleção de métodos para resolver dados problemas de tr. de calor, conhecendo também os seus limites de aplicação, vantagens e desvantagens. Na parte prática os alunos vão desenvolver modelos e algoritmos (simples) para problemas de tr. calor.<br /><br />TRABALHO DE COMPUTAÇÂO: o trabalho de computação será avaliado com base de um ficheiro de EES (modelo) único, entregue por cada grupo (2/3 alunos). Cada aluno do grupo receberá a mesma nota. A formação dos grupos será da responsabilidade dos alunos. No caso que isto não aconteça no prazo indicado nas aulas, o regente de UC irá formar os grupos. Os trabalhos (propostos pelo docente) serão atribuídos de forma aleatória. Troca de trabalhos entre grupos será possível, no prazo máximo de 1 semana depois da atribuição dos trabalhos. Os grupos também podem propor um trabalho, ficando sujeito à aprovação do regente.  Os trabalhos serão entregues num ficheiro EES único que deve conter: o código elaborado devidamente comentado, tabelas e figuras de estudos realizados e um relatório resumido do trabalho feito. No caso o aluno(a) obteve uma nota positiva no ano letivo anterior ao ano letivo corrente, pode manter a nota, sem a necessidade de repetir o trabalho de computação. Se decidir de voltar a repetir o trabalho, a nota mais recente será utilizada no cálculo da nota final. A congelação da nota deve ser solicitada ao regente da UC, no início do semestre.<br /><br />EXAME RERCURSO/ÉPOCA ESPECIAL: Terá o mesmo formato e as mesmas regras do exame final.
+
+## Melhoria de classificação
+<p>Melhoria de classificação possível apenas para o exame final. A nota final, após de melhoria, será calculada: 0,65 * Nota de exame + 0,35 * Notas do trabalho de computação.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Advanced Heat Transfer
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Main objectives:<br /><br /><ol><br /><li>Acquisition of knowledge related to more advanced heat and mass transfer topics (not treated in the basic heat transfer course).</li><br /><li>Use of numerical and computational methods to solve practical problems.</li><br /><li>Application of numerical/computational models to the simulation of energy systems.</li><br /></ol><br /><p>At the end of the unit the student is expected to have an extended global knowledge of heat transfer, to have the capacity of developing mathematical models of specific energy systems and to know numerical and computational tools to resolve them.</p>
+
+## Resultados de aprendizagem e competências
+Capacity to identify simplified hypotheses when defining a mathematical model for a thermal/energy system. Ability to choose the most adequate model in each case. Capacity to use computational tools for system modeling.
+
+## Pré-requisitos e co-requisitos
+<p>Calculus: integration od differential equations.</p>
+<p>Numerical analysis: interpolation, curve fitting, numerical integration.</p>
+<p>Basic Thermodynamics and Fluid Mechanics.</p>
+<p>Basic Heat Transfer.</p>
+
+## Programa
+<p>1. Global modelling of thermal systems and components under steady-state.<br /><br />2. Introduction to ENGINEERING EQUATION SOLVER (EES): Main software characteristics and use.</p>
+<p>3. Global modelling of thermal systems under dynamic conditions: models in form of ordinary differential equations, solution methods and implementation into EES.<br /><br />4. Boundary value heat transfer problmes: introduction to finite differences, finite elements and finite volume methods.<br /><br />4. Combined heat and mass tranfer: Mass diffusion and convection, and related coefficients. Evaporation and drying. Applications with EES.</p>
+
+## Bibliografia obrigatória
+Frank P. Incropera; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005315970108801" title="Fundamentals of heat and mass transfer (Opens in a new window)" target="_blank" >Fundamentals of heat and mass transfer</a>. ISBN: 978-0-471-45728-2 <br>
+Jaluria, Yogesh; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004552800108801" title="Design and optimization of thermal systems (Opens in a new window)" target="_blank" >Design and optimization of thermal systems</a>. ISBN: 0-07-032388-7<br>
+Patankar, Suhas V.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004125270108801" title="Numerical Heat Transfer and Fluid Flow (Opens in a new window)" target="_blank" >Numerical Heat Transfer and Fluid Flow</a>. ISBN: 0-07-048740-5<br>
+
+## Bibliografia complementar
+EES Software Manual<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The course is structured in theoretical-practical classes and tutorial sessions. In the classes the theory is presented from an algorithm point of view and the solutions of some typical problems are addressed. In tutorial sessions examples are solved using computational means. Guidance to the development of personalised computational projects (groups of 2/3 students) is also provided.</p>
+
+## Software
+EES - Engineering Equation Solver<br>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 57.0 hours
+- Frequência das aulas: 39.0 hours
+- Elaboração de projeto: 25.0 hours
+- Total:: 121.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final grade will be calculated as a weighted average of two assesment components: final exam and computational project. The final  exam will be considered with the weighting factor of 65%, while the project with a weighting factor of 35%. Both grades (exam and project) will be published on a scale of 1 - 20.</p>
+
+## Obtenção de frequência
+<p>Not to exceed the maximum number of absences to classes (25%) and on time submission of the report of the computational project.</p>
+
+## Exames ou Trabalhos Especiais
+FINAL EXAM: It will be composed by theory part (closed book on paper) and tutorial part (open book on paper). There will be no minimum grade for any of the two parts. In the theory part, the assessment will focus on the students' capacity to select proper solution methods for a given heat transfer problem, including limitations, advantages and disadvantages. In the tutorial part, the student will elaborate (simple) models and algorithms to solve heat transfer problems. <br /><br />COMPUTATIONAL PROJECT: It will be assessed based on a single submitted EES file (model) by each work group (2/3 students). Each student in the same group will have the same grade. The formation of the groups will be the responsibility of the students. If it does not happen within the timeframe defined in the class, the teacher will form the groups. The groups and proposed projects will be assigned randomly. Swapping the projects between groups will be possible within a maximum period of 1 week after publication of the assignments. The groups can also propose a project, but it has to be approved by the teacher.  The projects will be submitted in a single EES file which must include: the developed code with comments, tables and figures with the results obtained and a short report with the work done. In case the student already obtained a positive grade (&gt;10) for the computational project in the academic year precedent the current one, he/she can decide to maintain this grade. If the student decides to repeat the computational project, the most recent one counts for the calculation of the final grade. Regarding the maintenance of the grade from the previous academic year, the student should inform the lecturer in the beginning of the semester.  <br /><br />SECOND CALL/SPECIAL CALL EXAMS: The same format and rules as in case of the final exam.
+
+## Melhoria de classificação
+<p>Only possible for the final exam. The final grade will be calculated as 0.65* grade of the exame + 0.35 * grade of the computational project.</p>
+

@@ -1,0 +1,206 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Tecnologias Web
+
+## Curso responsável
+Mestrado em Multimédia
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Fornecer aos estudantes conhecimentos e competências práticas sobre:</p>
+<ul>
+<li>Fundamentos de desenvolvimento Web (HTML, CSS, JavaScript).</li>
+<li>Tecnologias multimodais e interativas (áudio, vídeo, sensores, XR, visualização de dados).</li>
+<li>Design e desenvolvimento de aplicações Web responsivas, interativas e criativas.</li>
+<li>Integração de diferentes modalidades em experiências imersivas.</li>
+<li>Uso crítico e responsável de ferramentas de Inteligência Artificial para apoiar o desenvolvimento Web.</li>
+<li>Trabalho colaborativo em grupo para conceber, implementar e apresentar um projeto multimédia.</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p>Ao completar esta unidade curricular, o estudante deve ser capaz de:</p>
+<ul>
+<li>Projetar e implementar a arquitetura de informação de uma aplicação Web.</li>
+<li>Criar documentos HTML válidos, estilos CSS responsivos e interatividade com JavaScript.</li>
+<li>Integrar som, vídeo e sensores em experiências Web multimodais.</li>
+<li>Produzir visualizações de dados e gráficos 3D para aplicações Web.</li>
+<li>Desenvolver experiências básicas em Realidade Virtual e Aumentada com WebXR.</li>
+<li>Usar IA de forma crítica para apoiar o desenvolvimento, comparando, adaptando e refletindo sobre as suas limitações.</li>
+<li>Trabalhar em equipa e apresentar projetos interativos de forma clara e criativa.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+Não existem pré-requisitos formais. Contudo, recomenda-se que os estudantes tenham noções básicas de programação e de HTML/CSS, assim como competências gerais em multimédia digital.
+
+## Programa
+<ol><br /><li>Introdução às Tecnologias Web: arquitetura cliente/servidor, HTML, CSS, JavaScript.</li><br /><li>Design responsivo e acessibilidade.</li><br /><li>Interatividade com JavaScript e manipulação do DOM.</li><br /><li>APIs multimédia: Web Audio API.</li><br /><li>Vídeo e Canvas/SVG.</li><br /><li>Comunicação em tempo real: WebRTC.</li><br /><li>Integração de sensores e multimodalidade (voz, toque, movimento).</li><br /><li>Visualização de dados (Chart.js, D3.js).</li><br /><li>Gráficos 3D na Web (Three.js).</li><br /><li>Realidade Virtual e Aumentada no browser (WebXR).</li><br /><li>Projeto final.</li><br /></ol>
+
+## Bibliografia obrigatória
+Elizabeth Castro; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005669120108801" title="HTML and CSS (Abre numa nova janela)" target="_blank" >HTML and CSS</a>. ISBN: 0-321-71961-1 <br>
+
+## Bibliografia complementar
+Michal Zalewski; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005590150108801" title="The tangled Web (Abre numa nova janela)" target="_blank" >The tangled Web</a>. ISBN: 978-1-59327-388-0 <br>
+Jakob Nielsen; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004566950108801" title="Designing web usability (Abre numa nova janela)" target="_blank" >Designing web usability</a>. ISBN: 1-56205-810-X <br>
+Louis Rosenfeld; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004569680108801" title="Information architecture for the World Wide Web (Abre numa nova janela)" target="_blank" >Information architecture for the World Wide Web</a>. ISBN: 1-56592-282-4 <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li>Flipped classroom: os estudantes (em grupos) introduzem os conceitos teóricos semanais com uma breve apresentação .</li><br /><li>Mini-desafios práticos, onde os estudantes aplicam os conceitos e refletem criticamente sobre o uso de IA.</li><br /><li>Trabalho prático em grupo para desenvolvimento do projeto final multimodal.</li><br /><li>Discussões críticas e partilhas coletivas em aula.</li><br /></ul>
+
+## Software
+GIMP<br>
+Audacity<br>
+Blender<br>
+Git<br>
+VSCode<br>
+Node.js <br>
+Postman<br>
+Inkscape<br>
+OBS Studio<br>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Elaboração de projeto: 60.0 horas
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 42.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A nota final será calculada da seguinte forma:</p>
+<ul>
+<li><strong>Nota final = 30% Mini-desafios + 20% Participação + 50% Projeto Final</strong></li>
+</ul>
+<p>Para obtenção de aprovação é exigida a classificação mínima de 8 valores (em 20) em <strong>todas</strong> componente da avaliação distribuída.</p>
+
+## Obtenção de frequência
+<p>Para a obtenção de frequência, os estudantes não poderão exceder o número limite de faltas às aulas. As presenças serão registadas em todas as aulas.</p>
+<p>É necessário obter a classificação mínima de 8 valores (em 20) nas componente da avaliação distribuída.</p>
+<p><strong>Avaliação distribuída sem exame final.</strong></p>
+<p><strong>Componentes de Avaliação</strong></p>
+<ul>
+<li>Mini-desafios semanais + reflexões sobre IA &#8594; 30%</li>
+<li>Participação contínua (inclui apresentações no flipped classroom e envolvimento em aula) &#8594; 20%</li>
+<li>Projeto final (funcionalidade, criatividade, uso crítico da IA, apresentação) &#8594; 50%</li>
+</ul>
+<p> </p>
+
+## Exames ou Trabalhos Especiais
+<p>Não há provas nem trabalhos especiais.</p>
+
+## Melhoria de classificação
+<p>A nota da avaliação distribuída poderá ser melhorada na edição seguinte da unidade curricular.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Web Technologies
+
+## Curso responsável
+Master in Multimedia
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Provide students with knowledge and practical skills on:</p>
+<ul>
+<li>Fundamentals of Web development (HTML, CSS, JavaScript).</li>
+<li>Multimodal and interactive technologies for the Web (audio, video, sensors, XR, data visualization).</li>
+<li>Design and development of responsive, interactive, and creative Web applications.</li>
+<li>Integration of multiple modalities into immersive Web experiences.</li>
+<li>Critical and responsible use of Artificial Intelligence tools to support Web development.</li>
+<li>Team collaboration for conceiving, implementing, and presenting a multimedia project.</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p>By completing this course unit, students should be able to:</p>
+<ul>
+<li>Design and implement the information architecture of a Web application.</li>
+<li>Create valid HTML documents, responsive CSS stylesheets, and interactivity with JavaScript.</li>
+<li>Integrate audio, video, and sensors into multimodal Web experiences.</li>
+<li>Produce data visualizations and 3D graphics for the Web.</li>
+<li>Develop basic Virtual and Augmented Reality experiences with WebXR.</li>
+<li>Use AI critically to support development, comparing, adapting, and reflecting on its limitations.</li>
+<li>Work collaboratively and present interactive projects in a clear and creative way.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+There are no formal prerequisites. However, it is recommended that students have a basic understanding of programming and HTML/CSS, as well as general skills in digital multimedia.
+
+## Programa
+<ol><br /><li>Introduction to Web Technologies: client/server, HTML, CSS, JavaScript.</li><br /><li>Responsive design and accessibility.</li><br /><li>JavaScript interactivity and DOM manipulation.</li><br /><li>Multimedia APIs: Web Audio API.</li><br /><li>Video and Canvas/SVG.</li><br /><li>Real-time communication: WebRTC.</li><br /><li>Sensors and multimodality (voice, touch, motion).</li><br /><li>Data visualization (Chart.js, D3.js).</li><br /><li>3D graphics on the Web (Three.js).</li><br /><li>Virtual and Augmented Reality on the Web (WebXR).</li><br /><li>Final project.</li><br /></ol>
+
+## Bibliografia obrigatória
+Elizabeth Castro; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005669120108801" title="HTML and CSS (Opens in a new window)" target="_blank" >HTML and CSS</a>. ISBN: 0-321-71961-1 <br>
+
+## Bibliografia complementar
+Michal Zalewski; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005590150108801" title="The tangled Web (Opens in a new window)" target="_blank" >The tangled Web</a>. ISBN: 978-1-59327-388-0 <br>
+Jakob Nielsen; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004566950108801" title="Designing web usability (Opens in a new window)" target="_blank" >Designing web usability</a>. ISBN: 1-56205-810-X <br>
+Louis Rosenfeld; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004569680108801" title="Information architecture for the World Wide Web (Opens in a new window)" target="_blank" >Information architecture for the World Wide Web</a>. ISBN: 1-56592-282-4 <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<ul><br /><li>Flipped classroom: each week, a group of students introduces the theoretical concepts with a short presentation (10 minutes).</li><br /><li>Mini-challenge, where students apply concepts and critically reflect on the use of AI.</li><br /><li>Practical group work for the development of the final multimodal project.</li><br /><li>Critical discussions and peer-sharing in class.</li><br /></ul>
+
+## Software
+GIMP<br>
+Audacity<br>
+Blender<br>
+Git<br>
+VSCode<br>
+Node.js <br>
+Postman<br>
+Inkscape<br>
+OBS Studio<br>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Elaboração de projeto: 60.0 hours
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 42.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final mark will be calculated as follows:</p>
+<ul>
+<li><strong>Final grade = 30% Mini-challenges + 20% Participation + 50% Final Project</strong></li>
+</ul>
+<p>To complete this course unit, students have to reach a minimum grade of 8 (out of 20)in <strong>every</strong> distributed evaluation components.</p>
+
+## Obtenção de frequência
+<p>To obtain frequency, students may not exceed the maximum number allowed of missed classes. Attendance will be registered in all classes.</p>
+<p>It is necessary to obtain a minimum of 8 (out of 20) in every distributed evaluation components.</p>
+<p><strong>Continuous assessment without final exam.</strong></p>
+<p><strong>Components</strong></p>
+<ul>
+<li>Weekly mini-challenges + AI reflection reports &#8594; 30%</li>
+<li>Continuous participation (includes flipped classroom presentations and engagement) &#8594; 20%</li>
+<li>Final project (functionality, creativity, critical use of AI, presentation) &#8594; 50%</li>
+</ul>
+<p><strong>Final grade = 30% Mini-challenges + 20% Participation + 50% Final Project</strong></p>
+
+## Exames ou Trabalhos Especiais
+<p>Not applicable.</p>
+
+## Melhoria de classificação
+<p>Students may improve the grade of the continuous assessment component on the subsequent academic year.</p>
+

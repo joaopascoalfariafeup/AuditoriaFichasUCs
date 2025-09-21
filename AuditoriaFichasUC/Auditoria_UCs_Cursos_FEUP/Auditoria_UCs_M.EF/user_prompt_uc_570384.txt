@@ -1,0 +1,113 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Metrologia Ótica
+
+## Curso responsável
+Mestrado em Engenharia Física
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Metrologia está associada à medida, ao conceito e princípios gerais, às metodologias e às técnicas que a concretizam. A um determinado nível é de carácter fundamental pois tem a ver com todo o processo de obter informação sobre a envolvente, o que implica perceber a problemática do que significa ser observador; por outro lado, é de enorme relevância prática pois as aplicações tecnológicas mais diversas necessitam de padrões de medida adequados e de metrologia relativa a esses padrões para aferir o estado de sistemas. No caso presente trata-se de utilizar a Luz no processo de medição, que se sintetiza com a designação Metrologia Ótica. Assim, esta UC tem objectivos de aprendizagem que se situam num espectro largo, desde a compreensão de conceitos fundamentais até à capacidade operacional de utilização de variadas técnicas óticas de medida sobretudo no estudo e aplicação da interferometria em várias áreas da engenharia.</p>
+
+## Resultados de aprendizagem e competências
+<p>Metrologia óptica é um domínio particular da metrologia, a ciência da medida com tudo o que isso implica, desde logo perceber o que significa medir que continua a ser uma questão científica fundamental, até à elaboração de metodologias e técnicas gerais do processo de medição independentemente da tecnologia da sua implementação. Esta condiciona o nível de desempenho e o espectro das suas aplicações. E é aqui que a metrologia óptica assume particular relevância pois é  normalmente associada a elevada performance e vasta aplicabilidade, que resulta também da importância única da Luz. E assim sendo entende-se que existe coerência dos conteúdos programáticos com os objectivos de aprendizagem da UC. Estes estão centrados na compreensão do processo de medição nas suas múltiplas componentes e no modo como podem ser operacionalizados em situações concretas; os conteúdos programáticos concretizam esses objectivos para o caso particular mas muito importante da fenomenologia óptica.</p>
+<p> </p>
+
+## Pré-requisitos e co-requisitos
+Conhecimento de ótica.
+
+## Programa
+<p> A UC inicia-se com uma revisão dos fenómenos nucleares da metrologia óptica, nomeadamente interferência e difracção. Uma breve revisão sobre fontes óticas e detectores será apresentado. De seguida, situa-se a problemática clássica e quântica associada à medição, a que se segue a exposição dos princípios gerais da metrologia óptica. As técnicas de medida baseadas na modulação da intensidade da luz são expostas, após o que se entra num capítulo muito importante desta UC, nomeadamente metrologia por interferometria, o que inclui tipologias interferométricas e seu desempenho, interacção com o mensurando, processamento de sinal óptico e optoelectrónico.  Técnicas e medição serão estudados nomeadamente: Medição do índice de refração; Medição do raio de curvatura e comprimento focal; Medição de Ângulo; Medição de Espessura; Medição de velocidade; Medição de pressão; Medição de Comprimento. Técnicas de speckle e de Moiré serão também expostas. Uma área importante da metrologia tem a ver com imagem, pelo que serão apresentados os princípios fundamentais da microscopia de baixa coerência, confocal e de fotões múltiplos. Serão também apresentados princípios e aplicações da metrologia baseada em fibra óptica.</p>
+
+## Bibliografia obrigatória
+Toru Yoshizawa; Handbook of Optical Metrology: Principles and Applications, Toru Yoshizawa, 2015. ISBN: 9781138893634<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Esta disciplina segue uma metodologia de ensino convencional, entendendo-se por isso aulas teóricas e teórico-práticas devidamente articuladas. A componente laboratorial acontece no âmbito de UC própria só com conteúdos laboratoriais. <br /><br />A avaliação é efetuada por exame final e uma apresentação oral de um trabalho proposto.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 100.0 horas
+- Frequência das aulas: 49.0 horas
+- Trabalho escrito: 13.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>70% exame final+10% participação presencial e 20% apresentação/discussão de um trabalho científico.</p>
+
+## Obtenção de frequência
+<p>De acordo com as regras da Universidade.</p>
+
+## Melhoria de classificação
+<p>Exame final.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Optical Metrology
+
+## Curso responsável
+Master in Engineering Physics
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Metrology is associated with measurement, the concept and general principles, as well as methodologies and techniques supported by them. At a fundamental level involves to understand the problematics about what means to be an Observer; at another level, it is of large practical importance considering the most diverse technological applications require adequate measurement standards and proper metrology to assess the state of systems. In the present case, the focus is to utilize the properties of light in the measurement process, synthetized in the words Optical Metrology. Therefore, this UC has learning objectives which are situated in a broad spectrum, ranging from the understanding of fundamental concepts up to the operational capacity of application of diverse optical measurement techniques especially in the study and application of interferometry in various areas of engineering.</p>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>Optical metrology is a particular domain of metrology, the science of measurement with all it implies, to start with to understand what means &#8220;to measure&#8221; which keeps a central question in science, up to the set up of general methodologies and techniques associated to the measurement process, independently of the implementation technology. This affects the performance level and the application spectrum and is here where optical metrology shows special relevance considering it is normally associated to high performance and large applicability, also a consequence of the unique importance of light. Therefore, there is conviction of the coherence between the programmatic contents with the objectives looked for this UC. These are centred on the comprehension of the measurement process and in the way how it can be delivered to handle specific situations; the programmatic contents concretize such objectives for the particular but especially important case of optical phenomenology.</p>
+<p> </p>
+
+## Pré-requisitos e co-requisitos
+<p>Optics knowledge.</p>
+
+## Programa
+<p>The course begins with a revision of base phenomena of optical metrology, namely interference and diffraction. A brief review of optical sources and detectors will be presented. Then, it is introduced the problematic of the measurement process in the classic and quantum domains, followed by the exposition of the general principles of optical metrology. The measurement techniques based on modulation of the light intensity are presented, then is introduced an important chapter of this course which is metrology by interferometry. Topics such as types of interferometers, their performance, interaction with the measurand, and optical and optoelectronic processing will be addressed. Techniques and measurement will be studied namely: Measuring the refractive index; Measurement of radius of curvature and focal length; Angle Measurement; Thickness Measurement; Speed measurement; Pressure measurement; Length Measurement. Speckle and Moiré techniques will also be delivered. An important field of metrology deals with imaging, so will be presented the fundamentals of microscopy based on low-coherence, confocal and multiphoton. A final section will detail the principles of fiber optic based metrology and applications.</p>
+<p> </p>
+
+## Bibliografia obrigatória
+Toru Yoshizawa; Handbook of Optical Metrology: Principles and Applications, Toru Yoshizawa, 2015. ISBN: 9781138893634<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p> This course follows a conventional teaching methodology meaning by that lectures with deliver of contents and sessions of problem&#8217;s solving. The laboratorial component happens in the framework of dedicated UC which shows a list of laboratorial works/projects.</p>
+<p>The evaluation is by a final exam <span lang="en">and oral presentation of a work proposal.</span></p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 100.0 hours
+- Frequência das aulas: 49.0 hours
+- Trabalho escrito: 13.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>70% final exam + 10% attendance and 20% presentation / discussion of a scientific work.</p>
+
+## Obtenção de frequência
+According to the University rules
+
+## Melhoria de classificação
+Final exam.
+

@@ -1,0 +1,225 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Seminários
+
+## Curso responsável
+Mestrado em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Objetivos:</p>
+<ul>
+<li>Apresentar tópicos, tecnologias e metodologias emergentes em engenharia informática não abordados noutras unidades curriculares;</li>
+<li>Apresentar tópicos, tecnologias e metodologias específicas para clusters e setores de atividade relevantes (ex, automóvel e de transportes, financeiro, da saúde, etc.);</li>
+<li>Apresentar desafios societais que podem ser resolvidos com recurso às tecnologias digitais ou que são suscitados por essas tecnologias.</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+No final da UC os estudantes deverão ser capazes de:<br /><br /><ol><br /><li>Identificar, descrever e demonstrar familiaridade com alguns tópicos, tecnologias e metodologias emergentes em Engenharia Informática e Computação, não abordados noutras unidades curriculares;</li><br /><li>Identificar, descrever e demonstrar familiaridade com algumas Tecnologias de Informação e Comunicação específicas para clusters e setores de atividade relevantes (automóvel e de transportes, financeiro, da saúde, etc.), não abordadas noutras unidades curriculares;</li><br /><li>Identificar, descrever e demonstrar familiaridade com alguns desafios societais que podem ser resolvidos com recurso às tecnologias digitais ou que são suscitados por essas tecnologias, bem como demonstrar capacidade para idealizar soluções tecnológicas, organizacionais e de negócio para endereçar esses desafios.</li><br /></ol>
+
+## Programa
+<p>A unidade curricular terá um conteúdo programático ajustado anualmente, constituído por um conjunto de módulos e palestras convidadas relacionados com:</p>
+<ul>
+<li>
+<p><strong>Tópicos emergentes em Engenharia Informática e Computação</strong> (por exemplo, Computação Quântica);</p>
+</li>
+<li>
+<p><strong>Tecnologias de Informação e Comunicação</strong> específicas para <em>clusters</em> e setores de atividade relevantes (setor automóvel e de transportes, setor financeiro, setor da saúde, etc., por exemplo, tecnologias para condução autónoma);</p>
+</li>
+<li>
+<p><strong>Desafios societais</strong> que podem ser resolvidos com recurso às tecnologias digitais ou que são suscitados por essas tecnologias (por exemplo, nos domínios da transição energética, das alterações climáticas, da transformação digital da sociedade).</p>
+</li>
+</ul>
+<hr />
+<p><strong>Módulos disponíveis para 25/26</strong> (estudantes fazem um módulo de cada bloco, dois módulos no total)</p>
+<ul>
+<li>
+<p><strong>Bloco 1:</strong> <em>Research Data Management</em> OU <em>Explainable AI within Data Mining</em></p>
+</li>
+<li>
+<p><strong>Bloco 2:</strong> <em>The Data Behind the Music</em> OU <em>Beyond the Basics of Computer Vision</em></p>
+</li>
+</ul>
+<p>A distribuição dos estudantes por módulo em cada bloco terá em conta as preferências e o limite de vagas. </p>
+<p> Independentemente dos módulos que frequentarem, terão acesso aos recursos disponibilizados para os outro módulos.<br /><br /><strong>Palestras convidadas:</strong> a confirmar</p>
+
+## Bibliografia obrigatória
+Os palestrantes; Bibliografia sugerida em cada módulo<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A metodologia de ensino e avaliação poderá variar de módulo para módulo, podendo alguns ter uma natureza mais experimental em formato <em>workshop</em>, outros uma natureza mais teórica em formato de palestra, e outros mesmo uma natureza mais competitiva em formato de concurso.</p>
+<p>Para obter aprovação à unidade curricular, o estudante deve:</p>
+<ul>
+<li>
+<p>realizar com aprovação um módulo de cada bloco, no total de dois módulos</p>
+</li>
+<li>
+<p>participar em pelo menos uma palestra convidada</p>
+</li>
+</ul>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Elaboração de projeto: 62.0 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho de investigação: 60.0 horas
+- Total:: 161.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação final é calculada a partir da classificação dos módulos frequentados (cada uma com um peso de 45% da nota final) e da participação nas palestras convidadas (cada uma com um peso de 5% da nota final).</p>
+<p><strong>Fórmula de Classificação Final:</strong></p>
+<div class="math-block"><span class="katex-display"><span class="katex"><span class="katex-html"><span class="base"><span class="mord text"><span class="mord">NotaFinal</span></span><span class="mrel">=</span></span><span class="base"><span class="mord">0.45</span><span class="mbin">×</span></span><span class="base"><span class="mord text"><span class="mord">NotaModulo1 </span></span><span class="mbin">+ </span></span><span class="base"><span class="mord">0.45</span><span class="mbin">×</span></span><span class="base"><span class="mord text"><span class="mord">NotaModulo2 </span></span><span class="mbin">+ </span></span><span class="base"><span class="mord text"><span class="mord">PresencaPalestra1 </span></span><span class="mbin">+ </span></span><span class="base"><span class="mord text"><span class="mord">PresencaPalestra2</span></span></span></span></span></span></div>
+<ul>
+<li>
+<p><strong>NotaModulo1</strong>, <strong>NotaModulo2</strong> &#8212; classificações dos módulos frequentados, com um intervalo de 0 a 20.</p>
+</li>
+<li>
+<p><strong>PresencaPalestra1</strong>, <strong>PresencaPalestra2</strong> &#8212; a presença nas palestras, um valor de 0 ou 1 em cada.</p>
+</li>
+</ul>
+<p>Para obter aprovação na unidade curricular, o estudante é obrigado a:</p>
+<ul>
+<li>
+<p>realizar com aprovação um módulo de cada bloco, no total de dois módulos</p>
+</li>
+<li>
+<p>participar em pelo menos uma palestra convidada</p>
+</li>
+</ul>
+<p>A fórmula de avaliação de cada módulo individual é definida pelos seus responsáveis, e divulgada no início do ano letivo.</p>
+<p> </p>
+
+## Obtenção de frequência
+<p>Os estudantes estão sujeitos a número mínimo de 75% de presenças em cada um dos módulos, e à participação em pelo menos uma palestra convidada.<br /><br /><br /></p>
+
+## Exames ou Trabalhos Especiais
+Não aplicável
+
+## Melhoria de classificação
+Inscrição na UC no ano letivo seguinte
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Seminars
+
+## Curso responsável
+Master in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Main goals:</p>
+<ul>
+<li>Present emerging topics, technologies, and methodologies in informatics and computing engineering, not addressed in other curricular units;</li>
+<li>Present topics, technologies, and methodologies specific to relevant clusters and sectors of activity (eg., automotive and transportation, fintech, health, etc.);</li>
+<li>Present societal challenges that can be addressed using digital technologies or that are raised by digital technologies.</li>
+</ul>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+At the end of the course, students should be able to:<br /><br /><ol><br /><li>Identify, describe and demonstrate familiarity with some emerging topics, technologies, and methodologies in Informatics and Computing Engineering, not addressed in other curricular units;</li><br /><li>Identify, describe and demonstrate familiarity with some Information and Communication Technologies specific to relevant clusters and sectors of activity (automotive and transportation, fintech, health, etc.), not addressed in other curricular units;</li><br /><li>Identify, describe and demonstrate familiarity with some societal challenges that can be addressed using digital technologies or that are raised by digital technologies, as well as demonstrate the ability to devise technological, organizational, and business solutions to address those challenges.</li><br /></ol>
+
+## Programa
+<p>The course unit will have a syllabus adjusted annually, consisting of a set of modules and guest lectures related to:</p>
+<ul>
+<li>
+<p><strong>Emerging topics in Informatics and Computer Engineering</strong> (for example, Quantum Computing);</p>
+</li>
+<li>
+<p><strong>Information and Communication Technologies</strong> specific to relevant clusters and sectors of activity (automotive and transport sector, financial sector, health sector, etc., for example, technologies for autonomous driving);</p>
+</li>
+<li>
+<p><strong>Societal challenges</strong> that can be solved using digital technologies or that are raised by these technologies (for example, in the fields of energy transition, climate change, and the digital transformation of society).</p>
+</li>
+</ul>
+<hr />
+<p><strong>Modules available for 25/26</strong> (students choose one module from each block, for a total of two modules)</p>
+<ul>
+<li>
+<p><strong>Block 1:</strong> Research Data Management OR Explainable AI within Data Mining</p>
+</li>
+<li>
+<p><strong>Block 2:</strong> The Data Behind the Music OR Beyond the Basics of Computer Vision</p>
+</li>
+</ul>
+<p><br />Student distribution per module in each block will take into account preferences and seat limits.<br /><br />Regardless of the modules you attend, you will have access to the resources provided for the other modules.</p>
+<p><strong>Guest lectures:</strong> to be confirmed</p>
+
+## Bibliografia obrigatória
+Os palestrantes; Bibliografia sugerida em cada módulo<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The teaching and evaluation methodology may vary from module to module. Some may be more experimental in a workshop format, others more theoretical in a lecture format, and still others more competitive in a contest format.</p>
+<p>To pass the course unit, students must:</p>
+<ul>
+<li>
+<p>successfully complete one module from each block, for a total of two modules</p>
+</li>
+<li>
+<p>attend at least one guest lecture</p>
+</li>
+</ul>
+<p> </p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Elaboração de projeto: 62.0 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho de investigação: 60.0 hours
+- Total:: 161.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final grade is calculated based on the grades of the modules attended (each with a weight of 45% of the final grade) and participation in the guest lectures (each with a weight of 5% of the final grade).</p>
+<p><strong>Final Grade Formula:</strong></p>
+<div class="math-block"><span class="katex-display"><span class="katex"><span class="katex-html"><span class="base"><span class="mord text"><span class="mord">FinalGrade </span></span><span class="mrel">= </span></span><span class="base"><span class="mord">0.45</span><span class="mbin">×</span></span><span class="base"><span class="mord text"><span class="mord">Module1Grade </span></span><span class="mbin">+ </span></span><span class="base"><span class="mord">0.45</span><span class="mbin">×</span></span><span class="base"><span class="mord text"><span class="mord">Module2Grade </span></span><span class="mbin">+ </span></span><span class="base"><span class="mord text"><span class="mord">Talk1Attendance </span></span><span class="mbin">+ </span></span><span class="base"><span class="mord text"><span class="mord">Talk2Attendance</span></span></span></span></span></span></div>
+<ul>
+<li>
+<p><strong>Module1Grade</strong>, <strong>Module2Grade</strong> &#8212; grades for the modules attended, ranging from 0 to 20.</p>
+</li>
+<li>
+<p><strong>Talk1Attendance</strong>, <strong>Talk2Attendance</strong> &#8212; attendance at talks, with a value of 0 or 1 in each.</p>
+</li>
+</ul>
+<p>To pass the course unit, students are required to:</p>
+<ul>
+<li>
+<p>successfully complete one module from each block, for a total of two modules</p>
+</li>
+<li>
+<p>attend at least one guest lecture</p>
+</li>
+</ul>
+<p>The grading formula for each individual module is defined by its instructors and is disclosed at the beginning of the academic year.</p>
+
+## Obtenção de frequência
+<p>Students are required to have a minimum of 75% attendance in each of the modules, and to participate in at least one guest lecture.</p>
+
+## Exames ou Trabalhos Especiais
+Not applicable
+
+## Melhoria de classificação
+Enrollment in the curricular unit in the next academic year
+

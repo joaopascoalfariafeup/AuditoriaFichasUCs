@@ -1,0 +1,150 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Métodos Numéricos
+
+## Curso responsável
+Licenciatura em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+4,5
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Oferecer um leque abrangente de conhecimentos de base na área de métodos numéricos. Dotar os estudantes com a capacidade de aplicar criteriosamente técnicas numéricas para a resolução de problemas de engenharia, o que requer a compreensão dos fundamentos dos métodos e o saber aplicar os métodos, recorrendo a  aplicações computacionais.</p>
+<p>No fim desta UC o estudante terá adquirido uma base sólida de conhecimentos técnicos na área de métodos numéricos. Terá desenvolvido a capacidade de, dada uma situação, saber escolher os métodos a aplicar e como adaptar ao problema em questão as várias ferramentas estudadas durante o semestre, incluindo a determinação de estimativas dos erros associados e condições de paragem de métodos iterativos para obter a precisão imposta. </p>
+
+## Resultados de aprendizagem e competências
+<p>No fim desta UC o aluno terá adquirido uma sólida base de conhecimentos técnicos na área de métodos numéricos. Terá desenvolvido a capacidade de, dada uma situação, saber escolher os métodos a aplicar e como adaptar ao problema em questão as várias ferramentas  estudadas durante o semestre, incluindo determinar quantas iterações são necessárias para obter a precisão imposta.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Álgebra, Análise Matemática 1, Análise Matemática 2.</p>
+
+## Programa
+<p>1. Erro absoluto e erro relativo; Propagação de erros no cálculo de funções; erro de truncatura em séries.</p>
+<p>2. Métodos iterativos para resolução de equações não lineares.</p>
+<p>3. Métodos iterativos para resolução de sistemas de equações não lineares.</p>
+<p>4. Métodos diretos e iterativos para sistemas de equações lineares.</p>
+<p>5. Aproximação de funções: método dos mínimos quadrados.</p>
+<p>6. Interpolação polinomial.</p>
+<p>8. Integração numérica.</p>
+<p>9. Resolução numérica de equações diferenciais ordinárias.</p>
+<p> </p>
+
+## Bibliografia obrigatória
+A. Matos; Apontamentos de Análise Numérica, 2005<br>
+
+## Bibliografia complementar
+W. Cheney, R. Kincaid; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005335750108801" title="Numerical Mathematics and Computing (Abre numa nova janela)" target="_blank" >Numerical Mathematics and Computing</a>, Brooks Cole<br>
+Burden, Richard L.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004147320108801" title="Numerical analysis (Abre numa nova janela)" target="_blank" >Numerical analysis</a>. ISBN: 0-53491-585-X <br>
+Conte, S. D.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004141550108801" title="Elementary numerical analysis (Abre numa nova janela)" target="_blank" >Elementary numerical analysis</a>. ISBN: 0-07-012447-7<br>
+Young, T., & Mohlenkamp, M. J.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009372690108801" title="Introduction to numerical methods and Matlab programming for engineers. (Abre numa nova janela)" target="_blank" >Introduction to numerical methods and Matlab programming for engineers.</a> (http://www.ohiouniversityfaculty.com/youngt/IntNumMeth/book.pdf)<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teóricas (T): Exposição dos temas programáticos ilustrada por exemplos que permitem clarificar os conceitos e resultados apresentados. Proposta de exercícios a serem resolvidos antes das aulas TP.</p>
+<p>Aulas teórico-práticas (TP): Discussão de questões encontradas na  resolução prévia dos exercícios e sobre os códigos computacionais usados na resolução. Discussão critica sobre resultados. Os métodos numéricos serão implementados computacionalmente salvo raras exceções. Ferramentes computacionais usadas Matlab ou Octave durante todo o semestre. <br /><br />A avaliação requer o uso destas ferramentas computacionais. </p>
+
+## Software
+Octave<br>
+Matlab<br>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 82.5 horas
+- Frequência das aulas: 39.0 horas
+- Total:: 121.5 horas
+
+## Fórmula de cálculo da classificação final
+<div>Classificação Final =  0.6*E + 0.4*CC,<br />E - Valorização do Exame Final (de 0 a 20 valores),<br />CC - Valorização da Componente Contínua (de 0 a 20).</div><br /><div><br />A Componente Contínua (CC) é medida pelo:<br />QA (de 0 a 20): desempenho (média) na realização de 4 questões de aula com duração de 15 minutos em aula (por grupos de duas pessoas no Moodle),<br />AP (de 0 a 5): grau de participação nas aulas TP (avaliada pelo Professor das TPs),<br />AC=0.5*QA+0.5*4*AP.<br />A quantidade AC não poderá exceder em mais de 5 valores a classificação do exame:<br />CC=min{E+5, AC}.<br /><br />Estudantes a repetir a UC com frequência de anos anteriores:<br />1. Não se inscrevem em turma TP e fazem a disciplina por exame final que vale 100 % da classificação (CC=E)<br />ou<br />2. Inscrevem-se em turma TP e seguem as regras de avaliação acima.</div>
+
+## Obtenção de frequência
+<p>Só são consideradas como válidas as provas de avaliação feitas por estudantes que obtenham frequência no ano corrente ou num um ano anterior.<br /><br />Estudantes inscritos em turma (que frequentam pela 1ª vez ou repetentes), não podem exceder o limite de faltas (25%) às aulas TP.</p>
+
+## Exames ou Trabalhos Especiais
+<p>Ver Avaliação Especial.</p>
+
+## Melhoria de classificação
+Por prova escrita, como estabelecido nos estatutos do curso. A Componente Contínua não é tida em conta.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Numerical Methods
+
+## Curso responsável
+Bachelor in Electrical and Computer Engineering
+
+## Créditos ECTS
+4,5
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+To offer a comprehensive range of basic knowledge in the area of numerical methods. To equip the students with the ability to judiciously apply numerical techniques for the resolution of engineering problems, which requires the understanding of the fundamentals of the methods and knowing how to apply the methods, resorting to computational applications.<br /><br />At the end of this Course Unit the student will have acquired a solid base of technical knowledge in the area of numerical methods. They will have developed the ability, given a situation, to know how to choose the methods to apply and how to adapt to the problem in question the various tools studied during the semester, including the determination of estimates of the associated errors and stopping conditions of iterative methods to obtain the imposed precision.
+
+## Resultados de aprendizagem e competências
+t the end of this Course Unit the student will have acquired a solid base of technical knowledge in the area of numerical methods. They will have developed the ability, given a situation, to know how to choose the methods to apply and how to adapt to the problem in question the various tools studied during the semester, including the determination of estimates of the associated errors and stopping conditions of iterative methods to obtain the imposed precision.
+
+## Pré-requisitos e co-requisitos
+<p>Algebra, Calculus 1, Calculus 2.</p>
+
+## Programa
+<p>1. Absolute error and relative error. Error propagation. Truncation error in infinite series.</p>
+<p>2. Iterative methods for nonlinear equations.</p>
+<p>3. Iterative methods for systems of nonlinear equations.</p>
+<p>4. Direct and iterative methods for systems of linear equations.</p>
+<p>5. Function approximation: least squares.</p>
+<p>6. Poliynomial interpolation.</p>
+<p>8. Numerical integration.</p>
+<p>9. Numerical integration of ordinary differential equations.</p>
+
+## Bibliografia obrigatória
+A. Matos; Apontamentos de Análise Numérica, 2005<br>
+
+## Bibliografia complementar
+W. Cheney, R. Kincaid; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005335750108801" title="Numerical Mathematics and Computing (Opens in a new window)" target="_blank" >Numerical Mathematics and Computing</a>, Brooks Cole<br>
+Burden, Richard L.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004147320108801" title="Numerical analysis (Opens in a new window)" target="_blank" >Numerical analysis</a>. ISBN: 0-53491-585-X <br>
+Conte, S. D.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004141550108801" title="Elementary numerical analysis (Opens in a new window)" target="_blank" >Elementary numerical analysis</a>. ISBN: 0-07-012447-7<br>
+Young, T., & Mohlenkamp, M. J.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009372690108801" title="Introduction to numerical methods and Matlab programming for engineers. (Opens in a new window)" target="_blank" >Introduction to numerical methods and Matlab programming for engineers.</a> (http://www.ohiouniversityfaculty.com/youngt/IntNumMeth/book.pdf)<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical lessons (T): Explanation of the programmatic themes illustrated by examples that allow to clarify the concepts and results presented. Proposal of a list of problems to be solved before the theoretical-practical classes.</p>
+<p>Theoretical-practical classes: Discussion of any questions the students may have had while solving  problems from the list proposed at T- classes. This includes discssion of codes used. Numerical methods will be implemented computationally with rare exceptions. Computational tools used during all the semester: Matlab or Octave. <br /><br />Evaluation will require the use of such computational tools.</p>
+
+## Software
+Octave<br>
+Matlab<br>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 82.5 hours
+- Frequência das aulas: 39.0 hours
+- Total:: 121.5 hours
+
+## Fórmula de cálculo da classificação final
+<div id=&quot;model-response-message-contentr_305952ac01db2aed&quot; dir=&quot;ltr&quot;><br /><p>Final Grade = 0.6 * E + 0.4 * CC, <br />where:<br />E - Final Exam Score (on a scale of 0 to 20 points).<br />CC - Continuous Assessment Score (on a scale of 0 to 20 points).</p><br /><p>The Continuous Assessment (CC) score is determined by the following components:<br />QA: The average performance on 4 in-class quizzes. Each quiz has a 15-minute duration and is completed in groups of two on Moodle.<br />AP: The participation grade in the practical-theoretical (TP) classes, assessed by the TP class instructor on a scale of 0 to 5.</p><br /><p>An intermediate score, AC, is first calculated using the formula:<br />AC=0.5×QA+0.5×4×AP.<br />A rule is applied so that the AC score cannot exceed the final exam score (E) by more than 5 points.<br />Therefore, the final Continuous Assessment score (CC) is the minimum of the two values (AC or E + 5), calculated as follows:<br />CC=min(E+5,AC).<br /><br /></p><br /><div id=&quot;model-response-message-contentr_e817c99c6aff62bf&quot; dir=&quot;ltr&quot;><br /><p>For students repeating the course unit who have attendance from previous years:<br />1. They do not enroll in a practical-theoretical (TP) class and take the course by final exam, which accounts for 100% of the grade (Continuous Assessment = Exam score).<br />or<br />2. They enroll in a practical-theoretical (TP) class and follow the assessment rules mentioned above.</p><br /></div><br /></div>
+
+## Obtenção de frequência
+<p>Assessments are considered valid only if completed by students who have met the minimum attendance requirements ("frequência") in the current or a previous academic year.<br /><br />Students enrolled in a class (whether attending for the 1st time or repeating) cannot exceed the absence limit (25%) for practical-theoretical (TP) classes.</p>
+
+## Exames ou Trabalhos Especiais
+<p>See Special Evaluation.</p>
+
+## Melhoria de classificação
+By written examination, as established in the course regulations. The distributed component is not taken into account.
+

@@ -1,0 +1,149 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Física Térmica
+
+## Curso responsável
+Licenciatura em Engenharia Física
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>Introdução à Física Térmica. Noções básicas de Termodinâmica clássica e de Mecânica Estatística. Aplicações a sistemas clássicos simples e a sistemas quânticos.</p>
+
+## Resultados de aprendizagem e competências
+<p>Familiariazação com conceitos básicos da termodinamica e da fisica estatistica.</p>
+<p>Espírito crítico, capacidade de argumentação.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Conhecimento de cálculo diferencial e integral.</p>
+
+## Programa
+<p> 0. Introdução. As abordagens macroscópica e microscópica da Física Térmica. </p>
+<p>1. Noções básicas de Termodinâmica. Equilíbrio térmico, primeiro e segundo princípios da Termodinâmica. Transformações reversíveis e irreversíveis. Ciclos reversíveis, máquinas térmicas. Condução térmica.</p>
+<p>2. Potenciais termodinâmicos. Relações de Maxwell. Aplicações.</p>
+<p>3. Mecânica Estatística.</p>
+<p>3.1. Introdução à Estatística matemática</p>
+<p>3.2. Descrição estatística de sistemas físicos: contagem de microestados e a distribuição  canónica.</p>
+<p>3.3. Sistemas em equilíbrio térmico e aplicações. Calor específico dos sólidos. Estudo da radiação térmica e o problema do corpo negro.</p>
+<p>3.4.. Estatísitcas Quânticas: Distribuições de Bose-Einstein e Fermi-Dirac.<br /><br /><em><br />Bibliografia <br /><br />1. Thermodynamics</em>, E. Fermi (Dover, New York, 1936).</p>
+<p>2. <em>Thermodynamique</em>, D. Bazarov (Mir, Moscu, 1983).</p>
+<p>3. <em>Heat and Thermodynamics</em>, M.W. Zemansky (McGraw-Hill Kogakusha, Tokyo, 1957).<br /><br />4. <em>Fundamentals of Statistical Mechanics and Thermal Physics</em>, F. Reif (McGraw-Hill International, 1981).</p>
+<p> 5. <em>Física Atómica</em>, M. Born (Fundação Calouste Gulbenkian, Lisboa, 1971).</p>
+<p>6. Fundamentos de Termodinâmica e Mecânica Estatística, Orfeu Bertolami (Universidade do Porto Press, 2025).  </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<br />
+<p> </p>
+
+## Bibliografia obrigatória
+E. Fermi; Thermodynamics, 1936<br>
+D. Bazarov; Thermodynamique, 1983<br>
+M.W. Zemansky; Heat and Thermodynamics , 1957<br>
+F. Reif; Fundamentals of Statistical Mechanics and Thermal Physics, 1981<br>
+M. Born; Física Atómica, 1971<br>
+Orfeu Bertolami; Fundamentos de Termodinâmica e Mecânica Estatística, Universidade do Porto Press, 2025. ISBN: 978-989-746-391-4<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teóricas de tipo expositivo e aulas TP de resolução de problemas.</p>
+
+## Tipo de avaliação
+Avaliação por exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 horas
+- Frequência das aulas: 56.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+Exame final.
+
+## Obtenção de frequência
+<p>FREQUÊNCIA -  75% de comparência nas aulas TP.</p>
+
+## Melhoria de classificação
+<p>Exame final. </p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Thermal Physics
+
+## Curso responsável
+Bachelor in Engineering Physics
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>Introduction to thermal Physics. Basics on classical thermodynamics and statistical mechanics. Applications to simple classical and quantum systems.</p>
+
+## Resultados de aprendizagem e competências
+<p>Get acquainted with the basic concepts of thermodynamics and statistical physics.</p>
+<p>Critical reasoning and arguing capacity.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Familiarity with advamced Calculus.</p>
+
+## Programa
+<p><span id="result_box" lang="en"><span class="hps">0</span>. <span class="hps">Introduction</span>. <span class="hps">Macroscopic</span> <span class="hps">and microscopic</span> <span class="hps">approaches</span> <span class="hps">of</span> <span class="hps">Thermal Physics</span>. </span></p>
+<p><span id="result_box" lang="en"><span class="hps">1.</span> <span class="hps">Basics of</span> <span class="hps">Thermodynamics</span>. <span class="hps">Thermal equilibrium</span>, <span class="hps">the first and second</span> <span class="hps">principles of</span> T<span class="hps">hermodynamics</span>. <span class="hps">Reversible and irreversible</span> <span class="hps">transformations</span>.  R<span class="hps">eversible c</span></span><span id="result_box" lang="en"><span class="hps">ycles and </span></span><span id="result_box" lang="en"> <span class="hps">heat engines</span>. <span class="hps">Thermal conduction</span>.</span></p>
+<p><span id="result_box" lang="en"> <span class="hps">2</span>. <span class="hps">Thermodynamic potentials</span>. <span class="hps">Maxwell relations</span>. <span class="hps">Applications</span></span></p>
+<p><span id="result_box" lang="en"><span class="hps">3</span>. <span class="hps">Statistical Mechanics</span>.</span></p>
+<p><span id="result_box" lang="en"> <span class="hps">3.1.</span> <span class="hps">Introduction to</span> <span class="hps">Mathematical</span> <span class="hps">Statistics</span></span></p>
+<p><span id="result_box" lang="en"> <span class="hps">3.2</span>. <span class="hps">Statistical description</span> <span class="hps">of physical systems</span>: <span class="hps">counting</span> <span class="hps">microstates </span><span class="hps">and</span> the <span class="hps">canonical</span> <span class="hps">distribution</span>.</span></p>
+<p> 3.3. Thermal equilibrium systems ans aplications. Specific heat of solids. Thermal radiation and the black body problem.</p>
+<p>3.4.. Quantum Statistics: Bose-Einstein and Fermi-Dirac distributions.<span lang="en"><br /><br /></span></p>
+<p><em>Bibliography <br /><br />1. Thermodynamics</em>, E. Fermi (Dover, New York, 1936).</p>
+<p>2. <em>Thermodynamique</em>, D. Bazarov (Mir, Moscu, 1983).</p>
+<p>3. <em>Heat and Thermodynamics</em>, M.W. Zemansky (McGraw-Hill Kogakusha, Tokyo, 1957).<br /><br />4. <em>Fundamentals of Statistical Mechanics and Thermal Physics</em>, F. Reif (McGraw-Hill International, 1981).</p>
+<p>5. <em>Física Atómica</em>, M. Born (Fundação Calouste Gulbenkian, Lisboa, 1971).</p>
+<p> 6. Fundamentos de Termodinâmica e Mecânica Estatística, Orfeu Bertolami (Universidade do Porto Press, 2025).  </p>
+<p> </p>
+<p> </p>
+<p><span id="result_box" lang="en"> </span></p>
+
+## Bibliografia obrigatória
+E. Fermi; Thermodynamics, 1936<br>
+D. Bazarov; Thermodynamique, 1983<br>
+M.W. Zemansky; Heat and Thermodynamics , 1957<br>
+F. Reif; Fundamentals of Statistical Mechanics and Thermal Physics, 1981<br>
+M. Born; Física Atómica, 1971<br>
+Orfeu Bertolami; Fundamentos de Termodinâmica e Mecânica Estatística, Universidade do Porto Press, 2025. ISBN: 978-989-746-391-4<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Lectures and problem classes.</p>
+
+## Tipo de avaliação
+Evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 hours
+- Frequência das aulas: 56.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><span id="result_box" lang="en"> Final exam.</span></p>
+
+## Obtenção de frequência
+<p>75% of presence in TP classes. </p>
+
+## Melhoria de classificação
+<p>FInal Exam. </p>
+

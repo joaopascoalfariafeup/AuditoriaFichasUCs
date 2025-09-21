@@ -1,0 +1,170 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Física II
+
+## Curso responsável
+Licenciatura em Engenharia Informática e Computação
+
+## Créditos ECTS
+4,5
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Esta unidade curricular tem como objetivo fornecer aos estudantes de Engenharia Informática uma formação sólida em eletrodinâmica, circuitos elétricos e sinais e sistemas, realçando a importância da camada analógica como suporte fundamental de qualquer sistema informático. O processamento digital, redes e computadores só são possíveis porque assentam em fenómenos físicos e dispositivos analógicos que garantem a geração, transmissão e deteção de sinais. O estudo dos conceitos teóricos é complementado com laboratórios práticos, essenciais para consolidar a compreensão, desenvolver competências experimentais e aproximar os estudantes da realidade tecnológica que sustenta a engenharia informática moderna.</p>
+
+## Resultados de aprendizagem e competências
+<p>No final da unidade curricular, o estudante deverá ser capaz de:</p>
+<ul>
+<li>Recordar conceitos fundamentais de carga elétrica, campo eletromagnético e equações de Maxwell, reconhecendo o seu papel nos sistemas de engenharia.</li>
+<li>Compreender o funcionamento de redes resistivas e reativas, relacionando teoria e prática.</li>
+<li>Aplicar métodos de análise em frequência e no domínio do tempo a sistemas lineares invariantes.</li>
+<li>Analisar a propagação de ondas eletromagnéticas e o fenómeno de amostragem em sinais discretos.</li>
+<li>Avaliar experimentalmente o comportamento de redes reativas em regime forçado sinusoidal em ambiente laboratorial.</li>
+<li>Criar modelos simplificados de sinais e sistemas que permitam interpretar e prever o desempenho de sistemas informáticos com base na sua camada analógica.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>Álgebra Linear e Geometria Analítica, Análise Matemática I e II, Física I</p>
+
+## Programa
+1. Eletrodinâmica<br /> 1.1 Carga elétrica <br /> 1.2 Campo eletromagnético <br /> 1.3 Equações de Maxwell <br /> 1.4 Ondas eletromagnéticas <br /> <br /> 2. Circuitos elétricos <br /> 2.1 Redes resistivas <br /> 2.2 Redes reativas <br /> 2.3 Redes reativas em regime forçado sinusoidal <br /> 2.4 Laboratórios <br /> <br /> 3. Sinais e sistemas <br /> 3.1 Sistemas lineares invariantes no tempo <br /> 3.2 Análise em frequência <br /> 3.3 Amostragem e sinais no tempo discreto
+
+## Bibliografia obrigatória
+Regente da unidade curricular; Apontamentos do regente da unidade curricular<br>
+
+## Bibliografia complementar
+Villate, Jaime E.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004442300108801" title="Electromagnetismo (Abre numa nova janela)" target="_blank" >Electromagnetismo</a>. ISBN: 972-773-010-8 <br>
+Purcell , Edward M.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002975960108801" title="Electricity and magnetism (Abre numa nova janela)" target="_blank" >Electricity and magnetism</a>. ISBN: 978-1-107-01402-2<br>
+Anant Agarwal, Jeffrey Lang; Foundations of Analog and Digital Electronic Circuits, Morgan Kaufmann, 2005. ISBN: 978-1558607354<br>
+Chen, Chi-Tsong; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma9910135270408801" title="Signals and systems (Abre numa nova janela)" target="_blank" >Signals and systems</a>. ISBN: 0-19-515661-7<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Os métodos de ensino combinam exposição interativa dos conteúdos programáticos com estratégias de aprendizagem ativa nas aulas teóricas, incentivando a participação dos estudantes na construção do conhecimento. <br /><br />Nas aulas teórico-práticas, privilegia-se a resolução de exercícios pelos próprios estudantes, promovendo a aplicação prática de conceitos e o desenvolvimento de competências de análise e raciocínio. <br /><br />As atividades laboratoriais permitem consolidar os conhecimentos através da experimentação, do contacto com instrumentos e da validação de modelos. <br /><br />O processo de aprendizagem é ainda apoiado pela plataforma Moodle, disponibilizando software, vídeos e simulações que complementam as aulas presenciais e favorecem o estudo autónomo e colaborativo.</p>
+
+## Software
+python<br>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 80.0 horas
+- Frequência das aulas: 42.0 horas
+- Total:: 122.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação tem quatro componentes:</p>
+a) Questões de aula (um exercício, resolvido em três aulas teórico-práticas durante o semestre) &#8211; QA<br />b) Mini-teste 1, que tem lugar a meio do semestre &#8211; MT1<br />c) Mini-teste 2, que tem lugar na época Normal &#8211; MT2<br />d) Laboratórios, a realizar nos laboratórios abertos &#8211; LAB<br />
+<p>As componentes QA e MT1 são obrigatórias e têm um peso de 30% (QA) e 40% (MT1).</p>
+<p>As componentes LAB e MT2 são opcionais e têm um peso de 15% (LAB) e 15% (MT2).</p>
+<p>Em suma, um estudante que realize QA e MT1 pode ter no máximo uma classificação de 14 valores. Se realizar o LAB opcional, terá no máximo 17 valores. Finalmente, se realizar também o MT2, terá no máximo 20 valores.</p>
+
+## Obtenção de frequência
+<p>Não exceder o limite de 25% de faltas às aulas teórico-práticas.</p>
+<p>Os estudantes sem frequência reprovam a unidade curricular, não se podendo apresentar a qualquer prova na época de exames, incluindo exame de recurso.</p>
+
+## Exames ou Trabalhos Especiais
+Não se aplica.
+
+## Melhoria de classificação
+<p>Através do exame de Recurso. <br /><br />Este exame melhora as seguintes componentes da avaliação distribuída: QA, MT1 e LAB (desde que o LAB tenha sido realizado pelo estudante).<br /><br /><br /></p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Physics II
+
+## Curso responsável
+Bachelor in Informatics and Computing Engineering
+
+## Créditos ECTS
+4,5
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>This course aims to provide Computer Engineering students with a solid background in electrodynamics, electrical circuits, and signals and systems, emphasising the importance of the analogue layer as the fundamental support of any computer system. Digital processing, networks, and computers are only possible because they rely on physical phenomena and analog devices that ensure the generation, transmission, and detection of signals. The study of theoretical concepts is complemented by practical laboratories, essential to consolidate understanding, develop experimental skills, and bring students closer to the technological reality that underpins modern computer engineering.</p>
+
+## Resultados de aprendizagem e competências
+<p data-start="835" data-end="925">At the end of the course, students should be able to:</p>
+<ul data-start="926" data-end="1656">
+<li data-start="926" data-end="1076">
+<p data-start="928" data-end="1076">Recall fundamental concepts of electric charge, electromagnetic field, and Maxwell&#8217;s equations, recognising their role in engineering systems.</p>
+</li>
+<li data-start="1077" data-end="1175">
+<p data-start="1079" data-end="1175">Understand the operation of resistive and reactive networks, relating theory and practice.</p>
+</li>
+<li data-start="1176" data-end="1273">
+<p data-start="1178" data-end="1273">Apply frequency-domain and time-domain analysis methods to linear time-invariant systems.</p>
+</li>
+<li data-start="1274" data-end="1384">
+<p data-start="1276" data-end="1384">Analyse the propagation of electromagnetic waves and the sampling phenomenon in discrete-time signals.</p>
+</li>
+<li data-start="1385" data-end="1510">
+<p data-start="1387" data-end="1510">Evaluate experimentally the behaviour of reactive networks under sinusoidal steady-state conditions in the laboratory.</p>
+</li>
+<li data-start="1511" data-end="1656">
+<p data-start="1513" data-end="1656">Create simplified models of signals and systems to interpret and predict the performance of computer systems based on their analogue layer.</p>
+</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>Linear Algebra and Analytic Geometry, Mathematical Analysis I and II, Physics I.</p>
+
+## Programa
+1. Electrodynamics<br />1.1 Electric charge<br />1.2 Electromagnetic field<br />1.3 Maxwell&#8217;s equations<br />1.4 Electromagnetic waves<br /><br />2. Electrical circuits<br />2.1 Resistive networks<br />2.2 Reactive networks<br />2.3 Reactive networks under sinusoidal steady-state conditions<br />2.4 Laboratories<br /><br />3. Signals and systems<br />3.1 Linear time-invariant systems<br />3.2 Frequency analysis<br />3.3 Sampling and discrete-time signals
+
+## Bibliografia obrigatória
+Regente da unidade curricular; Apontamentos do regente da unidade curricular<br>
+
+## Bibliografia complementar
+Villate, Jaime E.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004442300108801" title="Electromagnetismo (Opens in a new window)" target="_blank" >Electromagnetismo</a>. ISBN: 972-773-010-8 <br>
+Purcell , Edward M.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002975960108801" title="Electricity and magnetism (Opens in a new window)" target="_blank" >Electricity and magnetism</a>. ISBN: 978-1-107-01402-2<br>
+Anant Agarwal, Jeffrey Lang; Foundations of Analog and Digital Electronic Circuits, Morgan Kaufmann, 2005. ISBN: 978-1558607354<br>
+Chen, Chi-Tsong; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma9910135270408801" title="Signals and systems (Opens in a new window)" target="_blank" >Signals and systems</a>. ISBN: 0-19-515661-7<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The teaching methods combine interactive exposition of the syllabus with active learning strategies in lectures, encouraging student participation in knowledge construction. <br /><br />In problem-solving sessions, the focus is on student-led resolution of exercises, fostering practical application of concepts and the development of analytical and reasoning skills. <br /><br />Laboratory activities allow students to consolidate knowledge through experimentation, use of instruments, and validation of models. <br /><br />The learning process is further supported by the Moodle platform, providing software, videos, and simulations that complement face-to-face classes and promote autonomous and collaborative study.</p>
+
+## Software
+python<br>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 80.0 hours
+- Frequência das aulas: 42.0 hours
+- Total:: 122.0 hours
+
+## Fórmula de cálculo da classificação final
+<p data-start="3267" data-end="3611">Assessment consists of four components:<br data-start="3336" data-end="3339" /> a) Class questions (an exercise solved in three problem-solving sessions during the semester) &#8211; QA<br data-start="3441" data-end="3444" /> b) Midterm test 1, held mid-semester &#8211; MT1<br data-start="3490" data-end="3493" /> c) Midterm test 2, held in the Normal exam period &#8211; MT2<br data-start="3552" data-end="3555" /> d) Laboratory work, carried out in open labs &#8211; LAB</p>
+<p data-start="3613" data-end="3735">QA and MT1 are mandatory, with weights of 30% (QA) and 40% (MT1).<br data-start="3678" data-end="3681" /> LAB and MT2 are optional, each with a weight of 15%.</p>
+<p data-start="3737" data-end="3750">In summary:</p>
+<ul>
+<li>A student completing only QA and MT1 may obtain a maximum grade of 14/20.</li>
+<li>Completing the optional LAB allows a maximum of 17/20.</li>
+<li>Completing LAB and MT2 allows a maximum of 20/20.</li>
+</ul>
+
+## Obtenção de frequência
+Students must not exceed 25% of absences in problem-solving classes.<br /><br data-start=&quot;3109&quot; data-end=&quot;3112&quot; /> Students who fail to meet attendance requirements automatically fail the course and cannot sit any exam in the examination period, including the resit.
+
+## Exames ou Trabalhos Especiais
+Not applicable.
+
+## Melhoria de classificação
+Through the resit (&quot;Recurso&quot;) exam. <br /><br />This exam improves the following components of the distributed assessment: QA, MT1, and LAB (provided the LAB was taken by the student)
+

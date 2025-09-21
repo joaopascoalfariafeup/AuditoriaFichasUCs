@@ -1,0 +1,138 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Projeto - Multimédia
+
+## Curso responsável
+Licenciatura em Ciências da Comunicação
+
+## Créditos ECTS
+30
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>Amadurecer e aprofundar algumas das competências e aptidões mais relevantes do processo de aprendizagem adquiridas durante a Licenciatura, com um projeto multimédia, inserido num estágio curricular em estreita articulação entre as empresas e o estúdio multimédia da licenciatura.</p>
+<p><br />Na definição dos projetos multimédia, privilegiar-se-ão as seguintes áreas:<br /> &#8226; Infografia;<br /> &#8226; Gestão de conteúdos em plataformas multimodais;<br /> &#8226; Fotografia; Vídeo; Conteúdos 3D;<br /> &#8226; Tecnologias e competências de suporte: Tecnologias Web; Design de Comunicação; HCI-UX.</p>
+<p><br />O estudante, poderá ainda optar por um trabalho de investigação científica.</p>
+
+## Resultados de aprendizagem e competências
+O Projeto Multimédia deverá aprofundar competências específicas de, pelo menos uma das seguintes áreas:<br />&#8226; Infografia;<br />&#8226; Gestão de conteúdos em plataformas multimodais;<br />&#8226; Fotografia; Vídeo; Conteúdos 3D;<br />&#8226; Tecnologias e competências de suporte: Tecnologias Web; Design de Comunicação; HCI-UX.<br /><br />O projeto compreenderá as seguintes fases:<br /><br />i) Análise do conceito;<br />ii) Levantamento do estado da arte na área multimédia respetiva e identificação das mais valias e inovação do produto/serviço que se propõe desenvolver;<br />iii) Listagem dos requisitos necessários ao desenvolvimento (ou acompanhamento do desenvolvimento) do produto ou serviço;<br />iv) Desenvolvimento do produto ou serviço, em concordância com as Deliverables previamente definidas, entre a entidade proponente e o regente da U.C.;<br />v) Validação do resultado final junto do público-alvo;<br />vi) Produção de relatório final (individual e que deverá considerar os pontos anteriores);<br />vii) Apresentação pública (modalidade posters);<br />viii Projeto (avaliado em grupo).
+
+## Programa
+<p>Projeto Multimédia, inserido em estágio curricular e em ambiente laboratorial, aprofundando pelo menos uma das seguintes áreas:</p>
+<p><br />&#8226; Infografia;<br /> &#8226; Gestão de conteúdos em plataformas multimodais;<br /> &#8226; Fotografia; Vídeo; Conteúdos 3D;<br /> &#8226; Tecnologias e competências de suporte: Tecnologias Web; Design de Comunicação; HCI-UX.</p>
+
+## Bibliografia obrigatória
+ULL; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990006789830108801" title="Multimedia review (Abre numa nova janela)" target="_blank" >Multimedia review</a>. ISBN: 1046-3550<br>
+Bob Cotton; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007477820108801" title="Understanding hypermedia 2.000 (Abre numa nova janela)" target="_blank" >Understanding hypermedia 2.000</a>. ISBN: 0-7148-36575<br>
+Carlos Guerreiro; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008771770108801" title="Carlos Guerreiro (Abre numa nova janela)" target="_blank" >Carlos Guerreiro</a>. ISBN: 978-972-27-2395-4<br>
+Edward R. Tufte; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007637070108801" title="Beautiful evidence (Abre numa nova janela)" target="_blank" >Beautiful evidence</a>. ISBN: 0-9613921-7-7<br>
+Edward R. Tufte; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007610160108801" title="Envisioning information (Abre numa nova janela)" target="_blank" >Envisioning information</a>. ISBN: 0-9613921-1-8<br>
+Edward R. Tufte; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007610140108801" title="The^visual display of quantitative information (Abre numa nova janela)" target="_blank" >The^visual display of quantitative information</a>. ISBN: 0-9613921-4-2<br>
+Donald E. Knuth; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008112130108801" title="Digital typography (Abre numa nova janela)" target="_blank" >Digital typography</a>. ISBN: 1-57586-010-4<br>
+Jonas Larsen; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008219040108801" title="Digital snaps (Abre numa nova janela)" target="_blank" >Digital snaps</a>. ISBN: 978-1-78076-332-3<br>
+Jeremy Webb; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008301570108801" title="O^ Design da fotografia (Abre numa nova janela)" target="_blank" >O^ Design da fotografia</a>. ISBN: 978-85-65985-75-8<br>
+Manuel José Damásio; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007664350108801" title="New media production (Abre numa nova janela)" target="_blank" >New media production</a>. ISBN: 972-8881-08-8<br>
+Manuel Lima; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008295120108801" title="The^book of trees (Abre numa nova janela)" target="_blank" >The^book of trees</a>. ISBN: 978-1-61689-218-0<br>
+Matthias Hillner; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007821560108801" title="Virtual typography (Abre numa nova janela)" target="_blank" >Virtual typography</a>. ISBN: 978-2-940373-99-4<br>
+Miguel Carvalhais; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008386180108801" title="Artificial aesthetics (Abre numa nova janela)" target="_blank" >Artificial aesthetics</a>. ISBN: 978-989-746-092-0<br>
+Robert Jacobson; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007742080108801" title="Information design (Abre numa nova janela)" target="_blank" >Information design</a>. ISBN: 978-0-262-60035-4<br>
+Robert Spense; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007742090108801" title="Information visualization (Abre numa nova janela)" target="_blank" >Information visualization</a>. ISBN: 978-0-13-206550-4<br>
+Stephen Boss; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008498770108801" title="The^ New web typography (Abre numa nova janela)" target="_blank" >The^ New web typography</a>. ISBN: 978-1-138-78139-9<br>
+Vic Costello; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008052960108801" title="Multimedia foundations (Abre numa nova janela)" target="_blank" >Multimedia foundations</a>. ISBN: 978-0-240-81394-3<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Abordagem projetual (trabalho em equipa) em estreita articulação entre as empresas e o estúdio multimédia da licenciatura. Projetos nas áreas selecionadas, com entregas intercalares previamente definidas, resultados finais esperados e desenvolvimento partilhado entre as instalações das instituições proponentes e o estúdio multimédia;<br /><br />Avaliação do projeto e do relatório pelo(s) orientador(es) dos estudantes, com nota decidida colegialmente.<br />Avaliação do trabalho de investigação científica pelo orientador.</p>
+<p>A frequência do estágio é presencial, ainda que seja desejável os estudantes desenvolverem o projeto nas instalações da entidade acolhedora e no estúdio multimédia da licenciatura, promovendo o espírito de equipa e a abordagem projetual.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Elaboração de relatório/dissertação/tese: 90.0 horas
+- Realização de Estágio: 360.0 horas
+- Trabalho de investigação: 360.0 horas
+- Total:: 810.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>&#8226; Projeto (Deliverables e Resultado Final): 40%</p>
+<p>&#8226; Relatório: 40%</p>
+<p>&#8226; Workshop: 20%</p>
+
+## Obtenção de frequência
+<p>&#8226; Desenvolvimento de Projeto Multimédia</p>
+<p>&#8226; Relatório</p>
+<p>&#8226; Workshop</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Project - 	Multimedia
+
+## Curso responsável
+Bachelor in Communication Sciences
+
+## Créditos ECTS
+30
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+To mature and deepen some of the most relevant skills and abilities acquired during the Bachelor's degree learning process, through a multimedia project integrated into a curricular internship closely coordinated between companies and the multimedia studio of the degree program.<br /><br />The definition of multimedia projects, will prioratize the following areas:<br />&#8226; Infographics;<br />&#8226; Content management in multimodal platforms;<br />&#8226; Photography; video; 3D content;<br />&#8226; Technologies and skills support: Web Technologies; Communication Design; HCI-UX.<br /><br /><br />The student may also choose a scientific research work, once the UC regent considers the scope to be adequate to the class profile and its outcomes.
+
+## Resultados de aprendizagem e competências
+<p>The Multimedia Project should strengthen specific skills on, at least one of the following areas:<br />&#8226; Infographics;<br />&#8226; Content management in multimodal platforms;<br />&#8226; Photography; video; 3D content;<br />&#8226; Technologies and skills support: Web Technologies; Communication Design; HCI-UX.<br /><br />The project will include the following steps:<br /><br />i) Analysis of the concept;<br />ii) Survey of the state of the art in multimedia area and identification of gains and innovation of the product / service to be developed;<br />iii) List of necessary development requirements (or monitoring the development) of the product or service;<br />iv) Development of the product or service, in accordance with the predefined deliverables;<br />v) Validation of the final result with the target audience;<br />vi) Production of a final report (individual and that should consider the points above);<br />vii) Public presentation (posters' modality);<br />viii Project (group avaliation)</p>
+
+## Programa
+<p>Multimedia design, inserted in traineeship and laboratory environment, deepening at least one of the following areas:</p>
+<p><br />&#8226; Infographics;<br />&#8226; Content management in multimodal platforms;<br />&#8226; Photography; video; 3D content;<br />&#8226; Technologies and skills support: Web Technologies; Communication Design; HCI-UX.</p>
+
+## Bibliografia obrigatória
+ULL; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990006789830108801" title="Multimedia review (Opens in a new window)" target="_blank" >Multimedia review</a>. ISBN: 1046-3550<br>
+Bob Cotton; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007477820108801" title="Understanding hypermedia 2.000 (Opens in a new window)" target="_blank" >Understanding hypermedia 2.000</a>. ISBN: 0-7148-36575<br>
+Carlos Guerreiro; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008771770108801" title="Carlos Guerreiro (Opens in a new window)" target="_blank" >Carlos Guerreiro</a>. ISBN: 978-972-27-2395-4<br>
+Edward R. Tufte; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007637070108801" title="Beautiful evidence (Opens in a new window)" target="_blank" >Beautiful evidence</a>. ISBN: 0-9613921-7-7<br>
+Edward R. Tufte; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007610160108801" title="Envisioning information (Opens in a new window)" target="_blank" >Envisioning information</a>. ISBN: 0-9613921-1-8<br>
+Edward R. Tufte; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007610140108801" title="The^visual display of quantitative information (Opens in a new window)" target="_blank" >The^visual display of quantitative information</a>. ISBN: 0-9613921-4-2<br>
+Donald E. Knuth; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008112130108801" title="Digital typography (Opens in a new window)" target="_blank" >Digital typography</a>. ISBN: 1-57586-010-4<br>
+Jonas Larsen; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008219040108801" title="Digital snaps (Opens in a new window)" target="_blank" >Digital snaps</a>. ISBN: 978-1-78076-332-3<br>
+Jeremy Webb; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008301570108801" title="O^ Design da fotografia (Opens in a new window)" target="_blank" >O^ Design da fotografia</a>. ISBN: 978-85-65985-75-8<br>
+Manuel José Damásio; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007664350108801" title="New media production (Opens in a new window)" target="_blank" >New media production</a>. ISBN: 972-8881-08-8<br>
+Manuel Lima; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008295120108801" title="The^book of trees (Opens in a new window)" target="_blank" >The^book of trees</a>. ISBN: 978-1-61689-218-0<br>
+Matthias Hillner; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007821560108801" title="Virtual typography (Opens in a new window)" target="_blank" >Virtual typography</a>. ISBN: 978-2-940373-99-4<br>
+Miguel Carvalhais; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008386180108801" title="Artificial aesthetics (Opens in a new window)" target="_blank" >Artificial aesthetics</a>. ISBN: 978-989-746-092-0<br>
+Robert Jacobson; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007742080108801" title="Information design (Opens in a new window)" target="_blank" >Information design</a>. ISBN: 978-0-262-60035-4<br>
+Robert Spense; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007742090108801" title="Information visualization (Opens in a new window)" target="_blank" >Information visualization</a>. ISBN: 978-0-13-206550-4<br>
+Stephen Boss; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008498770108801" title="The^ New web typography (Opens in a new window)" target="_blank" >The^ New web typography</a>. ISBN: 978-1-138-78139-9<br>
+Vic Costello; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008052960108801" title="Multimedia foundations (Opens in a new window)" target="_blank" >Multimedia foundations</a>. ISBN: 978-0-240-81394-3<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Projetual approach (teamwork) in close cooperation between the companies and the multimedia studio degree. Projects in selected areas, with predefined interim deliveries, as well as the expected final outcomes.<br />Shared development between the facilities of the proposing institutions and multimedia studio;<br /><br /></p>
+<p>Evaluation of the project and the report by the student's advisor(s), with the grade determined collegially. <br />Evaluation of the scientific research work by the advisor.<br /><br />The frequency of the traineeship is at the companies facilities, although it is desirable that students develop the project also at the premises of the multimedia studio degree, promoting team spirit and projetual approach.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Elaboração de relatório/dissertação/tese: 90.0 hours
+- Realização de Estágio: 360.0 hours
+- Trabalho de investigação: 360.0 hours
+- Total:: 810.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><span id="result_box" lang="en"><span class="hps">&#8226;</span> <span class="hps">Project</span> <span class="hps atn">(</span>Deliverables <span class="hps">and</span> <span class="hps">Final</span> <span class="hps">Results</span>): 4<span class="hps">0</span>% <br /><br /><span class="hps">&#8226; Report</span>: 4<span class="hps">0</span>% <br /><br /><span class="hps">&#8226;</span> <span class="hps">Workshop</span>: 2<span class="hps">0</span>%</span></p>
+
+## Obtenção de frequência
+<span class=&quot;hps&quot;>&#8226;</span> Multimedia <span class=&quot;hps&quot;>Project</span><br /><br /><span class=&quot;hps&quot;>&#8226; Report</span><br /><br /><span class=&quot;hps&quot;>&#8226;</span> <span class=&quot;hps&quot;>Workshop</span>
+

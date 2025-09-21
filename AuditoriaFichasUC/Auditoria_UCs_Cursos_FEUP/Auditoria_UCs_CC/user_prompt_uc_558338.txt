@@ -1,0 +1,96 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Novos Média
+
+## Curso responsável
+Licenciatura em Ciências da Comunicação
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+A UC Novos Media tem como objectivo analisar a história e as questões especificas colocadas pelos novos meios digitais em rede. Será dado destaque ao conceito de rede, às redes sociai, os seus modelos de negócio e a sua regulação
+
+## Resultados de aprendizagem e competências
+Domíbio da história dos novos media e seus modelos de negócio e necessidade de regulação
+
+## Programa
+1. Evolução  da Internet<br />1.1. De Licklider ao TCP/IP<br />2. A Worls Wide Web enquanto rede<br />2.1. Teoria das redes<br />3. As redes sociais<br />3.1. O surgimeto das redes sociaqis<br />3.2. Arquitectura das redes e modelos participativos<br />3.3. Modelos de Negócio<br />4. Questões políticas de Regulação
+
+## Bibliografia obrigatória
+António Machuco Rosa; A Comunicação e o Fim das Instituições<br>
+Susanne Zushboff; Surveillence Capitalism<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Exposição oral com estudo paricipativo e autónomo dos estudantes
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 50.0 horas
+- Estudo autónomo: 50.0 horas
+- Total:: 100.0 horas
+
+## Fórmula de cálculo da classificação final
+Apresentação e trabalhos final = 100%
+
+## Obtenção de frequência
+De acordo com o Regulamento de Avaliação da Faculdade de Letras da Universidade do Porto (aplicável aos Cursos de 1º Ciclo - Licenciatura) *
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+New Media
+
+## Curso responsável
+Bachelor in Communication Sciences
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+The UC Novos Media aims to analyze the history and the specific questions posed by the new networked digital media. Emphasis will be given to the concept of network, social networks, their business models and their regulation
+
+## Resultados de aprendizagem e competências
+Mastering the history of new media and their business models and the need for regulation
+
+## Programa
+1. Evolution of the Internet<br />1.1. From Licklider to TCP/IP<br />2. The World Wide Web as a network<br />2.1. Network theory<br />3. Social networks<br />3.1. The emergence of social networks<br />3.2. Architecture of networks and participatory models<br />3.3. Business Models<br />4. Regulatory Policy Issues
+
+## Bibliografia obrigatória
+António Machuco Rosa; A Comunicação e o Fim das Instituições<br>
+Susanne Zushboff; Surveillence Capitalism<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Oral presentation with participatory and autonomous study by students
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 50.0 hours
+- Estudo autónomo: 50.0 hours
+- Total:: 100.0 hours
+
+## Fórmula de cálculo da classificação final
+Presentation and final work = 100%
+
+## Obtenção de frequência
+According to the Evaluation Regulation of the Faculty of Arts of the University of Porto (applicable to 1st Cycle Courses - Degree) *
+

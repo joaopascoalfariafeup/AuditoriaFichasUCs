@@ -1,0 +1,122 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Competências transversais para engenharia: LaTeX
+
+## Curso responsável
+Competências transversais para engenharia: LaTeX
+
+## Créditos ECTS
+1,5
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Esta unidade de formação proporciona oportunidades para a aquisição e desenvolvimento de competências do Sistema de Preparação de Documentos LaTeX, uma ferramenta muito útil na produção de textos matemáticos e científicos, devido a sua alta qualidade tipográfica, que também pode ser utilizada para produção de documentos pessoais, artigos, livros, teses, apresentações, entre outros.
+
+## Resultados de aprendizagem e competências
+<strong>COMPETÊNCIAS</strong><br />1. Escrever um artigo científico para uma revista internacional, usando o estilo LATEX fornecido pelo editor.<br />2. Escrever uma tese ou um livro, sem ter de se preocupar com o estilo e a formatação.<br />3. Escrever uma carta ou um memorando com os estilos predefinidos do LATEX.<br />4. Criar uma base de dados bibliográfica usando BibTeX.<br />5. Criar um índice remissivo para um livro, usando makeindex.<br />6. Preparar uma apresentação usando o estilo beamer.<br />7. Incluir equações matemáticas em páginas Web usando a libraria mathjax.<br />8. Incluir figuras e fotografias num documento LATEX.<br />9. Modificar e adaptar um estilo LATEX já existente.<br />10. Criar um documento LATEX distribuído em vários ficheiros separados.<br /><br /><strong>RESULTADO DA APRENDIZAGEM</strong><br />- No final desta unidade de formação, o/a participante deverá saber utilizar o LaTeX com proficiência;<br />- O/a participante deverá ser capaz de escrever um documento em LaTeX, contendo os<br />elementos comummente usados em textos matemáticos e científicos.
+
+## Pré-requisitos e co-requisitos
+O curso é de iniciação ao LaTeX, pelo que não são necessários quaisquer pré-requisitos.
+
+## Programa
+<p><strong>Programa</strong></p>
+<p><strong>1. Introdução</strong> <br />- Vantagens e desvantagens do LaTeX em relação a outros sistemas. <br />- Instalação. <br />- Preparação de ficheiros fonte. <br />- Processamento. <br />- Correção de erros.<br /><strong>2. Estilos</strong> <br />- Estilos e pacotes do LaTeX. <br />- Capítulos, secções e apêndices. <br />- O arquivo CTAN.<br /><strong>3. Símbolos especiais</strong><br />- Símbolos e caracteres especiais. <br />- Fórmulas matemáticas.<br /><strong>4. Blocos de texto</strong> <br />- Listas. <br />- Tabelas.<br />- Blocos preformatados. <br />- Texto com várias colunas.<br />- Notas de pé de página. <br />- Outros blocos especiais.<br /><strong>5. Gráficos</strong> <br />- Inclusão de ficheiros gráficos e fotografias. <br />- Pacotes para criação de ilustrações e gráficos matemáticos<br /><strong>6. Bibliografias</strong> <br />- Bases de dados bibliográficas. <br />- Estilos. <br />- Citações.<br /><strong>7. Índices</strong> <br />- Tabela de conteúdos. <br />- Lista de figuras. <br />- Lista de tabelas. <br />- Índice remissivo.<br /><strong>8. Artigos</strong> <br />- Preparação de artigos científicos usando os estilos próprios fornecidos pelos editores das revistas.<br /><strong>9. Teses</strong> <br />- Estilos específicos para teses e adaptaçãao ao estilo da FEUP.<br /><strong>10. Apresentações</strong> <br />- Preparação de transparências e de páginas Web.<br /><strong>11. Extensões</strong> <br />- Criação de novos comandos. <br />- Modificação e adaptação de pacotes e estilos.</p>
+
+## Bibliografia obrigatória
+Oetiker, T., Partl, H., Hyna, I. & Schlegl, E.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008382670108801" title="The Not So Short Introduction to LATEX 2 (Abre numa nova janela)" target="_blank" >The Not So Short Introduction to LATEX 2</a>, 2003<br>
+Wikibooks; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008382610108801" title="LATEX (Abre numa nova janela)" target="_blank" >LATEX</a> (https://en.wikibooks.org/wiki/LaTeX)<br>
+
+## Bibliografia complementar
+Leslie Lamport; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004165400108801" title="Latex (Abre numa nova janela)" target="_blank" >Latex</a>. ISBN: 0-201-52983-1<br>
+Michel Goossens; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004748150108801" title="The latex companion (Abre numa nova janela)" target="_blank" >The latex companion</a>. ISBN: 0-201-36299-6 <br>
+Markus Kohm; koma-script &#8211; A bundle of versatile classes and packages, 2021 (https://ctan.org/pkg/koma-script?lang=en)<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<strong>MÉTODOS DE ENSINO E ATIVIDADES DE APRENDIZAGEM</strong><br />Em cada semana é lecionada uma aula teórico-prática de duas horas. Nas aulas teórico-práticas, que decorrem online, o docente expõe a matéria e permite que os estudantes tenham tempo de experimentar e colocar questões. A avaliação será realizada através de quizzes online, um trabalho a desenvolver individualmente de forma autónoma e um teste presencial em moodle.
+
+## Software
+www.overleaf.com<br>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 11.5 horas
+- Frequência das aulas: 14.0 horas
+- Trabalho escrito: 15.0 horas
+- Total:: 40.5 horas
+
+## Fórmula de cálculo da classificação final
+Fórmula da nota final: CF = Q01*0,10 + Q02*0,10 + Q03*0,15+ A05*0,25+ QM*0,40<br />CF - Classificação final<br />Q01 - Quizz no moodle para a sessão 01<br />Q02 - Quizz no moodle para a sessão 02<br />Q03 - Quizz no moodle para a sessão 03<br />A05 - Trabalho da sessão 05<br />QM - Quizz presencial no moodle
+
+## Obtenção de frequência
+A obtenção de classificação final exige o cumprimento de assiduidade à unidade curricular, conforme estabelecido nas regras de avaliação da FEUP. Considera&#8208;se que um estudante cumpre a assiduidade a uma unidade curricular se, tendo estado regularmente inscrito, não exceder o número limite de faltas correspondente a 25% de cada um dos tipos de aulas previstos.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Transferable skills for engineering: LaTex
+
+## Curso responsável
+Transferable skills for engineering: LaTex
+
+## Créditos ECTS
+1,5
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+This course provides opportunities for acquisition and development of skills of document preparation system LaTeX, a very useful tool in the production of mathematical and scientific texts, due to its high quality printing, which can also be used to produce personal documents, articles, books, theses, presentations, among others.
+
+## Resultados de aprendizagem e competências
+<strong>SKILLS<br /></strong>1. Write a scientific article for an international journal, using the LATEX style provided by the editor.<br />2. Write a thesis or a book, without having to worry about style and formatting.<br />3. Write a letter or memo using the predefined LATEX styles.<br />4. Create a bibliographic database using BibTeX.<br />5. Create an index for a book, using makeindex.<br />6. Prepare a presentation using the beamer style.<br />7. Include math equations in web pages using the mathjax library.<br />8. Include figures and photographs in a LATEX document.<br />9. Modify and adapt an existing LATEX style.<br />10. Create a LATEX document distributed in several separate files.<br /><br /><br /><strong>LEARNING OUTCOMES</strong><br />- At the end of this course, the participant should be able to use LaTeX proficiently;<br />- The participant should be able to write a document in LaTeX, containing the elements commonly used in mathematical and scientific texts.
+
+## Pré-requisitos e co-requisitos
+The course is an introductory course to LaTeX, so there are no prerequisites.
+
+## Programa
+<p><strong>Programme</strong></p>
+<p><strong>1. Introduction</strong><br />- Advantages and disadvantages of LaTeX, by comparison with other systems.<br />- Installation<br />- Preparation of source files<br />- Processing<br />- Correction of errors<br /><strong>2. Styles</strong><br />- Styles and LaTeX packages.<br />- Chapters, sections and appendices.<br />- The CTAN file.<br /><strong>3. Special symbols</strong><br />- Symbols and special characters.<br />- Mathematical formulas.<br /><strong>4. Text blocks</strong><br />- Lists.<br />- Tables.<br />- Preformatted blocks.<br />- Text with multiple columns.<br />- Footer notes.<br />- Other special blocks.<br /><strong>5. Graphics</strong><br />- Graphics and photos inclusion.<br />- Package for creating illustrations and mathematical charts<br /><strong>6. Bibliography</strong><br />- Bibliographic databases.<br />- Styles.<br />- Quotations.<br /><strong>7. Index</strong><br />- Table of Contents.<br />- List of Figures.<br />- List of tables.<br />- Index.<br /><strong>8. Articles/Papers</strong><br />- Preparation of scientific papers using the styles provided by the editors of the journals.<br /><strong>9. Theses</strong><br />- Specific styles for theses and adaptation to FEUP's style.<br /><strong>10. Presentations</strong><br />- Preparation of slides and Web pages.<br /><strong>11. Extensions</strong><br />- Creation of new commands.<br />- Modification and adaptation packages and styles.</p>
+
+## Bibliografia obrigatória
+Oetiker, T., Partl, H., Hyna, I. & Schlegl, E.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008382670108801" title="The Not So Short Introduction to LATEX 2 (Opens in a new window)" target="_blank" >The Not So Short Introduction to LATEX 2</a>, 2003<br>
+Wikibooks; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008382610108801" title="LATEX (Opens in a new window)" target="_blank" >LATEX</a> (https://en.wikibooks.org/wiki/LaTeX)<br>
+
+## Bibliografia complementar
+Leslie Lamport; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004165400108801" title="Latex (Opens in a new window)" target="_blank" >Latex</a>. ISBN: 0-201-52983-1<br>
+Michel Goossens; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004748150108801" title="The latex companion (Opens in a new window)" target="_blank" >The latex companion</a>. ISBN: 0-201-36299-6 <br>
+Markus Kohm; koma-script &#8211; A bundle of versatile classes and packages, 2021 (https://ctan.org/pkg/koma-script?lang=en)<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<strong>TEACHING METHODS AND LEARNING ACTIVITIES</strong><br />Each week, a two-hour theoretical-practical class is taught. During the online classes, the teacher explains the topic and allows students time to experiment and ask questions. The assessment will be carried out through online quizzes, a project to be developed individually and autonomously, and a face-to-face test in Moodle.
+
+## Software
+www.overleaf.com<br>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 11.5 hours
+- Frequência das aulas: 14.0 hours
+- Trabalho escrito: 15.0 hours
+- Total:: 40.5 hours
+
+## Fórmula de cálculo da classificação final
+Final grade formula: CF = Q01*0,10 + Q02*0,10 + Q03*0,15+ A05*0,25+ QM*0,40<br />CF - Final classification<br />Q01 - Moodle Quiz for Session 01<br />Q02 - Moodle Quiz for Session 02<br />Q03 - Moodle Quiz for Session 03<br />A05 - Session 05 Assignment<br />QM - In-Person Moodle Quiz
+
+## Obtenção de frequência
+Achieving final classification requires compliance with attendance at the course unit, according to the FEUP's assessment rules. It is considered that students meet the attendance requirements if, having been regularly enrolled, the number of absences of 25% for each of the classes&#8217; types is not exceeded.
+

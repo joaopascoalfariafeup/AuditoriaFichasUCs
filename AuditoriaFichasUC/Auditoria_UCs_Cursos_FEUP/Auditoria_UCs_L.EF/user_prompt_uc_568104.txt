@@ -1,0 +1,146 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Análise II
+
+## Curso responsável
+Licenciatura em Física
+
+## Créditos ECTS
+9
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p><em>Em curvas parametrizadas: </em></p>
+<p><em>Definir e interpretar  conceitos básicos de  geometria diferencial de  curvas no espaço (e no plano) , como  a velocidade, aceleração, curvatura, torção e  triedro de Frenet. </em></p>
+<p><em>Analisar a geometria de  curvas com  curvatura nula ou constante  e curvas com torção nula. </em></p>
+<p><em>No Cálculo diferencial de funções vectoriais de várias variáveis reais: </em></p>
+<p><em>Definir e calcular limite e  derivada de uma função num ponto, relacionando com os conceitos  de limite e derivada adquiridos em Análise de funcões escalares reais de variável real.  </em></p>
+<p><em>Definir e calcular plano tangente e reta normal a uma superfície no espaço. </em></p>
+<p><em>Definir extremo local  de funções de duas e três variáveis reais e tomando valores reais. </em></p>
+<p><em>Analisar  a classificação de extremos locais de funções de duas e três variáveis reias e tomando valores reais,  definadas em abertos, usando o Teorema de Taylor para funções de várias variáveis e a diagonalização de matrizes quadradas simétricas .  </em></p>
+<p><em>Descrever o Teorema do  Método dos Multiplicadoresde Lagrange  e sua prova.  </em></p>
+<p><em>Calcular extremos absolutos de funções (contínuas)  de duas e três variáveis reais e tomando valores reais  definidas em conjuntos fechados e limitados,  usando a classificação de extremos locais no interior e o Método dos Multiplicadores de Lagrange na fronteira. </em></p>
+<p><em> </em></p>
+<p><em> Em integrais múltiplos: </em></p>
+<p><em>Definir integral de funções de várias variáveis  em regiões limitadas. </em></p>
+<p><em>Descrever o Teorema de Fubini e  interpretar  o seu uso no cálculo de  integrais de funções de várias variáveis definidas em regiões limitadas. </em></p>
+<p><em>Descrever o Teorema da Mudança de Variável e implementar este resultado em  mudanças de coordenadas retangulares para coordenadas polares no plano, e para coordenadas cilíndricas ou  esféricas no espaço. </em></p>
+
+## Resultados de aprendizagem e competências
+<p><em>Calcular  velocidade, aceleração, curvatura, torção e  triedro de Frenet de curvas no espaço (e plano) e relacionar com a geometria das curvas. </em></p>
+<p><em>Calcular limite e derivada de funcões  de várias varáveis num ponto.  </em></p>
+<p><em>Calcular plano tangente e reta normal num ponto de uma superfície (no espaço) e relacionar com a geometria da superfície. </em></p>
+<p><em>Classificar os extremos locais de fucções escalares de duas ou três variáveis definidas em abertos. </em></p>
+<p><em>Calcular os extremos absolutos de uma função (contínua) num conjunto fechado e limitado estudando os extremos locais no interior e os extermos condicionados na fronteira do domínio usando o Método dos Multiplicadores de Lagrange. </em></p>
+<p>Calcular integrais duplos e triplos através de integrais iterados em domínios limitados. <br /><br />Calcular integrais duplos em coordenadas polares, e integrais triplos em coordenadas cilíndricas e esféricas, em domínios limitados. <br /><br />Identificar funções e domínios em que o uso de coordenadas polares <br />no plano e coordenadas cilíndricas ou esféricas no espaço simplifica <br />o cálculo do integral.</p>
+
+## Pré-requisitos e co-requisitos
+Cálculo real e conceitos básicos de Álgebra Linear e Geometria Analítica.
+
+## Programa
+<p><em>Curvas parametrizadas.</em><em><br /> Velocidade, aceleração, curvatura, o triedro de Frenet.  <br /> <br /> Cálculo diferencial de funções vectoriais de várias variáveis. <br /> Gráficos de funções (escalares) de várias variáveis, curvas de nível e superfícies de nível. Abertos e fechados em R^n. Ponto de acumulação e ponto isolado. Limites e continuidade de funções. Derivadas direccionais e derivadas parciais. Derivada de uma função escalar num ponto. Gradiente. Derivabilidade e gradiente. Plano tangente ao gráfico de uma função. Interpretação do vector gradiente. Recta normal e hiperplano tangente a uma superfície de nível num ponto. Derivadas de ordem superior. Igualdade das derivadas parciais mistas. Derivada de uma função vectorial num ponto. Matriz jacobiana. Derivada da função composta. Exemplos. Teorema da função inversa. Máximos e mínimos de funções escalares de várias variáveis. Classificação dos extremos usando derivadas parciais de segunda ordem. Extremos condicionados: o método dos multiplicadores de Lagrange. </em><em><br /> <br /> Integrais múltiplos.<br /> Definição de integral de uma função (de várias variáveis) sobre um rectângulo e sobre uma região limitada. Teorema de Fubini. Cálculo de integrais duplos e triplos via integrais iterados. Teorema da mudança de coordenadas para integrais múltiplos. Aplicações: integrais duplos em coordenadas polares, e integrais triplos em coordenadas cilíndricas e esféricas.</em></p>
+
+## Bibliografia obrigatória
+Jerrold Marsden; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002409270108801" title="Calculus iii. 2nd ed (Abre numa nova janela)" target="_blank" >Calculus iii. 2nd ed</a>. ISBN: 0-387-90985-0<br>
+James Stewart; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008642730108801" title="Calculus (Abre numa nova janela)" target="_blank" >Calculus</a>. ISBN: 978-1-305-27237-8 <br>
+Serge Lang; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002345000108801" title="Calculus of several variables (Abre numa nova janela)" target="_blank" >Calculus of several variables</a>. ISBN: 0-387-96405-3<br>
+
+## Bibliografia complementar
+Jerrold Marsden; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002409260108801" title="Calculus ii. 2nd ed (Abre numa nova janela)" target="_blank" >Calculus ii. 2nd ed</a>. ISBN: 0-387-90975-3<br>
+
+## Métodos de ensino e atividades de aprendizagem
+As horas de contacto estão distribuídas em aulas teóricas e teórico-práticas. Nas primeiras são apresentados os conteúdos do programa, recorrendo-se a exemplos para ilustrar os conceitos tratados e orientar os estudantes. Nas aulas teórico-práticas são resolvidos exercícios e problemas, previamente indicados. São disponibilizados materiais de apoio na página da unidade.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 171.0 horas
+- Frequência das aulas: 72.0 horas
+- Total:: 243.0 horas
+
+## Fórmula de cálculo da classificação final
+<p><strong>Avaliação distribuída sem exame final</strong></p>
+<p>A avaliação distribuída é efetuada com base nos resultados de dois testes, cada valendo 10 valores, em  datas a anunciar no início do segundo semestre.<br /><br />A classificação final será a soma das notas dos dois  testes.</p>
+<p><br /> Qualquer estudante pode optar por não se submeter à avaliação distribuída e obter a classificação final realizando o exame da Época de Recurso.<br /> <br /> Em qualquer dos casos, um estudante com nota final igual ou superior a 16.5 valores (&#8805;16.5) poderá ter que realizar uma prova extra (oral ou escrita).</p>
+<p>Para o acesso às provas de avaliação, não é imposta qualquer condição aos estudantes inscritos.</p>
+
+## Obtenção de frequência
+Não é exigida assiduidade.
+
+## Exames ou Trabalhos Especiais
+N/A.
+
+## Melhoria de classificação
+Aplica-se o regulamento geral da avaliação.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Analysis II
+
+## Curso responsável
+Bachelor in Physics
+
+## Créditos ECTS
+9
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<pre class=&quot;tw-data-text tw-text-large tw-ta&quot; dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; data-placeholder=&quot;Tradução&quot; data-ved=&quot;2ahUKEwis_Kim18SOAxVlVqQEHegtJ_wQ3ewLegQICRAU&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>For parameterized curves:<br /><br />Define and interpret basic concepts of <br />differential geometry of curves in space <br />(and on the plane), such as velocity, <br />acceleration, curvature, torsion, and <br />Frenet's trihedron.<br /><br />Analyze the geometry of curves with zero or <br />constant curvature and curves with zero torsion.<br /><br /></span></pre><br /><pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot; dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; data-placeholder=&quot;Tradução&quot; data-ved=&quot;2ahUKEwis_Kim18SOAxVlVqQEHegtJ_wQ3ewLegQICRAU&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>In Differential Calculus of Vector-Valued <br />Functions of Several Real Variables:<br /><br />Define and calculate the limit and <br />derivative of a function at a point, <br />relating it to the concepts of limit and <br />derivative acquired in Analysis of Scalar Functions of One Real Variable.<br /><br />Define and calculate the tangent plane and <br />normal line to a surface in space.<br /><br />Define local extrema of functions of two <br />and three real variables and taking real <br />values.<br /><br />Analyze the classification of local <br />extrema of functions of two and three <br />real variables and taking real values, <br />defined on open sets, using Taylor's Theorem <br />for functions of several variables and the <br />diagonalization of symmetric square matrices.<br /><br />Describe the Lagrange Multiplier Theorem <br />and its proof.<br /><br />Calculate absolute extrema of continuous <br />functions of two and three real variables <br />and taking real values defined on closed and <br />bounded sets using the classification of <br />local extrema in the interior and the <br />Lagrange Multiplier Method on the boundary.</span></pre><br /><pre class=&quot;tw-data-text tw-text-large tw-ta&quot; dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; data-placeholder=&quot;Tradução&quot; data-ved=&quot;2ahUKEwis_Kim18SOAxVlVqQEHegtJ_wQ3ewLegQICRAU&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;> </span></pre><br /><div id=&quot;tw-target-text-container&quot; class=&quot;tw-ta-container tw-nfl&quot; tabindex=&quot;0&quot;><br /><pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot; dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; data-placeholder=&quot;Tradução&quot; data-ved=&quot;2ahUKEwis_Kim18SOAxVlVqQEHegtJ_wQ3ewLegQICRAU&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>In multiple integrals:<br /><br />Define integrals of functions of <br />several variables in bounded regions.<br /><br />Describe Fubini's Theorem and <br />interpret its use in calculating <br />integrals of functions of several <br />variables defined in bounded regions.<br /><br />Describe the Change of Variable <br />Theorem and implement this result <br />in changes from rectangular coordinates <br />to polar coordinates in the plane, and to <br />cylindrical or spherical coordinates in <br />space.</span></pre><br /></div><br /><div id=&quot;tw-target-rmn-container&quot; class=&quot;tw-target-rmn tw-ta-container tw-nfl&quot; tabindex=&quot;0&quot;> </div><br /><pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot; dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; data-placeholder=&quot;Tradução&quot; data-ved=&quot;2ahUKEwis_Kim18SOAxVlVqQEHegtJ_wQ3ewLegQICRAU&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;> </span></pre>
+
+## Resultados de aprendizagem e competências
+<div id=&quot;tw-target-text-container&quot; class=&quot;tw-ta-container tw-nfl&quot; tabindex=&quot;0&quot;><br /><pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot; dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; data-placeholder=&quot;Tradução&quot; data-ved=&quot;2ahUKEwis_Kim18SOAxVlVqQEHegtJ_wQ3ewLegQICRAU&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>Calculate velocity, acceleration, curvature, <br />torsion, and Frenet trihedron of curves in <br />space (and on a plane) and relate them to the <br />geometry of the curves.<br /><br />Calculate the limit and derivative of <br />multivariable functions at a point.<br /><br />Calculate the tangent plane and normal <br />line at a point on a surface (in space) <br />and relate them to the geometry of the surface.<br /><br />Classify the local extrema of scalar functions <br />of two or three variables defined as open.<br /><br />Calculate the absolute extrema of a continuous <br />function on a closed and bounded set by <br />studying the local extrema inside and the <br />conditioned extrema on the boundary of the <br />domain using the Lagrange Multiplier Method.<br /><br />Calculate double and triple integrals <br />through iterated integrals in bounded domains. <br /><br />Calculate double integrals in polar coordinates, <br />and triple integrals in cylindrical and <br />spherical coordinates, in bounded domains. <br /><br />Identify functions and domains in which the <br />use of polar coordinates in the plane and <br />cylindrical or spherical coordinates in space <br />simplifies the calculation of the integral.</span></pre><br /></div><br /><div id=&quot;tw-target-rmn-container&quot; class=&quot;tw-target-rmn tw-ta-container tw-nfl&quot; tabindex=&quot;0&quot;> </div>
+
+## Pré-requisitos e co-requisitos
+One-variable calculus and Linear Algebra with Analytical Geometry.
+
+## Programa
+<em>Parametrized curves.<br />Velocity, acceleration, curvature, Frenet frame. <br /><br />Differential calculus of vector-valued multivariate functions.<br />Graphs of real-valued functions of two variables, contour lines of functions of two variables and level surfaces of functions of three variables. Open and closed subsets of R^n. Accumulation point and isolated point. Limits and continuity of functions. Directional derivatives and partial derivatives. Derivative function at a point of a real-valued multivariate function. Gradient vector and derivability. Tangent plane to the graph of a function of two variables. Interpretation of the gradient vector. Normal line and tangent hiperplane at a point on the level surface of a function. Higher order derivatives. Derivative function at a point  of a vector-valued multivariate function. Jacobian matrix. Derivation of composition of functions. Examples. Inverse function theorem. Maxima and minima of real-valued multivariate functions. Second derivative test to find the local extremes. The method of Lagrange multipliers for finding extreme values of constrained functions.  <br /><br />Multiple integrals. <br />Definition of integral of a multivariate real-valued function over a rectangle and a bounded region. Fubini's theorem.  Calculation of double and triple integrals via iterated integrals. Integration and the change of coordinates. Applications: double integrals in polar coordinates, and triple integrals in cylindrical and spherical coordinates. </em>
+
+## Bibliografia obrigatória
+Jerrold Marsden; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002409270108801" title="Calculus iii. 2nd ed (Opens in a new window)" target="_blank" >Calculus iii. 2nd ed</a>. ISBN: 0-387-90985-0<br>
+James Stewart; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008642730108801" title="Calculus (Opens in a new window)" target="_blank" >Calculus</a>. ISBN: 978-1-305-27237-8 <br>
+Serge Lang; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002345000108801" title="Calculus of several variables (Opens in a new window)" target="_blank" >Calculus of several variables</a>. ISBN: 0-387-96405-3<br>
+
+## Bibliografia complementar
+Jerrold Marsden; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002409260108801" title="Calculus ii. 2nd ed (Opens in a new window)" target="_blank" >Calculus ii. 2nd ed</a>. ISBN: 0-387-90975-3<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<em>Lectures and classes: The contents of the syllabus are presented in the lectures, where examples are given to illustrate the concepts. There are also practical lessons, where exercises and related problems are solved. All resources are available for students at the unit&#8217;s web page.</em>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 171.0 hours
+- Frequência das aulas: 72.0 hours
+- Total:: 243.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><strong>Continuous evaluation without final exam</strong></p>
+Continuous evaluation is based on two test results. The two test dates are comunicated at the begining of the second semester. <br /><br />The final score will be the sum of the test scores.<br /><br />Any student can choose not to submit to continuous evaluation and obtain the final classification performing the examination in the second examination period (Época de Recurso).<br />
+<p>In any case, a student with a final grade &#8805; 16.5 may eventually be subjected to an extra oral or written test.<br /><br />All registered students are admitted, without restrictions, to the tests and exams.</p>
+
+## Obtenção de frequência
+No requirements.
+
+## Exames ou Trabalhos Especiais
+N/A.
+
+## Melhoria de classificação
+The general evaluation rules apply.
+

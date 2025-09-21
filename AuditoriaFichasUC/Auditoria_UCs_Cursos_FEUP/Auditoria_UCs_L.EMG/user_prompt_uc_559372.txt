@@ -1,0 +1,149 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Análise Matemática I
+
+## Curso responsável
+Licenciatura em Engenharia de Minas e Geo-Ambiente
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Adquirir conhecimentos teóricos e práticos de cálculo diferencial e integral de funções reais de variável real, bem como de séries numéricas e de potências, e reconhecer problemas que podem ser resolvidos com estes instrumentos. Desenvolver competências na formulação, identificação e modelação de problemas básicos de engenharia. Fomentar o pensamento crítico e criativo no processo de resolução desses problemas</p>
+
+## Resultados de aprendizagem e competências
+COMPETÊNCIAS: Conhecimentos técnicos em ciências fundamentais (cálculo diferencial e integral de funções reais de variável real); saber aplicar os conhecimentos na resolução de problemas em situações novas e não familiares, em contextos alargados e multidisciplinares; ter capacidade para integrar conhecimentos, lidar com questões complexas, desenvolver soluções ou emitir juízos em situações de informação limitada ou incompleta; desenvolver competências que permitam uma aprendizagem ao longo da vida, de um modo fundamentalmente auto-orientado ou autónomo; ser capaz de comunicar as suas conclusões e os seus conhecimentos e raciocínios, quer a especialistas, quer a não especialistas, de uma forma clara sem ambiguidades. <br /><br />RESULTADOS ESPERADOS: No fim do período letivo os estudantes devem ser capazes de: <br /><br />- Caracterizar as funções inversas das funções trigonométricas bem como conhecer as suas derivadas. <br />- Levantar indeterminações usando a Regra de L'Hopital.<br />- Aplicar os teoremas de Rolle e Lagrange.<br />- Calcular primitivas pelos métodos de substituição e partes. <br />- Calcular primitivas de frações racionais. <br />- Calcular integrais definidos. <br />- Calcular áreas de regiões planas usando integrais definidos.<br />- Analisar a convergência de séries numéricas e, se possível, determinar a sua soma.<br />- Determinar o raio e o domínio de convergência de séries de potências.<br />- Determinar polinómios e séries de Taylor.
+
+## Pré-requisitos e co-requisitos
+O estudante deverá ter conhecimentos básicos sobre funções reais de  variável real, limites e derivação, polinómios e lógica.
+
+## Programa
+<p>I. Cálculo diferencial de funções reais de variável real: <br />- Revisão de algumas funções reais de variável real: a função exponencial e logarítmica, funções trigonométricas e suas inversas; <br />- Breve revisão dos conceitos de limite e continuidade; estudo de indeterminações;<br />- Definição e interpretação geométrica de derivada. Teoremas de Rolle e Lagrange. Regra de L&#8217;Hopital. Derivada da função composta e inversa. Regras práticas e aplicações da derivação à resolução de problemas de determinação de extremos; <br /> <br /> II. Cálculo integral de funções reais de variável real: <br /> - Integral de Riemann, operações com integrais, integrais indefinidos, primitivas. Teorema fundamental do cálculo integral, fórmula de Barrow e teorema do valor médio;<br /> - Integração de funções racionais. Integração por partes e integração por substituição;<br /> - Integrais impróprios;<br /> - Aplicação do integral ao cálculo de áreas de regiões do plano.</p>
+<p>III. Sucessões e séries numéricas: <br />- Breve revisão de sucessões convergentes. Definição de série numérica, análise de convergência e soma de uma série. Convergência simples e  absoluta;<br />- Convergência de séries de termos positivos: critérios de comparação, da raiz, da razão e do integral;<br />- Convergência de séries de termos alternados: critério de Leibniz.<br /> <br /> IV. Sucessões e séries de potências: <br />- Raio e intervalo de convergência de séries de potências;<br />- Aproximação polinomial: polinómio e série de Taylor.</p>
+
+## Bibliografia obrigatória
+Stewart , James; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990003662230108801" title="Cálculo (Abre numa nova janela)" target="_blank" >Cálculo</a>. ISBN: 85-221-0236-8<br>
+
+## Bibliografia complementar
+Larson , Roland E.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990003794700108801" title="Cálculo (Abre numa nova janela)" target="_blank" >Cálculo</a>. ISBN: 85-86804-82-7<br>
+Larson , Roland E.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004842200108801" title="Cálculo (Abre numa nova janela)" target="_blank" >Cálculo</a>. ISBN: 85-86804-82-7 (v. 2)<br>
+Anton , Howard; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009262480108801" title="Cálculo (Abre numa nova janela)" target="_blank" >Cálculo</a>. ISBN: 978-85-60031-63-4<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Exposição de conceitos teóricos e discussão de exemplos práticos de aplicação durante as aulas teóricas. Maximização da interação com os estudantes durante todas as aulas. Realização de mini-teste e de atividades Moodle de avaliação ao longo do semestre, de forma a estimular e monitorizar o processo de aquisição de conhecimentos e competências por parte dos estudantes durante esse período. A unidade curricular é complementada com uma página Moodle onde, para além de todo o material pedagógico de apoio, são disponibilizadas atividades de autoavaliação on-line para possibilitar a aferição do ensino/aprendizagem.
+
+## Software
+Geogebra<br>
+Matlab<br>
+Symbolab<br>
+Wolfram|Alpha<br>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 horas
+- Frequência das aulas: 52.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Esta UC tem avaliação distribuída sem exame final. Assim, a classificação final (CF) é definida por: <br /><br />CF = máximo{0,45 x nota do MT1 + 0,45 x nota do MT2 + 0.1 x MDL; 0,5 x nota do MT1 + 0,5 x nota do MT2}<br /><br />onde:<br /><br />- MT1: 1º Mini-Teste,<br /> <br />- MT2: 2º Mini-Teste,<br /><br />- MDL: média das notas de atividades no Moodle (ou em papel) ao longo do semestre.<br /><br /></p>
+<p>Caso os estudantes não obtenham aprovação através da avaliação distribuída ou pretendam realizar melhoria de nota, poderão realizar um teste de recurso relativo a uma única parte da matéria (1º Mini-Teste de Recurso - MTR1 ou 2º Mini-Teste de Recurso - MTR2) ou realizar um exame de recurso Global (ER). Desta forma a classificação final (CFR) da época de recurso será:<br /><br />CFR=nota do ER (se faz exame global)</p>
+<p>Ou</p>
+<p>CFR=0,5 x nota do MTR1 + 0,5 x nota do MT2 (se 'repete' o MT1)</p>
+<p>Ou</p>
+<p>CFR=0,5 x nota do MT1 + 0,5 x nota do MTR2 (se 'repete' MT2)</p>
+<p><br />Em qualquer dos casos, para obter uma classificação superior a 18 valores, o estudante deverá realizar uma prova suplementar.<br /><br />Todas as componentes de avaliação são expressas na escala de 0 a 20 valores.</p>
+
+## Obtenção de frequência
+A obtenção de classificação final exige o cumprimento de assiduidade à unidade curricular, conforme estabelecido no Regulamento Geral para Avaliação dos discentes da Universidade do Porto: &#8220;Considera-se que um estudante cumpre a assiduidade a uma UC se, estando regularmente inscrito, não exceder o número limite de faltas correspondente a 25%das aulas nas tipologias (teórica, teórico-prática, laboratorial) definidas como obrigatórias na ficha da UC&#8221;. <br /><br />Em AM I, as aulas TP são obrigatórias.<br />Contudo, nas aulas Teóricas poderão realizar-se alguns momentos da avaliação distribuída.
+
+## Exames ou Trabalhos Especiais
+Não estão previstas.
+
+## Melhoria de classificação
+Só é possível realizar a melhoria da classificação do exame final. No caso de melhoria, a fórmula de cálculo da classificação final mantém-se.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Mathematical Analysis I
+
+## Curso responsável
+Bachelor in Mining and Geo-Environmental Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+To acquire theoretical and practical knowledge of differential and integral calculus for real-valued functions of a real variable, as well as of numerical and power series, and to recognize problems that can be addressed using these tools. To develop skills in formulating, identifying, and modeling basic engineering problems. To foster critical and creative thinking in the process of solving such problems
+
+## Resultados de aprendizagem e competências
+COMPETENCES: Technical knowledge in fundamental sciences (differential and integral calculus of real functions of real variable); know how to apply knowledge to solve problems in new and unfamiliar situations, in broad and multidisciplinary contexts; have the ability to integrate knowledge, deal with complex issues, develop solutions or make judgements in situations of limited or incomplete information; develop competences that enable lifelong learning in a fundamentally self-directed or autonomous way; be able to communicate their conclusions and their knowledge and reasoning to both specialists and non-specialists in a clear and unambiguous way. <br /><br />EXPECTED OUTCOMES: At the end of the course, students should be able to: <br /><br />- Characterise the inverse functions of trigonometric functions as well as knowing their derivatives. <br />- Calculate indeterminate forms using L'Hopital's rule.<br />- Apply the Rolle and Lagrange theorems.<br />- Calculate primitives using the substitution and parts methods. <br />- Calculate primitives of rational fractions. <br />- Calculate definite integrals. <br />- Calculate areas of plane regions using definite integrals.<br />- Analyse the convergence of numerical series and, if possible, determine their sum.<br />- Determine the radius and domain of convergence of power series.<br />- Determine polynomials and Taylor series.
+
+## Pré-requisitos e co-requisitos
+The student should have basic knowledge of real functions with real variables, limits and derivation, polynomials and logic.
+
+## Programa
+I. Differential calculus of real functions of real variable:<br />- Review of some real functions of real variable: the exponential and logarithmic functions, trigonometric functions and their inverses; study of indeterminate forms;<br />- Definition and geometric interpretation of derivative. Rolle and Lagrange theorems. L'Hopital's rule. Derivative of function <span data-huuid=&quot;13686579447422852313&quot;>composition</span> and inverse functions. Practical rules and applications of derivation to solving problems of determining extremes;<br /><br />II. Integral calculus of real functions of real variable:<br />- Riemann integral, operations with integrals, indefinite integrals, primitives. Fundamental theorem of integral calculus, Barrow's formula and mean value theorem;<br />- Integration of rational functions. Integration by parts and integration by substitution;<br />- Improper integrals;<br />- Application of the integral to the calculation of areas of regions of the plane.<br /><br />III. Sequences and numerical series:<br />- Brief review of convergent equences. Definition of numerical series, convergence analysis and sum of a series. Simple and absolute convergence;<br />- Convergence of series of positive terms: comparison, root, ratio and integral tests;<br />- Convergence of alternating term series: Leibniz test.<br /><br />IV. Power sequences and series:<br />- Radius and interval of convergence of power series;<br />- Polynomial approximation: Taylor's polynomial and series
+
+## Bibliografia obrigatória
+Stewart , James; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990003662230108801" title="Cálculo (Opens in a new window)" target="_blank" >Cálculo</a>. ISBN: 85-221-0236-8<br>
+
+## Bibliografia complementar
+Larson , Roland E.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990003794700108801" title="Cálculo (Opens in a new window)" target="_blank" >Cálculo</a>. ISBN: 85-86804-82-7<br>
+Larson , Roland E.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004842200108801" title="Cálculo (Opens in a new window)" target="_blank" >Cálculo</a>. ISBN: 85-86804-82-7 (v. 2)<br>
+Anton , Howard; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009262480108801" title="Cálculo (Opens in a new window)" target="_blank" >Cálculo</a>. ISBN: 978-85-60031-63-4<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Presentation of theoretical concepts and discussion of practical application examples during lectures. Maximising interaction with students during all classes. Mini-tests and Moodle assessment activities throughout the semester, in order to stimulate and monitor the students' acquisition of knowledge and skills during this period. The curricular unit is complemented by a Moodle page where, in addition to all the pedagogical support material, online self-assessment activities are made available to enable teaching/learning to be assessed.</p>
+
+## Software
+Geogebra<br>
+Matlab<br>
+Symbolab<br>
+Wolfram|Alpha<br>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 hours
+- Frequência das aulas: 52.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>This course has distributed assessment without final exam. Thus, the final classification (FC) is defined by:<br /><br />CF = maximum{0.45 x MT1 grade + 0.45 x MT2 grade + 0.1 MDL; 0.5 x MT1 grade + 0.5 x MT2 grade}<br /><br />where:<br /><br />- MT1: 1st Mini-Test,<br /><br />- MT2: 2nd Mini-Test,<br /><br />- MDL: average of Moodle (or paper) activities grades over the semester.<br /><br /></p>
+<p>If students do not pass with the distributed assessment or wish to improve their grade, they may take an appeal test related to a single part of the subject (Appeal of the 1st Mini-Test - MTR1 or Appeal of the 2nd Mini-Test - MTR2) or take a global exam (ER).</p>
+<p>Therefore, the final classification (CFR) of the appeal season will be:</p>
+<p>CFR=ER grade (if a global exam is taken)</p>
+<p>Or</p>
+<p>CFR=0.5 x MTR1 grade + 0.5 x MT2 grade (if 'repeats' MT1)</p>
+<p>Or</p>
+<p>CFR=0.5 x MT1 grade + 0.5 x MTR2 grade (if 'repeats' MT2)</p>
+<p><br />In any case, to obtain a grade higher than 18, the student must take a supplementary exam.<br /><br />All assessment components are expressed on a scale of 0 to 20.</p>
+
+## Obtenção de frequência
+Obtaining a final grade requires compliance with attendance at the course, as established in the General Regulations for the Evaluation of Students at the University of Porto: &#8216;A student is considered to have complied with attendance at a course if, being regularly enrolled, he or she does not exceed the number of absences corresponding to 25% of the classes in the typologies (theoretical, theoretical-practical, laboratory) defined as compulsory in the course form&#8217;.<br /><br />In AM I, TP classes are compulsory.<br />However, some of the distributed assessment may take place in the theoretical classes.
+
+## Exames ou Trabalhos Especiais
+Not foreseen.
+
+## Melhoria de classificação
+<span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b ChMk0b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;1&quot; data-number-of-phrases=&quot;2&quot;>It is only possible to improve the classification of the final exam. In case of improvement, the calculation formula of final grade is maintained.</span></span>
+

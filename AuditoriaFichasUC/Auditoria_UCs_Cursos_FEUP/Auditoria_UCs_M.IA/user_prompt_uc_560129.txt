@@ -1,0 +1,114 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Data Stream Mining
+
+## Curso responsável
+Mestrado em Inteligência Artificial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+No final do semestre os alunos deverão ser capazes de formular problemas de decisão a partir de fluxos de dados. <br />Serem capazes de aplicar métodos/algoritmos a um novo problema de análise de fluxos de dados.<br />Serem capazes de avaliar os resultados e compreender o funcionamento dos métodos estudados.
+
+## Resultados de aprendizagem e competências
+<p>Conhecimento como formular um problema de extracção de conhecimento a partir de fluxos de dados. <br />Capacidade de aplicar métodos/algoritmos a novos problemas de análise de fluxos dados.<br />Avaliar os resultados e compreender o funcionamento dos métodos estudados.</p>
+
+## Pré-requisitos e co-requisitos
+Conhecimentos básicos de extração de conhecimentos
+
+## Programa
+<p>S1- Fluxos de dados: definições e métodos.<br />Formulação do problema e técnicas.<br />Aproximação e randomização.<br />Problemas ilustrativos e algoritmos.<br /><br />S2 - Ferramentas para processamento de fluxo de dados:<br />MOA, SAMOA, River, CapyMOA.<br /><br />S3 - Clustering de fluxos de dados: métodos básicos de streaming para clustering.<br />Algoritmos de clustering de última geração.<br />Clustering de séries temporais.<br /><br /><br />S4 - Deteção de mudança: definição de problema. Métodos básicos para lidar com dados em evolução.<br />Métodos de detecção: Algoritmos CUSUM, SPC, ADWIN<br /><br />S5- Aprendizagem de árvores de decisão a partir de fluxos de dados.<br />Árvores de decisão incrementais. Árvores de decisão e detecção de alterações.<br /><br /><br />S6 - Modelos de ensemble: online bagging e boosting. Algoritmos de maioria ponderada dinâmica.<br /><br />S7- Avaliação de algoritmos de aprendizagem de fluxo de dados.<br />Métricas de avaliação. Abordagens sequenciais preditivas.<br /><br /><br />S8 - Aplicações: <br />sistemas de recomendação, fluxos de cliques e social media.<br /><br /><br />S9- Detecção de novidade.<br />Classificação de uma classe, detecção de novidade e reconhecimento de conjunto aberto.<br />Métodos baseados em clusters para detecção de novidades.<br /><br /><br />S10- Data mining ubíqua.<br />Clustering distribuído: duas visualizações.<br />Dados de cluster distribuídos<br />Fontes de dados de cluster distribuídas.<br /><br /><br />S11 - Redes Evolutivas.<br />Acompanhamento de comunidades em desenvolvimento em redes sociais de larga escala.<br /><br />S12 - Padrões frequentes: definição de problema.<br />Algoritmos aproximados para contar a frequência dos itens.<br />Algoritmos aproximados para contar a frequência dos conjuntos de itens.</p>
+
+## Bibliografia obrigatória
+Gama João; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002928260108801" title="Knowledge discovery from data streams (Abre numa nova janela)" target="_blank" >Knowledge discovery from data streams</a>. ISBN: 978-1-4398-2611-9 <br>
+Albert Bifet, Ricard Gavalda; Machine Learning for Data Streams, MIT Press, 2017<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Aulas teórico-praticas
+
+## Software
+https://riverml.xyz/latest/<br>
+https://capymoa.org/<br>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 2.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho de investigação: 78.0 horas
+- Elaboração de projeto: 40.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<br />Os trabalhos deverão ser realizados em grupos de 2 alunos.<br /><br />Trab1 - nota 1º trabalho<br />Trab2 - nota 2º trabalho<br />Final - Nota final.<br /><br />Se Trab1 &gt; 9.5 e Trab2 &gt; 9.5 então<br />     Final = 0.5 * Trab1 + 0.5 * Trab2
+
+## Obtenção de frequência
+Obtenção de aprovação nos dois trabalhos.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Data Stream Mining
+
+## Curso responsável
+Master in Artificial Intelligence
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+At the end of the semester students should be able to formulate decision problems from data flows.<br />Be able to apply methods / algorithms to a new problem of data flow analysis.<br />Be able to evaluate the results and understand the functioning of the methods studied.
+
+## Resultados de aprendizagem e competências
+Knowledge how to formulate a knowledge extraction problem from data flows.<br />Ability to apply methods / algorithms to new data flow analysis problems.<br />Evaluate the results and understand the functioning of the methods studied.
+
+## Pré-requisitos e co-requisitos
+Basic knowledge of data mining.
+
+## Programa
+<p>S1- Data streams: definitions and methods.<br />Problem formulation: basic methods and techniques.<br />Approximation and randomisation.<br />Illustrative problems and algorithms.<br /><br />S2 - Tools for Data Stream Processing:<br />MOA, SAMOA, River, CapyMOA.<br /><br />S3 - Clustering from data streams: basic streaming methods for clustering<br />State-of-the-art clustering algorithms.<br />Clustering time-series.<br /><br /><br />S4 - Change detection: problem definition. Basic methods for dealing with evolving data<br />Detection methods: CUSUM algorithms, SPC, ADWIN<br /><br />S5- Learning decision trees from data streams<br />Incremental decision trees. Decision trees and change detection<br /><br /><br />S6 - Ensemble models: online Bagging and Boosting. Dynamic weighted majority algorithms<br /><br />S7 - Evaluation of stream learning algorithms.<br />Evaluation metrics. Predictive sequential approaches.<br /><br /><br />S8 - Applications:<br />Recommender Systems, Click Streams, and Social Media.<br /><br /><br />S9 - Novelty detection.<br />One-class classification, Novelty detection and open-set recognition<br />Cluster-based methods for novelty detection.<br /><br /><br />S10- Ubiquitous data mining<br />Distributed clustering: two views.<br />Distributed clustering data<br />Distributed clustering data sources<br /><br /><br />S11 - Evolving Networks.<br />Tracking evolving communities in large-scale social networks<br /><br />S12 - Pattern mining: problem definition. <br />Approximate algorithms for counting the frequency of items.<br />Approximate algorithms for counting the frequency of item sets.</p>
+
+## Bibliografia obrigatória
+Gama João; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002928260108801" title="Knowledge discovery from data streams (Opens in a new window)" target="_blank" >Knowledge discovery from data streams</a>. ISBN: 978-1-4398-2611-9 <br>
+Albert Bifet, Ricard Gavalda; Machine Learning for Data Streams, MIT Press, 2017<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<br />Theoretical-practical classes
+
+## Software
+https://riverml.xyz/latest/<br>
+https://capymoa.org/<br>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 2.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho de investigação: 78.0 hours
+- Elaboração de projeto: 40.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<br />The assignments should be performed in groups of 2 students.<br /><br />Assign1 - grade of assignment 1.<br />Assign2 - grade of assignment 2.<br />Final - final grade.<br /><br />If Assign1 &gt; 9.5 and Assign2 &gt; 9.5 Then<br />   Final = 0.5 * Assign1 + 0.5 * Assign2
+
+## Obtenção de frequência
+Obtaining approval for both assignments.
+

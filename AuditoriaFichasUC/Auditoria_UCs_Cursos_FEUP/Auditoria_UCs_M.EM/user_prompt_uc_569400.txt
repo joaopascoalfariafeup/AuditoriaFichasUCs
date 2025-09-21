@@ -1,0 +1,134 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Publicação e Escrita Científica: da investigação à escrita de um artigo
+
+## Curso responsável
+Publicação e Escrita Científica: da investigação à escrita de um artigo
+
+## Créditos ECTS
+1,5
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Esta formação em particular visa promover competências transversais, na área de investigação.</p>
+<p>Pretende-se que os participantes saibam descrever o contexto em que se insere a publicação científica (investigação e comunicação científica, ética na investigação, génese das revistas científicas, evolução, indústria e diferentes atores); Identifiquem e distingam os principais tipos de publicações científicas, em particular os artigos de revistas científicas (natureza, principais características, finalidades e estrutura); descrevam o processo de publicação científica (fases do processo, onde publicar, publicação em acesso aberto, gestão de dados de investigação, tipos de peer review, versões de um artigo); saibam pesquisar literatura científica e técnica, avaliar e gerir a informação selecionada de modo eficiente (definição do tema e palavras-chave, fontes de informação disponíveis, técnicas de pesquisa, avaliação da informação, uso de gestores bibliográficos para armazenamento, leitura e anotação de fontes); saibam caracterizar o processo de revisão de literatura ou estado da arte, distinguindo os principais tipos de revisão; apliquem boas práticas e princípios na escrita científica (integridade, prevenção do plágio e uso ético da informação, características e estilos de escrita científica, função de cada parte da estrutura de um artigo científico).</p>
+<p>Competências da European Competence Framework for Researchers - ResearchComp (EU, 2022):</p>
+<ul>
+<li>MANAGING RESEARCH: Promote open-access publications;</li>
+<li>MAKING AN IMPACT: Participate in the publication process, Disseminate results to the research community;</li>
+<li>SELF-MANAGEMENT: Cope with pressure;</li>
+<li>COGNITIVE ABILITIES: Abstract thinking, Critical thinking, Analytical thinking, Strategic thinking, Systemic thinking;</li>
+<li>WORKING WITH OTHERS: Interact professionally;</li>
+<li>MANAGING RESEARCH TOOLS: Manage research data, operate open source software, promote open access publications;</li>
+<li>DOING RESEARCH: Conduct interdisciplinary research, Have disciplinary expertise, Write research documents, Apply research ethics and integrity principles.</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<ul><br /><li>Descrever o contexto em que se insere a publicação científica (investigação e comunicação científica, ética na investigação, génese das revistas científicas, evolução, indústria e diferentes atores);</li><br /><li>Identificar e distinguir os principais tipos de publicações científicas, em particular os artigos de revistas científicas (natureza, principais características, finalidades e estrutura);</li><br /><li>Descrever o processo de publicação científica (fases do processo, onde publicar, publicação em acesso aberto, gestão de dados de investigação, tipos de <em>peer review</em>, versões de um artigo);</li><br /><li>Saber pesquisar literatura científica e técnica, avaliar e gerir a informação selecionada de modo eficiente (definição do tema e palavras-chave, fontes de informação disponíveis, técnicas de pesquisa, avaliação da informação, uso de gestores bibliográficos para armazenamento, leitura e anotação de fontes);</li><br /><li>Caracterizar o processo de revisão de literatura ou estado da arte, distinguindo os principais tipos de revisão;</li><br /><li>Aplicar boas práticas e princípios na escrita científica (integridade, prevenção do plágio e uso ético da informação, características e estilos de escrita científica, função de cada parte da estrutura de um artigo científico).</li><br /></ul>
+
+## Programa
+<ol><br /><li>Contexto da publicação científica: da investigação à comunicação de resultados</li><br /><li>Tipologias e características das publicações científicas: os artigos científicos</li><br /><li>Fases do processo da publicação científica</li><br /><li>Pesquisa de informação em bases de dados, avaliação da informação e gestores bibliográficos</li><br /><li>Revisão de literatura e estado da arte</li><br /><li>Boas práticas da escrita científica e uso ético da informação</li><br /></ol><br /><div> </div>
+
+## Bibliografia obrigatória
+Ballenger , Bruce; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005675350108801" title="The curious researcher : a guide to writing research papers (Abre numa nova janela)" target="_blank" >The curious researcher : a guide to writing research papers</a>. ISBN: 0-205-17287-3<br>
+Hall , George M,; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005536920108801" title="How to write a paper (Abre numa nova janela)" target="_blank" >How to write a paper</a>. ISBN: 978-1-4051-6773-4<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><strong>ENSINO</strong></p>
+<p><strong>Tempo letivo/de contacto:  </strong>14h de contacto/interação online previstas (incluindo avaliação).</p>
+<p><strong>Tempo de estudo autónomo:</strong> 26,5h de estudo autónomo, num total de 40,5h para se atingirem as competências definidas.</p>
+<p><strong> </strong></p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Elaboração de projeto: 26.5 horas
+- Frequência das aulas: 14.0 horas
+- Total:: 40.5 horas
+
+## Fórmula de cálculo da classificação final
+<p><strong>AVALIAÇÃO</strong></p>
+<p><strong>Modalidade de Avaliação: </strong>distribuída com exame final. As diversas atividades ao longo dos módulos (questões para associação, mini-testes e PEM) são obrigatórias, devendo ser realizadas antes do exame, sendo a sua aprovação pré-requisito para acesso ao exame.</p>
+<p><strong>Escala e aprovação:</strong> as classificações de todas as componentes de avaliação serão expressas na escala de 0 a 20 valores. Para ter aprovação final, o estudante deve obter uma nota mínima de 8 valores em cada uma das duas componentes (atividades e exame) e uma classificação final mínima de 10 valores.</p>
+<strong>Fórmula de cálculo da classificação final: </strong>40% atividades ao longo do curso + 60% exame final.
+
+## Obtenção de frequência
+Realização das diversas atividades.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Publication and Scientific Writing: from research to writing an article
+
+## Curso responsável
+Publication and Scientific Writing: from research to writing an article
+
+## Créditos ECTS
+1,5
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>This particular training course aims to promote cross-cutting skills in the field of research.<br /><br />Participants will be able to describe the context in which scientific publication takes place (research and scientific communication, ethics in research, the origins of scientific journals, their evolution, the industry, and the different actors involved); identify and distinguish the main types of scientific publications, in particular scientific journal articles (nature, main characteristics, purposes and structure); describe the scientific publication process (stages of the process, where to publish, open access publication, research data management, types of peer review, versions of an article); know how to search scientific and technical literature, evaluate and manage the selected information efficiently (definition of the topic and keywords, available sources of information, search techniques, evaluation of information, use of bibliographic managers for storage, reading, and annotation of sources); know how to characterize the literature review or state-of-the-art process, distinguishing the main types of review; apply good practices and principles in scientific writing (integrity, prevention of plagiarism, and ethical use of information, characteristics and styles of scientific writing, function of each part of the structure of a scientific article).<br /><br />Competencies of the European Competence Framework for Researchers - ResearchComp (EU, 2022): <br /><br /></p>
+<ul>
+<li>MANAGING RESEARCH: Promote open-access publications;</li>
+<li>MAKING AN IMPACT: Participate in the publication process, Disseminate results to the research community;</li>
+<li>SELF-MANAGEMENT: Cope with pressure;</li>
+<li>COGNITIVE ABILITIES: Abstract thinking, Critical thinking, Analytical thinking, Strategic thinking, Systemic thinking;</li>
+<li>WORKING WITH OTHERS: Interact professionally;</li>
+<li>MANAGING RESEARCH TOOLS: Manage research data, operate open source software, promote open access publications;</li>
+<li>DOING RESEARCH: Conduct interdisciplinary research, Have disciplinary expertise, Write research documents, Apply research ethics and integrity principles.</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p>&#9679; Describe the context in which scientific publications are produced (research and scientific communication, ethics in research, the origins of scientific journals, their evolution, the industry, and the different actors involved);</p>
+<p>&#9679; Identify and distinguish the main types of scientific publications, in particular scientific journal articles (nature, main characteristics, purposes, and structure);</p>
+<p>&#9679; Describe the scientific publication process (stages of the process, where to publish, open access publication, research data management, types of peer review, versions of an article);</p>
+<p>&#9679; Know how to search scientific and technical literature, evaluate and manage the selected information efficiently (definition of the topic and keywords, available sources of information, search techniques, evaluation of information, use of bibliographic managers for storage, reading and annotation of sources);</p>
+<p>&#9679; Characterize the process of literature review or state of the art, distinguishing the main types of review;</p>
+<p>&#9679; Apply good practices and principles in scientific writing (integrity, prevention of plagiarism and ethical use of information, characteristics and styles of scientific writing, function of each part of the structure of a scientific article).</p>
+
+## Programa
+<ol><br /><li>Context of scientific publication: from research to communication of results</li><br /><li>Types and characteristics of scientific publications: scientific articles</li><br /><li>Stages of the scientific publication process</li><br /><li>Information search in databases, information evaluation, and bibliographic managers</li><br /><li>Literature review and state of the art</li><br /><li> Good practices in scientific writing and ethical use of information</li><br /></ol>
+
+## Bibliografia obrigatória
+Ballenger , Bruce; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005675350108801" title="The curious researcher : a guide to writing research papers (Opens in a new window)" target="_blank" >The curious researcher : a guide to writing research papers</a>. ISBN: 0-205-17287-3<br>
+Hall , George M,; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005536920108801" title="How to write a paper (Opens in a new window)" target="_blank" >How to write a paper</a>. ISBN: 978-1-4051-6773-4<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><strong>TEACHING</strong></p>
+<p><strong>Classroom/contact time:</strong> 14 hours of online contact/interaction (including assessment).</p>
+<p><strong>Independent study time:</strong> 26.5 hours of independent study, for a total of 40.5 hours to achieve the defined competencies.</p>
+<p>Using active teaching and learning methodologies, the course consists of a component that includes microvideos to explain complex concepts and ideas and written materials such as articles, presentations, or infographics. This component is complemented (and assessed) with activities to be carried out (on these same materials) by the students.</p>
+<p>Another structural component of the course consists of synchronous distance learning sessions, scheduled with the entire class and the course teachers to teach topics from the program. There will also be asynchronous interaction via forums.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Elaboração de projeto: 26.5 hours
+- Frequência das aulas: 14.0 hours
+- Total:: 40.5 hours
+
+## Fórmula de cálculo da classificação final
+<p><strong>ASSESSMENT</strong></p>
+<p><strong>Assessment method: </strong>distributed with a final exam. The various activities throughout the modules (matching questions, mini-tests, and PEM) are mandatory and must be completed before the exam, with their approval being a prerequisite for access to the exam.</p>
+<p><strong>Scale and approval:</strong> the grades for all assessment components will be expressed on a scale of 0 to 20. To obtain a final pass, students must obtain a minimum grade of 8 in each of the two components (activities and exam) and a minimum final grade of 10.</p>
+<p><strong>Final grade calculation formula: </strong>40% activities throughout the course + 60% final exam.</p>
+
+## Obtenção de frequência
+<p>Carrying out all the activities.</p>
+

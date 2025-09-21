@@ -1,0 +1,134 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Técnicas Avançadas de Caracterização de Materiais
+
+## Curso responsável
+Mestrado em Engenharia de Materiais
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+O objetivo desta unidade curricular consiste na apresentação e descrição de conceitos avançados sobre as várias formas de caracterização de materiais, a nível morfológico, estrutural e químico e principalmente à escala nanométrica. O conhecimento básico de cada técnica incluir o conhecimento sobre a instrumentação, preparação de amostras e a aplicabilidade destas técnicas de modo a oferecer as bases essenciais para a aplicação na caracterização dos materiais em estudo. A aquisição deste conhecimento vai permitir a identificação e a distinção da aplicabilidade de cada técnica de caracterização de modo a associar, relacionar e selecionar a técnicas de caracterização do material em estudo. Os trabalhos em grupo vão ter como objetivo não só adquirir maior competência em estratégias de comunicação, mas também proporcionar uma oportunidade de selecionar, pesquisar e apresentar uma técnica de caracterização de materiais que poderá ser aplicada a situações reais de estudo de casos.
+
+## Resultados de aprendizagem e competências
+- Adquirir conhecimentos avançados de técnicas de caracterização <br />- Adquirir competências de hierarquizar opções de caracterização face às necessidades e meios de que disponham. <br />- Selecionar, pesquisar e apresentar uma técnica avançada de caracterização de materiais que poderá ser aplicada a situações reais de estudo de casos. <br />- Trabalhar em grupo e adquirir maior competência em estratégias de comunicação (escrita e oral)
+
+## Pré-requisitos e co-requisitos
+É importante os estudantes terem uma noção das tecnicas de caracterização dos materiais, uma vez que esta UC irá apenas abordar tecnicas mais avançadas associada ao tratamento de resultados obtidos nessas tecnicas.
+
+## Programa
+<div class=&quot;page&quot; title=&quot;Page 60&quot;><br /><div class=&quot;section&quot;><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;><br /><p>Descric&#807;a&#771;o de va&#769;rias te&#769;cnicas avanc&#807;adas de caracterizac&#807;a&#771;o de materiais. Os to&#769;picos que sa&#771;o abordadas nesta unidade curricular sa&#771;o:<br /><br /></p><br /><p><strong data-start=&quot;546&quot; data-end=&quot;600&quot;>1. Introdução à caracterização eletrónica avançada<br /></strong>-Revisão de princípios fundamentais de interação elétron-matéria<br />-Resolução espacial, contraste, aberrações e correções<br />-Preparação de amostras para análise eletrónica avançada (FIB, eletropolimento, deposição seletiva)<br />-Considerações práticas: ambiente de análise, estabilidade e controle experimental</p><br /><p data-start=&quot;922&quot; data-end=&quot;973&quot;><strong data-start=&quot;927&quot; data-end=&quot;973&quot;>2. EBSD (Electron Backscatter Diffraction)<br /></strong>-Fundamentos da difração de elétrons retroespalhados<br />-Mapeamento de orientação cristalina, textura, tamanho de grão e limites de grão<br />-Aplicações em materiais metálicos, cerâmicos e policristalinos<br />-Análise de tensões e deformações locais</p><br /><p data-start=&quot;1231&quot; data-end=&quot;1284&quot;><strong data-start=&quot;1236&quot; data-end=&quot;1284&quot;>3. Transmission Kikuchi Diffraction / t-EBSD<br /></strong>-Princípios e vantagens em relação ao EBSD convencional<br />-Utilização em filmes finos, interfaces e pequenas partículas<br />-Resolução angular e espacial melhoradas<br />-Aplicações em mapeamento de zonas altamente deformadas e nanomateriais</p><br /><p data-start=&quot;1534&quot; data-end=&quot;1602&quot;><strong data-start=&quot;1539&quot; data-end=&quot;1602&quot;>4. HRTEM (High-Resolution Transmission Electron Microscopy)<br /></strong>-Formação de imagem em HRTEM: contraste de fase e resolução sub-Ångström<br />-Análise de defeitos, interfaces, planos atómicos e empilhamento cristalino<br />-Simulação e interpretação de imagens de HRTEM<br />-Exigências instrumentais e ambientais</p><br /><p data-start=&quot;1856&quot; data-end=&quot;1929&quot;><strong data-start=&quot;1861&quot; data-end=&quot;1929&quot;>5. ACTEM (Aberration-Corrected Transmission Electron Microscopy)<br /></strong>-Corretores de aberração: tipos, princípios e impacto na resolução<br />-Vantagens na análise química e estrutural a nível atómico<br />-Aplicações em investigação de fronteira: defeitos pontuais, dopagem, estruturas complexas</p><br /><p data-start=&quot;2162&quot; data-end=&quot;2206&quot;><strong data-start=&quot;2167&quot; data-end=&quot;2206&quot;>6. Precision TEM / Quantitative TEM<br /></strong>-Medição quantitativa de deslocamentos e campos de tensão a partir de imagens de alta resolução<br />-Integração com métodos de simulação (multislice, GPA, etc.)<br />-Análise quantitativa de defeitos e distorções de rede</p><br /><p data-start=&quot;2434&quot; data-end=&quot;2514&quot;><strong data-start=&quot;2439&quot; data-end=&quot;2514&quot;>7. 4D-STEM (Four-Dimensional Scanning Transmission Electron Microscopy<br /></strong>-Princípios: aquisição de padrões de difração por varrimento ponto a ponto<br />-Técnicas associadas: ptychography, mapeamento de campos elétricos e tensões<br />-Reconstrução de dados e análise com ferramentas computacionais avançadas<br />-Aplicações emergentes em materiais funcionais e interfaces complexas</p><br /><p data-start=&quot;2829&quot; data-end=&quot;2865&quot;><strong data-start=&quot;2834&quot; data-end=&quot;2865&quot;>8. ETEM (Environmental TEM)<br /></strong>-Caracterização de materiais sob condições reativas (gás, temperatura, campo elétrico/magnético)<br />-Observação <em data-start=&quot;2979&quot; data-end=&quot;2988&quot;>in situ</em> de reações químicas, crescimento de fases, sinterização, etc.<br />-Limitações, desafios técnicos e segurança experimental<br />-Estudos em catálise, corrosão, materiais energéticos e biomateriais</p><br /><p data-start=&quot;3190&quot; data-end=&quot;3244&quot;><strong data-start=&quot;3195&quot; data-end=&quot;3244&quot;>9. Integração e aplicações interdisciplinares<br /></strong>-Comparação e seleção de técnicas conforme a questão científica ou tecnológica<br />-Estudos de caso em materiais avançados: semicondutores, nanomateriais, baterias, materiais 2D<br />-Combinação de EBSD, TEM, XPS e espectroscopias para caracterização completa<br />-Desenvolvimento de competências em interpretação multidimensional de dados</p><br /></div><br /></div><br /></div><br /></div>
+
+## Bibliografia obrigatória
+A. K. Tyagi, Mainak Roy, S. K. Kulshreshtha and S. Banerjee; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009388390108801" title="Advanced Techniques for Materials Characterization (Abre numa nova janela)" target="_blank" >Advanced Techniques for Materials Characterization</a>, Trans Tec Publications Inc., 2009<br>
+Bruno, Thomas J.,; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma9910121520108801" title="ASM Handbook. (Abre numa nova janela)" target="_blank" >ASM Handbook.</a>. ISBN: 978-1-62708-213-6<br>
+
+## Bibliografia complementar
+David B. Williams; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005567910108801" title="Transmission electron microscopy (Abre numa nova janela)" target="_blank" >Transmission electron microscopy</a>. ISBN: 978-0-387-76500-6 <br>
+Ziegler, Alexander.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma9910124506708801" title="In-situ Materials Characterization : Across Spatial and Temporal Scales / (Abre numa nova janela)" target="_blank" >In-situ Materials Characterization : Across Spatial and Temporal Scales /</a>. ISBN: 3-642-45151-9<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Os trabalhos em grupo a realizar em aula com apresentação perante a audiência devem focar nos seguintes pontos: motivação pela pesquisa, descrição das técnicas de caracterização, seleção da técnica de caracterização de acordo com o objetivo em estudo, interpretação dos resultados e tratamento de resultados obtidos por cada técnica de caracterização abordada.</p>
+As sessões práticas têm como objetivo relacionar e estabelecer os conhecimentos adquiridos nas sessões teóricas com a observação das técnicas de caracterização em utilização real.
+
+## Software
+DigitalMicrograph <br>
+Atex<br>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 25.0 horas
+- Estudo autónomo: 65.0 horas
+- Frequência das aulas: 25.0 horas
+- Trabalho escrito: 25.0 horas
+- Trabalho laboratorial: 12.0 horas
+- Trabalho de investigação: 10.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+Fórmula de avaliação: Nota final = 30% trabalhos elaborados nas aulas + 30% trabalho prático + 40% exame
+
+## Obtenção de frequência
+Para o estudante obter frequência à unidade curricular, deve realizar os trabalhos ao longo do semestre.
+
+## Melhoria de classificação
+Os alunos podem efectuar melhoria de classificação da avaliação dos testes por exame, mediante inscrição nos prazos fixados, e consistirá na realização de uma prova escrita sem consulta, com uma duração máxima de 2h.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Advanced Techniques for Materials Characterization
+
+## Curso responsável
+Master in Materials Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<div><span lang=&quot;EN-US&quot;>The objective of this curricular unit is the presentation and description of advanced concepts on the various forms of material characterization, at a morphological, structural and chemical level and mainly at the nanometer scale. Basic knowledge of each technique will include an understanding of instrumentation, sample preparation, and applicability of these techniques to provide the essential foundations for application in the characterization of the materials under study. The acquisition of this knowledge will allow the identification and distinction of the applicability of each characterization technique in order to associate, relate, and select the characterization techniques of the material under study. The group work will aim not only to gain greater competence in communication strategies but also to provide an opportunity to select, research and present a material characterization technique that can be applied to real case study situations.</span></div>
+
+## Resultados de aprendizagem e competências
+-Develop skills and knowledge on advanced materials characterization techniques. <br />-Develop skills to select the best techniques to materials characterization taking into account the needs and means at their disposal. <br />-Select, researches and present a technique for characterization of advanced materials that can be applied to situation of real case studies. <br />-Develop team work and communication skills (oral and written).
+
+## Pré-requisitos e co-requisitos
+Students need to know the techniques used to characterize materials since this course will only cover more advanced techniques associated with processing the results obtained from these techniques.
+
+## Programa
+<div class=&quot;page&quot; title=&quot;Page 60&quot;><br /><div class=&quot;section&quot;><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;><br /><p>Description of various advanced material characterization techniques. The topics that are covered in this curricular unit are: <br /><br />1. Introduction to Advanced Electron-Based Characterization<br />-Review of fundamental principles of electron&#8211;matter interaction<br />-Spatial resolution, contrast, aberrations, and corrections<br />-Sample preparation for advanced electron analysis (FIB, electropolishing, selectivedeposition)<br />-Practical considerations: analysis environment, stability, and experimental control</p><br /><p data-start=&quot;464&quot; data-end=&quot;510&quot;>2. EBSD (Electron Backscatter Diffraction)<br />-Fundamentals of backscattered electron diffraction<br />-Mapping of crystal orientation, texture, grain size, and grain boundaries<br />-Applications in metallic, ceramic, and polycrystalline materials<br />-Analysis of local strains and deformations</p><br /><p data-start=&quot;767&quot; data-end=&quot;815&quot;>3. Transmission Kikuchi Diffraction / t-EBSD<br />-Principles and advantages compared to conventional EBSD<br />-Application in thin films, interfaces, and small particles<br />-Improved angular and spatial resolution<br />-Applications in mapping highly deformed regions and nanomaterials</p><br /><p data-start=&quot;1060&quot; data-end=&quot;1123&quot;>4. HRTEM (High-Resolution Transmission Electron Microscopy)<br />-Image formation in HRTEM: phase contrast and sub-Ångström resolution<br />-Analysis of defects, interfaces, atomic planes, and crystal stacking<br />-Simulation and interpretation of HRTEM images<br />-Instrumental and environmental requirements</p><br /><p data-start=&quot;1375&quot; data-end=&quot;1443&quot;>5. ACTEM (Aberration-Corrected Transmission Electron Microscopy)<br />-Aberration correctors: types, principles, and impact on resolution<br />-Advantages for atomic-scale structural and chemical analysis<br />-Applications in frontier research: point defects, doping, complex structures</p><br /><p data-start=&quot;1668&quot; data-end=&quot;1707&quot;>6. Precision TEM / Quantitative TEM<br />-Quantitative measurement of displacements and strain fields from high-resolution images<br />-Integration with simulation methods (multislice, GPA, etc.)<br />-Quantitative analysis of defects and lattice distortions</p><br /><p data-start=&quot;1932&quot; data-end=&quot;2007&quot;>7. 4D-STEM (Four-Dimensional Scanning Transmission Electron Microscopy)<br />-Principles: acquisition of diffraction patterns at each scan point<br />-Associated techniques: ptychography, electric field and strain mapping<br />-Data reconstruction and analysis using advanced computational tools<br />-Emerging applications in functional materials and complex interfaces</p><br /><p data-start=&quot;2306&quot; data-end=&quot;2337&quot;>8. ETEM (Environmental TEM)<br />-Characterization of materials under reactive conditions (gas, temperature, electric/magnetic field)<br /><em data-start=&quot;2445&quot; data-end=&quot;2454&quot;>-In situ</em> observation of chemical reactions, phase growth, sintering, etc.<br />-Limitations, technical challenges, and experimental safety<br />-Case studies in catalysis, corrosion, energy materials, and biomaterials</p><br /><p data-start=&quot;2668&quot; data-end=&quot;2721&quot;>9. Integration and Interdisciplinary Applications<br />-Comparison and selection of techniques according to scientific or technological questions<br />-Case studies in advanced materials: semiconductors, nanomaterials, batteries, 2D materials<br />-Integration of EBSD, TEM, XPS, and spectroscopic techniques for comprehensive characterization<br />-Development of skills for multidimensional data interpretation</p><br /></div><br /></div><br /></div><br /></div>
+
+## Bibliografia obrigatória
+A. K. Tyagi, Mainak Roy, S. K. Kulshreshtha and S. Banerjee; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009388390108801" title="Advanced Techniques for Materials Characterization (Opens in a new window)" target="_blank" >Advanced Techniques for Materials Characterization</a>, Trans Tec Publications Inc., 2009<br>
+Bruno, Thomas J.,; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma9910121520108801" title="ASM Handbook. (Opens in a new window)" target="_blank" >ASM Handbook.</a>. ISBN: 978-1-62708-213-6<br>
+
+## Bibliografia complementar
+David B. Williams; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005567910108801" title="Transmission electron microscopy (Opens in a new window)" target="_blank" >Transmission electron microscopy</a>. ISBN: 978-0-387-76500-6 <br>
+Ziegler, Alexander.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma9910124506708801" title="In-situ Materials Characterization : Across Spatial and Temporal Scales / (Opens in a new window)" target="_blank" >In-situ Materials Characterization : Across Spatial and Temporal Scales /</a>. ISBN: 3-642-45151-9<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The working group will have to make a presentation to the public in the classroom where they should focus on the following points: research motivation, description of characterization techniques, selection of characterization technique according to the purpose of the study, interpretation of results and treatment of the results obtained and for each technical characterization addressed.</p>
+The practical sessions aim to relate and establish the knowledge acquired in the theoretical sessions with the observation of characterization techniques in real use.
+
+## Software
+DigitalMicrograph <br>
+Atex<br>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 25.0 hours
+- Estudo autónomo: 65.0 hours
+- Frequência das aulas: 25.0 hours
+- Trabalho escrito: 25.0 hours
+- Trabalho laboratorial: 12.0 hours
+- Trabalho de investigação: 10.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<div><span lang=&quot;EN-US&quot;>Evaluation formula: Final grade = 30% written assignments + 30 % pratical work + 40% exam</span></div>
+
+## Obtenção de frequência
+<pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large XcVN5d tw-ta&quot; dir=&quot;ltr&quot; data-placeholder=&quot;Tradução&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>In order for students to attend the course, they must complete the assignments throughout the semester.<br />Attend laboratory classes.</span></pre>
+
+## Melhoria de classificação
+Students can improve their grades of the tests by attending an extra exam, which will be a 2 hour long closed book exam. Students have to enrol before the deadline.
+

@@ -1,0 +1,146 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Ciências dos Materiais em Bioengenharia
+
+## Curso responsável
+Licenciatura em Bioengenharia
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p><span style="font-size: 10.0pt; font-family: Times;">Fornecer instrumentos essenciais à compreensão do comportamento dos materiais (estruturais e funcionais) e das suas interfaces com o meio. </span></p>
+<p> </p>
+
+## Resultados de aprendizagem e competências
+<p>Aquisição de conhecimentos básicos sobre ciência de materiais.</p>
+<p>Capacidade de integração de conhecimentos.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Conhecimentos sobre física, química e biologia, ao nível do 12º ano.</p>
+
+## Programa
+<p><span style="font-size: 10.0pt; font-family: Times; mso-fareast-font-family: Cambria; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US;">Aulas teórico-práticas (TP):<br /><br />1. Conceitos básicos de mecânica dos sólidos. Propriedades mecânicas de materiais. <br /><br />2. Equilíbrios de fases envolvendo sólidos. Situações de não equilíbrio. <br /><br />3. Estruturas atómicas, moleculares e cristalinas de sólidos e sua relação com as propriedades. Relevância de defeitos cristalinos, porosidades, anisotropia e outras. Imperfeições. <br /><br />4. Propriedades mecânicas dos metais.<br /><br />5. Diagrama de fases.<br /><br />6. Cerâmicos - estrutura e propriedades. Sinterização. Vidros e vidros cerâmicos. Técnicas de caracterização. <br /><br />7. Polímeros - estrutura e propriedades. Termoplásticos, termoendurecíveis e elastómeros.  <br /><br />8. Biomateriais.<br /></span><span style="font-size: 10.0pt; font-family: Times; mso-fareast-font-family: Cambria; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US;"><br /><br /></span></p>
+<p>Aulas práticas laboratoriais (PL):</p>
+<p>Processamento de Cerâmicos. Ensaios mecânicos de cerâmicos e polímeros. Processamento e caracterização de metais.</p>
+<p><span style="font-size: 10.0pt; font-family: Times; mso-fareast-font-family: Cambria; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US;"><br style="mso-special-character: line-break;" /> <br style="mso-special-character: line-break;" /> </span></p>
+<p> <br /><br /></p>
+<p> </p>
+
+## Bibliografia obrigatória
+William D. Callister, Jr; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004738080108801" title="Fundamentals of materials science and engineering (Abre numa nova janela)" target="_blank" >Fundamentals of materials science and engineering</a>. ISBN: 0-471-66081-7 <br>
+Joel Fried; Polymer Science and Technology, Pearson, 2014. ISBN: 978-0137039555<br>
+James F. Shackelford; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004590310108801" title="Introduction to materials science for engineers (Abre numa nova janela)" target="_blank" >Introduction to materials science for engineers</a>. ISBN: 0-13-011287-9 <br>
+David W. Richerson, William E. Lee; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009559220108801" title="Modern Ceramic Engineering Properties, Processing, and Use in Design (Abre numa nova janela)" target="_blank" >Modern Ceramic Engineering Properties, Processing, and Use in Design</a>, CRC Press, 2018. ISBN: 9781498716918<br>
+C. Barry Carter and M. Grant Norton ; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009429970108801" title="Ceramic Materials: Science and Engineering (Abre numa nova janela)" target="_blank" >Ceramic Materials: Science and Engineering</a>, Springer, 2013. ISBN: 978-1461435228<br>
+Edited by Buddy D. Ratner... [et al.]; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004793060108801" title="Biomaterials science (Abre numa nova janela)" target="_blank" >Biomaterials science</a>. ISBN: 0-12-582463-7<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As metodologias de ensino assentam em aulas TP focadas nas caraterísticas físicas, químicas e mecânicas dos diversos tipos de materiais, com exemplos práticos de aplicação em dispositivos médicos usados na clínica.  Os diversos tipos de materiais (metais, cerâmicos, polímeros e compósitos) são estudados nestas aulas. Serão exibidos alguns vídeos, para mais facilitar a interiorização de alguns conceitos sobre o comportamento de materiais e sua caracterização, e realizados alguns quizzes de autoavaliação.</p>
+<p>Nas aulas práticas de laboratório os estudantes são colocados perante um conjunto de ensaios-tipo de materiais que cobrem a respetiva obtenção e construção de estruturas, a sua caraterização mecânica e alguns ensaios de interação de materiais com o seu meio envolvente. São assim percetíveis pelos estudantes os diferentes aspetos a ter em conta quando se pretende relacionar as propriedades intrínsecas de materiais com as suas condições ambientais e de relevância para a sua função em dispositivos de Bioengenharia.</p>
+<p><br /><br /><br /><br /></p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Frequência das aulas: 50.0 horas
+- Trabalho laboratorial: 25.0 horas
+- Estudo autónomo: 25.0 horas
+- Total:: 100.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A nota final (NF) é dada pela nota obtida na componente TP conjugada com a nota da componente PL:<br /><br /> NF = 0.75* Nota TP + 0.25* Nota PL (Notas TP e PL arredondadas à unidade)</p>
+<p>As componentes TP e PL são avaliadas, separadamente, através da realização de exames escritos. A componente PL é avaliada através de um único exame escrito. A avaliação da componente teórica (TP) consiste na realização de três mini-testes durante o semestre (M1, M2 e M3 com uma ponderação de 25, 25 e 50%, respetivamente). No cálculo da nota TP, são consideradas as notas de cada mini-teste arredondadas à décima.<br /><br /><br /></p>
+
+## Obtenção de frequência
+<p>Participação em 75% das aulas práticas laboratoriais (PL).</p>
+<p> </p>
+
+## Exames ou Trabalhos Especiais
+<p>Não existem.</p>
+
+## Melhoria de classificação
+<p>De acordo com as regras em vigor na FEUP e no ICBAS.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Materials Science in Bioengineering
+
+## Curso responsável
+Bachelor in Bioengineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>To provide essential tools for understanding the behavior of materials (structural and functional) and their interfaces with the environment.</p>
+
+## Resultados de aprendizagem e competências
+<p>Acquisiton of fundamental knowledge on Materials Science.</p>
+<p>Capacity to integrate different knowledges.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Background knowledge in physics, Chemistry and Biology at the level of 12th year of  education in Portugal.</p>
+
+## Programa
+<p>TP classes:<br /><br />1. Basic concepts on solids mechanics. Mechanical properties of materials</p>
+<p>2. Phase equilibria involving the solid state. Non-equilibrium situations.</p>
+<p>3. Atomic, Molecular and Crystalline structures and their relationships with materials properties. Relevance of structural (crystalline)  defects, porosity, and anisotropy, among others. Imperfections.<br /><br /><span class="Y2IQFc" lang="en">4. Mechanical properties of metals.<br /> <br />5. Phase diagrams.</span></p>
+<p> </p>
+<p>6. Ceramics - structure and properties. Sintering. Ceramic glasses and glasses. Characterization techniques.<br /><br />7. Polymers - structure and properties. Thermoplastics, thermosets and elastomers. <br /><br />8. Biomaterials.<br /><br /></p>
+<p>Lab sessions (PL):<br /><br />Processing ceramic materials. Mechanical tests of ceramics and polymers. Metal processing and characterization.</p>
+
+## Bibliografia obrigatória
+William D. Callister, Jr; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004738080108801" title="Fundamentals of materials science and engineering (Opens in a new window)" target="_blank" >Fundamentals of materials science and engineering</a>. ISBN: 0-471-66081-7 <br>
+Joel Fried; Polymer Science and Technology, Pearson, 2014. ISBN: 978-0137039555<br>
+James F. Shackelford; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004590310108801" title="Introduction to materials science for engineers (Opens in a new window)" target="_blank" >Introduction to materials science for engineers</a>. ISBN: 0-13-011287-9 <br>
+David W. Richerson, William E. Lee; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009559220108801" title="Modern Ceramic Engineering Properties, Processing, and Use in Design (Opens in a new window)" target="_blank" >Modern Ceramic Engineering Properties, Processing, and Use in Design</a>, CRC Press, 2018. ISBN: 9781498716918<br>
+C. Barry Carter and M. Grant Norton ; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009429970108801" title="Ceramic Materials: Science and Engineering (Opens in a new window)" target="_blank" >Ceramic Materials: Science and Engineering</a>, Springer, 2013. ISBN: 978-1461435228<br>
+Edited by Buddy D. Ratner... [et al.]; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004793060108801" title="Biomaterials science (Opens in a new window)" target="_blank" >Biomaterials science</a>. ISBN: 0-12-582463-7<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The teaching methodologies are based on TP classes focused on the physical, chemical and mechanical characteristics of the various types of materials, with practical examples of applications on medical devices used in the clinic. The various types of materials (metals, ceramics, polymers and composites) are studied in these classes. Some videos will be shown to make it easier to understand some concepts about the behaviour of materials and their characterisation, and some self-assessment quizzes will be carried out.</p>
+<p>In practical laboratory classes, students are put through a series of standard tests on materials, covering the obtaining and construction of structures, their mechanical characterisation and some tests on the interaction of materials with their environment. In this way, students can see the different aspects to be taken into account when trying to relate the intrinsic properties of materials to their environmental conditions and the relevance of their function in bioengineering devices.<br /><br /><br /></p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Frequência das aulas: 50.0 hours
+- Trabalho laboratorial: 25.0 hours
+- Estudo autónomo: 25.0 hours
+- Total:: 100.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final grade (NF) is given by the grade obtained in the TP component combined with the grade for the PL component:</p>
+<p>NF = 0.75* TP grade + 0.25* PL grade (TP and PL grades rounded to the nearest integer)</p>
+<p>The TP and PL components are assessed separately through written exams. The PL component is assessed through a single written exam. The assessment of the theoretical component (TP) consists of three mini-tests during the semester (M1, M2 and M3 with a weighting of 25, 25 and 50% respectively). When calculating the TP grade, the marks for each mini-test are rounded up to the nearest tenth.</p>
+<p><br /><br /></p>
+<p> </p>
+
+## Obtenção de frequência
+<p>Presence at  75% of the practical lab sessions (PL).</p>
+
+## Exames ou Trabalhos Especiais
+<p>None.</p>
+
+## Melhoria de classificação
+<p>According to FEUP's and ICBAS' applicable rules.</p>
+

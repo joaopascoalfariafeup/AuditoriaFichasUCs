@@ -1,0 +1,36 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Probabilidades e Estatística
+
+## Curso responsável
+Licenciatura em Engenharia Aeroespacial
+
+## Créditos ECTS
+4,5
+
+## Ano
+2
+
+## Semestre
+1
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Probability and Statistics
+
+## Curso responsável
+Bachelor in Aerospace Engineering
+
+## Créditos ECTS
+4,5
+
+## Ano
+2
+
+## Semestre
+1
+

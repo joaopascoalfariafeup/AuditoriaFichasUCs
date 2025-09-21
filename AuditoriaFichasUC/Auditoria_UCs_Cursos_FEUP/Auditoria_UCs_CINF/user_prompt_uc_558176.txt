@@ -1,0 +1,142 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Fontes de Informação e Serviços de Referência
+
+## Curso responsável
+Licenciatura em Ciência da Informação
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Dotar os alunos de competências necessárias para dar resposta a diferentes necessidades de informação, potenciando o contacto com fontes de informação de caráter geral e científico-técnico, desenvolvendo o seu sentido critico no no processo de referência. </p>
+
+## Resultados de aprendizagem e competências
+<p> No fim da UC os alunos devem ser capazes de desenvolver e aplicar uma estratégia de pesquisa de resposta a necessidades de informação, demonstrando: (i) pensamento crítico na análise e exploração das necessidades de informação e na avaliação de produtos de pesquisa e fontes de informação; (ii) capacidade de realizar pesquisas de informação eficientes, com domínio de produtos tecnológicos usados na recuperação, organização e avaliação de fontes de informação; (iii) capacidade de avaliação do conteúdo das fontes de informação e de aferir do seu valor potencial para tomar decisões e resolver problemas; (iv) capacida de interpretar o posicionamento dos serviços de referência em diferentes setores da atividade e projetar a sua evolução.</p>
+
+## Programa
+<p class="MsoListParagraph" style="text-indent: -18pt; text-align: justify;">1. 11. A era da (des)informação e o papel do profissional de informação.</p>
+<p>1.1 A evolução do cérebro e diferentes significados e usos da informação.</p>
+<p>1.2 Do analógico ao digital: as funções do profissional da informação na gestão de fontes de informação.</p>
+<p> 2. Fontes de informação e protocolos de comunicação</p>
+<p>2.1  Tipologias de fontes de informação (FI).</p>
+<p>2.2 Análise de necessidades de informação e exploração de FI disponíveis.</p>
+<p>2.3  Gestão de referências bibliográficas em ciência e tecnologia.</p>
+<p> 3. Pesquisa, recuperação e organização de informação.</p>
+<p>3.1  Pesquisa de informação na Web.</p>
+<p>3.2 Pesquisa de informação estruturada.</p>
+<p>3.3  O uso de ferramentas de Inteligência Artificial no processo de pesquisa.</p>
+<p>3.4  Desenvolvimento e condução da estratégia de pesquisa.</p>
+<p>4.  A qualidade das FI.</p>
+<p>4.1  Critérios de avaliação, seleção e produção.</p>
+<p>4.2 - Avaliação de FI em ciência e tecnologia: Fatores de impacto de publicações periódicas</p>
+<p>5 - Modelos de serviços de informação e referência.</p>
+
+## Bibliografia obrigatória
+G. G. Chowdhury, Sudatta Chowdhury; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007397650108801" title="Information sources and searching on the World Wide Web (Abre numa nova janela)" target="_blank" >Information sources and searching on the World Wide Web</a>. ISBN: 1-85604-394-0<br>
+Eugénio Campos Ferreira, Eloy Rodrigues; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004713390108801" title="Fontes de informação em ambiente (Abre numa nova janela)" target="_blank" >Fontes de informação em ambiente</a>. ISBN: 972-8426-58-5 <br>
+White, A. C. & Kamal, E. D; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005675330108801" title="E-metrics for Library and Information Professionals: How to Use Data for Managing and Evaluating Electronic Resource Collections (Abre numa nova janela)" target="_blank" >E-metrics for Library and Information Professionals: How to Use Data for Managing and Evaluating Electronic Resource Collections</a>, Facet Publishing, 2005<br>
+Silva, A. & Ribeiro, F. ; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005611870108801" title=" Recursos de informação: serviços e utilizadores (Abre numa nova janela)" target="_blank" > Recursos de informação: serviços e utilizadores</a>, Universidade Aberta, 2010<br>
+Hirsh, S.; Information Services Today, Rowman & Littlefield, 2022. ISBN: 978-1-5381-5670-4<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Exposição da matéria nas aulas teóricas apoiada em projeções e explorada em discussão de questões. A componente prática foca-se na resolução de exercícios de recuperação, análise e avaliação e seleção de fontes de informação, incluindo a realziação de um trabalho de desenvolvimento de uma estratégia de pesquisa.</p>
+
+## Software
+Mendeley<br>
+FreeMind<br>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 51.0 horas
+- Frequência das aulas: 41.0 horas
+- Trabalho de investigação: 70.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>AD= 40% Trabalho  de estratégia de pesquisa (avaliado em 3 fases distintas) + 10% desempenho nas aulas  <br />Nota=50% AD + 50% EX<br /><br />AD - Avaliação Distribuída<br />EX - Exame</p>
+<p> </p>
+
+## Obtenção de frequência
+<p> </p>
+<p>Nota mínima na AD = 8<br />Nota mínima no EX = 8</p>
+
+## Exames ou Trabalhos Especiais
+<p>O elemento de avaliação Trabalho, inclui a realização de dois trabalhos de grupo, sendo os grupos constituídos por três elementos. A sua classificação poderá ser diistinta para os elementos que integram o mesmo grupo.</p>
+
+## Melhoria de classificação
+<p>A melhoria da classificação poderá ser obtida: <br />- na componente teórica por via da repetição do exame; <br />- na componente avaliação distribuída pela apresentação de um novo trabalho.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Information Sources and Reference Services
+
+## Curso responsável
+Bachelor of Arts in Information Science
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>To provide students with the necessary skills to respond to different information needs, promoting contact with information sources - general, scientific and technical - developing their ability to think critically throughout the reference process. </p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of the course, students should be able to develop and apply a research strategy to respond to information needs, demonstrating: (i) critical thinking in the analysis and exploration of information needs and in the evaluation of research products and information sources; (ii) ability to conduct efficient information searches, with domain of technological products used in retrieval, organization and evaluation of information sources; (iii) ability to evaluate the content of information sources and assess their potential value for decision making and problems solving; (iv) ability to interpret the positioning of reference services in different sectors of activity and project their evolution</p>
+
+## Programa
+1. The age of (mis) information and the role of the information professional<br /><p>1.1 The evolution of the brain and the different meanings and uses of information.</p><br /><p>1.2 From analogic to digital: the role of information <br />professional in information sources management.<br /><br />2. Information and communication protocols</p><br /><p>2.1 Types of information sources (IS).</p><br /><p>2.2 Analysis of information needs a nd exploration of IS available. </p><br /><p>2.3 Management of bibliographic references in science and technology.</p><br /><p> 3. Search, retrieval and organization of information.</p><br /><p>3.1 Search for information on the Web</p><br /><p>3.2 Search for structured information.</p><br /><p>3.3 The use of Artificiall Intelligence tools to support information searching.</p><br /><p>3.4 Development and implementation of a search strategy.</p><br /><p>4. Quality of IS.</p><br /><p>4.1 Evaluation, selection and production of IS.</p><br /><p>4.2 Evaluation of information sources in science and technology: Impact factor journals.</p><br /><p> 5. Models of information and reference services.</p>
+
+## Bibliografia obrigatória
+G. G. Chowdhury, Sudatta Chowdhury; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007397650108801" title="Information sources and searching on the World Wide Web (Opens in a new window)" target="_blank" >Information sources and searching on the World Wide Web</a>. ISBN: 1-85604-394-0<br>
+Eugénio Campos Ferreira, Eloy Rodrigues; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004713390108801" title="Fontes de informação em ambiente (Opens in a new window)" target="_blank" >Fontes de informação em ambiente</a>. ISBN: 972-8426-58-5 <br>
+White, A. C. & Kamal, E. D; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005675330108801" title="E-metrics for Library and Information Professionals: How to Use Data for Managing and Evaluating Electronic Resource Collections (Opens in a new window)" target="_blank" >E-metrics for Library and Information Professionals: How to Use Data for Managing and Evaluating Electronic Resource Collections</a>, Facet Publishing, 2005<br>
+Silva, A. & Ribeiro, F. ; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005611870108801" title=" Recursos de informação: serviços e utilizadores (Opens in a new window)" target="_blank" > Recursos de informação: serviços e utilizadores</a>, Universidade Aberta, 2010<br>
+Hirsh, S.; Information Services Today, Rowman & Littlefield, 2022. ISBN: 978-1-5381-5670-4<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Presentation in theoretical classes supported by projections and explored in discussion of questions. The practical component focuses on exercises of information sources retrieval, analysis, evaluation and selection, including a group work of development of a search strategy..</p>
+
+## Software
+Mendeley<br>
+FreeMind<br>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 51.0 hours
+- Frequência das aulas: 41.0 hours
+- Trabalho de investigação: 70.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>DE= 40% Work of information search strategy (e<span class="Y2IQFc" lang="en">valuated in 3 distinct phases</span>) + 10% performance in classes<br />Final mark= 50% DE + 50% EX<br /><br />DE - Distributed Evaluation<br />EX - Exam<br /><br /></p>
+
+## Obtenção de frequência
+<p> </p>
+<p>Minimum grade in the DE = 8<br />Minimum grade in the EX = 8</p>
+
+## Exames ou Trabalhos Especiais
+<p>The evaluation component 'Work' includes two reports in group work, with three participants per group. Members of the same group may be graded differently.</p>
+
+## Melhoria de classificação
+<p>Students may improve their mark by:<br /> - Repeating the exam (theoretical component);<br /> - Presenting a new report (practical component).</p>
+

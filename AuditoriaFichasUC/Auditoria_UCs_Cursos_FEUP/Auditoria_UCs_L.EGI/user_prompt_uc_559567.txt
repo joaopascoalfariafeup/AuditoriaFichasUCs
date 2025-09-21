@@ -1,0 +1,149 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Programação de Computadores I
+
+## Curso responsável
+Licenciatura em Engenharia e Gestão Industrial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>O objetivo desta unidade curricular é fornecer aos estudantes uma base sólida de conhecimentos no desenvolvimento de algoritmos e programação de computadores.</p>
+
+## Resultados de aprendizagem e competências
+<p>Os estudantes devem ser capazes de:</p>
+<ul>
+<li>Construir algoritmos independentemente de uma linguagem de programação;</li>
+<li>Implementar algoritmos e desenvolver aplicações numa linguagem de programação, por exemplo &#8216;Python&#8217;;</li>
+<li>Utilizar estruturas de dados na resolução de problemas;</li>
+<li>Desenvolver aplicações web usando HTML e linguagens 'script', por exemplo javascript;</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>Não aplicável</p>
+
+## Programa
+<p>Etapas na resolução de um problema em computador. Algoritmos. Construção de algoritmos. Introdução à programação. Programação em &#8216;python&#8217;. Conceitos elementares. Constantes, variáveis, operadores e expressões aritméticas. Conceitos de programação estruturada. Estruturas de repetição e de decisão. Variáveis indexadas. Subprogramas: funções e procedimentos. Duração e domínio de utilização de variáveis. Estruturas de dados. Listas, tuplos, conjuntos, dicionários, filas, árvores. Desenvolvimento de aplicações web, HTML e CSS. Programação em javascript.</p>
+
+## Bibliografia obrigatória
+Peter Wentworth; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004697760108801" title="Learning with Python 3 (RLE) (Abre numa nova janela)" target="_blank" >Learning with Python 3 (RLE)</a><br>
+Chuck Severance; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009137880108801" title="Python for Everybody (Abre numa nova janela)" target="_blank" >Python for Everybody</a><br>
+Adelaide Carvalho; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009574080108801" title="Práticas de Python (Abre numa nova janela)" target="_blank" >Práticas de Python</a>, FCA, 2021. ISBN: 978-972-722-918-5<br>
+
+## Bibliografia complementar
+Wirth, Niklaus; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004721510108801" title="Algorithms and data structures (Abre numa nova janela)" target="_blank" >Algorithms and data structures</a>, N. ISBN: 0-13-021999-1<br>
+Hossain,Mashrur; Project-based Python, Algorithms, Data Structures. ISBN: 9781839216510<br>
+Elder,John; Python Programming For Everyone. ISBN: 9781839214387<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A lecionação desta unidade curricular baseia-se nos seguintes tipos de atividades:<br />(i) Aulas teóricas para apresentação pelo docente dos assuntos e discussão teórica de exercícios, bem como indicação das referências bibliográficas e casos a trabalhar pelos estudantes;<br />(ii) Atividades da iniciativa dos estudantes, individualmente ou em grupo, de preparação de soluções dos exercícios e casos apresentados nas aulas teóricas, bem como consulta das referências bibliográficas;<br />(iii) Aulas teórico-práticas para resolução dos exercícios em computador, bem como discussão de referências bibliográficas;<br /><br />A solução de problemas através da criação de algoritmos e da execução de programas em computador são competências que só podem ser adquiridas através de trabalho individual autónomo e continuado. As metodologias adotadas traduzem esta preocupação, fomentando a aprendizagem nas aulas práticas através da resolução individual e autónoma de exercícios, com o apoio do trabalho de grupo e orientação do docente. A resolução individual de problemas em computador é exigida, não só ao longo das aulas como na avaliação, procurando reforçar que os objetivos da UC sejam atingidos.</p>
+
+## Software
+Python interpreter<br>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 80.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho laboratorial: 15.0 horas
+- Trabalho escrito: 15.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>0,40x(Nota 1º Miniteste) + 0,40x(Nota 2º Miniteste) +  0,1x(Quizzes) + 0,1x(Nota do trabalho prático).<br />A aprovação é obtida com a classificação final maior ou igual a 9,5 valores e a classificação no 2º Miniteste maior ou igual a 7,5 valores.</p>
+
+## Obtenção de frequência
+<p>Para serem admitidos a exame os estudantes devem ter uma frequência de 75% das aulas efetivas.</p>
+
+## Exames ou Trabalhos Especiais
+<p>Dois Minitestes, trabalho prático que consiste no desenvolvimento de um site web e trabalho laboratorial que consiste na visualização de aulas online e na resposta a quizzes sobre programação;</p>
+
+## Melhoria de classificação
+<p>Realização de todas as componentes de avaliação.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computer Programming I
+
+## Curso responsável
+Bachelor in Industrial Engineering and Management
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>The aim of this course is to provide the students with a fundamental knowledge of algorithm development and computer programming.</p>
+
+## Resultados de aprendizagem e competências
+<p>The students should be able to:</p>
+<ul>
+<li>Design algorithms independently of any programming language;</li>
+<li>Implement algorithms and develop applications in a programming language, such as Python;</li>
+<li>Use data structures in problem solving;</li>
+<li>Develop web applications using HTML and scripting languages, such as javascript;</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>N.A.</p>
+
+## Programa
+<p>Steps in solving a problem using a computer. Algorithms. Algorithm development. Introduction to programming. Programming in Python. Basic concepts. Constants, variables, operators, and arithmetic expressions. Concepts of structured programming. Looping and decision structures. Indexed variables. Subprograms: functions and procedures. Duration and scope of variable usage. Data structures. Lists, tuples, sets, dictionaries, queues, trees. Web application development, HTML, and CSS. Programming in JavaScript.</p>
+
+## Bibliografia obrigatória
+Peter Wentworth; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004697760108801" title="Learning with Python 3 (RLE) (Opens in a new window)" target="_blank" >Learning with Python 3 (RLE)</a><br>
+Chuck Severance; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009137880108801" title="Python for Everybody (Opens in a new window)" target="_blank" >Python for Everybody</a><br>
+Adelaide Carvalho; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009574080108801" title="Práticas de Python (Opens in a new window)" target="_blank" >Práticas de Python</a>, FCA, 2021. ISBN: 978-972-722-918-5<br>
+
+## Bibliografia complementar
+Wirth, Niklaus; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004721510108801" title="Algorithms and data structures (Opens in a new window)" target="_blank" >Algorithms and data structures</a>, N. ISBN: 0-13-021999-1<br>
+Hossain,Mashrur; Project-based Python, Algorithms, Data Structures. ISBN: 9781839216510<br>
+Elder,John; Python Programming For Everyone. ISBN: 9781839214387<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>This course unit is based on three different types of activities:<br />(i) Theoretical classes- presentation of the themes of the course, theoretical discussion of exercises and bibliographical references will be given;<br />(ii) Exercises- individual or group activities, preparation of solutions for exercises and cases, consult bibliographical references;<br />(iii) Theoretical-practical classes- computer exercises and discussion of bibliographical references;<br /><br />Solving problems through the creation of algorithms and the execution of computer programs are skills that can only be acquired through autonomous and continuous individual work. The methodologies adopted reflect this concern, fostering learning in practical classes through individual and autonomous resolution of exercises, with the support of group work and teacher guidance. Individual computer problem-solving is required, not only throughout the classes but also in the evaluation, aiming to reinforce that the objectives of the UC are achieved.</p>
+
+## Software
+Python interpreter<br>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 80.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho laboratorial: 15.0 hours
+- Trabalho escrito: 15.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>0.40x(1st Mini-test) + 0.40x(2nd Mini-test) + 0.1x(Quizzes) + 0.1x(Practical Assignment).<br />Approval is obtained with a final grade greater than or equal to 9.5 points and a grade in the 2nd Mini-test greater than or equal to 7.5 points.</p>
+<p> </p>
+
+## Obtenção de frequência
+<p>To be admitted to exams, students have to attend 75% of the classes.</p>
+
+## Exames ou Trabalhos Especiais
+<p>Two mini-tests, a practical assignment consisting of the development of a website, and a laboratory assignment consisting of watching online classes and answering quizzes on programming;</p>
+
+## Melhoria de classificação
+<p>Students have to do all the assessment components.</p>
+

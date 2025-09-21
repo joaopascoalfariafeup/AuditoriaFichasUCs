@@ -1,0 +1,129 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Investigação Operacional
+
+## Curso responsável
+Licenciatura em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<h2>Objetivos</h2><br /><h3>Contexto</h3><br /><p>Esta unidade curricular centra-se na aplicação de métodos analíticos para uma melhor tomada de decisão e fornece aos estudantes ferramentas de modelação e otimização que serão extremamente úteis na abordagem e resolução de problemas organizacionais. Para além disso, aborda conceitos relacionados com a gestão da incerteza em vários contextos organizacionais. Enfatiza ainda a importância da sustentabilidade, integrando os Objetivos de Desenvolvimento Sustentável (ODS) das Nações Unidas, de forma a garantir que as soluções propostas contribuem para um futuro mais sustentável e equitativo.</p><br /><h3>Objetivos específicos</h3><br /><p>O objetivo principal desta unidade curricular é desenvolver competências para analisar uma vasta gama de situações do mundo real através da criação de modelos. Estas competências baseiam-se na identificação do problema-chave numa situação não estruturada, no desenvolvimento de um quadro para o analisar e abordar, e na aplicação de métodos analíticos para o resolver.</p><br /><h3>Objetivos de aprendizagem</h3><br /><ul><br /><li>Identificar e abordar problemas de decisão de uma forma hábil e estruturada;</li><br /><li>Construir modelos de problemas de decisão;</li><br /><li>Integrar considerações de sustentabilidade nos modelos de decisão e alinhar as soluções propostas com os Objetivos de Desenvolvimento Sustentável (ODS);</li><br /><li>Identificar e utilizar métodos analíticos para obter soluções para os modelos construídos para apoiar decisões informadas;</li><br /><li>Utilizar ferramentas computacionais para analisar e obter soluções para os modelos construídos;</li><br /><li>Extrair informação dos modelos e utilizá-la para comunicar e motivar a mudança organizacional.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+<h2>Resultados de aprendizagem e competências</h2><br /><p>Esta unidade curricular contribuirá para a aquisição, por parte dos estudantes, das seguintes competências, de acordo com a nomenclatura CDIO:</p><br /><h3>1. Conhecimento Técnico e Raciocínio</h3><br /><p><strong>1.1.</strong> Adquirir com a necessária proficiência conhecimentos de ciências básicas e ser capaz de os utilizar na formulação, resolução e discussão de problemas da sua área de formação.</p><br /><p>Os conteúdos da unidade curricular constroem sobre conhecimentos de Álgebra e Probabilidades e Estatística, organizando-os, desenvolvendo-os e aplicando-os num contexto de apoio à resolução de problemas de decisão. Estes conhecimentos são transversais a todas as áreas de Engenharia e pertencem às suas ciências básicas. Durante as aulas, há a preocupação de usar exemplos e casos da área científica do curso onde os estudantes estão envolvidos, fazendo a ponte entre as ciências básicas e a formação específica. Para além disso, os estudantes são incentivados a integrar nas suas análises considerações de sustentabilidade alinhadas com os ODS.</p><br /><p>Todos os elementos de avaliação usados na unidade curricular endereçam a avaliação destas competências.</p><br /><h3>2. Capacidades e Atitudes Pessoais e Profissionais</h3><br /><h4>2.1. Raciocínio em engenharia e resolução de problemas</h4><br /><ul><br /><li>2.1.1 Identificação e formulação de problemas</li><br /><li>2.1.2 Modelização</li><br /><li>2.1.3 Estimação e análise qualitativa</li><br /><li>2.1.4 Análise com incerteza</li><br /><li>2.1.5 Solução e recomendação</li><br /></ul><br /><p>A metodologia de ensino e os conteúdos refletem estes pontos. A formulação de problemas, a sua modelização e resolução são uma atividade permanente ao longo da aprendizagem. A análise qualitativa é particularmente tratada na análise de sensibilidade, enquanto a incerteza é abordada em Filas de Espera e em Teoria da Decisão.</p><br /><p>Todos os elementos de avaliação usados na unidade curricular endereçam a avaliação destas competências.</p><br /><h4>2.2. Experimentação e descoberta do conhecimento</h4><br /><ul><br /><li>2.2.1 Formulação de hipóteses</li><br /><li>2.2.2 Pesquisa de literatura</li><br /><li>2.2.3 Inquérito experimental</li><br /><li>2.2.4 Teste de hipóteses e defesa</li><br /></ul><br /><h4>2.3. Pensamento sistémico</h4><br /><ul><br /><li>2.3.1 Pensamento holístico</li><br /><li>2.3.2 Emergência e interação entre sistemas</li><br /><li>2.3.3 Priorização e focagem</li><br /><li>2.3.4 Trade-offs, julgamento e balanceamento na resolução</li><br /></ul><br /><p>Estas competências podem também ser descritas como: (1) competências de análise, enquanto capacidade de formular e resolver problemas não familiares; (2) competências de projeto, enquanto solução criativa de problemas complexos com incerteza; (3) competências de investigação, enquanto capacidade de modelar e avaliar a aplicabilidade de técnicas emergentes (critério EURO-ACE). A formulação e modelização de problemas, incluindo a identificação da família de modelos aplicável, o desenvolvimento de modelos originais e a sua avaliação, contribuem claramente para estas competências. Os tópicos de análise de sensibilidade apoiam a compreensão de trade-offs e balanceamento.</p><br /><p>Os estudantes serão encorajados a considerar as implicações das suas decisões em termos de sustentabilidade, nomeadamente o impacto em saúde, educação, igualdade e preservação ambiental.</p><br /><p>Todos os elementos de avaliação usados na unidade curricular endereçam a avaliação destas competências.</p><br /><p>Os objetivos de aprendizagem estão relacionados com as competências (saberes, competências e atitudes) e exprimem-se como declarações do que os estudantes devem ser capazes de realizar. Para todos os tópicos programáticos, estão disponíveis objetivos de aprendizagem detalhados nos materiais pedagógicos.</p>
+
+## Pré-requisitos e co-requisitos
+<h2>Pré-requisitos e co-requisitos</h2><br /><p>Cursos básicos de Álgebra, Estatística e Teoria das Probabilidades.</p>
+
+## Programa
+<h2>Programa</h2><br /><h3>Modelação de problemas de decisão</h3><br /><ul><br /><li>Introdução à modelação e construção de modelos de Programação Linear (LP).</li><br /><li>Modelos de problemas em redes (fluxos, caminhos, transportes).</li><br /><li>Modelos de Programação Inteira Mista (MIP).</li><br /><li>Análise detalhada de um problema real e do respetivo modelo.</li><br /></ul><br /><h3>Resolução de problemas de Programação Linear (LP)</h3><br /><ul><br /><li>Fundamentos do algoritmo simplex.</li><br /><li>Resolução gráfica de problemas de pequena dimensão.</li><br /><li>Modelação e resolução com o Solver do Excel.</li><br /><li>Análise de sensibilidade e interpretação de relatórios.</li><br /></ul><br /><h3>Resolução de problemas de Programação Inteira Mista (MIP)</h3><br /><ul><br /><li>Método branch and bound.</li><br /><li>Modelação e resolução em Python com a biblioteca PuLP.</li><br /></ul><br /><h3>Modelos de filas de espera</h3><br /><ul><br /><li>Sistemas M/M/1, M/M/S e M/M/S/K.</li><br /></ul><br /><h3>Teoria da decisão</h3><br /><ul><br /><li>Estruturação de problemas de decisão.</li><br /><li>Árvores de decisão.</li><br /><li>Decisões com experimentação.</li><br /></ul>
+
+## Bibliografia obrigatória
+Docentes de IO | DEGI | FEUP; Documentação de apoio a Investigação Operacional (Disponível a partir da página web da unidade curricular)<br>
+
+## Bibliografia complementar
+Hillier, Frederick S.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004563340108801" title="Introduction to operations research (Abre numa nova janela)" target="_blank" >Introduction to operations research</a>. ISBN: 0-07-118163-6 <br>
+Hamdy A. Taha; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004545930108801" title="Operations research (Abre numa nova janela)" target="_blank" >Operations research</a>. ISBN: 0-13-281172-3 (brochada)<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<h2>Métodos de ensino e atividades de aprendizagem</h2><br /><p>A unidade curricular combina exposição teórica com atividades práticas. Os temas programáticos são apresentados de forma estruturada, recorrendo sempre que possível a métodos de aprendizagem ativa que envolvem os estudantes na construção do conhecimento. A exposição é acompanhada por exemplos práticos, estudos de caso e problemas de decisão próximos da realidade dos estudantes.</p><br /><p>As aulas incluem momentos de resolução orientada de problemas, exercícios individuais e em grupo, e discussão de resultados. É dada especial atenção ao esclarecimento de dúvidas sobre os problemas propostos e à análise crítica das soluções obtidas. Sempre que adequado, são exploradas ferramentas computacionais de apoio à modelação e à resolução de problemas.</p><br /><p>Este conjunto de atividades visa não só consolidar os conteúdos técnicos, mas também estimular competências transversais, como o raciocínio crítico, a capacidade de comunicação e a integração de considerações de sustentabilidade nas soluções propostas.</p>
+
+## Software
+Excel Solver<br>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 horas
+- Frequência das aulas: 52.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<h2>Fórmula de cálculo da classificação final</h2><br /><h3>Avaliação distribuída (sem consulta) &#8212; 0 a 10 valores</h3><br /><p><strong>Micro&#8209;exercícios</strong></p><br /><ul><br /><li>Cada exercício é classificado numa escala de 0 a 100%;</li><br /><li>A classificação desta componente corresponde à <strong>soma das classificações</strong> obtidas nos micro&#8209;exercícios realizados no final de cada aula, <strong>retirando as duas classificações mais baixas</strong>, e <strong>normalizando para a escala 0&#8211;10</strong>.</li><br /></ul><br /><h3>Exame (sem consulta) &#8212; 0 a 10 valores</h3><br /><p>Prova individual escrita.</p><br /><h3>Classificação final (0 a 20 valores)</h3><br /><div class=&quot;formula&quot;><span class=&quot;math&quot;>CF = AD + EX</span></div>
+
+## Obtenção de frequência
+<h2>Obtenção de frequência</h2><br /><p>Para obter frequência à unidade curricular, os estudantes devem alcançar uma classificação mínima de <strong>4 valores em 10</strong> na componente de <strong>avaliação distribuída (micro-exercícios)</strong>.</p><br /><p>Adicionalmente, é obrigatório o cumprimento do disposto nas <strong>Normas gerais de avaliação da FEUP</strong>, disponíveis em:<br /> <a href=&quot;web_base.gera_pagina?p_pagina=legisla%C3%A7%C3%A3o_exames&quot; target=&quot;_blank&quot;>https://sigarra.up.pt/feup/pt/web_base.gera_pagina?p_pagina=legislação_exames</a></p>
+
+## Exames ou Trabalhos Especiais
+<h2>Provas e trabalhos especiais</h2><br /><p>Não estão previstos.</p>
+
+## Avaliação especial (TE, DA, ...)
+<h2>Avaliação especial (TE, DA, ...)</h2><br /><p>As avaliações em época especial serão realizadas através de uma prova escrita sem consulta.</p>
+
+## Melhoria de classificação
+<h2>Melhoria de classificação</h2><br /><p>Os estudantes podem inscrever-se para realizar novamente <strong>cada uma das componentes de avaliação</strong> (micro&#8209;exercícios e exame) em época de melhoria.</p><br /><ul><br /><li><strong>Micro&#8209;exercícios</strong>: avaliados através de uma prova escrita sem consulta (0 a 10 valores).</li><br /><li><strong>Exame</strong>: avaliado através de uma prova escrita sem consulta (0 a 10 valores).</li><br /></ul><br /><p>A classificação final será recalculada segundo a fórmula definida em <em>Fórmula de cálculo da classificação final</em>. Para cada componente (micro&#8209;exercícios e exame), considera&#8209;se a <strong>melhor classificação obtida</strong> pelo estudante, seja na <strong>época normal</strong> ou na <strong>época de melhoria</strong>.</p><br /><p class=&quot;muted&quot;>Exemplo: se um estudante obteve 7 valores nos micro&#8209;exercícios na época normal e 9 valores na prova de melhoria, será considerada a nota 9 para essa componente. O mesmo princípio aplica&#8209;se ao exame.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Operations Research
+
+## Curso responsável
+Bachelor in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<h2>Objectives</h2><br /><h3>Context</h3><br /><p>This course focuses on the application of analytical methods to support better decision&#8209;making and provides students with modelling and optimization tools that are extremely useful for tackling and solving organizational problems. In addition, it addresses concepts related to managing uncertainty in various organizational contexts. It also emphasizes the importance of sustainability by integrating the United Nations&#8217; Sustainable Development Goals (SDGs), ensuring that the proposed solutions contribute to a more sustainable and equitable future.</p><br /><h3>Specific objectives</h3><br /><p>The main objective of this course is to develop skills to analyse a wide range of real&#8209;world situations through the creation of models. These skills are based on identifying the key problem in an unstructured situation, developing a framework to analyse and address it, and applying analytical methods to solve it.</p><br /><h3>Learning outcomes</h3><br /><ul><br /><li>Identify and address decision problems in a skilled and structured way;</li><br /><li>Build models of decision problems;</li><br /><li>Integrate sustainability considerations into decision models and align proposed solutions with the Sustainable Development Goals (SDGs);</li><br /><li>Identify and use analytical methods to obtain solutions for the constructed models to support informed decisions;</li><br /><li>Use computational tools to analyse and obtain solutions for the constructed models;</li><br /><li>Extract information from models and use it to communicate and foster organizational change.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+<h2>Learning outcomes and competences</h2><br /><p>This course will contribute to the acquisition of the following competences, according to the CDIO framework:</p><br /><h3>1. Technical Knowledge and Reasoning</h3><br /><p><strong>1.1.</strong> Acquire with the necessary proficiency knowledge of basic sciences and be able to use them in the formulation, resolution and discussion of problems in the area of training.</p><br /><p>The course builds on knowledge of Algebra and Probability and Statistics, organising, developing, and applying them in the context of decision problem solving. These skills are transversal to all areas of Engineering. Examples and cases from the students&#8217; study programmes are used to bridge basic sciences and the specific domain. Students are encouraged to integrate sustainability considerations aligned with the SDGs.</p><br /><p>All assessment elements in the course address these competences.</p><br /><h3>2. Personal and Professional Skills and Attitudes</h3><br /><h4>2.1. Engineering reasoning and problem solving</h4><br /><ul><br /><li>2.1.1 Problem identification and formulation</li><br /><li>2.1.2 Modelling</li><br /><li>2.1.3 Estimation and qualitative analysis</li><br /><li>2.1.4 Analysis under uncertainty</li><br /><li>2.1.5 Solution and recommendation</li><br /></ul><br /><p>The teaching methodology and course contents reflect these points. Problem formulation, modelling, and solving are continuous activities. Qualitative analysis is especially covered in sensitivity analysis, while uncertainty is addressed in Queuing Theory and Decision Theory.</p><br /><p>All assessment elements in the course address these competences.</p><br /><h4>2.2. Experimentation and knowledge discovery</h4><br /><ul><br /><li>2.2.1 Hypothesis formulation</li><br /><li>2.2.2 Literature research</li><br /><li>2.2.3 Experimental inquiry</li><br /><li>2.2.4 Hypothesis testing and defence</li><br /></ul><br /><h4>2.3. Systems thinking</h4><br /><ul><br /><li>2.3.1 Holistic thinking</li><br /><li>2.3.2 Emergence and system interactions</li><br /><li>2.3.3 Prioritisation and focus</li><br /><li>2.3.4 Trade-offs, judgement and balancing in problem solving</li><br /></ul><br /><p>These competences may also be described as: (1) analytical competences, as the ability to formulate and solve unfamiliar problems; (2) design competences, as the creative solution of complex problems with uncertainty; (3) research competences, as the ability to model and assess the applicability of emerging techniques (EURO-ACE criteria). Problem formulation and modelling, including the identification of suitable model families, the development of original models and their evaluation, clearly contribute to these competences. Sensitivity analysis supports the understanding of trade-offs and balancing.</p><br /><p>Students will be encouraged to consider the implications of their decisions in terms of sustainability, in particular the impact on health, education, equality, and environmental preservation.</p><br /><p>All assessment elements in the course address these competences.</p><br /><p>The learning outcomes are related to competences (knowledge, skills, and attitudes) and are expressed as statements of what students should be able to do. For all syllabus topics, detailed learning outcomes are available in the learning support materials.</p>
+
+## Pré-requisitos e co-requisitos
+<h2>Prerequisites and co-requisites</h2><br /><p>Basic courses in Algebra, Statistics, and Probability Theory.</p>
+
+## Programa
+<h2>Syllabus</h2><br /><h3>Modelling decision problems</h3><br /><ul><br /><li>Introduction to modelling and construction of Linear Programming (LP) models.</li><br /><li>Network models (flows, paths, transportation).</li><br /><li>Mixed Integer Programming (MIP) models.</li><br /><li>In-depth analysis of a real problem and its model.</li><br /></ul><br /><h3>Solving Linear Programming (LP) problems</h3><br /><ul><br /><li>Fundamentals of the simplex algorithm.</li><br /><li>Graphical resolution of small-scale problems.</li><br /><li>Modelling and solving with Excel Solver.</li><br /><li>Sensitivity analysis and interpretation of reports.</li><br /></ul><br /><h3>Solving Mixed Integer Programming (MIP) problems</h3><br /><ul><br /><li>Branch and bound method.</li><br /><li>Modelling and solving in Python using PuLP.</li><br /></ul><br /><h3>Queuing models</h3><br /><ul><br /><li>M/M/1, M/M/S and M/M/S/K systems.</li><br /></ul><br /><h3>Decision theory</h3><br /><ul><br /><li>Structuring decision problems.</li><br /><li>Decision trees.</li><br /><li>Decisions involving experimentation.</li><br /></ul>
+
+## Bibliografia obrigatória
+Docentes de IO | DEGI | FEUP; Documentação de apoio a Investigação Operacional (Available at the course site)<br>
+
+## Bibliografia complementar
+Hillier, Frederick S.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004563340108801" title="Introduction to operations research (Opens in a new window)" target="_blank" >Introduction to operations research</a>. ISBN: 0-07-118163-6 <br>
+Hamdy A. Taha; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004545930108801" title="Operations research (Opens in a new window)" target="_blank" >Operations research</a>. ISBN: 0-13-281172-3 (brochada)<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<h2>Teaching methods and learning activities</h2><br /><p>The course combines theoretical exposition with practical activities. Programme topics are presented in a structured way, making use of active learning methods whenever possible to engage students in the construction of knowledge. Exposition is always supported by practical examples, case studies, and decision problems relevant to the students&#8217; context.</p><br /><p>Classes include guided problem solving, individual and group exercises, and discussion of results. Special attention is given to clarifying doubts regarding the proposed problems and to critically analysing the solutions obtained. Whenever appropriate, computational tools are used to support modelling and problem solving.</p><br /><p>These activities aim not only to consolidate technical knowledge but also to foster transversal skills such as critical thinking, communication, and the integration of sustainability considerations into the proposed solutions.</p>
+
+## Software
+Excel Solver<br>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 hours
+- Frequência das aulas: 52.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<h2>Final grade calculation</h2><br /><h3>Continuous assessment (closed book) &#8212; 0 to 10</h3><br /><p><strong>Micro&#8209;exercises</strong></p><br /><ul><br /><li>Each exercise is graded on a 0&#8211;100% scale;</li><br /><li>The component grade is the <strong>sum of the scores</strong> obtained in the micro&#8209;exercises set at the end of each class, <strong>dropping the two lowest scores</strong>, and <strong>normalised to the 0&#8211;10 scale</strong>.</li><br /></ul><br /><h3>Exam (closed book) &#8212; 0 to 10</h3><br /><p>Individual written exam.</p><br /><h3>Final mark (0 to 20)</h3><br /><div class=&quot;formula&quot;><span class=&quot;math&quot;>FM = CA + EX</span></div>
+
+## Obtenção de frequência
+<h2>Attendance / eligibility (frequência)</h2><br /><p>To be granted <em>frequência</em> (course attendance / eligibility), students must obtain at least <strong>4 out of 10</strong> in the <strong>continuous assessment component (micro-exercises)</strong>.</p><br /><p>In addition, students must comply with FEUP&#8217;s <strong>General Assessment Regulations</strong>, available at:<br /> <a href=&quot;web_base.gera_pagina?p_pagina=legisla%C3%A7%C3%A3o_exames&quot; target=&quot;_blank&quot;>https://sigarra.up.pt/feup/pt/web_base.gera_pagina?p_pagina=legislação_exames</a></p>
+
+## Exames ou Trabalhos Especiais
+<h2>Special exams and assignments</h2><br /><p>Not planned.</p>
+
+## Melhoria de classificação
+<h2>Grade improvement</h2><br /><p>Students may register to retake <strong>each assessment component</strong> (micro&#8209;exercises and exam) in the improvement period.</p><br /><ul><br /><li><strong>Micro&#8209;exercises</strong>: assessed through a written, closed&#8209;book test (0 to 10 marks).</li><br /><li><strong>Exam</strong>: assessed through a written, closed&#8209;book test (0 to 10 marks).</li><br /></ul><br /><p>The final grade is recalculated using the formula defined in <em>Final grade calculation</em>. For each component (micro&#8209;exercises and exam), the <strong>best grade obtained</strong> by the student is considered, whether from the <strong>regular period</strong> or from the <strong>improvement period</strong>.</p><br /><p class=&quot;muted&quot;>Example: if a student obtained 7 in the micro&#8209;exercises in the regular period and 9 in the improvement test, the grade 9 will be used for that component. The same rule applies to the exam.</p>
+

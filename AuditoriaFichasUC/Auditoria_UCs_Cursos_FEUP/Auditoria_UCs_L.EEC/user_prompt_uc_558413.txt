@@ -1,0 +1,192 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sistemas Elétricos de Baixa Tensão
+
+## Curso responsável
+Licenciatura em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+Os estudantes deverão ser capazes de:<br /><ul><br /><li>Demonstrar conhecimentos básicos sobre sistemas elétricos de baixa e média tensão.</li><br /><li>Calcular curto-circuitos com recurso ao modelo de Thévenin</li><br /><li>Descrever as características e princípios de funcionamento da aparelhagem de corte e proteção elétrica de baixa tensão e média tensão</li><br /><li>Interpretar e reproduzir esquemas elétricos de instalações simples de baixa tensão e postos de transformação</li><br /><li>Conhecer e aplicar regras de segurança de pessoas.</li><br /><li>Dimensionar e proteger instalações elétricas simples.</li><br /><li>Analisar os aspetos económicos e técnicos relativos à produção de eletricidade em BT.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+<p>&#8226;Conhecimento e compreensão do enquadramento das instalações elétricas de baixa e média tensão no Sistema Elétrico Nacional. [Competências CDIO 1.2, 2.3] <br /><br />&#8226;Conhecimento das características e princípios de funcionamento da aparelhagem elétrica de baixa tensão. Desenvolvimento das capacidades de reconhecimento e de seleção da mesma. [Competências CDIO 1.2, 2.3] </p>
+<p><br />&#8226;Aquisição de agilidade na interpretação e reprodução de esquemas elétricos de instalações simples de baixa e média tensão. [Competências CDIO 2.1, 2.3] <br /><br />&#8226;Demonstração de conhecimentos básicos de regras e regulamentos de segurança em vigor. [Competências CDIO 1.2]</p>
+<p>&#8226;Demonstração da capacidade de dimensionamento de instalações elétricas simples. [Competências CDIO 1.2, 2.1, 2.3]</p>
+
+## Pré-requisitos e co-requisitos
+<p>A frequência desta UC requer conhecimentos lecionados nas UCs de Circuitos e Sistemas Elétricos de Energia. É da responsabilidade do estudante garantir o domínio dos temas <br />abordados nessas UCs.</p>
+
+## Programa
+Estrutura típica e constituição de redes de distribuição BT, redes industriais, instalações coletivas, quadros e instalações de utilização. <br />Noções introdutórias sobre a constituição de cabos elétricos isolados.<br />Aparelhagem de corte, proteção e comando em BT e MT. Cálculo simplificado de curto-circuitos baseados<br />no equivalente de Thévenin.<br /> Dimensionamento e proteção de canalizações elétricas.<br /> Proteção de pessoas em instalações elétricas. Proteção contra sobretensões. <br />Correção de Fator de Potência. <br />Noções Básicas sobre sistemas de gestão de energia em edifícios e habitações (HEMS) e aspetos relativos à produção de eletricidade em BT. <br />Estabelecimento e medição de redes de terra.
+
+## Bibliografia obrigatória
+J. Eduardo Neves dos Santos e Outros; CÓPIAS DE TRANSPARÊNCIAS e SLIDES (Aulas Teóricas) (Disponíveis nos CONTEÚDOS DA U.C.)<br>
+J. Eduardo Neves dos Santos; TEXTOS DIDÁTICOS VÁRIOS (Disponíveis nos CONTEÚDOS DA U.C.)<br>
+ J. Neves dos Santos; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004799870108801" title="Condutores e Cabos de Energia (Abre numa nova janela)" target="_blank" >Condutores e Cabos de Energia</a>, 2005 (Texto Didáctico)<br>
+J. Neves dos Santos; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004799900108801" title="Instalações Colectivas de Edifícios (Abre numa nova janela)" target="_blank" >Instalações Colectivas de Edifícios</a>, 2005 (Texto Didáctico)<br>
+J. Neves dos Santos, J. Rui Ferreira; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004799880108801" title="Redes de Distribuição de Energia Eléctrica em Baixa Tensão (Abre numa nova janela)" target="_blank" >Redes de Distribuição de Energia Eléctrica em Baixa Tensão</a>, 2004 (Texto Didáctico)<br>
+J. Neves dos Santos; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004799910108801" title="Instalações Eléctricas: Um Mandamento e Muitas Questões (Abre numa nova janela)" target="_blank" >Instalações Eléctricas: Um Mandamento e Muitas Questões</a>, 2004 (Revisto em 2006) (Texto Didáctico)<br>
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005312360108801" title="RTIEBT- Regras Técnicas das Instalações Eléctricas de Baixa Tensão, 1ª Edição Anotada (Abre numa nova janela)" target="_blank" >RTIEBT- Regras Técnicas das Instalações Eléctricas de Baixa Tensão, 1ª Edição Anotada</a>, Certiel / DGGE, 2006<br>
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005312360108801" title="Regras Técnicas das Instalações Eléctricas de baixa Tensão (Abre numa nova janela)" target="_blank" >Regras Técnicas das Instalações Eléctricas de baixa Tensão</a>, Imprensa Nacional-Casa da Moeda, 2006. ISBN: 972-27-1518-6 <br>
+Hilário Dias Nogueira; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005546870108801" title="ABC das regras técnicas (Abre numa nova janela)" target="_blank" >ABC das regras técnicas</a>. ISBN: 978-972-8953-83-6 <br>
+Constantino Vital Sopa Soares; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005466830108801" title="Instalações Eléctricas de Baixa Tensão - Projecto, Execução e Exploração: Origem e Interpretação das RTIEBT e Principais Diferenças Face ao 740/74 (Abre numa nova janela)" target="_blank" >Instalações Eléctricas de Baixa Tensão - Projecto, Execução e Exploração: Origem e Interpretação das RTIEBT e Principais Diferenças Face ao 740/74</a>, DGEG / Certiel, 2006. ISBN: 978-972-95180-6-5 (Data de edição 2006, mas publicação muito recente (2009).)<br>
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005632690108801" title="Manual de Ligações à Rede Eléctrica de Serviço Público - Guia Técnico e Logístico de Boas Práticas (Abre numa nova janela)" target="_blank" >Manual de Ligações à Rede Eléctrica de Serviço Público - Guia Técnico e Logístico de Boas Práticas</a>, EDP Distribuição, 2011 (2ª Edição)<br>
+Vários; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005626100108801" title="Application Guide: Industrial Switching & Protection Systems (Abre numa nova janela)" target="_blank" >Application Guide: Industrial Switching & Protection Systems</a>, SOCOMEC (Innovative Power Solutions), 2011 (Disponível para Download em: http://socomec.co.in/documentation-downloading_en.html >Application Guide)<br>
+Vários; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008409590108801" title="Electrical Installation Guide 2010 (Abre numa nova janela)" target="_blank" >Electrical Installation Guide 2010</a>, Schneider Electric, 2010. ISBN: 978.2.9531643.3.6<br>
+Hilário Dias Nogueira e Josué Lima Morais; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005504980108801" title="Tabelas Técnicas das Instalações Eléctricas (segundo as Regras Técnicas RTIEBT) (Abre numa nova janela)" target="_blank" >Tabelas Técnicas das Instalações Eléctricas (segundo as Regras Técnicas RTIEBT)</a>, Certiel, 2008. ISBN: 978-972-95180-7-2<br>
+Morais, Josué Lima; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004841510108801" title="Guia técnico das instalações eléctricas (Abre numa nova janela)" target="_blank" >Guia técnico das instalações eléctricas</a>. ISBN: 972-95180-3-3 <br>
+L.M. Vilela Pinto; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005490980108801" title="HabitatPro. Técnica e Certificação das Instalações Eléctricas (Abre numa nova janela)" target="_blank" >HabitatPro. Técnica e Certificação das Instalações Eléctricas</a>, Schneider Electric, 2006. ISBN: 989-95174-0-2<br>
+L. M. Vilela Pinto; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005331870108801" title="Colectiv Pro: Técnica e Certificação das Instalações Eléctricas (Abre numa nova janela)" target="_blank" >Colectiv Pro: Técnica e Certificação das Instalações Eléctricas</a>, Schneider Electric Portugal, 2007. ISBN: 978-989-95174-2-4<br>
+Pinto, L. M. Vilela; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004763260108801" title="Técnicas e tecnologias em instalações eléctricas (Abre numa nova janela)" target="_blank" >Técnicas e tecnologias em instalações eléctricas</a>. ISBN: 972-95180-1-7 <br>
+Pinto, Luís Manuel Vilela; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004171470108801" title="MGCALC (Abre numa nova janela)" target="_blank" >MGCALC</a>. ISBN: 972-95831-1-0 (vol.1)<br>
+Pinto, Luís Manuel Vilela; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004171470108801" title="Manual MGCALC (Abre numa nova janela)" target="_blank" >Manual MGCALC</a>. ISBN: 972-95831-0-2<br>
+
+## Bibliografia complementar
+Guilherme de Almeida; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004877050108801" title="Sistema Internacional de Unidades (SI) - Grandezas e Unidades Físicas: Terminologia, Símbolos e Recomendações (Abre numa nova janela)" target="_blank" >Sistema Internacional de Unidades (SI) - Grandezas e Unidades Físicas: Terminologia, Símbolos e Recomendações</a>, Plátano Edições Técnicas, 2002. ISBN: 972-707-162-7 (3ª Edição revista e actualizada)<br>
+Regulamentos de Segurança Diversos (Instalações Eléctricas), DGGE<br>
+Guias Técnicos Diversos, DGGE<br>
+Vários; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004253210108801" title="Electrical Installations Handbook. Vol 1 Protection and Control Devices, 2nd Edition (Abre numa nova janela)" target="_blank" >Electrical Installations Handbook. Vol 1 Protection and Control Devices, 2nd Edition</a>, ABB SACE, 2004<br>
+Vários; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004556900108801" title="Electrical Installations Handbook. Vol 2 Electrical Devices, 2nd Edition (Abre numa nova janela)" target="_blank" >Electrical Installations Handbook. Vol 2 Electrical Devices, 2nd Edition</a>, ABB SACE, 2004<br>
+Vários; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004556900108801" title="Electrical Installations Handbook,Third Edition (Abre numa nova janela)" target="_blank" >Electrical Installations Handbook,Third Edition</a>, John Wiley & Sons, 2000. ISBN: 0-471-49435-6<br>
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008540830108801" title="Distribution et Puissance jusqu&#180; à 4000A: Guide Technique (Abre numa nova janela)" target="_blank" >Distribution et Puissance jusqu&#180; à 4000A: Guide Technique</a>, Legrand<br>
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004799950108801" title="Soluções de Electricidade: Conforto, Segurança e Eficácia (Abre numa nova janela)" target="_blank" >Soluções de Electricidade: Conforto, Segurança e Eficácia</a>, EDP, 2000<br>
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005332880108801" title="Guia Técnico, 9ª Edição (Abre numa nova janela)" target="_blank" >Guia Técnico, 9ª Edição</a>, SOLIDAL, 2005<br>
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008474390108801" title="Manual da Qualidade da Energia Eléctrica (Abre numa nova janela)" target="_blank" >Manual da Qualidade da Energia Eléctrica</a>, EDP, 2005<br>
+Enrico Grassani; Verificação das Instalações e dos Equipamentos Eléctricos, 2ª edição, Editoriale Delfino, 2001. ISBN: 88-7933-237-6<br>
+Pulo Liberato e Carolina Monteiro; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005640640108801" title="A Electricidade e a Saúde. Os Campos Electromagnéticos de Frequência Reduzida (Abre numa nova janela)" target="_blank" >A Electricidade e a Saúde. Os Campos Electromagnéticos de Frequência Reduzida</a>, Edição REN, 2008<br>
+Chauffournier, Bernard 710; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004171460108801" title="Esquemateca (Abre numa nova janela)" target="_blank" >Esquemateca</a>. ISBN: 2-907314-21-1 <br>
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004865310108801" title="Dossier ITED (Abre numa nova janela)" target="_blank" >Dossier ITED</a>, ACIST-AET, 2006. ISBN: 972-99997-0-8<br>
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004865310108801" title="Dossier ITED, O Essencial (Abre numa nova janela)" target="_blank" >Dossier ITED, O Essencial</a>, ACIST-AET, 2006. ISBN: 972-99997-1-6<br>
+Manuel António Matos; I ntrodução ao Cálculo de Curto-Circuitos Trifásicos Simétricos pela Norma CEI 909, 1996 (Texto Didáctico)<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>&#8226;Aulas Teóricas: Utilização de Apresentações em ppt que são disponibilizados aos estudantes como material de estudo. Ilustração da exposição com a visualização dos equipamentos, sempre que tal seja viável. <br /><br />&#8226;Aulas Práticas: Resolução de problemas pertencentes a uma lista de enunciados previamente distribuída aos estudantes, construção de esquemas elétricos, montagem de pequenos circuitos.<br />Visita de estudo a um PT e a uma fábrica de cabos elétricos</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 horas
+- Frequência das aulas: 52.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>NOTA_FINAL = 0,75 x NOTA_EXAME + 0,25 x NOTA_Mini-teste.</p>
+
+## Obtenção de frequência
+<p>&#8226;As componentes de avaliação são duas: a) Mini-teste ou trabalhos individuais a realizar nas aulas laboratoriais; b) Exame final. <br /><br />&#8226;Para a obtenção de frequência devem ser cumpridas as regras de assiduidade em vigor. <br /><br />&#8226;As competências CDIO avaliadas em cada uma daquelas componentes são as seguintes: a) 1.2, 2.1; b) 1.2, 2.1, 2.3.</p>
+
+## Melhoria de classificação
+<p>&#8226;Só é possível a melhoria de classificação da componente de avaliação b) - Exame Final. <br /><br />&#8226;A classificação da componente a) é obtida na avaliação distribuída, aquando da frequência da Unidade Curricular. <br /><br />&#8226;É aplicada a fórmula geral no cálculo da nota final.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Low Voltage Electrical Systems
+
+## Curso responsável
+Bachelor in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p><span id="result_box" lang="en"><span class="hps">The students should be able to:<br /><br /></span></span></p>
+<ul>
+<li><span id="result_box" lang="en"><span class="hps">Demonstrate basic knowledge about electricity systems of LV and MV</span></span></li>
+<li><span id="result_box" lang="en"><span class="hps">Perform short-circuit calculations following the Thévenin model</span></span></li>
+<li><span id="result_box" lang="en"><span class="hps">Describe the characteristics and operating principles of switching apparatus and protection devices for LV and MV use</span></span></li>
+<li><span id="result_box" lang="en"><span class="hps">Interpret and reproduce electrical diagrams of basic LV installations and secondary stations</span></span></li>
+<li><span id="result_box" lang="en"><span class="hps">Know and apply safety rules for persons&#8217; protection</span></span></li>
+<li><span id="result_box" lang="en"><span class="hps">Design basic electric installations</span></span></li>
+<li><span id="result_box" lang="en"><span class="hps">Analyze the economic and technical aspects associated to LV generation</span></span></li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p>&#8226;To give the students a general survey on the electrical sector in Portugal. <br /><br />&#8226;To present some equipment used in medium voltage facilities and, mainly, in low voltage installations considering the technological and functional characteristics. </p>
+<p><br />&#8226;To present the students the method of dimensioning electrical cables and their protections. <br /><br />&#8226;To inform the students about the requirements of electrical projects concerning residential buildings.</p>
+
+## Pré-requisitos e co-requisitos
+<p><span id="result_box" lang="en"><span class="hps">The frequency</span> <span class="hps">of this unit</span> <span class="hps">requires</span> <span class="hps">knowledge</span> <span class="hps">taught</span> <span class="hps">in</span> <span class="hps">UCs</span> <span class="hps">Circuitos and</span> <span class="hps">Sistemas Elétricos de Energia</span>. <span class="hps">It is</span> <span class="hps">the</span> <span class="hps">student's responsibility to</span> <span class="hps">ensure mastery</span> <span class="hps">of the topics </span><span class="hps">addressed</span> <span class="hps">these</span> <span class="hps">UCs</span></span></p>
+
+## Programa
+<p>Typical structure and constitution of low voltage distribution networks, industrial networks, building<br />installations, panels and utilization installations. Switching, protection and control devices at LV and MV.<br />Short-circuit simplified calculations based on the Thévenin model. Design and protection of electrical<br />wiring. People protection in electrical facilities. Surge protection. Load factor compensation. Basic notions<br />of Home Energy Management Systems (HEMS) and aspects related to electricity generation at low voltage.<br />Settlement and measurement of earthing networks.</p>
+
+## Bibliografia obrigatória
+J. Eduardo Neves dos Santos e Outros; CÓPIAS DE TRANSPARÊNCIAS e SLIDES (Aulas Teóricas)<br>
+J. Eduardo Neves dos Santos; TEXTOS DIDÁTICOS VÁRIOS<br>
+ J. Neves dos Santos; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004799870108801" title="Condutores e Cabos de Energia (Opens in a new window)" target="_blank" >Condutores e Cabos de Energia</a>, 2005<br>
+J. Neves dos Santos; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004799900108801" title="Instalações Colectivas de Edifícios (Opens in a new window)" target="_blank" >Instalações Colectivas de Edifícios</a>, 2005<br>
+J. Neves dos Santos, J. Rui Ferreira; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004799880108801" title="Redes de Distribuição de Energia Eléctrica em Baixa Tensão (Opens in a new window)" target="_blank" >Redes de Distribuição de Energia Eléctrica em Baixa Tensão</a>, 2004<br>
+J. Neves dos Santos; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004799910108801" title="Instalações Eléctricas: Um Mandamento e Muitas Questões (Opens in a new window)" target="_blank" >Instalações Eléctricas: Um Mandamento e Muitas Questões</a>, 2004 (Revisto em 2006)<br>
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005312360108801" title="RTIEBT- Regras Técnicas das Instalações Eléctricas de Baixa Tensão, 1ª Edição Anotada (Opens in a new window)" target="_blank" >RTIEBT- Regras Técnicas das Instalações Eléctricas de Baixa Tensão, 1ª Edição Anotada</a>, Certiel / DGGE, 2006<br>
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005312360108801" title="Regras Técnicas das Instalações Eléctricas de baixa Tensão (Opens in a new window)" target="_blank" >Regras Técnicas das Instalações Eléctricas de baixa Tensão</a>, Imprensa Nacional-Casa da Moeda, 2006. ISBN: 972-27-1518-6 <br>
+Hilário Dias Nogueira; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005546870108801" title="ABC das regras técnicas (Opens in a new window)" target="_blank" >ABC das regras técnicas</a>. ISBN: 978-972-8953-83-6 <br>
+Constantino Vital Sopa Soares; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005466830108801" title="Instalações Eléctricas de Baixa Tensão - Projecto, Execução e Exploração: Origem e Interpretação das RTIEBT e Principais Diferenças Face ao 740/74 (Opens in a new window)" target="_blank" >Instalações Eléctricas de Baixa Tensão - Projecto, Execução e Exploração: Origem e Interpretação das RTIEBT e Principais Diferenças Face ao 740/74</a>, DGEG / Certiel, 2006. ISBN: 978-972-95180-6-5<br>
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005632690108801" title="Manual de Ligações à Rede Eléctrica de Serviço Público - Guia Técnico e Logístico de Boas Práticas (Opens in a new window)" target="_blank" >Manual de Ligações à Rede Eléctrica de Serviço Público - Guia Técnico e Logístico de Boas Práticas</a>, EDP Distribuição, 2011<br>
+Vários; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005626100108801" title="Application Guide: Industrial Switching & Protection Systems (Opens in a new window)" target="_blank" >Application Guide: Industrial Switching & Protection Systems</a>, SOCOMEC (Innovative Power Solutions), 2011<br>
+Vários; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008409590108801" title="Electrical Installation Guide 2010 (Opens in a new window)" target="_blank" >Electrical Installation Guide 2010</a>, Schneider Electric, 2010. ISBN: 978.2.9531643.3.6<br>
+Hilário Dias Nogueira e Josué Lima Morais; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005504980108801" title="Tabelas Técnicas das Instalações Eléctricas (segundo as Regras Técnicas RTIEBT) (Opens in a new window)" target="_blank" >Tabelas Técnicas das Instalações Eléctricas (segundo as Regras Técnicas RTIEBT)</a>, Certiel, 2008. ISBN: 978-972-95180-7-2<br>
+Morais, Josué Lima; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004841510108801" title="Guia técnico das instalações eléctricas (Opens in a new window)" target="_blank" >Guia técnico das instalações eléctricas</a>. ISBN: 972-95180-3-3 <br>
+L.M. Vilela Pinto; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005490980108801" title="HabitatPro. Técnica e Certificação das Instalações Eléctricas (Opens in a new window)" target="_blank" >HabitatPro. Técnica e Certificação das Instalações Eléctricas</a>, Schneider Electric, 2006. ISBN: 989-95174-0-2<br>
+L. M. Vilela Pinto; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005331870108801" title="Colectiv Pro: Técnica e Certificação das Instalações Eléctricas (Opens in a new window)" target="_blank" >Colectiv Pro: Técnica e Certificação das Instalações Eléctricas</a>, Schneider Electric Portugal, 2007. ISBN: 978-989-95174-2-4<br>
+Pinto, L. M. Vilela; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004763260108801" title="Técnicas e tecnologias em instalações eléctricas (Opens in a new window)" target="_blank" >Técnicas e tecnologias em instalações eléctricas</a>. ISBN: 972-95180-1-7 <br>
+Pinto, Luís Manuel Vilela; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004171470108801" title="MGCALC (Opens in a new window)" target="_blank" >MGCALC</a>. ISBN: 972-95831-1-0 (vol.1)<br>
+Pinto, Luís Manuel Vilela; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004171470108801" title="Manual MGCALC (Opens in a new window)" target="_blank" >Manual MGCALC</a>. ISBN: 972-95831-0-2<br>
+
+## Bibliografia complementar
+Guilherme de Almeida; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004877050108801" title="Sistema Internacional de Unidades (SI) - Grandezas e Unidades Físicas: Terminologia, Símbolos e Recomendações (Opens in a new window)" target="_blank" >Sistema Internacional de Unidades (SI) - Grandezas e Unidades Físicas: Terminologia, Símbolos e Recomendações</a>, Plátano Edições Técnicas, 2002. ISBN: 972-707-162-7<br>
+Regulamentos de Segurança Diversos (Instalações Eléctricas), DGGE<br>
+Guias Técnicos Diversos, DGGE<br>
+Vários; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004253210108801" title="Electrical Installations Handbook. Vol 1 Protection and Control Devices, 2nd Edition (Opens in a new window)" target="_blank" >Electrical Installations Handbook. Vol 1 Protection and Control Devices, 2nd Edition</a>, ABB SACE, 2004<br>
+Vários; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004556900108801" title="Electrical Installations Handbook. Vol 2 Electrical Devices, 2nd Edition (Opens in a new window)" target="_blank" >Electrical Installations Handbook. Vol 2 Electrical Devices, 2nd Edition</a>, ABB SACE, 2004<br>
+Vários; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004556900108801" title="Electrical Installations Handbook,Third Edition (Opens in a new window)" target="_blank" >Electrical Installations Handbook,Third Edition</a>, John Wiley & Sons, 2000. ISBN: 0-471-49435-6<br>
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008540830108801" title="Distribution et Puissance jusqu&#180; à 4000A: Guide Technique (Opens in a new window)" target="_blank" >Distribution et Puissance jusqu&#180; à 4000A: Guide Technique</a>, Legrand<br>
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004799950108801" title="Soluções de Electricidade: Conforto, Segurança e Eficácia (Opens in a new window)" target="_blank" >Soluções de Electricidade: Conforto, Segurança e Eficácia</a>, EDP, 2000<br>
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005332880108801" title="Guia Técnico, 9ª Edição (Opens in a new window)" target="_blank" >Guia Técnico, 9ª Edição</a>, SOLIDAL, 2005<br>
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008474390108801" title="Manual da Qualidade da Energia Eléctrica (Opens in a new window)" target="_blank" >Manual da Qualidade da Energia Eléctrica</a>, EDP, 2005<br>
+Enrico Grassani; Verificação das Instalações e dos Equipamentos Eléctricos, 2ª edição, Editoriale Delfino, 2001. ISBN: 88-7933-237-6<br>
+Pulo Liberato e Carolina Monteiro; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005640640108801" title="A Electricidade e a Saúde. Os Campos Electromagnéticos de Frequência Reduzida (Opens in a new window)" target="_blank" >A Electricidade e a Saúde. Os Campos Electromagnéticos de Frequência Reduzida</a>, Edição REN, 2008<br>
+Chauffournier, Bernard 710; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004171460108801" title="Esquemateca (Opens in a new window)" target="_blank" >Esquemateca</a>. ISBN: 2-907314-21-1 <br>
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004865310108801" title="Dossier ITED (Opens in a new window)" target="_blank" >Dossier ITED</a>, ACIST-AET, 2006. ISBN: 972-99997-0-8<br>
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004865310108801" title="Dossier ITED, O Essencial (Opens in a new window)" target="_blank" >Dossier ITED, O Essencial</a>, ACIST-AET, 2006. ISBN: 972-99997-1-6<br>
+Manuel António Matos; I ntrodução ao Cálculo de Curto-Circuitos Trifásicos Simétricos pela Norma CEI 909, 1996<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>&#8226;Theoretical classes: Use of transparencies / electronic documents. The exhibition is illustrated with the visualization of the equipments, whenever such it is possible. <br /><br />&#8226;Practical classes: Resolution of problems belonging to a list previously distributed the students, design of electric diagrams, mount of small circuits.<br /> Visits to a medium voltage switchgear installation and to a factory of electrical cables manufacturing.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 hours
+- Frequência das aulas: 52.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>CLASS_FINAL(NF) = 0,75 x CLASS_EXAM + 0,25 x CLASS_TEST.</p>
+
+## Obtenção de frequência
+<p><span class="VIiyi" lang="en"><span class="JLqJ4b ChMk0b" data-language-for-alternatives="en" data-language-to-translate-into="pt" data-phrase-index="0">There are two evaluation components: a) Mini-test or individual work to be carried out in laboratory classes;</span></span><span class="VIiyi" lang="en"> <span class="JLqJ4b ChMk0b" data-language-for-alternatives="en" data-language-to-translate-into="pt" data-phrase-index="1">b) Final exam.</span></span><br />The students must not exceed the absence limit established to the practical classes. These are the skills which are assessed: CDIO Syllabus- a) 1.2, 2.1; b) 1.2, 2.3; c) 1.2, 2.1, 2.3.</p>
+
+## Melhoria de classificação
+<p>&#8226;CLASS_FINAL(NF) = 0,75 x CLASS_EXAM + 0,25 x CLASS_Test. <br /><br />&#8226;Note: You can only improve the Test classification.</p>
+

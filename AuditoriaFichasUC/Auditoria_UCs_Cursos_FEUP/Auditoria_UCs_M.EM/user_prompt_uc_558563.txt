@@ -1,0 +1,122 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Contabilidade e Gestão Financeira
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Desenvolver competências que permitam a leitura e interpretação de informação de raiz financeira e contabilística. Adquirir conhecimentos elementares de cálculo financeiro e saber aplicá-las à gestão financeira das organizações.</p>
+
+## Resultados de aprendizagem e competências
+<p>Espera-se que os alunos, no final do período letivo:</p>
+<p>1. Sejam capazes de ler e interpretar informação de raiz financeira e contabilística e de desenvolver diagnósticos sobre as situações económica e financeira de uma empresa.</p>
+<p>2. Compreendam os fundamentos do cálculo financeiro e saibam aplicá-los aos principais instrumentos de financiamento das empresas.</p>
+<p>3. Saibam avaliar o impacto de diferentes decisões de gestão na situação económico-financeira de uma empresa.</p>
+
+## Programa
+<pre>1. Informação contabilística<br />1.1. Contabilidade financeira: noção e objeto<br />1.2. Principais conceitos e agregados contabilísticos: a formalização contabilística<br />1.3. Pressupostos subjacentes e caraterísticas qualitativas das demonstrações financeiras<br />1.4. Desenvolvimento de alguns aspetos particulares: Imparidades; Depreciações; Diferimentos; Reservas<br />1.5. Notas às Demonstrações Financeiras; Relatório de gestão e Certificação de contas<br /><br />2. Análise económico-financeira<br />2.1. Os aspetos económicos e financeiros de uma organização<br />2.2. Análise económica<br />2.3. Análise financeira<br /><br />3. Gestão financeira<br />3.1. Breve nota sobre cálculo financeiro<br />3.2. Instrumentos de financiamento da exploração corrente<br />3.3. Instrumento de financiamento do investimento</pre>
+
+## Bibliografia obrigatória
+José António Cardoso Moreira; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009577950108801" title="Contabilidade: Da Preparação à Interpretação da Informação Financeira (Abre numa nova janela)" target="_blank" >Contabilidade: Da Preparação à Interpretação da Informação Financeira</a>, Silabo. ISBN: 978-989-561-094-5<br>
+Carlos alves, Cláudia Ribeiro, Jorge Farinha, Rui Alves; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009369370108801" title="Cálculo Financeiro Aplicado (Abre numa nova janela)" target="_blank" >Cálculo Financeiro Aplicado</a>, Almedina. ISBN: 9789894015208<br>
+Bradford Jordan, Jeffrey Jaffe, Randolph Westerfield, Stephen Ross; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004558390108801" title="Corporate Finance (Abre numa nova janela)" target="_blank" >Corporate Finance</a>, McGraw Hill. ISBN: 9781260772388<br>
+
+## Bibliografia complementar
+FERNANDA MATIAS, CELÍSIA BAPTISTA, LEONOR SALSA, LUÍS SERRA COELHO, ZÉLIA SERRASQUEIRO; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma9910238908508801" title="Gestão Financeira &#8211; Da Teoria à Prática (Abre numa nova janela)" target="_blank" >Gestão Financeira &#8211; Da Teoria à Prática</a>, Silabo. ISBN: 978-989-561-347-2<br>
+CARLA FERNANDES, CRISTINA PEGUINHO, ELISABETE VIEIRA, JOAQUIM NEIVA; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma9910238908408801" title="Análise Financeira &#8211; Teoria e Prática (Abre numa nova janela)" target="_blank" >Análise Financeira &#8211; Teoria e Prática</a>. ISBN: 978-989-561-213-0<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Exposição dos fundamentos teóricos ilustrada por exemplos e problemas, assim como a resolução de problemas.<br /><br /><br /></p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 36.0 horas
+- Frequência das aulas: 45.5 horas
+- Trabalho de campo: 40.0 horas
+- Total:: 121.5 horas
+
+## Fórmula de cálculo da classificação final
+<p>Classificação em época normal:<br />Classificação final = 70% Exame Normal + 30% Trabalho<br /><br />Para aprovação à unidade curricular na Época Normal os estudantes deverão obter uma classificação mínima de 40% em cada uma das duas provas realizadas (trabalho e exame final).<br /><br />Classificação em época de recurso:<br />Classificação final = 100% Exame recurso<br />Na época de exames de recurso o trabalho não é considerado para a classificação final.</p>
+<p> </p>
+
+## Obtenção de frequência
+<p>Normas gerais de avaliação.</p>
+
+## Melhoria de classificação
+100% exame
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Accounting and Finantial Management
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+4,5
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>The main objective of the course is to develop skills for reading and analyse financial and accounting information and to understand the basics of financial mathematics and financial management.</p>
+
+## Resultados de aprendizagem e competências
+<p>It is expected that students at the end of this course:<br /><br />1. Will be able to read and understand accounting information and to analyze financial statements.</p>
+<p>2. Will understand the basics of financial mathematics knowing how to apply them to choose alternative financial instruments.</p>
+<p>3. Will be able to understand the impact of financial decisions.<br /><br /></p>
+
+## Programa
+<blockquote>1. Financial Accounting<br /> <br />a) Financial accounting: role and objectives<br /> <br />b) Main accounting concepts and principles<br /> <br />c) Financial statements<br /> <br />d) Notes to the financial statements<br /> <br />e) Management report and Statutory Audit Certification<br /> <br /> <br /> <br />2. Financial Analysis<br /> <br />a) Understanding financial statements<br /> <br />b) Using financial statements to take decisions<br /> <br /> <br /> <br />3. Financial management<br /> <br />a) Project finance &amp; Valuation<br /> <br />b) Different ways to finance diferent business needs</blockquote>
+
+## Bibliografia obrigatória
+José António Cardoso Moreira; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009577950108801" title="Contabilidade: Da Preparação à Interpretação da Informação Financeira (Opens in a new window)" target="_blank" >Contabilidade: Da Preparação à Interpretação da Informação Financeira</a>, Silabo. ISBN: 978-989-561-094-5<br>
+Carlos alves, Cláudia Ribeiro, Jorge Farinha, Rui Alves; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009369370108801" title="Cálculo Financeiro Aplicado (Opens in a new window)" target="_blank" >Cálculo Financeiro Aplicado</a>, Almedina. ISBN: 9789894015208<br>
+Bradford Jordan, Jeffrey Jaffe, Randolph Westerfield, Stephen Ross; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004558390108801" title="Corporate Finance (Opens in a new window)" target="_blank" >Corporate Finance</a>, McGraw Hill. ISBN: 9781260772388<br>
+
+## Bibliografia complementar
+FERNANDA MATIAS, CELÍSIA BAPTISTA, LEONOR SALSA, LUÍS SERRA COELHO, ZÉLIA SERRASQUEIRO; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma9910238908508801" title="Gestão Financeira &#8211; Da Teoria à Prática (Opens in a new window)" target="_blank" >Gestão Financeira &#8211; Da Teoria à Prática</a>, Silabo. ISBN: 978-989-561-347-2<br>
+CARLA FERNANDES, CRISTINA PEGUINHO, ELISABETE VIEIRA, JOAQUIM NEIVA; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma9910238908408801" title="Análise Financeira &#8211; Teoria e Prática (Opens in a new window)" target="_blank" >Análise Financeira &#8211; Teoria e Prática</a>. ISBN: 978-989-561-213-0<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Presentation of the themes of the course illustrated by cases, examples and solving of problems.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 36.0 hours
+- Frequência das aulas: 45.5 hours
+- Trabalho de campo: 40.0 hours
+- Total:: 121.5 hours
+
+## Fórmula de cálculo da classificação final
+<p>Normal assessment period: Final grade = 70% Normal Exam + 30% Coursework</p>
+<p>To pass the course unit in the Normal Assessment Period, students must obtain a minimum grade of 40% on each of the two assessment components (coursework and final exam).</p>
+<p>Resit period classification: Final grade = 100% Resit Exam<br />For the resit classification the essay grade is is not considered for the final classification.</p>
+
+## Obtenção de frequência
+<p>General Evaluation Rules of FEUP.</p>
+
+## Melhoria de classificação
+100% exam
+

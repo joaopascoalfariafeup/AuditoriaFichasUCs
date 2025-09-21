@@ -1,0 +1,172 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Comportamento Organizacional e Mudança
+
+## Curso responsável
+Mestrado em Engenharia e Gestão Industrial
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+A presente Unidade Curricular tem por objetivo desenvolver nos/as estudantes competências fundamentais para o desenvolvimento da sua atividade profissional em contexto organizacional, quer do ponto de vista individual, quer grupal (integração em equipas de trabalho e funções de liderança), assumindo que práticas organizacionais transformadoras de pessoas e contextos são sustentadas no conhecimento científico, no conhecimento do contexto real de trabalho e na cooperação entre diversos agentes.
+
+## Resultados de aprendizagem e competências
+<p>No final da Unidade Curricular, os/as estudantes devem ser capazes de:</p>
+<ul>
+<li>Identificar e definir conceitos de base relativos ao comportamento e mudança organizacionais;</li>
+<li>Reconhecer as principais tendências globais e nacionais com impacto nos contextos de trabalho, pessoas e equipas;</li>
+<li>Posicionar a dimensão das pessoas e das equipas de trabalho enquanto elemento estratégico na gestão da organização;</li>
+<li>Reconhecer o papel da cultura organizacional na gestão de pessoas e equipas de trabalho;</li>
+<li>Reconhecer a relevância de atuar ao nível individual (do seu próprio desenvolvimento) e grupal (do desenvolvimento dos outros, sejam pares, parceiros ou liderados);</li>
+<li>Conhecer práticas sustentáveis de gestão das pessoas, do recrutamento à transição para a reforma;</li>
+<li>Identificar, recolher e analisar indicadores capazes de evidenciar o impacto das práticas implementadas ao nível organizacional, grupal e individual;</li>
+<li>Resolver casos práticos relacionados com a gestão de pessoas e equipas, considerando os conhecimentos teóricos e a dimensão da ética empresarial;</li>
+</ul>
+Construir e apresentar, de forma coerente e eficaz, propostas de intervenção em contexto organizacional.
+
+## Programa
+<p>1. Conceitos base</p>
+<ul>
+<li>Comportamento Organizacional</li>
+<li>A organização como sistema fechado vs aberto</li>
+<li>A organização como construção social</li>
+</ul>
+<p>2. Desafios globais e impacto nas organizações</p>
+<ul>
+<li>Desenvolvimento tecnológico e alterações demográficas</li>
+<li>Novas modalidades de trabalho</li>
+<li>(Re)construção de percursos profissionais e de vida</li>
+<li>Construção do propósito organizacional e individual</li>
+<li>Potencial da inclusão da diversidade</li>
+</ul>
+<p>3.  Posicionamento estratégico</p>
+<ul>
+<li>Contributo das pessoas e equipas na definição e implementação da estratégia</li>
+<li>Sustentabilidade da força de trabalho</li>
+<li>Saúde e bem-estar no trabalho</li>
+<li>Definição e monitorização de indicadores organizacionais</li>
+</ul>
+<p>4. Cultura Organizacional</p>
+<ul>
+<li>Propósito organizacional</li>
+<li>Valores</li>
+<li>Alteração das fronteiras organizacionais</li>
+</ul>
+<p>5. As pessoas nas organizações</p>
+<ul>
+<li>Percursos profissionais e pessoais</li>
+<li>Aprendizagem ao longo da vida</li>
+<li>Ética enquanto orientadora da ação</li>
+</ul>
+<p>6. Os grupos nas organizações</p>
+<ul>
+<li>Dinâmica de grupos</li>
+<li>Liderança</li>
+<li>Gestão do ciclo de vida das equipas</li>
+</ul>
+
+## Bibliografia obrigatória
+Buchanan, D. ; Organizational Behavior, 2013. ISBN: 0-273-68222-9<br>
+Goffee, R. & Jones, G.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009753230108801" title="). Why should anyone be lead by you? What it takes to be an authentic leader. (Abre numa nova janela)" target="_blank" >). Why should anyone be lead by you? What it takes to be an authentic leader.</a>, Harvard Business School Press, 2016<br>
+Isson, J. P. & Harriott, J. S. ; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009387340108801" title="People Analytics in the Era of Big Data: Changing the Way You Attract, Acquire, Develop, and Retain Talent.  (Abre numa nova janela)" target="_blank" >People Analytics in the Era of Big Data: Changing the Way You Attract, Acquire, Develop, and Retain Talent. </a>, John Wiley & Sons, Inc., Hoboken, New Jersey., 2016<br>
+
+## Bibliografia complementar
+Hougaard, R. & Carter, J. ; More Human. How the Power of AI Can Transform the Way You Lead, Harvard Business Review Press, 2025<br>
+Robbins, S. P., & Judge, T. A. ; Organizational behavior , Pearson, 2018<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Enquadramento concetual das temáticas centrais da Unidade Curricular, complementado com análise crítica e coletiva de dados e de casos de organizações de diferentes setores de atividade, dimensão, geografia e propósito. Partilha de práticas desenvolvidas por empresas e outras instituições, com recurso a apresentações por parte de profissionais capazes contextualizar os desafios e respostas da organização que representam. Recurso a leituras prévias, preparação de guiões com questões, e resolução de casos práticos.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 20.0 horas
+- Elaboração de relatório/dissertação/tese: 14.0 horas
+- Estudo autónomo: 39.0 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho escrito: 50.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+Resolução de casos de estudo ao longo do semestre  - 15%<br />Entrega intermédia relatório do trabalho - 15%<br />Apresentação oral do trabalho &#8211; 15%<br />Entrega do Trabalho individual escrito&#8211; 55%
+
+## Obtenção de frequência
+A definir em linha com as orientações da FEUP
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Organizational Behaviour and Change
+
+## Curso responsável
+Master in Industrial Engineering and Management
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<span style=&quot;font-weight: 400;&quot;>This course unit aims to develop in students the fundamental skills necessary for their professional activity in an organizational context, both from an individual and a group perspective (integration into workforces and leadership positions). It assumes that organizational methods that transform people and their respective contexts are supported by scientific knowledge, real-world work experience and cooperation between different stakeholders.</span>
+
+## Resultados de aprendizagem e competências
+<p><span style="font-weight: 400;">At the end of this course, students should be able to:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Identify and define basic concepts regarding organizational behaviour and change;</span><span style="font-weight: 400;"><br /><br /></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Recognize the main global and national trends that impact work contexts, people, and teams;</span><span style="font-weight: 400;"><br /><br /></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Understand the strategic role of people and teams in organizational management;</span><span style="font-weight: 400;"><br /><br /></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Recognize the role of organizational culture in managing people and teams;</span><span style="font-weight: 400;"><br /><br /></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Understand the importance of acting at both the individual level (your own development) and the group level (developing others: peers, partners or teams);</span><span style="font-weight: 400;"><br /><br /></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Identify sustainable people management methods, from recruitment to retirement transition;</span><span style="font-weight: 400;"><br /><br /></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Identify, collect and analyse indicators that highlight the impact of implemented methods at the organizational, group and individual levels;</span><span style="font-weight: 400;"><br /><br /></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Solve practical cases related to people and team management, taking into account theoretical knowledge and business ethics;</span><span style="font-weight: 400;"><br /><br /></span></li>
+</ul>
+<p><span style="font-weight: 400;">Build and present coherent and effective proposals for organizational interventions.</span><span style="font-weight: 400;"><br /></span></p>
+
+## Programa
+<ol><br /><li style=&quot;font-weight: 400;&quot;><br /><ol><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Basic concepts</span><span style=&quot;font-weight: 400;&quot;><br /><br /></span></li><br /><ul><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Organizational Behaviour</span><span style=&quot;font-weight: 400;&quot;><br /><br /></span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>The organization as a closed vs. an open system</span><span style=&quot;font-weight: 400;&quot;><br /><br /></span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>The organization as a social construction</span><span style=&quot;font-weight: 400;&quot;><br /><br /></span></li><br /></ul><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Global challenges and their impact on organizations</span><span style=&quot;font-weight: 400;&quot;><br /><br /></span></li><br /><ul><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Technological development and demographic changes</span><span style=&quot;font-weight: 400;&quot;><br /><br /></span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>New work options / arrangements</span><span style=&quot;font-weight: 400;&quot;><br /><br /></span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>(Re)design of professional and personal life paths</span><span style=&quot;font-weight: 400;&quot;><br /><br /></span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Building organizational and individual purpose</span><span style=&quot;font-weight: 400;&quot;><br /><br /></span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Potential for diversity and inclusion</span><span style=&quot;font-weight: 400;&quot;><br /><br /></span></li><br /></ul><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Strategic positioning</span><span style=&quot;font-weight: 400;&quot;><br /><br /></span></li><br /><ul><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>The contribution of people and teams to defining and implementing strategy</span><span style=&quot;font-weight: 400;&quot;><br /><br /></span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Workforce sustainability</span><span style=&quot;font-weight: 400;&quot;><br /><br /></span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Health and well-being at work</span><span style=&quot;font-weight: 400;&quot;><br /><br /></span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Definition and monitoring of organizational indicators</span><span style=&quot;font-weight: 400;&quot;><br /><br /></span></li><br /></ul><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Organizational culture</span><span style=&quot;font-weight: 400;&quot;><br /><br /></span></li><br /><ul><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Organizational purpose</span><span style=&quot;font-weight: 400;&quot;><br /><br /></span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Values</span><span style=&quot;font-weight: 400;&quot;><br /><br /></span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Changing organizational boundaries</span><span style=&quot;font-weight: 400;&quot;><br /><br /></span></li><br /></ul><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>People in organizations</span><span style=&quot;font-weight: 400;&quot;><br /><br /></span></li><br /><ul><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Professional and personal paths</span><span style=&quot;font-weight: 400;&quot;><br /><br /></span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Lifelong learning</span><span style=&quot;font-weight: 400;&quot;><br /><br /></span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Ethics as a guiding principle</span><span style=&quot;font-weight: 400;&quot;><br /><br /></span></li><br /></ul><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Groups in organizations</span><span style=&quot;font-weight: 400;&quot;><br /><br /></span></li><br /><ul><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Group dynamics</span><span style=&quot;font-weight: 400;&quot;><br /><br /></span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Leadership</span><span style=&quot;font-weight: 400;&quot;><br /><br /></span></li><br /><li style=&quot;font-weight: 400;&quot;>Team lifecycle management</li><br /></ul><br /></ol><br /></li><br /></ol>
+
+## Bibliografia obrigatória
+Buchanan, D. ; Organizational Behavior, 2013. ISBN: 0-273-68222-9<br>
+Goffee, R. & Jones, G.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009753230108801" title="). Why should anyone be lead by you? What it takes to be an authentic leader. (Opens in a new window)" target="_blank" >). Why should anyone be lead by you? What it takes to be an authentic leader.</a>, Harvard Business School Press, 2016<br>
+Isson, J. P. & Harriott, J. S. ; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009387340108801" title="People Analytics in the Era of Big Data: Changing the Way You Attract, Acquire, Develop, and Retain Talent.  (Opens in a new window)" target="_blank" >People Analytics in the Era of Big Data: Changing the Way You Attract, Acquire, Develop, and Retain Talent. </a>, John Wiley & Sons, Inc., Hoboken, New Jersey., 2016<br>
+
+## Bibliografia complementar
+Hougaard, R. & Carter, J. ; More Human. How the Power of AI Can Transform the Way You Lead, Harvard Business Review Press, 2025<br>
+Robbins, S. P., & Judge, T. A. ; Organizational behavior , Pearson, 2018<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="font-weight: 400;">The course will provide a conceptual framework for the main themes of the Curricular Unit, complemented by critical and collective analysis of data and case studies from organizations across different sectors, sizes, locations and purposes. Practices developed by companies and other institutions will be shared through presentations by professionals who can contextualize the challenges and responses of the organizations they represent. Learning will involve preparatory readings, development of question scripts and the resolution of practical cases.</span></p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 20.0 hours
+- Elaboração de relatório/dissertação/tese: 14.0 hours
+- Estudo autónomo: 39.0 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho escrito: 50.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+Case study resolutions during the semester &#8211; 15%<br />Intermediate submission of individual written work &#8211; 15%<br />Oral presentation of individual work &#8211; 15%<br />Final individual written work &#8211; 55%
+
+## Obtenção de frequência
+To be defined in line with FEUP guidelines
+

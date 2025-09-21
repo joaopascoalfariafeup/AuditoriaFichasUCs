@@ -1,0 +1,156 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Métodos de Investigação e Início de Preparação da Dissertação
+
+## Curso responsável
+Mestrado em Inovação e Empreendedorismo Tecnológico
+
+## Créditos ECTS
+12
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Capacitar os alunos a fazerem uso do conhecimento adquirido (no primeiro ano do Mestrado) na preparação de seu plano de dissertação/ Projeto /  Estágio.</p>
+<p>No fim do curso, o estudante deve ser capaz de:</p>
+<p>- Compreender alguns conceitos básicos de pesquisa e suas metodologias,</p>
+<p>- Identificar tópicos de pesquisa apropriados e um problema de pesquisa</p>
+<p>- Preparar uma proposta de dissertação.</p>
+
+## Resultados de aprendizagem e competências
+<p>No ensaio final, o aluno deverá:</p>
+<p>- Definir claramente a questão (s) de pesquisa a discutir / a lacuna da literatura que quer estudar na sua dissertação;</p>
+<p>- Executar plenamente uma revisão da literatura e sistematizar a literatura relevante no âmbito de uma determinada abordagem concetual;</p>
+<p>- Identificar justificadamente a metodologia adequada para analisar o problema na investigação (com base na literatura pertinente)</p>
+<p>- Planear o trabalho de pesquisa por meio de um cronograma.</p>
+
+## Pré-requisitos e co-requisitos
+N/A
+
+## Programa
+<p>1. Escrita científica &#8211; como escrever um artigo/ensaio científico.</p>
+<p>2. Bases de dados bibliográficas.<br /><br />3. "Design Science" como abordagem Metodologia de Investigação.</p>
+<p>4. Tutorias individuais.<br /><br /><br /><br /></p>
+
+## Bibliografia obrigatória
+Alexander M . Novikov and Dmitry A . Novikov; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008577020108801" title="Research Methodology - From Philosophy of Science to Research Design (Abre numa nova janela)" target="_blank" >Research Methodology - From Philosophy of Science to Research Design</a>, CRC Press 2013, 2013. ISBN: 978-0-203-76472-5 (Disponível na FEUP na crcnetbase: http://www.crcnetbase.com/doi/book/10.1201/b14562)<br>
+Saunders, Mark; Lewis, Philip and Thornhill, Adrian; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005727800108801" title="Research Methods for Business Students (Abre numa nova janela)" target="_blank" >Research Methods for Business Students</a>, Prentice-Hall, 2009<br>
+Vaishnavi, V. ; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009762510108801" title="Design Science Research in Information Systems. January 20, 2004  (Abre numa nova janela)" target="_blank" >Design Science Research in Information Systems. January 20, 2004 </a>, 2004<br>
+Ferreira, J. J. P., Mention, A. L., & Torkkeli, M; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009687010108801" title="Phrasing the giant: on the importance of rigour in literature search process. Journal of Innovation Management, 8(2), 1-10. (DOI: https://doi.org/10.24840/2183-0606_008.002_0001) (Abre numa nova janela)" target="_blank" >Phrasing the giant: on the importance of rigour in literature search process. Journal of Innovation Management, 8(2), 1-10. (DOI: https://doi.org/10.24840/2183-0606_008.002_0001)</a>, 2020<br>
+
+## Bibliografia complementar
+Tracy, Sarah J.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005802100108801" title="Qualitative Research Methods: Collecting Evidence, Crafting Analysis, Communicating Impact (Abre numa nova janela)" target="_blank" >Qualitative Research Methods: Collecting Evidence, Crafting Analysis, Communicating Impact</a>, Willey, 2013<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Sessões de exposição de conceitos e de orientação para as leituras recomendadas (&quot;Course Readings&quot;) disponiblizadas a todos os estudantes no OneNote ClassNotebook. Sessões tutoriais individuais para reflexão, discussão, e motivação para futuros trabalhos de dissertação.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 16.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho de investigação: 48.0 horas
+- Trabalho escrito: 56.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+GoIA = Grade of Intermediate Assignment<br />Assignment: an early version of the research proposal.<br /><br />GoRP = Grade of Research Proposal<br /><br />FG = Final Grade<br />If GoRP &lt;= 10 (/20) then FG = GoRP<br />If GoRP &gt; 10 (/20) then FG = GoIA x 10% + GoRP x 90%
+
+## Obtenção de frequência
+<p><em>Nota importante: </em></p>
+<ul>
+<li>A falha em submeter na data especificada do relatório de avaliação (ainda que justificada) implicará a atribuição de 0 valores a essa componente de avaliação.</li>
+<li>A fraude académica, incluindo plágio, em qualquer das componentes da avaliação, implica a reprovação imediata na disciplina e submissão do processo ao Diretor e Comissão Científica do Curso.</li>
+</ul>
+
+## Exames ou Trabalhos Especiais
+N/A
+
+## Melhoria de classificação
+N/A
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Research Methods and Beginning of the Preparation of the Dissertation
+
+## Curso responsável
+Master in Innovation and Technological Entrepreneurship
+
+## Créditos ECTS
+12
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>To allow students to make use of the knowledge learned (in the first year of the Master programme) in preparing their dissertation plan.</p>
+<p>At the end of the course, the student should be able to:</p>
+<p>- Understand some basic concepts of research and its methodologies,</p>
+<p>- Identify appropriate research topics and a research problem,</p>
+<p>- Prepare a dissertation proposal.</p>
+
+## Resultados de aprendizagem e competências
+<p>At the final essay, the student is expected to:</p>
+<p>- Clearly identify the research question(s) and discuss the gap/opening question he wants to study in its master dissertation;</p>
+<p>- Fully perform a literature review and systematize the relevant literature in a main framework;</p>
+<p>- Justifiably identify the methodology suitable to analyze the problem in research (based on the relevant literature)</p>
+<p>- Plan the research work through a chronogram.</p>
+
+## Pré-requisitos e co-requisitos
+N/A
+
+## Programa
+<p>1. How to write a scientific paper/research.</p>
+<p>2. Bibliographic databases.<br /><br />3. "Design Science" as Research Methodology.</p>
+<p>4. Individual tutorials.</p>
+
+## Bibliografia obrigatória
+Alexander M . Novikov and Dmitry A . Novikov; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008577020108801" title="Research Methodology - From Philosophy of Science to Research Design (Opens in a new window)" target="_blank" >Research Methodology - From Philosophy of Science to Research Design</a>, CRC Press 2013, 2013. ISBN: 978-0-203-76472-5 (Available at FEUP at crcnetbase: http://www.crcnetbase.com/doi/book/10.1201/b14562)<br>
+Saunders, Mark; Lewis, Philip and Thornhill, Adrian; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005727800108801" title="Research Methods for Business Students (Opens in a new window)" target="_blank" >Research Methods for Business Students</a>, Prentice-Hall, 2009<br>
+Vaishnavi, V. ; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009762510108801" title="Design Science Research in Information Systems. January 20, 2004  (Opens in a new window)" target="_blank" >Design Science Research in Information Systems. January 20, 2004 </a>, 2004 (This is paper is very interesting to understand the concept of "DESIGN SCIENCE RESEARCH" and its applicability in multiple areas.)<br>
+Ferreira, J. J. P., Mention, A. L., & Torkkeli, M; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009687010108801" title="Phrasing the giant: on the importance of rigour in literature search process. Journal of Innovation Management, 8(2), 1-10. (DOI: https://doi.org/10.24840/2183-0606_008.002_0001) (Opens in a new window)" target="_blank" >Phrasing the giant: on the importance of rigour in literature search process. Journal of Innovation Management, 8(2), 1-10. (DOI: https://doi.org/10.24840/2183-0606_008.002_0001)</a>, 2020<br>
+
+## Bibliografia complementar
+Tracy, Sarah J.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005802100108801" title="Qualitative Research Methods: Collecting Evidence, Crafting Analysis, Communicating Impact (Opens in a new window)" target="_blank" >Qualitative Research Methods: Collecting Evidence, Crafting Analysis, Communicating Impact</a>, Willey, 2013<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Sessions for the introduction of Concept and orientation to the recommended readings (&quot;Course Readings&quot;) made available to all students in the OneNote ClassNotebook. Individual tutorial sessions for reflection, discussion, and motivation for future dissertation work.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 16.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho de investigação: 48.0 hours
+- Trabalho escrito: 56.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+GoIA = Grade of Intermediate Assignment<br />Assignment: an early version of the research proposal.<br /><br />GoRP = Grade of Research Proposal<br /><br />FG = Final Grade<br />If GoRP &lt;= 10 (/20) then FG = GoRP<br />If GoRP &gt; 10 (/20) then FG = GoIA x 10% + GoRP x 90%
+
+## Obtenção de frequência
+<p><em>Important notes:</em></p>
+<ul>
+<li>Failure to submit by the date specified the assessment report (albeit justified) will involve assigning zero value to that evaluation component.</li>
+<li>Academic fraud, including plagiarism in any component of evaluation, will automatically imply failure in the course without recourse and subsequent process to the Director and Scientific Commission.</li>
+</ul>
+
+## Exames ou Trabalhos Especiais
+N/A
+
+## Melhoria de classificação
+N/A
+

@@ -1,0 +1,165 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Termodinâmica II
+
+## Curso responsável
+Licenciatura em Engenharia Química
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<div style=&quot;text-align: justify;&quot;>A unidade curricular de Termodinâmica II contribui para um conhecimento sólido das metodologias de cálculo de propriedades físicas e termodinâmicas, e equilíbrios de fase - com e sem reação química - para misturas com interesse industrial. O objetivo é que os alunos dominem o uso de modelos para a determinação de propriedades termofísicas de componentes puros e misturas, fundamentais em projeto de engenharia, bem como, metodologias de cálculo em processos de separação e reação.<br /> </div>
+
+## Resultados de aprendizagem e competências
+<div style=&quot;text-align: justify;&quot;><br /><div>Ao concluir com sucesso a UC, os estudantes deverão ser capazes de:<br /><br />   1. Calcular e prever propriedades termodinâmicas de compostos puros e misturas.<br />   2. Determinar equilíbrios de fase e equilíbrio químico.</div><br /></div>
+
+## Pré-requisitos e co-requisitos
+<p style="text-align: justify;">Química I e II, Análise Matemática I, II e III, Álgebra, Elementos de Engenharia Química e Termodinâmica I.</p>
+
+## Programa
+<p style="text-align: justify;"><strong>1. Termodinâmica de Soluções:</strong> conceitos e relações fundamentais; propriedades molares parciais; equação de Gibbs-Duhem; propriedades de excesso; potencial químico; gás perfeito e teorema de Gibbs; líquido ideal.<br /><strong>2. Equilíbrio de Fases:</strong> potencial químico e equilíbrio de fases; fugacidade e coeficiente de fugacidade - cálculos a partir da equação de virial e de correlações generalizadas; leis de Raoult e de Henry; regra de Lewis-Randall; modelos para a energia de Gibbs de excesso e coeficientes de atividade.<br /><strong>3. Aplicações de Equilíbrio de Fases:</strong> equilíbrios líquido-vapor, líquido-líquido e sólido-líquido; cálculo de temperaturas e de pressões de ebulição e de orvalho; composições de equilíbrio em sistemas não ideais; câmaras de vaporização.<br /><strong>4. Equilíbrio com Reação Química:</strong> constantes de equilíbrio e conversões de equilíbrio em reações em sistemas homogéneos e heterogéneos.<br /><strong>5. Previsão de Propriedades:</strong> metodologias para o cálculo de propriedades físico-químicas.</p>
+
+## Bibliografia obrigatória
+Smith , Joseph Mauck; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009665680108801" title="Introduction to chemical engineering thermodynamics (Abre numa nova janela)" target="_blank" >Introduction to chemical engineering thermodynamics</a>. ISBN: 978-1-260-59768-4 (9ª Edição)<br>
+
+## Bibliografia complementar
+Dahm, K.D., Visco Jr., D.P.; Fundamentals of Chemical Engineering Thermodynamics, CENGAGE Learning, 2015. ISBN: 978-1-111-58070-4<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p style="text-align: justify;">Esta UC é composta por aulas teóricas (T) e teórico-práticas (TP). Nas aulas teóricas são apresentados os conceitos fundamentais, sempre que possível, ilustrados com casos de estudo específicos. As aulas TP são dedicadas à resolução de problemas práticos, promovendo a participação ativa dos estudantes. Ao longo do semestre, são realizados exercícios de avaliação contínua em grupo, com o objetivo de consolidar os conhecimentos, incentivar a aprendizagem colaborativa e desenvolver a autonomia dos estudantes.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 99.0 horas
+- Frequência das aulas: 63.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A <strong>avaliação contínua</strong> é composta por 5 Exercícios Práticos (EP) + Exame (EX).</p>
+<p>Exercícios Práticos (EP)</p>
+<ul>
+<li>Avaliação parcial do conteúdo lecionado;</li>
+<li>Realizados em grupos de 2 alunos;</li>
+<li>Duração máxima: 45 min cada;</li>
+<li>Cotação: 6 % cada.</li>
+</ul>
+<p>Exame (EX)</p>
+<ul>
+<li>Avaliação global com todo o conteúdo lecionado;</li>
+<li>Duração máxima: 120 min;</li>
+<li>Cotação: 70 %.</li>
+</ul>
+<p>Notas:</p>
+<p>- Faltas aos Exercícios Práticos:</p>
+<ul>
+<li>Relevadas de acordo com as normas da FEUP ou no caso de trabalhadores estudantes &#8211; a % do respetivo Exercício Prático transita para o Exame.</li>
+<li>Não justificadas &#8211; 0 valores</li>
+</ul>
+<p>- A <strong>r</strong>ealização do Exame é obrigatória para obter aprovação na avaliação contínua.</p>
+<p>- Para obter aprovação é necessário obter classificação superior a 6,5 valores no Exame, e classificação superior a 9,5 na unidade curricular (CF).</p>
+<p> </p>
+<p><strong>Classificação final (CF)</strong> = 0,06*EP1+0,06*EP2+0,06*EP3+0,06*EP4+0,06*EP5 + 0,70 EX<br /><br /><br /></p>
+<p><strong>Época recurso</strong> (aprovação ou melhoria):<br /><br /><strong>CF</strong> = Exame de recurso</p>
+
+## Obtenção de frequência
+<p style="text-align: justify;">Realização do exame.</p>
+
+## Exames ou Trabalhos Especiais
+<p>Não aplicável.</p>
+
+## Melhoria de classificação
+<p>Exame de recurso.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Thermodynamics II
+
+## Curso responsável
+Bachelor in Chemical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<div style=&quot;text-align: justify;&quot;><br /><p>Thermodynamics II contributes to a solid understanding of methodologies for calculating physical and thermodynamic properties, as well as phase equilibria - with and without chemical reactions - for mixtures of industrial interest. The objective is for students to master the use of models to determine thermophysical properties of pure components and mixtures, which are fundamental in process design, as well as calculation methodologies for separation and reaction processes.</p><br /><p> </p><br /></div>
+
+## Resultados de aprendizagem e competências
+<div style=&quot;text-align: justify;&quot;>At the end of this course, students should be able to:<br /><br />   1. Calculate and predict thermodynamic properties of pure compounds and mixtures.<br />   2. Determine phase equilibria and chemical equilibrium.</div>
+
+## Pré-requisitos e co-requisitos
+<p style="text-align: justify;">Chemistry I and II, Calculus I, II and III, Algebra, Elements of Chemical Engineering and Thermodynamics I.</p>
+
+## Programa
+<p style="text-align: justify;"><strong>1. Solution Thermodynamics:</strong> fundamental concepts and relations; molar partial properties; Gibbs-Duhem equation; excess properties; chemical potential; ideal gas and Gibbs&#8217; theorem; ideal liquid.<br /><strong>2. Phase Equilibrium:</strong> chemical potential and phase equilibrium; fugacity and fugacity coefficient &#8211; calculations based on the virial equation and generalized correlations; Raoult&#8217;s and Henry&#8217;s laws; Lewis-Randall rule; models for excess Gibbs energy and activity coefficients.<br /><strong>3. Application of Phase Equilibrium:</strong> vapor-liquid, liquid-liquid, and solid-liquid equilibria; calculation of bubble and dew points (temperatures and pressures); equilibrium compositions in non-ideal systems; flash units.<br /><strong>4. Equilibrium with Chemical Reaction:</strong> equilibrium constants and equilibrium conversions in homogeneous and heterogeneous systems.<br /><strong>5. Prediction of Properties:</strong> methodologies for the calculation of physicochemical properties.</p>
+
+## Bibliografia obrigatória
+Smith , Joseph Mauck; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009665680108801" title="Introduction to chemical engineering thermodynamics (Opens in a new window)" target="_blank" >Introduction to chemical engineering thermodynamics</a>. ISBN: 978-1-260-59768-4 (9th Edition)<br>
+
+## Bibliografia complementar
+Dahm, K.D., Visco Jr., D.P.; Fundamentals of Chemical Engineering Thermodynamics, CENGAGE Learning, 2015. ISBN: 978-1-111-58070-4<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p style="text-align: justify;">This course includes theoretical (T) and theoretical-practical (TP) classes. In the T classes, fundamental concepts are presented and, whenever possible, illustrated with specific case studies. The TP classes are dedicated to solving practical problems, promoting active student participation. Throughout the semester, group-based continuous assessment exercises are carried out to consolidate knowledge, encourage collaborative learning, and develop student autonomy.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 99.0 hours
+- Frequência das aulas: 63.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><strong>Continuous assessment</strong> consists of 5 Practical Exercises (EP) + Final Exam (EX).</p>
+<p>Practical Exercises (EP)</p>
+<ul>
+<li>Partial assessment of the content covered;</li>
+<li>Carried out in groups of 2 students;</li>
+<li>Maximum duration: 45 min each;</li>
+<li>Weight: 6% each.</li>
+</ul>
+<p>Final Exam</p>
+<ul>
+<li>Global assessment covering all content;</li>
+<li>Maximum duration: 120 min;</li>
+<li>Weight: 70%.</li>
+</ul>
+<p>Notes:</p>
+<p>- Absences from Practical Exercises:</p>
+<ul>
+<li>Justifiedn in accordance with the FEUP regulations or in the case of student workers &#8211; the corresponding EP percentage is transferred to the Final Exam.</li>
+<li>Unjustified &#8211; score of 0.</li>
+</ul>
+<p>- Final Exam is mandatory to pass the continuous assessment.</p>
+<p>- To pass, students must obtain a grade higher than 6.5 in the Final Exam and a final grade (CF) higher than 9.5 in the course.</p>
+<p> </p>
+<p><strong>Final Grade (CF)</strong> = 0.06*EP1+0.06*EP2+0.06*EP3+0.06*EP4+0.06*EP5 + 0.70 EX<br /><br /><br /><br /><strong>Recurso </strong>(for approval or grade improvement):<br /><br /><strong>CF</strong> = Exam</p>
+
+## Obtenção de frequência
+<p style="text-align: justify;">Performing the exam.</p>
+
+## Exames ou Trabalhos Especiais
+<p>Not applicable.</p>
+
+## Melhoria de classificação
+<p>Appeal exam.</p>
+

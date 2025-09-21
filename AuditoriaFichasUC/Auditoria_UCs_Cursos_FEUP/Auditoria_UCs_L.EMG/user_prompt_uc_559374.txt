@@ -1,0 +1,122 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Introdução à Engenharia de Minas e Geo-Ambiente
+
+## Curso responsável
+Licenciatura em Engenharia de Minas e Geo-Ambiente
+
+## Créditos ECTS
+1,5
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<div style=&quot;text-align: justify;&quot;>Integrar os estudantes no âmbito da Engenharia de Minas e Geo-Ambiente. Motivar para a compreensão do que é a Engenharia de Minas e Geo-Ambiente e do seu papel fundamental na sociedade<br />Sensibilizar para as diferentes áreas científicas lecionadas durante o Ciclo de Estudos<br /> Conhecer um pouco da história da Engenharia de Minas na FEUP e na UP<br /> Contactar, através da realização de Visitas de Estudo, com diversas atividades e ambientes ligados com a Engenharia de Minas e Geo-Ambiente<br />Possibilitar a concetualização, pela prática, de princípios básicos da comunicação científica escrita e oral em Engenharia<br />Incentivar o trabalho de equipa<br />Promover uma reflexão sobre ética de conduta académica, em particular no que diz respeito às questões de plágio e meios de o não praticar, como seja o da referenciação bibliográfica<br />Realizar debates com Estudantes de anos mais avançados e com Engenheiros já em atividade profissional</div>
+
+## Resultados de aprendizagem e competências
+<div style=&quot;text-align: justify;&quot;><br /><p> </p><br /><ul><br /><li style=&quot;text-align: justify;&quot;>Compreender a importância da Engenharia de Minas e Geo-Ambiente na sociedade</li><br /><li style=&quot;text-align: justify;&quot;>Distinguir as diferentes áreas científicas da Engenharia de Minas e Geo-Ambiente</li><br /><li style=&quot;text-align: justify;&quot;>Criar um trabalho/projeto enquadrado nas áreas da Engenharia de Minas e Geo-Ambiente</li><br /><li style=&quot;text-align: justify;&quot;>Demonstrar capacidades de pesquisa, organização e síntese de informação</li><br /><li style=&quot;text-align: justify;&quot;>Demonstrar capacidades de comunicação</li><br /><li style=&quot;text-align: justify;&quot;>Demonstrar capacidades de trabalho em equipa</li><br /><li style=&quot;text-align: justify;&quot;>Discutir cientificamente um tema/resolver um projeto de dificuldade limitada nas áreas da Engenharia de Minas e Geo-Ambiente</li><br /></ul><br /></div>
+
+## Pré-requisitos e co-requisitos
+Conhecimentos básicos de trabalho em equipa e aplicações informáticas (ótica utilizador)
+
+## Programa
+Em cada ano letivo, o programa desta UC será constituído por alguns módulos temáticos da lista (não finda) que agora se apresenta:<br /> <br />&#8226; A história da mineração ao longo dos tempos; <br />&#8226; Áreas da Engenharia de Minas e seu contributo para o desenvolvimento da sociedade; <br />&#8226; História da FEUP e do Curso; <br />&#8226; Contacto com infraestruturas/ atividades relacionadas com a Engenharia de Minas e do Geo-Ambiente: LNEG (Museu e Laboratórios); FCUP (Museus); Museu Mineiro de S. Pedro da Cova; Parque Paleozoico de Valongo; Minas, Pedreiras, Obras, Fábricas, etc; Outras &#8230;; <br />&#8226; Participação em palestras temáticas com convidados; <br />&#8226; Trabalhos temáticos de laboratório / campo de áreas do ciclo de estudos; <br />&#8226; Ética de Conduta Académica: Código de Ética; O Plágio; Referenciação Bibliográfica; <br />&#8226; Outros módulos a definir.
+
+## Bibliografia obrigatória
+Coulson M.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002991400108801" title="The History of Mining: The events, technology and people involved in the industry that forged the modern world (Abre numa nova janela)" target="_blank" >The History of Mining: The events, technology and people involved in the industry that forged the modern world</a>, 2012. ISBN: 0: 9781897597903/ISBN13:9780857192660<br>
+Madureira C.N.M.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009380440108801" title="A Trama Geológica da História do Homem (Abre numa nova janela)" target="_blank" >A Trama Geológica da História do Homem</a>, Associação Portuguesa de Geólogos &#8211; Geonovas ( nº 16), 2002<br>
+Pestana, M., Amaral, L. C. ; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008647600108801" title="Código Ético de Conduta Académica (Abre numa nova janela)" target="_blank" >Código Ético de Conduta Académica</a>, Edição UP, 2018<br>
+Rivasplata V. ; Field Geologist Manual, Science, 2015. ISBN: ISBN: 9781921522475<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<div style=&quot;text-align: justify;&quot;>As aulas decorrerão em espaços diversos (sala de aula, laboratório, campo, visitas de estudo, etc.), em função do Programa definido para cada ano letivo.</div><br /><div style=&quot;text-align: justify;&quot;> </div>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 7.0 horas
+- Frequência das aulas: 13.5 horas
+- Elaboração de projeto: 12.0 horas
+- Trabalho de campo: 8.0 horas
+- Total:: 40.5 horas
+
+## Fórmula de cálculo da classificação final
+<div style=&quot;text-align: justify;&quot;>A avaliação será do tipo Distribuída sem Exame Final e constituída por 2 elementos:</div><br /><div style=&quot;text-align: justify;&quot;>AF = 60% DB + 40% SF<br /><br />Sendo:</div><br /><div style=&quot;text-align: justify;&quot;>DB &#8211; Diário de bordo, que inclui entrega de trabalhos parcelares e apresentação de, pelo menos, um dos trabalhos</div><br /><div style=&quot;text-align: justify;&quot;>SF - Síntese final </div>
+
+## Obtenção de frequência
+<div style=&quot;text-align: justify;&quot;>Para obtenção de frequência nesta UC, cada estudante terá que participar em 75% das aulas que se realizarem, sendo que em aulas com trabalhos práticos atempadamente definidas, a presença é obrigatória.</div>
+
+## Exames ou Trabalhos Especiais
+Não aplicável
+
+## Melhoria de classificação
+Não aplicável
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Introduction to Mining Engineering and Geo-Environment
+
+## Curso responsável
+Bachelor in Mining and Geo-Environmental Engineering
+
+## Créditos ECTS
+1,5
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<div style=&quot;text-align: justify;&quot;>Integrate students within the scope of Mining and Geo-Environment Engineering<br />Motivate to understanding what the Mining Engineering and Geo-Environment is and its fundamental role in society<br />Raise awareness of the different scientific areas taught throughout the course<br />Know a little about the Mining Engineering at FEUP and UP<br />Contact, by conducting Study Visits, with various activities and environments related to Mining Engineering and Geo-Environment<br />Enable the conceptualization, by practice, of basic principles of written and oral scientific communication in Engineering<br />Encourage teamwork<br />Promote a reflection on ethics of academic conduct, in particular with regard to plagiarism issues and ways of not practicing it, such as bibliographic referencing<br />Hold discussions with students of more advanced years and engineers already in professional activity</div>
+
+## Resultados de aprendizagem e competências
+<ul><br /><li style=&quot;text-align: justify;&quot;>Understand the importance of Mining and Geo-Environment Engineering in society</li><br /><li style=&quot;text-align: justify;&quot;>Distinguish the different scientific areas of Mining and Geo-Environment Engineering</li><br /><li style=&quot;text-align: justify;&quot;>Create a work / project framed in the areas of Mining and Geo-Environment Engineering</li><br /><li style=&quot;text-align: justify;&quot;>Demonstrate research, organization and synthesis skills of information</li><br /><li style=&quot;text-align: justify;&quot;>Demonstrate communication skills (report, oral presentation and poster)</li><br /><li style=&quot;text-align: justify;&quot;>Demonstrate teamwork skills</li><br /><li style=&quot;text-align: justify;&quot;>Discuss a topic scientifically/solve a project of limited difficulty in the areas of Mining Engineering and Geo-Environment</li><br /></ul>
+
+## Pré-requisitos e co-requisitos
+Basic skills in team-work and computer applications (as a user)
+
+## Programa
+<div style=&quot;text-align: justify;&quot;>In each academic year, the program this UC will consist of some thematic modules of the list (not exclusive) that now presents:</div><br /><div style=&quot;text-align: justify;&quot;>&#8226; The history of mining throughout the ages</div><br /><div style=&quot;text-align: justify;&quot;>&#8226; Mining Engineering Areas and their contribution to the development of society</div><br /><div style=&quot;text-align: justify;&quot;>&#8226; History of FEUP and Course</div><br /><div style=&quot;text-align: justify;&quot;>&#8226; Contact with infrastructure/activities related to Mining and Geo-Environmental Engineering: LNEG (Museum and Laboratories); FCUP (Museums); S. Pedro da Cova Mining Museum; Paleozoic Park in Valongo; Mines, Quarries, Works, Factories, among others</div><br /><div style=&quot;text-align: justify;&quot;>&#8226; Participation in thematic lectures with invited lecturers</div><br /><div style=&quot;text-align: justify;&quot;>&#8226; Thematic lab/field work of study cycle areas</div><br /><div style=&quot;text-align: justify;&quot;>&#8226; Ethics of Academic Conduct: Code of Ethics; The plagiarism; Bibliographic Referencing;</div><br /><div style=&quot;text-align: justify;&quot;>&#8226; Other modules to be defined</div>
+
+## Bibliografia obrigatória
+Coulson M.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002991400108801" title="The History of Mining: The events, technology and people involved in the industry that forged the modern world (Opens in a new window)" target="_blank" >The History of Mining: The events, technology and people involved in the industry that forged the modern world</a>, 2012. ISBN: 0: 9781897597903/ISBN13:9780857192660<br>
+Madureira C.N.M.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009380440108801" title="A Trama Geológica da História do Homem (Opens in a new window)" target="_blank" >A Trama Geológica da História do Homem</a>, Associação Portuguesa de Geólogos &#8211; Geonovas ( nº 16), 2002<br>
+Pestana, M., Amaral, L. C. ; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008647600108801" title="Código Ético de Conduta Académica (Opens in a new window)" target="_blank" >Código Ético de Conduta Académica</a>, Edição UP, 2018<br>
+Rivasplata V. ; Field Geologist Manual, Science, 2015. ISBN: ISBN: 9781921522475<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<div style=&quot;text-align: justify;&quot;>Classes will take place in different spaces (classroom, laboratory, field, field trips, etc.), depending on the Program defined for each School Year.</div><br /><div style=&quot;text-align: justify;&quot;> </div>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 7.0 hours
+- Frequência das aulas: 13.5 hours
+- Elaboração de projeto: 12.0 hours
+- Trabalho de campo: 8.0 hours
+- Total:: 40.5 hours
+
+## Fórmula de cálculo da classificação final
+The assessment will be distributed without a final exam and will consist of two elements: FA = 60% LB + 40% FS<br /><br />Where: <br />LB &#8211; Logbook, which includes the submission of partial assignments and the presentation of at least one of the assignments <br />FS &#8211; Final summary
+
+## Obtenção de frequência
+<div style=&quot;text-align: justify;&quot;>To obtain a pass mark in this curricular unit, each student must attend 75% of the classes held. Attendance is compulsory for classes with practical work that has been defined in advance.</div>
+
+## Exames ou Trabalhos Especiais
+<p>Não aplicável</p>
+
+## Melhoria de classificação
+Não aplicável
+

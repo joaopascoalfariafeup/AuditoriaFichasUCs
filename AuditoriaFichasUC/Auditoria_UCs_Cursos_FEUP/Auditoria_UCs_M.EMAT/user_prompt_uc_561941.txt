@@ -1,0 +1,110 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Biomateriais Avançados e Engenharia de Tecidos
+
+## Curso responsável
+Mestrado em Engenharia de Materiais
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Esta UC prepara os estudantes para adquirirem conhecimentos avançados em Biomateriais, focando o fabrico por tecnologias avançadas, estrutura, superfície e propriedades, com ênfase na interação com o ambiente biológico. Visa capacitá-los para desenvolver e caraterizar biomateriais em diferentes contextos, especialmente quando integrados em dispositivos médicos. Pretende-se ainda desenvolver a análise crítica, a resolução de problemas técnicos e científicos, a avaliação seletiva da informação científica e a capacidade para conceber projetos de investigação, desenvolvimento e inovação na área. As aulas teórico-práticas transmitem os fundamentos científicos e tecnológicos essenciais, permitindo aplicar os conhecimentos a casos práticos e desenvolver competências técnicas. Os seminários reforçam o pensamento crítico, o contacto com o estado da arte e as competências de comunicação científica, assegurando uma formação sólida e atualizada.</p>
+
+## Resultados de aprendizagem e competências
+<p>Tendo como base que os estudantes que frequentam esta UC poderão chegar com formações de base bastante heterogéneas, a primeira parte da UC deverá coloca-los a um nível de conhecimento básico que lhes permita acompanhar e intervir na UC de forma adequada à capacitação necessária para uma unidade de estudos avançados. Os estudantes desenvolverão capacidades nesta UC que permitirão compreender e intervir na  seleção e/ou desenvolvimento de novos materiais para aplicação na área dos dispositivos médicos. Por outro lado, os alunos serão expostos a tecnologias avançadas de planificação, design e construção de materiais. <br /><br />Os estudantes deverão no final da UC estar capacitados para analisar criticamente documentação científica e empreender trabalho de investigação e desenvolvimento em Biomateriais.</p>
+
+## Programa
+<p>Biomodelação 3D. Técnicas de aquisição de imagem médica. Processamento de estruturas tridimensionais por fabrico aditivo. 3D Bioprinting. Biomateriais personalizados em metais, polímeros, compósitos e metais. Aplicações em cirurgia reconstrutiva maxilofacial e ortopédica.<br /><br />Bioreatores.<br /><br />Colas Biológicas.<br /><br />Estruturas Texteis - métodos de produção e caracterização de estruturas fibrosas.<br /><br /><br /><br /></p>
+
+## Bibliografia obrigatória
+Buddy D. Ratner; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004793060108801" title="Biomaterials science (Abre numa nova janela)" target="_blank" >Biomaterials science</a>. ISBN: 0-12-582463-7<br>
+Fernando Jorge Alves; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004570870108801" title="Protoclick- Protototipagem Rápida (Abre numa nova janela)" target="_blank" >Protoclick- Protototipagem Rápida</a><br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A UC adota uma abordagem pedagógica ativa, interdisciplinar e centrada no estudante. O principal objetivo é garantir uma aprendizagem significativa e progressiva, que articule o domínio científico dos conteúdos com o desenvolvimento de competências técnicas, analíticas, éticas e profissionais necessárias para a investigação, inovação e aplicação clínica na área dos biomateriais.</p>
+<p>A metodologia assenta numa combinação equilibrada de aulas teórico-práticas e seminários temáticos com convidados externos. Esta diversidade metodológica assegura o alinhamento com os objetivos de aprendizagem definidos e com os conteúdos programáticos dos quatro módulos da unidade curricular.</p>
+<p>Aulas Teóricas-Práticas têm como finalidade a apresentação e discussão dos conceitos fundamentais.  A componente teórica contextualiza os conteúdos à luz dos avanços mais recentes, promovendo a compreensão dos fundamentos científico-tecnológicos e a sua relevância clínica e industrial. Incluem a análise crítica de casos de estudo, resolução de problemas aplicados e discussão de artigos científicos. Os estudantes desenvolvem competências na seleção de materiais, interpretação de dados experimentais, e na tomada de decisão fundamentada em contextos biomédicos reais.</p>
+<p>Serão realizados seminários temáticos com a participação de especialistas da área académica, clínica e industrial, que apresentarão perspetivas atuais sobre a investigação e o desenvolvimento de biomateriais avançados. Estes momentos proporcionarão aos estudantes contacto direto com profissionais e investigadores, promovendo a reflexão crítica, a atualização científica e o alargamento da rede de conhecimento e colaboração.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 43.0 horas
+- Estudo autónomo: 80.0 horas
+- Frequência das aulas: 39.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+Classificação final: 70% para o exame teórico e 30% para o trabalho de pesquisa bibliográfica.
+
+## Obtenção de frequência
+<p>Os estudantes têm de obter a nota mínima de 10 valores no exame teórico da UC e no trabalho de pesquisa bibliográfica.</p>
+
+## Melhoria de classificação
+A melhoria de classificação será obtida através de um exame teórico, contabilizando a componente obtida no trabalho de pesquisa bibliográfica.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Advanced Biomaterials and Tissue Engineering
+
+## Curso responsável
+Master in Materials Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+This course prepares students to acquire advanced knowledge in Biomaterials, focusing on manufacturing by advanced technologies, structure, surface and properties, with an emphasis on interaction with the biological environment. It aims to enable them to develop and characterize biomaterials in different contexts, especially when integrated into medical devices. It is also intended to develop critical analysis, the resolution of technical and scientific problems, the selective evaluation of scientific information and the ability to design research, development and innovation projects in the area. Theoretical-practical classes convey essential scientific and technological foundations, allowing knowledge to be applied to practical cases and developing technical skills. The seminars reinforce critical thinking, contact with the state of the art and scientific communication skills, ensuring solid and up-to-date training.
+
+## Resultados de aprendizagem e competências
+Based on the students that shall be involved in this subject, that may derive from very different and heterogeneous backgrounds, the first part of this subject shall allow them to rise to a common ground of knowledge allowing them to follow and have participation adjusted to the required capability to expect in an advanced topic. The students shall develop capabilities allowing them to understand and intervene in the selection and/or development of new materials for application in the field of medical devices. On the other side, students are exposed to advanced technologies to design, plan,  and development of materials. This knowledge will allow students to understand, and conceive the relationships between material surfaces and the cellular environment and extracellular matrices.<br /> <br />By the end of the Subject, the students are prepared to critically analyze scientific documentation and undertake research and development work in Biomaterials.
+
+## Programa
+<p>3D Biomodeling. Medical image acquisition techniques. Processing of three-dimensional structures by additive manufacturing. 3D Bioprinting. Customized biomaterials in metals, polymers, composites and metals. Applications in maxillofacial and orthopedic reconstructive surgery.<br /><br />Bioreactors.<br /><br />Biological Glues.<br /><br />Textile Structures - production methods and characterization of fibrous structures.<br /><br /><br /></p>
+
+## Bibliografia obrigatória
+Buddy D. Ratner; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004793060108801" title="Biomaterials science (Opens in a new window)" target="_blank" >Biomaterials science</a>. ISBN: 0-12-582463-7<br>
+Fernando Jorge Alves; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004570870108801" title="Protoclick- Protototipagem Rápida (Opens in a new window)" target="_blank" >Protoclick- Protototipagem Rápida</a><br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The UC adopts an active, interdisciplinary and student-centered pedagogical approach. The main objective is to ensure significant and progressive learning, which articulates the scientific mastery of the content with the development of technical, analytical, ethical and professional skills necessary for research, innovation and clinical application in the area of &#8203;&#8203;biomaterials.</p>
+<p>The methodology is based on a balanced combination of theoretical-practical classes and thematic seminars with external guests. This methodological diversity ensures alignment with the defined learning objectives and the program contents of the four modules of the curricular unit.</p>
+<p>Theoretical-Practical classes aim to present and discuss the fundamental concepts. The theoretical component contextualizes the content in light of the most recent advances, promoting understanding of scientific-technological foundations and their clinical and industrial relevance. They include critical analysis of case studies, applied problem solving and discussion of scientific articles. Students develop skills in materials selection, interpretation of experimental data, and informed decision-making in real biomedical contexts.</p>
+<p>Thematic seminars will be held with the participation of experts from the academic, clinical and industrial fields, who will present current perspectives on research and development of advanced biomaterials. These moments will provide students with direct contact with professionals and researchers, promoting critical reflection, scientific updating and the expansion of the knowledge and collaboration network.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 43.0 hours
+- Estudo autónomo: 80.0 hours
+- Frequência das aulas: 39.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+Final classification: 70% for the theoretical exam and 30% for the bibliographic research work.
+
+## Obtenção de frequência
+Students must obtain a minimum score of 10 in the theoretical exam of the UC and in the bibliographic research work.
+
+## Melhoria de classificação
+The improvement of classification will be obtained through a theoretical exam, taking into account the component already obtained in the bibliographic research work.
+

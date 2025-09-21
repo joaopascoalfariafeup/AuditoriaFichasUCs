@@ -1,0 +1,150 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Análise Numérica
+
+## Curso responsável
+Licenciatura em Engenharia Civil
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>OBJETIVOS: <br /><br />Compreender as limitações dos algoritmos numéricos. Determinar estimativas de erros. Compreender a propagação de erros. Resolver equações não lineares. Aproximar dados por interpolação e por mínimos quadrados. Aproximar, derivar e integrar funções por métodos numéricos. Desenvolver a capacidade de determinar e analisar resultados obtidos por instrumentos de cálculo científico com técnicas aproximadas. Adquirir conhecimentos teóricos e práticos de técnicas numéricas na resolução de problemas de engenharia a saber: aplicar técnicas numéricas para modelação de problemas físicos; resolver problemas de engenharia usando métodos numéricos; implementar algoritmos numéricos; comparar diferentes métodos na resolução de problemas numéricos; escolher e decidir qual o método de resolução numérica a aplicar e qual o mais eficiente; avaliar e discutir os resultados numéricos obtidos; usar ferramentas informáticas de computação numérica, MATLAB  ou Python, para determinar soluções numéricas</p>
+
+## Resultados de aprendizagem e competências
+<p>COMPETÊNCIAS E RESULTADOS DA APRENDIZAGEM:</p>
+<p><em>Conhecimento:</em> Conhecer e descrever os conceitos fundamentais e os métodos numéricos para resolução de problemas de engenharia. Identificar os principais conceitos associados à resolução numérica e determinação de soluções aproximadas.</p>
+<p><em>Compreensão:</em> Identificar e interpretar as diferentes técnicas a usar na resolução numérica de problemas.</p>
+<p><em>Aplicação:</em> Desenvolver competências para a resolução numérica de problemas. Saber aplicar os conhecimentos e a capacidade de compreensão e de resolução de problemas em situações novas e não familiares, em contextos alargados e multidisciplinares.</p>
+<p><em>Análise:</em> Analisar, discutir e fazer a interpretação crítica dos resultados, evidenciando as potencialidades dos métodos e as suas limitações.</p>
+<p><em>Síntese</em>: Formular e validar as soluções numéricas para a resolução de equações não lineares, sistemas lineares e não lineares, aproximação de funções e integração.</p>
+<p><em>Avaliação</em>: Criticar soluções e metodologias utilizadas. Ser capaz de comunicar as suas conclusões e os seus conhecimentos e raciocínios a elas subjacentes, de uma forma clara sem ambiguidades.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Análise Matemática 1 e 2 , Álgebra, Computação.</p>
+
+## Programa
+<p>1. Análise Numérica e Computação Científica<br />  1.1 Objetivo da análise numérica.<br />  1.2 Teoria de erros: conceitos básicos, definições e propriedades. <br />  1.3 Propagação de erros. <br />  1.4 Métodos diretos para a resolução de sistemas lineares. Decomposição LU de Doolittle sem e com pivotagem.<br />   1.5 Métodos Iterativos. Ordem de convergência de uma sucessão de iterados.<br />2. Equações não lineares: métodos iterativos<br />  2.1 Método das Bissecções sucessivas<br />  2.2 Método de Newton<br />  2.3 Método da Secante. <br />  2.4 Condições de convergência e critérios de paragem para os métodos iterativos estudados. <br />  2.5 Estimativa do erro.<br />   2.6 Métodos Iterativos para sistemas não lineares: Método de Newton.<br />3. Aproximação de funções e dados<br />  3.1. Interpolação polinomial.<br />    3.1.1 Diferentes construções do polinómio interpolador.<br />    3.1.2 Polinómios de Lagrange.<br />    3.1.3 Erro de interpolação. <br />    3.1.4 Diferenças dividias e Derivadas.<br />  3.2. Introdução ao método dos mínimos quadrados. Equações Normais.<br />4. Integração Numérica<br />  4.1. Fórmulas de Newton-Cotes.<br />  4.2. Fórmulas simples e fórmulas compostas. Propriedades.<br />  4.3. Erros de integração numérica. <br /><br />Conteúdo Científico: 70% <br />Conteúdo Tecnológico: 30% <br /><br />DEMONSTRAÇÃO DA COERÊNCIA DOS CONTEÚDOS PROGRAMÁTICOS COM OS OBJETIVOS DA UNIDADE CURRICULAR: <br /><br />Compreender as limitações de algoritmos numéricos. Determinar estimativas de erros. Compreender a propagação de erros. Resolver equações não lineares. Aproximar dados por interpolação e por mínimos quadrados. Aproximar, derivar e integrar funções por métodos numéricos. Desenvolver a capacidade de determinar e analisar resultados obtidos por instrumentos de cálculo científico com técnicas aproximadas. Adquirir conhecimentos teóricos e práticos de técnicas numéricas na resolução de problemas de engenharia a saber: aplicar técnicas numéricas para modelação de problemas físicos; resolver problemas de engenharia usando métodos numéricos; implementar algoritmos numéricos; comparar diferentes métodos na resolução de problemas numéricos; escolher e decidir qual o método de resolução numérica a aplicar e qual o mais eficiente; avaliar e discutir os resultados numéricos obtidos; usar ferramentas informáticas de computação numérica, MATLAB  ou Python, para determinar soluções numéricas.</p>
+
+## Bibliografia obrigatória
+Quarteroni Alfio; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005314610108801" title="Cálculo Científico com Matlab e Octave (Abre numa nova janela)" target="_blank" >Cálculo Científico com Matlab e Octave</a>. ISBN: 978-88-470-0717-8  (Access to this content is enabled by Universidade do Porto)<br>
+Quarteroni, A. & Saleri, F; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002944750108801" title="Scientific Computing with MATLAB and Octave (Abre numa nova janela)" target="_blank" >Scientific Computing with MATLAB and Octave</a>, Springer, 2014. ISBN: 978-3-642-45366-3 (Access to this content is enabled by Universidade do Porto)<br>
+
+## Bibliografia complementar
+Valença, Maria Raquel; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004209690108801" title="Métodos numéricos (Abre numa nova janela)" target="_blank" >Métodos numéricos</a><br>
+Burden, Richard L.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004740700108801" title="Numerical analysis (Abre numa nova janela)" target="_blank" >Numerical analysis</a>. ISBN: 0-534-38216-9 <br>
+Pina, Heitor; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004167920108801" title="Métodos numéricos (Abre numa nova janela)" target="_blank" >Métodos numéricos</a>. ISBN: 972-8298-04-8 <br>
+Fausett, Laurene V.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004592700108801" title="Applied numerical analysis using Matlab (Abre numa nova janela)" target="_blank" >Applied numerical analysis using Matlab</a>. ISBN: 0-13-319849-9 <br>
+Kharab, Abdelwahab; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004621150108801" title="An introduction to numerical methods (Abre numa nova janela)" target="_blank" >An introduction to numerical methods</a>. ISBN: 1-58488-281-6 <br>
+Bradie, Brian; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004799070108801" title="A friendly introduction to numerical analysis (Abre numa nova janela)" target="_blank" >A friendly introduction to numerical analysis</a>. ISBN: 0-13-191171-6 <br>
+Ana Maria Faustino; Análise Numérica, FEUP, 2014. ISBN: 978-989-98632-5-5<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>DEMONSTRAÇÃO DA COERÊNCIA DAS METODOLOGIAS DE ENSINO COM OS OBJETIVOS DE APRENDIZAGEM DA UNIDADE CURRICULAR:<br /> <br />Os conceitos e técnicas são apresentados com recurso aos conhecimentos de Análise e Álgebra e, sempre que possível, a exposição teórica é acompanhada de exemplos práticos, representações gráficas e utilização de computação científica. Os aspetos teóricos são apresentados com rigor, de modo a demonstrar a aplicabilidade dos métodos. Adicionalmente, são feitos comentários justificados que comparam os vários métodos em termos de eficiência, precisão dos resultados obtidos e aplicabilidade. Os alunos são incentivados a elaborar, implementar e aplicar algoritmos. É dada especial atenção à análise de resultados, com foco nas estimativas de erro. A análise e discussão das soluções e metodologias utilizadas são valorizadas. Nas aulas práticas, são resolvidos vários casos de estudo recorrendo ao computador e à linguagem de programação MATLAB (ou Python). Para facilitar o diálogo entre todos os participantes no processo de ensino/aprendizagem, a unidade curricular está inserida na plataforma Moodle. Nessa página, os estudantes têm acesso a todo o conteúdo fornecido pelos docentes e podem consolidar os conceitos através de testes de autoavaliação com avaliação comentada imediata. Também têm a possibilidade de usar os fóruns para colocar questões, que podem ser vistas por toda a comunidade de Análise Numérica.  Adicionalmente, são utilizados vídeos explicativos e demonstrações da resolução de problemas com recurso a ferramentas de Inteligência Artificial, promovendo uma aprendizagem mais interativa e atualizada com as tecnologias emergentes. Nas aulas teóricas e nas aulas teórico-práticas são propostas atividades que incentivam o estudante a estudar de forma autónoma. São também motivados a aplicar os conhecimentos e a capacidade de compreensão e de resolução de problemas em situações novas, em contextos alargados e multidisciplinares.</p>
+
+## Software
+Jupyter Notebook<br>
+Octave<br>
+Matlab<br>
+Python<br>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 horas
+- Frequência das aulas: 52.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Fórmula de cálculo da classificação final para notas superiores ou iguais a 6 no Exame Final:<br /><br />CF = máximo { EF;  0.7xEF + 0.2xTS + 0.1xQZ}</p>
+<p>onde,</p>
+<p>EF &#8211; classificação do exame final presencial<br />TS - Nota do Teste Sumativo, presencial<br />QZ - Média das notas em 3 atividades online (quizes)</p>
+<p>Para notas de exame inferiores a 6 a nota final é a nota do exame, EF.<br /><br /><br />A classificação da avaliação distribuída obtida em anos anteriores não é válida.</p>
+
+## Obtenção de frequência
+<p>De acordo com os regulamentos e diretivas da direção da L.EC:</p>
+<p>A aprovação à unidade curricular implica o cumprimento da condição de frequência, considerando-se que um estudante cumpre essa condição se, tendo estado regularmente inscrito, não exceder o número limite de faltas correspondente a 25% das aulas presenciais previstas para cada tipologia. Além dos casos previstos estatutariamente nas regras em vigor na FEUP, estão dispensados da condição de frequência à unidade curricular os estudantes que tenham obtido no ano letivo imediatamente anterior uma nota final na UC igual ou superior a 6 valores<em>.</em></p>
+<p><span style="color: black; line-height: 115%; font-family: 'Verdana','sans-serif'; font-size: 7.5pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: PT; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"> </span></p>
+
+## Melhoria de classificação
+<p>Exame final.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Numerical Analysis
+
+## Curso responsável
+Bachelor in Civil Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>OBJECTIVES:<br /><br />Understand the limitations of numerical algorithms. Determine error estimates. Understand error propagation. Solve non-linear equations. Approximate data by interpolation and least squares. Approximate, derive, and integrate functions using numerical methods. Develop the ability to determine and analyze results obtained by scientific calculation instruments using approximate techniques. Acquire theoretical and practical knowledge of numerical techniques in solving engineering problems, namely: applying numerical techniques to model physical problems; solving engineering problems using numerical methods; implementing numerical algorithms; comparing different methods in solving numerical problems; choosing and deciding which numerical solving method to apply and which is the most efficient; evaluating and discussing the numerical results obtained; using numerical computing tools, MATLAB or Python, to determine numerical solutions</p>
+
+## Resultados de aprendizagem e competências
+<p>SKILLS AND LEARNING OUTCOMES: <br /><em>Knowledge:</em> Know and describe the fundamental concepts and numerical methods for solving engineering problems. Identify the main concepts associated to numerical solution and determination of approximate solutions.<br /><br /><em>Understanding:</em> Identify and interpret the different techniques to be used in numerical problem solving.<br /><br /><em>Application:</em> Develop skills for numerical problem solving. Apply knowledge and the ability to understand and solve problems in new and unfamiliar situations, in broad and multidisciplinary contexts.<br /><br /><em>Analysis:</em> Analyse, discuss and critically interpret results, highlighting the potential of methods and their limitations.<br /><br /><em>Synthesis:</em> Formulate and validate numerical solutions for solving non-linear equations, linear and non-linear systems, approximation of functions and integration. <br /><br /><em>Assessment:</em> Criticise solutions and methodologies used. Be able to communicate their conclusions and their underlying knowledge and reasoning in a clear unambiguous manner.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Mathamatical Analysis 1 and 2, Algebra and Computation.</p>
+
+## Programa
+<p>1. Numerical Analysis and Scientific Computing<br />  1.1 Goal for numerical analysis.  <br />  1.2 Theory of errors: basic concepts, errors definitions and <span class="tlid-translation translation"><span class="alt-edited" title="">properties</span></span>. <br />  1.3 Error propagation. <br />  1.4 Direct methods for solving linear systems. Doolittle LU decomposition without and with pivoting. <br />  1.5 Iterative methods. Order of convergence of a succession of iterates.<br />2. Solution of non-linear equations: iterative methods<br />  2.1 Bisection method<br />  2.2 Newton method.<br />  2.3 Secant method.<br />  2.4 Convergence conditions and stopping criteria for iterative methods.<br />  2.5 Error estimation.<br />  2.6 Iterative methods for Non Linear Systems: Newton Method<br />3. Approximation of functions and data<br />  3.1. Polynomial interpolation.<br />    3.1.1. Different constructions of the interpolating polynomial.<br />    3.1.2 Lagrange polynomials.<br />    3.1.3 Interpolation error. <br />    3.1.4 Divided differences and derivatives<br />  3.2. Introduction to the least squares method. Normal equations.<br />4. Numerical integration<br />  4.1. Newton-Cotes formulas.<br />  4.2. Simple formulae and Compose formulae. Properties<br />  4.3. Errors in numerical integration. <br /><br />Scientific Content: 70% <br />Technological content: 30% <br /><br />DEMONSTRATION OF THE SYLLABUS COHERENCE WITH THE CURRICULAR UNIT'S OBJECTIVES: <br /><br />Understand the limitations of numerical algorithms. Determine error estimates. Understand error propagation. Solve non-linear equations. Approximate data by interpolation and least squares. Approximate, derive and integrate functions using numerical methods. Develop the ability to determine and analyze results obtained by scientific calculation instruments using approximate techniques. Acquire theoretical and practical knowledge of numerical techniques in solving engineering problems, namely: applying numerical techniques to model physical problems; solving engineering problems using numerical methods; implementing numerical algorithms; comparing different methods in solving numerical problems; choosing and deciding which numerical solving method to apply and which is the most efficient; evaluating and discussing the numerical results obtained; using numerical computing tools, MATLAB or Python, to find numerical solutions.</p>
+
+## Bibliografia obrigatória
+Quarteroni Alfio; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005314610108801" title="Cálculo Científico com Matlab e Octave (Opens in a new window)" target="_blank" >Cálculo Científico com Matlab e Octave</a>. ISBN: 978-88-470-0717-8  (Access to this content is enabled by Universidade do Porto)<br>
+Quarteroni, A. & Saleri, F; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002944750108801" title="Scientific Computing with MATLAB and Octave (Opens in a new window)" target="_blank" >Scientific Computing with MATLAB and Octave</a>, Springer, 2014. ISBN: 978-3-642-45366-3 (Access to this content is enabled by Universidade do Porto)<br>
+
+## Bibliografia complementar
+Valença, Maria Raquel; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004209690108801" title="Métodos numéricos (Opens in a new window)" target="_blank" >Métodos numéricos</a><br>
+Burden, Richard L.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004740700108801" title="Numerical analysis (Opens in a new window)" target="_blank" >Numerical analysis</a>. ISBN: 0-534-38216-9 <br>
+Pina, Heitor; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004167920108801" title="Métodos numéricos (Opens in a new window)" target="_blank" >Métodos numéricos</a>. ISBN: 972-8298-04-8 <br>
+Fausett, Laurene V.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004592700108801" title="Applied numerical analysis using Matlab (Opens in a new window)" target="_blank" >Applied numerical analysis using Matlab</a>. ISBN: 0-13-319849-9 <br>
+Kharab, Abdelwahab; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004621150108801" title="An introduction to numerical methods (Opens in a new window)" target="_blank" >An introduction to numerical methods</a>. ISBN: 1-58488-281-6 <br>
+Bradie, Brian; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004799070108801" title="A friendly introduction to numerical analysis (Opens in a new window)" target="_blank" >A friendly introduction to numerical analysis</a>. ISBN: 0-13-191171-6 <br>
+Ana Maria Faustino; Análise Numérica, FEUP, 2014. ISBN: 978-989-98632-5-5<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>DEMONSTRATION OF THE COHERENCE BETWEEN THE TEACHING METHODOLOGIES AND THE LEARNING OUTCOMES:<br /> <br />The concepts and techniques are presented using knowledge of Analysis and Algebra, and, whenever possible, the theoretical exposition is accompanied by practical examples, graphical representations, and the use of scientific computing. The theoretical aspects are presented rigorously to demonstrate the applicability of the methods. In addition, justified comments are made comparing the various methods in terms of efficiency, accuracy of the results obtained, and applicability. Students are encouraged to design, implement, and apply algorithms. Special attention is paid to the analysis of results, with a focus on error estimates. Analysis and discussion of the solutions and methodologies used are valued. In practical classes, various case studies are solved using the computer and the MATLAB (or Python) programming language. In order to facilitate dialogue between all participants in the teaching/learning process, the course is hosted on the Moodle platform. On this page, students have access to all the content provided by the teachers and can consolidate concepts through self-assessment tests with immediate, commented evaluation. They can also use the forums to ask questions, which can be viewed by the entire Numerical Analysis community. In addition, explanatory videos and problem-solving demonstrations using Artificial Intelligence tools are used, promoting more interactive learning and keeping up to date with emerging technologies. Theoretical and theoretical-practical classes offer activities that encourage students to study independently. They are also encouraged to apply their knowledge and ability to understand and solve problems in new situations, in broad and multidisciplinary contexts.</p>
+
+## Software
+Jupyter Notebook<br>
+Octave<br>
+Matlab<br>
+Python<br>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 hours
+- Frequência das aulas: 52.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The formula of calculation of the final classification for grades higher or equal to 6 in the Final Examination is:<br /><br />CF = maximum { EF; 0.7xEF + 0.2xTS + 0.1xQZ}<br /><br />where,<br /><br />EF - final exam classification, onsite Test <br />TS - grade of the Summative, onsite Test<br />QZ - Average of the marks in 3 online activities (quizzes)<br /><br />For exam grades lower than 6, the final grade is the exam grade EF.<br /><br /><br />The classification of the distributed assessment obtained in previous years is not valid.</p>
+
+## Obtenção de frequência
+<p>According to the regulations and directives of the L.EC Director:</p>
+<p>Approval of the curricular unit implies compliance with the attendance condition, with it being considered that a student meets this condition if, having been regularly enrolled, they do not exceed the maximum number of absences corresponding to 25% of the scheduled in-person classes for each type. In addition to the cases provided for by statute in the rules in force at FEUP, students who obtained a final grade in the UC equal to or greater than 6 points in the immediately preceding academic year are exempt from the attendance requirement for the curricular unit.</p>
+
+## Melhoria de classificação
+<p>Final exam.</p>
+

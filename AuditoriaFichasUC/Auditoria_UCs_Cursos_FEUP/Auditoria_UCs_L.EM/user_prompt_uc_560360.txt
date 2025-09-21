@@ -1,0 +1,120 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Análise Matemática III
+
+## Curso responsável
+Licenciatura em Engenharia Mecânica
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Nesta unidade curricular pretende-se atingir os seguintes objectivos:<br /> - transmitir aos estudantes os conceitos e as  técnicas de integração de equações diferenciais ordinárias e de sistemas de equações diferenciais ordinárias e a sua aplicação a problemas, quer de natureza física quer de natureza geométrica;<br />- dotar os estudantes dos conhecimentos fundamentais de cálculo integral sobre curvas e sobre superfícies bem como a compreensão e aplicação dos teoremas de integrais da análise vetorial;<br /> - os estudantes deverão ainda ficar habilitados a utilizar a representação de funções periódicas em séries de Fourier.</p>
+
+## Resultados de aprendizagem e competências
+<p>Os estudantes devem ser capazes de :<br /> - identificar e resolver as equações diferenciais ordinárias leccionadas;<br /> - resolver sistemas de equações diferenciais lineares de 1ª ordem;<br /> - obter as transformadas de Laplace de funções reais de variável real positiva e aplicar as suas propriedades;<br /> - calcular integrais de linha e de superfície aprofundando para isso os seus conhecimentos de integrais duplos e triplos;<br /> - aplicar os teoremas da análise vetorial para integrais de linha e de superfície;<br /> - determinação da série de Fourier de uma função periódica.</p>
+
+## Programa
+<p>Equações Diferenciais - definição de solução geral e problemas de valor inicial e na fronteira. Equações Diferenciais de 1ª Ordem. Teorema de existência e unicidade da solução. Equações homogéneas e trajectórias ortogonais. Equações diferenciais exactas e factor integrante. Equações diferenciais lineares (solução geral como soma da solução geral da equação homogénea associada com uma qualquer solução particular da equação completa - método da variação da constante); equações redutíveis a lineares ( equações de Bernoulli e Riccati). Equações de 2ª ordem - equações redutíveis a 1ª ordem: caso I em que a variável dependente não aparece explicitamente na equação de 2ª ordem. Equações diferenciais lineares de ordem n : equações diferenciais lineares de ordem n homogéneas; equações diferenciais lineares de ordem n homogéneas de coeficientes constantes &#8211; espaço vectorial de soluções. Equações não homogéneas - método da variação das constantes ou método de Wronski para obtenção de uma qualquer solução particular destas equações.<br />Sistemas de equações diferenciais - conceitos básicos e exemplos . Sistemas de equações diferenciais lineares de 1ªordem e sua relação com as equações diferenciais lineares de ordem n. Sistemas de equações diferenciais lineares de 1ªordem de coeficientes constantes homogéneos: solução geral. Sistemas de equações diferenciais lineares de 1ªordem não homogéneos: método da variação das constantes.<br />Transformadas de Laplace - definição e condições de existência; 1º e 2º Teoremas da translação; inversa da transformada de Laplace; transformada de Laplace da derivada; teorema da convolução. Transformada de Laplace de funções descontínuas. Aplicação à integração de equações diferenciais de coeficientes constantes.<br />Integrais de linha: propriedades, técnicas de cálculo e aplicações. Curvas e parametrizações. Campos irrotacionais. Função potencial. Campos conservativos e independência do caminho.<br /> Integrais de superfície: propriedades, técnicas de cálculo e aplicações.<br /> Operadores diferenciais: gradiente, divergência, rotacional, operadores compostos e Laplaciano. Teorema de Green, Teorema de Stokes e Teorema de Gauss: enunciado, demonstração e aplicações.<br />Séries de Fourier: funções periódicas, funções pares e ímpares, funções não periódicas e suas  expansões periódicas. Séries trigonométricas de funções periódicas e condições para a sua convergência e soma. Aproximação por polinómio trigonométrico e respetivo erro quadrático.<br />Equação da corda vibrante, dedução da equação e integração por separação de variáveis.</p>
+
+## Bibliografia obrigatória
+Maria Luisa Romariz Madureira; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009130250108801" title="Problemas de equações diferenciais ordinárias e transformadas de Laplace (Abre numa nova janela)" target="_blank" >Problemas de equações diferenciais ordinárias e transformadas de Laplace</a>. ISBN: 978-989-892-758-3 <br>
+Maria Luisa Romariz Madureira; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009587610108801" title="Problemas de análise matemática para engenharia (Abre numa nova janela)" target="_blank" >Problemas de análise matemática para engenharia</a>. ISBN: 9789899101562<br>
+Kreyszig, Erwin; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004172950108801" title="Advanced Engineering Mathematics (Abre numa nova janela)" target="_blank" >Advanced Engineering Mathematics</a>. ISBN: 0-471-59989-1 <br>
+
+## Bibliografia complementar
+Apostol , Tom M.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002017560108801" title="Calculus (Abre numa nova janela)" target="_blank" >Calculus</a>. ISBN: 0-536-00008-5 (Vol. II)<br>
+Wylie, C. Ray; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004550570108801" title="Advanced engineering mathematics (Abre numa nova janela)" target="_blank" >Advanced engineering mathematics</a>. ISBN: 0-07-113543-X <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas serão teórico-práticas (TP), sendo a parte teórica com exposições orais apoiadas na projeção de slides ou outras tecnologias como mesa digital e ainda escrita no quadro branco. Nestas aulas a dedução e a abstracção são consideradas fundamentais. Após cada tema serão sempre resolvidos exemplos de aplicação. Nessa parte prática os alunos resolvem exercícios propostos sugeridos com antecedência baseados tanto nos textos como no livro de exercícios indicados. <br /><br />Haverá controle de presenças nas aulas TP não podendo o aluno exceder o número de faltas previstas ( 25% das aulas previstas ). No caso de exceder o número de faltas indicado o aluno não terá frequência à disciplina e não poderá realizar qualquer exame desta disciplina, a menos que tenha um estatuto especial (consultar as normas pedagógicas e de avaliação da FEUP).</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 103.5 horas
+- Frequência das aulas: 58.5 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p style="text-align: justify;">Classificação Total = 50% do primeiro teste + 50% do segundo teste<br /><br />Os testes são não obrigatórios e não têm nota mínima.<br /><br />Na época normal é sempre possível realizar apenas um dos testes e faltar ao outro, uma vez que o teste em falta pode sempre ser realizado em recurso.<br /><br />No exame de recurso, todos os alunos são admitidos.<br />- Os alunos ainda não aprovados que não tenham ido a nenhum teste, têm que fazer uma prova global com toda a matéria.<br />- Os alunos ainda não aprovados poderão repetir o primeiro teste ou o segundo teste (a nota a atribuir será a média das melhores notas de cada teste) ou então realizar uma prova final com toda a matéria.<br />- Os alunos que obtiveram aprovação podem fazer a melhoria de classificação no exame de recurso, sendo neste caso obrigatóriamente uma prova com toda a matéria.</p>
+A nota máxima 20 será atribuída apenas com realização de uma prova oral.
+
+## Obtenção de frequência
+Haverá controle de presenças nas aulas práticas (TP) não podendo o aluno exceder o número de faltas previstas (25% das aulas previstas).<br /><br /> No caso de exceder o número de faltas indicado, o aluno não terá frequência à disciplina e não poderá realizar qualquer exame desta disciplina, a menos que tenha um estatuto especial (consultar as normas pedagógicas e de avaliação da FEUP).
+
+## Exames ou Trabalhos Especiais
+<p>Não previsto</p>
+
+## Melhoria de classificação
+Os alunos que obtiverem aprovação através dos testes, podem realizar a melhoria de classificação no exame de recurso numa prova final com toda a matéria.<br /><br />Ressalva-se que a nota máxima, de 20 valores, será atribuída apenas com realização de uma prova oral.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Mathematical Analysis III
+
+## Curso responsável
+Bachelor in Mechanical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+SPECIFIC AIMS: Development of the reasoning capacity of the students and knowledge of advanced mathematics for engineers, namely<br /> - identification and integration of ordinary differential equations<br /> - integration of systems of first-order ordinary differential equations<br />- integral calculus over curves and surfaces with applications <br />- applications of integral theorems of vector analysis<br />- Fourier series and representation of periodic f<br /><br /><p> </p>
+
+## Resultados de aprendizagem e competências
+<p>LEARNING OUTCOMES: Students should get solid theoretical and practical skills on<br /> - identification and integration of ordinary differential equations <br /> - integration of systems of first-order ordinary differential equations<br /> - calculation of the Laplace transform of real functions of a positive variable and application of its properties;<br /> - calculation of line integrals and application of their properties;<br /> - calculation of surface integrals and application of their properties;<br /> - application of integral theorems of vector analysis;<br /> - determination of the Fourier series of a periodic function.</p>
+
+## Programa
+<p>Introduction to differential equations: general classification, definition of solution, and initial and boundary value problems. Ordinary differential equations of first order: the existence and uniqueness theorem; separable equations; homogeneous equations; linear equations (homogeneous and non-homogeneous). Some problems modeled by first-order equations: problems in mechanics and population dynamics. Exact equations and integrating factors. Nonlinear equations reducible to linear ones: the Bernoulli equation. Ordinary higher-order differential equations reducible to lower-order equations. Linear equations of order greater than one: general theory of homogeneous and non-homogeneous linear nth order equations. Existence and uniqueness theorem. General solution for homogeneous linear equations with constant coefficients. Linear non-homogeneous equations: the variation of parameters method. <br />Systems of first-order linear equations: introduction and its relation with an nth order linear differential equation. Some examples. Basic theory of systems of first-order linear equations. Homogeneous linear equations with constant coefficients. Real or complex single eigenvalues case and repeated eigenvalues case. Fundamental matrices. The method of variation of parameters for non-homogeneous systems. <br />The Laplace transform: definition and existence conditions. Laplace transform of some basic functions using the definition. Main properties of the Laplace transform: first and second translation theorems and the transform of the derivative. Inverse Laplace transform. Solution of initial value problems and of differential equations with discontinuous forcing functions, using the Laplace transform. Impulse functions and Dirac &#948;-function. The convolution theorem.<br /> Line integral of scalar and vector functions. Independence of path. Work done by a force. Green&#8217;s Theorem. <br />Surface integral. Area of a surface, mass, center of gravity, centroid, and moment of inertia. Flux integral. Some differential operators. Stoke's and Gauss 's theorems.<br />FOURIER ANALYSIS Fourier Series. Euler formulas. Even and odd functions, half-range expansions. Approximation by trigonometric polynomials and minimum square error. <br />The wave equation, vibrating string. Solution by separation of variables.</p>
+
+## Bibliografia obrigatória
+Maria Luisa Romariz Madureira; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009130250108801" title="Problemas de equações diferenciais ordinárias e transformadas de Laplace (Opens in a new window)" target="_blank" >Problemas de equações diferenciais ordinárias e transformadas de Laplace</a>. ISBN: 978-989-892-758-3 <br>
+Maria Luisa Romariz Madureira; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009587610108801" title="Problemas de análise matemática para engenharia (Opens in a new window)" target="_blank" >Problemas de análise matemática para engenharia</a>. ISBN: 9789899101562<br>
+Kreyszig, Erwin; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004172950108801" title="Advanced Engineering Mathematics (Opens in a new window)" target="_blank" >Advanced Engineering Mathematics</a>. ISBN: 0-471-59989-1 <br>
+
+## Bibliografia complementar
+Apostol , Tom M.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002017560108801" title="Calculus (Opens in a new window)" target="_blank" >Calculus</a>. ISBN: 0-536-00008-5 (Vol. II)<br>
+Wylie, C. Ray; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004550570108801" title="Advanced engineering mathematics (Opens in a new window)" target="_blank" >Advanced engineering mathematics</a>. ISBN: 0-07-113543-X <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The classes will be theoretical-practical (TP), with the theoretical part consisting of oral presentations supported by slide projection or other technologies such as a digital table and also written on the whiteboard. In these classes, deduction and abstraction are considered fundamental. After each topic, application examples will always be resolved. In this practical part, students solve proposed exercises suggested in advance based on both the texts and the exercise book indicated.<br /><br />There will be attendance control in TP classes and the student cannot exceed the planned number of absences (25% of the planned classes). If the number of absences indicated is exceeded, the student will not be able to attend the subject and will not be able to take any exam in this subject, unless they have a special status (consult the FEUP pedagogical and assessment standards).</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 103.5 hours
+- Frequência das aulas: 58.5 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<pre>Total Classification = 50% of Test 1 + 50% of Test 2</pre>
+<p>The tests are not mandatory and have no minimum grade.<br /><br />At the regular exam period, it is always possible to do only one of the tests and miss the other one, as the missing test can always be done in the recourse exam.<br /><br />At the recourse exam, all the students are admitted.<br />- The students who fail to pass for missing both tests have to do a final exam, which will cover all themes of the course unit.<br />- The students who fail to pass can repeat the first or the second test (the best grade of both tests will be taken into account). Alternatively, they can take a final exam, which will cover all themes of the course unit.<br />- The successful students can improve their grades at the recourse exam by taking a final exam covering all themes of the course unit.<br /><br />Grade 20 (in 20) is only possible with an oral exam.</p>
+
+## Obtenção de frequência
+<span class=&quot;HwtZe&quot; lang=&quot;en&quot;><span class=&quot;jCAhz ChMk0b&quot;><span class=&quot;ryNqvb&quot;>There will be attendance control in practical classes (TP) and the student cannot exceed the expected number of absences (25% of scheduled classes).</span></span> <br /><br /><span class=&quot;jCAhz ChMk0b&quot;><span class=&quot;ryNqvb&quot;>If the number of absences indicated is exceeded, the student will not be able to attend the subject and will not be able to take any exam in this subject, unless they have a special status (see general evaluation rules of FEUP).</span></span></span>
+
+## Exames ou Trabalhos Especiais
+N/A
+
+## Melhoria de classificação
+<span lang=&quot;EN-US&quot; style=&quot;font-size: 11.0pt; font-family: 'Calibri','sans-serif'; color: #1f497d;&quot;>The successful students can improve their grades at the recourse exam, by taking a final exam covering all themes of the course unit. <br /><br />The maximum grade (20 in 20) can only be achieved through an oral examination.</span>
+

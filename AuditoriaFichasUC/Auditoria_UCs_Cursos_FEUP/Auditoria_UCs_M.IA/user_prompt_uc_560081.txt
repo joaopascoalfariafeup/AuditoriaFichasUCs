@@ -1,0 +1,108 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sistemas Ciberfísicos e Internet das Coisas
+
+## Curso responsável
+Mestrado em Inteligência Artificial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Esta unidade curricular <strong>oferece</strong> uma cobertura abrangente das tecnologias de sistemas ciberfísicos (CPS) e Internet das Coisas (IoT), com ênfase nos fundamentos teóricos, competências práticas de implementação e capacidades de avaliação crítica. <br /><br />O curso <strong>integra</strong> conhecimentos técnicos avançados com experiência prática em projetos para preparar os estudantes para funções de investigação e na indústria neste campo em rápida evolução.<br /><br />A abordagem pedagógica <strong>garante</strong> que os estudantes desenvolvam conhecimentos técnicos e competências profissionais essenciais para carreiras em sistemas ciberfísicos e Internet das Coisas, ao mesmo tempo que promove a inovação, o pensamento crítico e a capacidade de resolução colaborativa de problemas.<br /><br />Objetivos <strong>técnicos</strong><br />- Desenvolver uma compreensão abrangente das tendências atuais, arquiteturas e modelos computacionais em tecnologias CPS/IoT.<br />- Dominar competências práticas em plataformas tecnológicas CPS/IoT, protocolos de conectividade sem fios e soluções de computação edge.<br />- Adquirir conhecimentos especializados em metodologias de integração de sistemas, plataformas de middleware e padrões de interoperabilidade.<br /><br />Objetivos <strong>analíticos e de design</strong><br />- Cultivar capacidades de pensamento crítico para analisar compromissos, avaliar alternativas de design e avaliar características de desempenho do sistema.<br />- Desenvolver competências de design para criar sistemas CPS/IoT integrados que abordem desafios do mundo real, considerando requisitos de qualidade.<br />- Promover capacidades de inovação para propor novos paradigmas e soluções em aplicações emergentes de CPS e IoT.<br /><br />Objetivos <strong>profissionais e de investigação</strong><br />- Desenvolver competências de investigação, incluindo revisão bibliográfica, aplicação de metodologias e documentação sistemática de resultados.<br />- Aprimorar as habilidades de colaboração por meio do trabalho em equipa multidisciplinar e da comunicação eficaz com atores técnicos e não técnicos.<br />- Preparar-se para a prática profissional, compreendendo as implicações éticas, as considerações de segurança e o impacto social das tecnologias CPS/IoT.
+
+## Resultados de aprendizagem e competências
+Os resultados de aprendizagem estão estruturados para progredir do conhecimento básico para capacidades analíticas e criativas avançadas. <br />Após a conclusão bem-sucedida desta unidade curricular, os estudantes serão capazes de:<br /><br /><strong>LO1: Demonstrar conhecimento abrangente dos fundamentos de CPS e IoT.</strong><br />- Identificar e definir conceitos-chave, terminologias e componentes dentro de sistemas ciberfísicos e arquiteturas de IoT.<br />- Explicar a evolução, as tendências atuais e as direções futuras das tecnologias CPS e IoT.<br />- Descrever casos de uso típicos em vários domínios e diferenciar seus requisitos específicos de sistema.<br /><br /><strong>LO2: Compreender os princípios arquiteturais e modelos computacionais</strong><br />- Explicar diferentes padrões arquiteturais, modelos de referência e metodologias de design usados em sistemas CPS e IoT.<br />- Discutir os fundamentos teóricos e justificar a seleção de modelos computacionais apropriados para aplicações específicas.<br />- Comparar várias plataformas de middleware, protocolos de comunicação e padrões de interoperabilidade.<br /><br /><strong>LO3: Aplicar conhecimentos técnicos a desafios de design de sistemas</strong><br />- Implementar conectividade de dispositivos IoT utilizando tecnologias sem fios e protocolos de comunicação adequados.<br />- Configurar e implementar soluções de computação edge e modelos de comunicação de publish-subscribe.<br />- Demonstrar proficiência na utilização de plataformas e ferramentas de desenvolvimento contemporâneas para implementação de CPS/IoT.<br /><br /><strong>LO4: Analisar requisitos de sistema e características de desempenho</strong><br />- Analisar as vantagens e desvantagens entre diferentes opções de conectividade sem fios e o seu impacto no desempenho do sistema.<br />- Examinar os desafios de confiabilidade, segurança e privacidade e avaliar suas implicações para o projeto do sistema.<br />- Investigar e documentar os sistemas CPS e IoT existentes usando abordagens metodológicas sistemáticas.<br /><br /><strong>LO5: Avaliar e criticar soluções de projeto de sistemas</strong><br />- Avaliar abordagens alternativas de projeto para sistemas CPS e IoT com base em requisitos e restrições de qualidade.<br />- Criticar as implementações existentes e justificar as decisões de projeto usando raciocínio baseado em evidências.<br />- Avaliar o impacto mais amplo das tecnologias CPS e IoT no desenvolvimento de sistemas em grande escala e as implicações sociais.<br /><br /><strong>LO6: Projetar e criar sistemas CPS/IoT integrados</strong><br />- Projetar e desenvolver sistemas completos baseados em CPS e IoT, integrando vários componentes de hardware e software.<br />- Criar soluções inovadoras que abordem desafios do mundo real, considerando restrições interdisciplinares.<br />- Sintetizar conhecimentos de vários domínios para propor novos paradigmas e abordagens em CPS e IoT.
+
+## Programa
+<strong>Módulo 1: Fundamentos e modelos de referência de CPS e IoT</strong><br />Âmbito: Conceitos fundamentais, definições e casos de uso em vários domínios de aplicação.<br />Tópicos principais: Arquiteturas de referência, análise de requisitos do sistema, tendências e paradigmas emergentes.<br />Foco de aprendizagem: Aquisição de conhecimento e compreensão conceptual da área.<br /><br /><strong>Módulo 2: Arquitetura do sistema e modelos computacionais</strong><br />Âmbito: Padrões arquiteturais avançados e estruturas computacionais para o design de CPS.<br />Tópicos principais: Sistemas incorporados em rede, modelos de computação, princípios de confiabilidade, visões e padrões arquiteturais.<br />Foco de aprendizagem: Compreensão dos princípios de design e tomada de decisões arquiteturais.<br /><br /><strong>Módulo 3: Dispositivos de ponta e tecnologias de conectividade</strong><br />Âmbito: Plataformas de hardware, protocolos de comunicação e soluções de conectividade ponta a ponta.<br />Tópicos principais: Restrições de dispositivos, tecnologias sem fios, análise de desempenho de protocolos, paradigmas de computação edge.<br />Foco de aprendizagem: Implementação técnica e estratégias de seleção de protocolos.<br /><br /><strong>Módulo 4: Plataformas de middleware e interoperabilidade</strong><br />Âmbito: Tecnologias de integração e estruturas de interoperabilidade semântica.<br />Tópicos principais: Modelos de comunicação publish-subscribe, comparação de plataformas, tecnologias da web semântica, integração de dados.<br />Foco de aprendizagem: Integração de sistemas e metodologias de avaliação de plataformas.<br /><br /><strong>Módulo 5: Confiabilidade, segurança e privacidade</strong><br />Âmbito: Atributos de qualidade e gestão de riscos em sistemas CPS/IoT.<br />Tópicos principais: Ameaças à segurança, técnicas de preservação da privacidade, tolerância a falhas, gestão da confiança.<br />Foco de aprendizagem: Avaliação crítica das vulnerabilidades do sistema e estratégias de mitigação.<br /><br /><strong>Módulo 6: Novos paradigmas e direções futuras</strong><br />Âmbito: Tecnologias emergentes e área de investigação em CPS/IoT.<br />Tópicos principais: integração de inteligência artificial, aplicações de computação edge, considerações de sustentabilidade, implicações éticas.<br />Foco de aprendizagem: pensamento inovador e orientação para a pesquisa.
+
+## Bibliografia obrigatória
+Song, Houbing,; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma9910297646108801" title="Cyber-physical systems : foundations, principles and applications / (Abre numa nova janela)" target="_blank" >Cyber-physical systems : foundations, principles and applications /</a>. ISBN: 0128038012<br>
+Batalla, Jordi Mongay.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma9910153756908801" title="Beyond the Internet of Things : Everything Interconnected / (Abre numa nova janela)" target="_blank" >Beyond the Internet of Things : Everything Interconnected /</a>. ISBN: 3-319-50756-7<br>
+Platzer , André; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009201100108801" title="Logical foundations of cyber-physical systems (Abre numa nova janela)" target="_blank" >Logical foundations of cyber-physical systems</a>. ISBN: 978-3-319-63588-0<br>
+Serpanos , Dimitrios; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009198880108801" title="Internet-of-Things (IoT) systems : architectures, algorithms, methodologies (Abre numa nova janela)" target="_blank" >Internet-of-Things (IoT) systems : architectures, algorithms, methodologies</a>. ISBN: 978-3-319-69715-4<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<strong>Palestras para exposição de aspetos teóricos:</strong> introduzir e consolidar os conceitos teóricos fundamentais e os conhecimentos básicos relacionados com CPS/IoT.<br /><br /><strong>Sessões com especialistas convidados:</strong> profissionais da indústria e investigadores apresentam os desafios atuais, implementações no mundo real e tendências emergentes.<br /><br /><strong>Seminários interativos:</strong> discussões sobre temas complexos e análise de estudos de caso para promover a aprendizagem colaborativa, a discussão entre pares e o raciocínio científico.<br /><br /><strong>Aprendizagem ativa baseada em projetos (projeto de semestre completo)</strong> conceber, implementar e avaliar sistemas CPS/IoT completos:<br />- Definição de um problema relevante para a indústria no domínio CPS/IoT.<br />- Identificação de requisitos e critérios de sucesso.<br />- Revisão da literatura e análise do estado da arte.<br />- Concepção, implementação e avaliação experimental do PoC.<br />- Análise e reflexão sobre aspetos de qualidade funcionais e não funcionais (incluindo critérios de fiabilidade, segurança e desempenho).<br /><br />Os estudantes são incentivados a utilizar hardware real, sempre que possível, e a alinhar o trabalho com a investigação sobre problemas relevantes para a indústria.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 15.0 horas
+- Elaboração de projeto: 54.0 horas
+- Estudo autónomo: 54.0 horas
+- Frequência das aulas: 39.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+Avaliação contínua (30%) + Projeto (70%)
+
+## Obtenção de frequência
+Condições de Frequência: Nota mínima de 50% na avaliação distribuída. Nota mínima de 40% em cada um dos minitestes.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Cyberphysical Systems and Internet of Things
+
+## Curso responsável
+Master in Artificial Intelligence
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>This curricular unit <strong>provides</strong> comprehensive coverage of cyberphysical systems (CPS) and Internet of Things (IoT) technologies, emphasizing theoretical foundations, practical implementation skills, and critical evaluation capabilities. </p>
+<p>The course <strong>integrates</strong> advanced technical knowledge with hands-on project experience to prepare students for research and industry roles in this rapidly evolving field.</p>
+<p>The pedagogical approach <strong>ensures</strong> students develop both technical expertise and professional competencies essential for careers in cyber-physical systems and Internet of Things, while fostering innovation, critical thinking, and collaborative problem-solving capabilities.</p>
+<strong>Technical</strong> objectives<br />- Develop a comprehensive understanding of current trends, architectures, and computational models in CPS/IoT technologies.<br />- Master practical skills in CPS/IoT technology platforms, wireless connectivity protocols, and edge computing solutions.<br />- Acquire expertise in system integration methodologies, middleware platforms, and interoperability standards.<br /><br /><strong>Analytical and Design</strong> objectives<br />- Cultivate critical thinking abilities to analyse trade-offs, evaluate design alternatives, and assess system performance characteristics.<br />- Develop design competencies for creating integrated CPS/IoT systems that address real-world challenges while considering quality requirements.<br />- Foster innovation capabilities to propose novel paradigms and solutions in emerging CPS and IoT applications.<br /><br /><strong>Professional and Research</strong> objectives<br />- Build research competencies, including literature review, methodology application, and systematic documentation of findings.<br />- Enhance collaboration skills through multidisciplinary teamwork and effective communication with technical and non-technical stakeholders.<br />- Prepare for professional practice by understanding ethical implications, security considerations, and societal impact of CPS/IoT technologies.
+
+## Resultados de aprendizagem e competências
+<p>Learning outcomes are structured to progress from foundational knowledge to advanced analytical and creative capabilities. <br />Upon successful completion of this curricular unit, students will be able to:<br /><br /><strong>LO1: Demonstrate comprehensive knowledge of CPS and IoT fundamentals</strong><br />- Identify and define key concepts, terminologies, and components within cyber-physical systems and IoT architectures.<br />- Explain the evolution, current trends, and future directions of CPS and IoT technologies.<br />- Describe typical use cases across various domains and differentiate their specific system requirements.<br /><br /><strong>LO2: Comprehend architectural principles and computational models</strong><br />- Explain different architectural patterns, reference models, and design methodologies used in CPS and IoT systems.<br />- Discuss the theoretical foundations and justify the selection of appropriate computational models for specific applications.<br />- Compare various middleware platforms, communication protocols, and interoperability standards.</p>
+<p><strong>LO3: Apply technical knowledge to system design challenges</strong><br />- Implement IoT device connectivity using appropriate wireless technologies and communication protocols.<br />- Configure and deploy edge computing solutions and publish-subscribe communication models.<br />- Demonstrate proficiency in using contemporary development platforms and tools for CPS/IoT implementation.<br /><br /><strong>LO4: Analyse system requirements and performance characteristics</strong><br />- Analyse the trade-offs between different wireless connectivity options and their impact on system performance.<br />- Examine dependability, security, and privacy challenges and assess their implications for system design.<br />- Investigate and document existing CPS and IoT systems using systematic methodological approaches.<br /><br /><strong>LO5: Evaluate and critique system design solutions</strong><br />- Evaluate alternative design approaches for CPS and IoT systems based on quality requirements and constraints.<br />- Critique existing implementations and justify design decisions using evidence-based reasoning.<br />- Assess the broader impact of CPS and IoT technologies on large-scale system development and societal implications.<br /><br /><strong>LO6: Design and create integrated CPS/IoT systems</strong><br />- Design and develop complete CPS and IoT-based systems by integrating multiple hardware and software components.<br />- Create innovative solutions that address real-world challenges while considering interdisciplinary constraints.<br />- Synthesise knowledge from multiple domains to propose novel paradigms and approaches in CPS and IoT.</p>
+
+## Programa
+<strong>Module 1: CPS and IoT Foundations and Reference Models</strong><br />Scope: Fundamental concepts, definitions, and use cases across various application domains.<br />Key Topics: Reference architectures, system requirements analysis, emerging trends and paradigms.<br />Learning Focus: Knowledge acquisition and conceptual understanding of the field.<br /><br /><strong>Module 2: System Architecture and Computational Models</strong><br />Scope: Advanced architectural patterns and computational frameworks for CPS design.<br />Key Topics: Networked embedded systems, models of computation, dependability principles, architectural views and patterns.<br />Learning Focus: Understanding design principles and architectural decision-making.<br /><br /><strong>Module 3: Edge Devices and Connectivity Technologies</strong><br />Scope: Hardware platforms, communication protocols, and end-to-end connectivity solutions.<br />Key Topics: Device constraints, wireless technologies, protocol performance analysis, edge computing paradigms.<br />Learning Focus: Technical implementation and protocol selection strategies.<br /><br /><strong>Module 4: Middleware Platforms and Interoperability</strong><br />Scope: Integration technologies and semantic interoperability frameworks.<br />Key Topics: Publish-subscribe communication models, platform comparison, semantic web technologies, data integration.<br />Learning Focus: System integration and platform evaluation methodologies.<br /><br /><strong>Module 5: Dependability, Security, and Privacy</strong><br />Scope: Quality attributes and risk management in CPS/IoT systems.<br />Key Topics: Security threats, privacy preservation techniques, fault tolerance, trust management.<br />Learning Focus: Critical evaluation of system vulnerabilities and mitigation strategies.<br /><br /><strong>Module 6: Novel Paradigms and Future Directions</strong><br />Scope: Emerging technologies and research frontiers in CPS/IoT.<br />Key Topics: Artificial intelligence integration, edge computing applications, sustainability considerations, ethical implications.<br />Learning Focus: Innovation thinking and research orientation.
+
+## Bibliografia obrigatória
+Song, Houbing,; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma9910297646108801" title="Cyber-physical systems : foundations, principles and applications / (Opens in a new window)" target="_blank" >Cyber-physical systems : foundations, principles and applications /</a>. ISBN: 0128038012<br>
+Batalla, Jordi Mongay.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma9910153756908801" title="Beyond the Internet of Things : Everything Interconnected / (Opens in a new window)" target="_blank" >Beyond the Internet of Things : Everything Interconnected /</a>. ISBN: 3-319-50756-7<br>
+Platzer , André; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009201100108801" title="Logical foundations of cyber-physical systems (Opens in a new window)" target="_blank" >Logical foundations of cyber-physical systems</a>. ISBN: 978-3-319-63588-0<br>
+Serpanos , Dimitrios; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009198880108801" title="Internet-of-Things (IoT) systems : architectures, algorithms, methodologies (Opens in a new window)" target="_blank" >Internet-of-Things (IoT) systems : architectures, algorithms, methodologies</a>. ISBN: 978-3-319-69715-4<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<strong>Lectures:</strong> introduce and consolidate the core theoretical concepts and background knowledge related to CPS/IoT.<br /><br /><strong>Guest Expert Sessions:</strong> industry practitioners and researchers presenting current challenges, real-world implementations, and emerging trends.<br /><br /><strong>Interactive Seminars:</strong> discussions on complex topics and case study analysis to promote collaborative learning and peer discussion and scientific reasoning.<br /><br /><strong>Project-Based Active Learning (full-semester project)</strong> design, implement, and evaluate complete CPS/IoT systems:<br />- Definition of an industry-relevant problem in the CPS/IoT domain.<br />- Identification of requirements and success criteria.<br />- Literature review and state-of-the-art analysis<br />PoC design, implementation, and experimental evaluation.<br />- Analysis and reflection on functional and non-functional quality aspects (including dependability, security, and performance criteria).<br /><br />Students are encouraged to use real hardware when possible and to align the work with research on industry-relevant problems.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 15.0 hours
+- Elaboração de projeto: 54.0 hours
+- Estudo autónomo: 54.0 hours
+- Frequência das aulas: 39.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+Continuous Assessment (30%) + Project (70%)
+
+## Obtenção de frequência
+Terms of frequency: Students have to reach a minimum mark of 50% in the continuous assessment component; a minimum of 40% in each of the interim exams.
+

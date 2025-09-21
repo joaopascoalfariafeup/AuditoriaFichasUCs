@@ -1,0 +1,144 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Comunicações Móveis
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Na Unidade Curricular (UC) de Comunicações Móveis são discutidos os aspectos fundamentais do funcionamento das redes e sistemas de comunicações móveis,  as tecnologias de comunicações móveis mais importantes, e técnicas de engenharia e de projeto de redes de comunicações móveis.<br /><br /></p>
+
+## Resultados de aprendizagem e competências
+<p>Ao completar esta UC o estudante deverá ser capaz de: 1) compreender os conceitos e os modelos fundamentais dos sistemas de comunicações móveis; 2) aplicar estes modelos no estudo de sistemas de comunicações móveis atuais e no projeto de futuros sistemas de comunicações móveis.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Frequência de Redes de Computadores.</p>
+
+## Programa
+<p>1) Introdução às redes de comunicações móveis<br /><br />2) Transmissão de informação sobre ligações sem fios<br /><br />3) Ligações de dados e controlo do acesso ao meio<br /><br />4) Redes de comunicações sem fios emalhadas<br /><br />5) Redes de comunicações celulares<br /><br />6) Caracterização de tráfego e de métodos de avaliação de desempenho<br /><br />7) Tecnologias de comunicações móveis</p>
+
+## Bibliografia obrigatória
+Cory Beard, William Stallings; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005845410108801" title="Wireless Communication Networks and Systems (Abre numa nova janela)" target="_blank" >Wireless Communication Networks and Systems</a>, Pearson, 2016. ISBN: 1-292-10871-1<br>
+Miao Guowang 070; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008392270108801" title="Fundamentals of mobile data networks (Abre numa nova janela)" target="_blank" >Fundamentals of mobile data networks</a>. ISBN: 978-1-107-14321-0 <br>
+Vijay Garg; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005675020108801" title="Wireless Communications and Networking (Abre numa nova janela)" target="_blank" >Wireless Communications and Networking</a>, Morgan Kaufmann Publishers, 2007. ISBN: 978-0-12-373580-5<br>
+Goldsmith, Andrea; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005307090108801" title="Wireless communications (Abre numa nova janela)" target="_blank" >Wireless communications</a>. ISBN: 0-521-83716-2 <br>
+
+## Bibliografia complementar
+Anurag Kumar, D. Manjunath, Joy Kuri; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005633030108801" title="Wireless networking (Abre numa nova janela)" target="_blank" >Wireless networking</a>. ISBN: 978-0-12-374254-4 <br>
+Schiller, Jochen H.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004738770108801" title="Mobile communications (Abre numa nova janela)" target="_blank" >Mobile communications</a>. ISBN: 0-321-12381-6 <br>
+Garodnick, J. 300; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004410900108801" title="IEEE Communications Magazine (Abre numa nova janela)" target="_blank" >IEEE Communications Magazine</a>. ISBN: 0163-6804 <br>
+Naghshineh, Mahmoud 340; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004643020108801" title="IEEE Wireless Communications (Abre numa nova janela)" target="_blank" >IEEE Wireless Communications</a>. ISBN: 1536-1284 1070-9916<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>São usados dois tipos de aulas: teóricas e laboratoriais. Nas aulas teóricas o aluno receberá do professor uma visão sobre o tópico em estudo e um conjunto de apontadores para material a estudar. O aluno deverá fazer o estudo deste material. As aulas laboratoriais serão usadas para os alunos se familiarizarem com aspetos relevantes do projeto de redes de comunicações móveis.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho laboratorial: 60.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Classificações atribuídas de 0 a 20 valores.</p>
+<p>E - classificação do exame final</p>
+<p>FQ - classificação de frequência<br /><br />AD - classificação da avaliação distribuída</p>
+<p>CF - classificação final<br /><br /><br />se ( FQ &gt; E + 5 ) AD = E + 5 senão AD = FQ<br /><br /></p>
+<p>CF = 0,4*AD + 0,6*E<br /><br /></p>
+<p>se ( E &lt; 8,0 ) CF = E<br /><br /><br /></p>
+
+## Obtenção de frequência
+A Frequência é obtida através trabalhos de casa e trabalhos laboratoriais. Para obter frequência o aluno deverá obter uma classificação não inferior 8,0 valores.<br /><p>L - Nota dos trabalhos laboratoriais</p><br /><p>H - Trabalhos de casa semanais</p><br /><p>FQ - FREQUÊNCIA</p><br /><p>FQ = 0,8*L + 0,2*H</p><br /><p>se ( FQ &lt; 8,0 ) FQ = &quot;Sem Frequência&quot;</p>
+
+## Exames ou Trabalhos Especiais
+<p>Não estão previstos regimes de exceção.</p>
+
+## Melhoria de classificação
+<p>A nota de Frequência (FQ) será também considerada na Época de Recurso. Só a componente de Exame (E) poderá ser melhorada na Época de Recurso.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Mobile Communications
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>In the Mobile Communications course are discussed the fundamental aspects of the behaviour of wireless nertworks, the relevant wireless technologies, and techniques required to design  wireless networks.</p>
+
+## Resultados de aprendizagem e competências
+<p>The student should be able to: <span class="Y2IQFc" lang="en">1) understand the fundamental concepts and models of mobile communication systems; 2) apply these models in the study of current mobile communication systems and in the design of future mobile communication systems.</span></p>
+
+## Pré-requisitos e co-requisitos
+<p>Frequência of Redes de Computadores.</p>
+
+## Programa
+<span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;><br />1) Introduction to mobile communications networks<br /></span><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;><br />2) Transmission of information in wireless links<br /> <br /></span><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>3) Wireless data link layer and medium access control<br /><br />4) Wireless mesh networks<br /><br />5) Cellular wireless networks<br /><br />6) Traffic characterization and performance evaluation</span><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;><br /><br /></span><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>7) Mobile communications technologies</span>
+
+## Bibliografia obrigatória
+Cory Beard, William Stallings; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005845410108801" title="Wireless Communication Networks and Systems (Opens in a new window)" target="_blank" >Wireless Communication Networks and Systems</a>, Pearson, 2016. ISBN: 1-292-10871-1<br>
+Miao Guowang 070; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008392270108801" title="Fundamentals of mobile data networks (Opens in a new window)" target="_blank" >Fundamentals of mobile data networks</a>. ISBN: 978-1-107-14321-0 <br>
+Vijay Garg; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005675020108801" title="Wireless Communications and Networking (Opens in a new window)" target="_blank" >Wireless Communications and Networking</a>, Morgan Kaufmann Publishers, 2007. ISBN: 978-0-12-373580-5<br>
+Goldsmith, Andrea; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005307090108801" title="Wireless communications (Opens in a new window)" target="_blank" >Wireless communications</a>. ISBN: 0-521-83716-2 <br>
+
+## Bibliografia complementar
+Anurag Kumar, D. Manjunath, Joy Kuri; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005633030108801" title="Wireless networking (Opens in a new window)" target="_blank" >Wireless networking</a>. ISBN: 978-0-12-374254-4 <br>
+Schiller, Jochen H.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004738770108801" title="Mobile communications (Opens in a new window)" target="_blank" >Mobile communications</a>. ISBN: 0-321-12381-6 <br>
+Garodnick, J. 300; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004410900108801" title="IEEE Communications Magazine (Opens in a new window)" target="_blank" >IEEE Communications Magazine</a>. ISBN: 0163-6804 <br>
+Naghshineh, Mahmoud 340; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004643020108801" title="IEEE Wireless Communications (Opens in a new window)" target="_blank" >IEEE Wireless Communications</a>. ISBN: 1536-1284 1070-9916<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>This course unit is based on two types of classes- theoretical and laboratory. In theoretical classes students will be familiar with the themes of the course unit and materials to study. Laboratory classes will be used by students to be acquainted with aspects related to the design of wireless communication networks.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho laboratorial: 60.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Grades given in a scale from 0 to 20 valores.</p>
+<p>E - grade of final exam</p>
+<p>FQ - grade of FREQUÊNCIA<br /><br />AD - grade of distributed evaluation<br /><br />CF - final grade<br /><br /><br />if ( FQ &gt; E + 5 )  AD = E + 5  else AD = FQ</p>
+<p><br />CF = 0.4 * AD + 0.6*E</p>
+<p><br />if ( E &lt; 8.0 ) CF = E</p>
+<p> </p>
+
+## Obtenção de frequência
+<p>Admission to exams (Frequência) is obtained by executing homeworks and laboratory works. The student shall get a grade not less than 8,0 valores.</p>
+<p>L - Grade of laboratory works</p>
+<p>H - Grade of homeworks</p>
+<p>FQ - FREQUÊNCIA</p>
+<p>FQ = 0,8*L + 0,2*H</p>
+<p>if ( FQ &lt; 8,0 ) FQ = "Sem Frequência"</p>
+
+## Melhoria de classificação
+<p>The grade of Frequência (FQ) is considered in the Época de Recurso. Only the Exame (E) component can be improved in the Época de Recurso.</p>
+

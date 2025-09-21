@@ -1,0 +1,113 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Ciência e Engenharia de Polímeros
+
+## Curso responsável
+Licenciatura em Engenharia Química
+
+## Créditos ECTS
+4,5
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>Esta UC visa dar uma formação complementar em domínios de Química, Física e Engenharia Química, preparando os estudantes para o exercício de funções em empresas que produzam, transformem e/ou comercializem polímeros ou materiais contendo polímeros.</p>
+
+## Resultados de aprendizagem e competências
+Os estudantes deverão adquirir competências sobre a produção, caraterização e aplicação dos principais polímeros sintéticos e naturais e de materiais que os contenham. Deverão também ser capazes de identificar os mecanismos de degradação e processos de reciclagem de materiais poliméricos, bem como os métodos mais relevantes para caracterização química e físico-mecânica e de interpretar os seus resultados. Deverão ainda conseguir descrever a influência dos principais fatores intrínsecos e extrínsecos no desempenho de materiais poliméricos em aplicações práticas.
+
+## Programa
+1. Introdução <br />1.1. Classificações de polímeros e nomenclatura<br />1.2. Estrutura, configuração e conformação das cadeias<br />1.3. Massa molecular<br />2. Morfologia do estado sólido e transições térmicas<br />3. Comportamento mecânico de polímeros sólidos<br />4. Síntese de polímeros<br />5. Biopolímeros<br />6. Degradação dos polímeros e questões ambientais
+
+## Bibliografia obrigatória
+Joel R. Fried; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004794410108801" title="Polymer science and technology (Abre numa nova janela)" target="_blank" >Polymer science and technology</a>. ISBN: 0-13-018168-4<br>
+
+## Bibliografia complementar
+L. H. Sperling; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005316860108801" title="Introduction to Physical Polymer Science (Abre numa nova janela)" target="_blank" >Introduction to Physical Polymer Science</a>. ISBN: 978-0-471-70606-9 <br>
+George Odian; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004572970108801" title="Principles of polymerization (Abre numa nova janela)" target="_blank" >Principles of polymerization</a>. ISBN: 0-471-61020-8 <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas consistem na exposição e discussão de conceitos teóricos e exemplos práticos. A participação ativa dos estudantes é incentivada. Sempre que possível são usados casos de estudo baseados na realidade industrial e realizadas demonstrações práticas com materiais reais, ao vivo ou através de projeções de vídeo. <br /><br /></p>
+<p> </p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 horas
+- Frequência das aulas: 40.0 horas
+- Total:: 90.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação é baseada em dois testes, um durante o semstre e outro na época de exames, abordando partes distintas dos conteúdos. Os estudantes podem optar por, na época de exames realizar um exame global que abarque todos os conteúdos. A classificação final é assim calculada da seguinte forma:</p>
+<p>CF = 0,5 x T1 + 0,5 x T2</p>
+<p>ou:</p>
+<p>CF = EX</p>
+<p>Em que:</p>
+<p>T1 e T2 são as notas dos dois testes e EX é a nota do exame global.</p>
+
+## Obtenção de frequência
+Realização do teste e do exam.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Polymer Science and Engineering
+
+## Curso responsável
+Bachelor in Chemical Engineering
+
+## Créditos ECTS
+4,5
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>This course unit aims to endow students with supplementary training in the domains of Chemistry, Physics and Chemical Engineering, in order to prepare them to work in companies which produce, characterize, transform and/or commercialize polymers or polymer-containing materials.</p>
+
+## Resultados de aprendizagem e competências
+Students should acquire knowledge in production, characterization, and application of the main synthetic and natural polymers and materials that contain them. They should also be able to identify the degradation mechanisms and recycling processes of polymeric materials, as well as the most relevant methods for chemical and physico-mechanical characterization and to interpret their results. They should also be capable of describing the influence of the main intrinsic and extrinsic factors on the performance of polymeric materials in practical applications.
+
+## Programa
+1. Introduction<br /><div style=&quot;padding-left: 30px;&quot;>Classification and nomenclature of polymers</div><br /><div style=&quot;padding-left: 30px;&quot;>Chain structure, configuration and conformation</div><br /><div style=&quot;padding-left: 30px;&quot;>Molecular mass</div><br />2. Solid state morphology and thermal transitions<br />3 Mechanical behavior of solid polymers<br /><br /><div>4. Polymer synthesis</div><br />5. Biopolymers<br />6. Polymer degradation and environmental issues
+
+## Bibliografia obrigatória
+Joel R. Fried; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004794410108801" title="Polymer science and technology (Opens in a new window)" target="_blank" >Polymer science and technology</a>. ISBN: 0-13-018168-4<br>
+
+## Bibliografia complementar
+L. H. Sperling; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005316860108801" title="Introduction to Physical Polymer Science (Opens in a new window)" target="_blank" >Introduction to Physical Polymer Science</a>. ISBN: 978-0-471-70606-9 <br>
+George Odian; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004572970108801" title="Principles of polymerization (Opens in a new window)" target="_blank" >Principles of polymerization</a>. ISBN: 0-471-61020-8 <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Classes consist of the exposition and discussion of theoretical concepts and practical examples. Active student participation is encouraged. Whenever possible, case studies based on industrial reality are used and practical demonstrations are carried out with real materials, live or through video projections.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 hours
+- Frequência das aulas: 40.0 hours
+- Total:: 90.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The evaluation is based on two tests, one during the semester and the other during exam time, addressing different parts of the contents. Students can choose, during the exam season, to take a global exam that covers all contents. The final grade is calculated as follows:</p>
+<p>CF = 0.5 x T1 + 0.5 x T2</p>
+<p>or:</p>
+<p>CF = EX</p>
+<p>Where:</p>
+<p>T1 and T2 are the scores of the two tests and EX is the overall exam score.</p>
+
+## Obtenção de frequência
+Performing the test and exam.
+

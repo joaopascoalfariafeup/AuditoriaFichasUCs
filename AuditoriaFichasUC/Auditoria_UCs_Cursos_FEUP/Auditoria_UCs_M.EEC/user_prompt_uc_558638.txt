@@ -1,0 +1,142 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Informática Industrial
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>A disciplina tem por objectivo desenvolver as seguintes competências: <br />- Ser capaz de analisar, estruturar, conceber, implementar e documentar sistemas de controlo e monitorização industriais de média complexidade, com recurso a ferramentas de modelação (GRAFCET) e a linguagens de programação específicas do domínio de aplicação (definidas nas normas IEC 61131-3 e IEC 61499). <br />- Ser capaz de desenvolver interfaces de monitorização e de controlo supervisório de sistemas de controlo industriais (SCADA)<br />- Ser capaz de analisar, estruturar, conceber, e documentar um sistema de informação industrial que siga a norma ISA 95.<br /><br /><br /><br /></p>
+
+## Resultados de aprendizagem e competências
+<p>A disciplina tem por objectivo desenvolver as seguintes competências: <br />- Ser capaz de analisar, estruturar, conceber, implementar e documentar sistemas de controlo e monitorização industriais de média complexidade, com recurso a ferramentas de modelação (GRAFCET) e a linguagens de programação específicas do domínio de aplicação (definidas nas normas IEC 61131-3 e IEC 61499). <br />- Ser capaz de desenvolver interfaces de monitorização e de controlo supervisório de sistemas de controlo industriais (SCADA)<br />- Ser capaz de analisar, estruturar, conceber, e documentar um sistema de informação industrial que siga a norma ISA 95.<br /><br />e siga a norma ISA95.</p>
+
+## Programa
+<p>- Programação de sistemas de controlo recorrendo às linguagens de programação IEC 61131-3 (incluindo programação orientada a objetos da versão 3 da norma)<br />- Desenvolvimento de aplicações SCADA.<br />- Padrões de Concepção (Design Paterns) utilizados em ambiente industrial (ISA88 e ISA95) <br />- Conceitos de Industria 4.0 (RAMI). <br />- Tecnologias de integração (OPC, XML, AutomationML, B2MML). <br />- IoT para sistemas Industriais e tecnologias associadas (MQTT, AMQP, CoAP, LwM2M, ...)<br />- Introdução a sistemas distribuidos. Programação distribuída de acordo com a norma IEC 61499.</p>
+
+## Bibliografia obrigatória
+Karl-Heinz John, Michael Tiegelkamp; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005369830108801" title="IEC 61131-3: Programming Industrial Automation Systems (Abre numa nova janela)" target="_blank" >IEC 61131-3: Programming Industrial Automation Systems</a>, Springer; 1 edition (April 27, 2001), 2001. ISBN: ISBN-13: 978-3540677529<br>
+Lewis, Robert W.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004848770108801" title="Modelling control systems using IEC 61499 (Abre numa nova janela)" target="_blank" >Modelling control systems using IEC 61499</a>. ISBN: 0-85296-796-9 <br>
+Javier Campos, Carla Seatzu, Xiaolan Xie; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009381180108801" title="Formal Methods in Manufacturing (Abre numa nova janela)" target="_blank" >Formal Methods in Manufacturing</a>, CRC Press. ISBN: 9781138074293<br>
+Dag H. Hanssen; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008387410108801" title="Programmable logic controllers (Abre numa nova janela)" target="_blank" >Programmable logic controllers</a>. ISBN: 978-1-118-94924-5<br>
+Wolfgang Mahnke; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008387400108801" title="OPC Unified architecture (Abre numa nova janela)" target="_blank" >OPC Unified architecture</a>. ISBN: 978-3-540-68898-3 <br>
+Frank Iwanitz; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004842720108801" title="OPC (Abre numa nova janela)" target="_blank" >OPC</a>. ISBN: 3-7785-2904-8 <br>
+Airi Salminen; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008517740108801" title="Communicating with XML (Abre numa nova janela)" target="_blank" >Communicating with XML</a>. ISBN: 978-1-4614-0992-2<br>
+Seatzu, Carla, Silva, Manuel, van Schuppen, Jan H.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009381190108801" title="Control of Discrete-Event Systems (Abre numa nova janela)" target="_blank" >Control of Discrete-Event Systems</a>, Springer-Verlag. ISBN: 978-1-4471-4275-1<br>
+
+## Bibliografia complementar
+Robert W. Lewis; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004524740108801" title="Programming Industrial Control Systems Using Iec 1131-3 (Abre numa nova janela)" target="_blank" >Programming Industrial Control Systems Using Iec 1131-3</a>, Institution of Electrical Engineers; Revised edition (October 1998), 1998. ISBN: ISBN-13: 978-0852969502<br>
+Brandl, Dennis; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005316880108801" title="Design Patterns for Flexible Manufacturing (Abre numa nova janela)" target="_blank" >Design Patterns for Flexible Manufacturing</a>. ISBN: 978-1-55617-998-3 <br>
+John S Rinaldi; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009376460108801" title="OPC UA - Unified Architecture: The Everyman's Guide to the Most Important Information Technology in Industrial Automation  (Abre numa nova janela)" target="_blank" >OPC UA - Unified Architecture: The Everyman's Guide to the Most Important Information Technology in Industrial Automation </a>, CreateSpace Independent Publishing Platform, 2016. ISBN: 978-1530505111<br>
+Bianca Scholten; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005498110108801" title="The road to integration (Abre numa nova janela)" target="_blank" >The road to integration</a>. ISBN: 978-0-9792343-8-5 <br>
+Charlie Gifford; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005498070108801" title="The Hitchhiker.s guide to operations management (Abre numa nova janela)" target="_blank" >The Hitchhiker.s guide to operations management</a>. ISBN: 978-0-9792343-9-2 <br>
+Scholten, B; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009779080108801" title=" MES Guide for Executives: Why and How to Select, Implement, and Maintain a Manufacturing Execution System (Abre numa nova janela)" target="_blank" > MES Guide for Executives: Why and How to Select, Implement, and Maintain a Manufacturing Execution System</a>, International Society of Automation. ISBN: 978-1936007035<br>
+Mikell P. Groover; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005392600108801" title="Automation, production systems, and computer-integrated manufacturing (Abre numa nova janela)" target="_blank" >Automation, production systems, and computer-integrated manufacturing</a>. ISBN: 978-0-13-207073-7 <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>&#8226; Aulas teóricas: exposição dos assuntos a tratar, acompanhados pela apresentação e discussão de exemplos práticos.<br /> &#8226; Aulas práticas: Resolução de exercícios práticos e apoio à realização do projecto semestral (sistema de controlo de célula de fabrico flexível).<br /><br /></p>
+
+## Software
+Beremiz<br>
+Codesys<br>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Elaboração de projeto: 76.5 horas
+- Estudo autónomo: 40.0 horas
+- Frequência das aulas: 45.5 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Nota final é média ponderada das notas obtidas no exame e no projeto.<br /><br />Exame final: peso de 30%<br />Projeto: peso de 70%<br /><br />Para obter aprovação à UC os alunos devem ainda obter uma classificação mínima de 35% em cada uma das componentes de avaliação.<br /><br /></p>
+
+## Obtenção de frequência
+Nota mínima de 50% no projeto
+
+## Exames ou Trabalhos Especiais
+<p>A combinar com os docentes caso a caso</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Industrial Informatics
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p><span class="VIiyi" lang="en"><span class="JLqJ4b ChMk0b" data-language-for-alternatives="en" data-language-to-translate-into="pt" data-phrase-index="1">By the end of the course, students should be capable of:<br />- analysing, structuring, designing, implementing and documenting industrial control systems of medium complexity, using domain specific modelling tools (GRAFCET) and programming languages (IEC 61131-3 and IEC 61499);<br />- develop interfaces for monitoring and supervisory control of industrial control systems;<br />- analysing, structuring, designing, implementing and documenting a manufacturing execution system following the concepts proposed by ISA 95.<br /></span></span></p>
+
+## Resultados de aprendizagem e competências
+<p><span class="VIiyi" lang="en"><span class="JLqJ4b ChMk0b" data-language-for-alternatives="en" data-language-to-translate-into="pt" data-phrase-index="1">By the end of the course, students should be capable of:<br />- analysing, structuring, designing, implementing and documenting industrial control systems of medium complexity, using domain specific modelling tools (GRAFCET) and programming languages (IEC 61131-3 and IEC 61499);<br />- develop interfaces for monitoring and supervisory control of industrial control systems;<br />- analysing, structuring, designing, implementing and documenting a manufacturing execution system following the concepts proposed by ISA 95.</span></span></p>
+
+## Programa
+<p>- Programming industrial control systems using IEC 61131-3 (including object oriented approach supported by version 3 of this standard)<br />- Development of supervisory control applicatons (SCADA)<br />- Desgin Patterns used in Industrial applications (ISA88 and ISA 95). <br />- Industry 4.0 concepts (RAMI). <br />- Industrial integration technologies (OPC, XML, AutomationML, B2MML). <br />- Industrial IoT and related technologies (MQTT, AMQP, CoAP, LwM2M, ...)<br />- Introduction to distributed systems. Distributed programming using IEC 61499.</p>
+
+## Bibliografia obrigatória
+Karl-Heinz John, Michael Tiegelkamp; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005369830108801" title="IEC 61131-3: Programming Industrial Automation Systems (Opens in a new window)" target="_blank" >IEC 61131-3: Programming Industrial Automation Systems</a>, Springer; 1 edition (April 27, 2001), 2001. ISBN: ISBN-13: 978-3540677529<br>
+Lewis, Robert W.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004848770108801" title="Modelling control systems using IEC 61499 (Opens in a new window)" target="_blank" >Modelling control systems using IEC 61499</a>. ISBN: 0-85296-796-9 <br>
+Javier Campos, Carla Seatzu, Xiaolan Xie; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009381180108801" title="Formal Methods in Manufacturing (Opens in a new window)" target="_blank" >Formal Methods in Manufacturing</a>, CRC Press. ISBN: 9781138074293<br>
+Dag H. Hanssen; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008387410108801" title="Programmable logic controllers (Opens in a new window)" target="_blank" >Programmable logic controllers</a>. ISBN: 978-1-118-94924-5<br>
+Wolfgang Mahnke; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008387400108801" title="OPC Unified architecture (Opens in a new window)" target="_blank" >OPC Unified architecture</a>. ISBN: 978-3-540-68898-3 <br>
+Frank Iwanitz; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004842720108801" title="OPC (Opens in a new window)" target="_blank" >OPC</a>. ISBN: 3-7785-2904-8 <br>
+Airi Salminen; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008517740108801" title="Communicating with XML (Opens in a new window)" target="_blank" >Communicating with XML</a>. ISBN: 978-1-4614-0992-2<br>
+Seatzu, Carla, Silva, Manuel, van Schuppen, Jan H.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009381190108801" title="Control of Discrete-Event Systems (Opens in a new window)" target="_blank" >Control of Discrete-Event Systems</a>, Springer-Verlag. ISBN: 978-1-4471-4275-1<br>
+
+## Bibliografia complementar
+Robert W. Lewis; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004524740108801" title="Programming Industrial Control Systems Using Iec 1131-3 (Opens in a new window)" target="_blank" >Programming Industrial Control Systems Using Iec 1131-3</a>, Institution of Electrical Engineers; Revised edition (October 1998), 1998. ISBN: ISBN-13: 978-0852969502<br>
+Brandl, Dennis; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005316880108801" title="Design Patterns for Flexible Manufacturing (Opens in a new window)" target="_blank" >Design Patterns for Flexible Manufacturing</a>. ISBN: 978-1-55617-998-3 <br>
+John S Rinaldi; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009376460108801" title="OPC UA - Unified Architecture: The Everyman's Guide to the Most Important Information Technology in Industrial Automation  (Opens in a new window)" target="_blank" >OPC UA - Unified Architecture: The Everyman's Guide to the Most Important Information Technology in Industrial Automation </a>, CreateSpace Independent Publishing Platform, 2016. ISBN: 978-1530505111<br>
+Bianca Scholten; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005498110108801" title="The road to integration (Opens in a new window)" target="_blank" >The road to integration</a>. ISBN: 978-0-9792343-8-5 <br>
+Charlie Gifford; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005498070108801" title="The Hitchhiker.s guide to operations management (Opens in a new window)" target="_blank" >The Hitchhiker.s guide to operations management</a>. ISBN: 978-0-9792343-9-2 <br>
+Scholten, B; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009779080108801" title=" MES Guide for Executives: Why and How to Select, Implement, and Maintain a Manufacturing Execution System (Opens in a new window)" target="_blank" > MES Guide for Executives: Why and How to Select, Implement, and Maintain a Manufacturing Execution System</a>, International Society of Automation. ISBN: 978-1936007035<br>
+Mikell P. Groover; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005392600108801" title="Automation, production systems, and computer-integrated manufacturing (Opens in a new window)" target="_blank" >Automation, production systems, and computer-integrated manufacturing</a>. ISBN: 978-0-13-207073-7 <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Lectures: presentation of the themes of the course and discussion of practical examples <br />Lab sessions: Resolution of exercises and supervision of the course project (control of a flexible manufacturing cell)<br /><br /></p>
+
+## Software
+Beremiz<br>
+Codesys<br>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Elaboração de projeto: 76.5 hours
+- Estudo autónomo: 40.0 hours
+- Frequência das aulas: 45.5 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Final grade is wiegthed average of grades obtained for exam and course project.<br /><br />Final Exam weight 30%<br />Course project weight 70%<br /><br />To obtain a passing grade, students must also achieve a minimum grade of 35% in each of the assessment components.</p>
+
+## Obtenção de frequência
+<p>Minimum grade of 50% in course project</p>
+
+## Exames ou Trabalhos Especiais
+<p>To be decided with the professors on a case by case basis</p>
+

@@ -1,0 +1,128 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Introdução à Mecânica Quântica
+
+## Curso responsável
+Introdução à Mecânica Quântica
+
+## Créditos ECTS
+1,5
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Transmitir o conhecimento mínimo para compreender os conceitos fundamentais da Mecânica Quântica e as suas aplicações tecnológicas.<br /><br /><br /><br /><br />
+
+## Resultados de aprendizagem e competências
+Após frequentar esta disciplina deverá ser capaz de explicar os postulados da mecânica quântica, resolver a equação de Schrödinger em casos simples e compreender conceitos básicos da mecânica quântica tais como a dualidade onda-partícula, princípio de incerteza, princípio de exclusão e entrelaçamento quântico.<br /><br /><br /><br /><br />
+
+## Pré-requisitos e co-requisitos
+Álgebra linear e Física I (mecânica).<br /><br /><br /><br /><br />
+
+## Programa
+1. Introdução. Breve história da física quântica. Números complexos. Teoria das probabilidades.<br />2. Espaços vetoriais com coeficientes complexos. Notação de &quot;bras&quot; e &quot;kets&quot;.<br />3. Postulados da mecânica quântica.<br />4. Spin. Matrizes de Pauli.<br />5. Sumário de mecânica clássica. Função hamiltoniana e parênteses de Poisson.<br />6. Equação de Schrödinger. Oscilador harmónico quântico.<br />7. Combinação de dois spins.<br />8. Estados entrelaçados.<br /><br /><br /><br />
+
+## Bibliografia obrigatória
+Susskind, L. & Friedman, A.; Quantum Mechanics, The Theoretical Minimum, Penguin Books, 2014. ISBN: 978-0-141-97781-2<br>
+Jaime E. Villate; Introdução à Mecânica Quântica, Edição do autor, 2025 (Disponível em https://villate.org/pt/courses/quantum_mechanics/index.html)<br>
+
+## Bibliografia complementar
+Feynman , Richard P.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002021030108801" title="The feynman lectures on physics (Abre numa nova janela)" target="_blank" >The feynman lectures on physics</a><br>
+Jordan, T. F.; Quantum mechanics in simple matrix form, John Wiley & Sons, 1986. ISBN: 0-471-81751-1<br>
+van Dommelen, L.; Quantum Mechanics for Engineers, Author's edition, 2012<br>
+Zubairy, M. S.; Quantum Mechanics for Beginners, with applications to quantum communication and quantum computing, Oxford University Press, 2020. ISBN: 978-0-19-885423-4<br>
+
+## Métodos de ensino e atividades de aprendizagem
+A matéria será apresentada em 6 aulas teóricas. O estudante deverá entregar um grupo de problemas para resolver em casa e realizar um exame final.<br /><br /><br /><br /><br />
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 16.5 horas
+- Frequência das aulas: 12.0 horas
+- Trabalho escrito: 12.0 horas
+- Total:: 40.5 horas
+
+## Fórmula de cálculo da classificação final
+0.3 (nota dos problemas) + 0.7 (nota do exame)<br /><br /><br /><br /><br />
+
+## Obtenção de frequência
+Obtém frequência um estudante regularmente inscrito que tenha frequentado pelo menos 75% das aulas e que tenha entregue o trabalho para casa.<br /><br /><br /><br /><br />
+
+## Exames ou Trabalhos Especiais
+<br /><br /><br /><br /><br /><br />
+
+## Melhoria de classificação
+<br /><br /><br /><br /><br /><br />
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Introduction to Quantum Mechanics
+
+## Curso responsável
+Introduction to Quantum Mechanics
+
+## Créditos ECTS
+1,5
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+To provide the minimum knowledge necessary to understand the fundamental concepts of Quantum Mechanics.<br /><br /><br /><br /><br />
+
+## Resultados de aprendizagem e competências
+After attending this course you should be able to explain the postulates of quantum mechanics, solve Schrödinger's equation in simple cases and understand basic quantum mechanics concepts such as particle-wave duality, uncertainty principle, exclusion principle and quantum entanglement.<br /><br /><br /><br /><br />
+
+## Pré-requisitos e co-requisitos
+Linear algebra and Physics I (mechanics).<br /><br /><br /><br /><br />
+
+## Programa
+1. Introduction. Brief history of Quantum Physics. Complex numbers. Theory of probabilities.<br />2. Vector spaces with complex coefficients. &quot;bra&quot; and &quot;ket&quot; notation. Probability theory.<br />3. Postulates of Quantum Mechanics.<br />4. Spin. Pauli matrices.<br />5. Summary of classical mechanics. Hamiltonian function and Poisson brackets.<br />6. Schrödinger equation. Quantum harmonic oscillator.<br />7. Combination of two spins.<br />8. Entangled states.<br /><br />
+
+## Bibliografia obrigatória
+Susskind, L. & Friedman, A.; Quantum Mechanics, The Theoretical Minimum, Penguin Books, 2014. ISBN: 978-0-141-97781-2<br>
+Jaime E. Villate; Introdução à Mecânica Quântica, Edição do autor, 2025 (Available at https://villate.org/pt/courses/quantum_mechanics/index.html)<br>
+
+## Bibliografia complementar
+Feynman , Richard P.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002021030108801" title="The feynman lectures on physics (Opens in a new window)" target="_blank" >The feynman lectures on physics</a><br>
+Jordan, T. F.; Quantum mechanics in simple matrix form, John Wiley & Sons, 1986. ISBN: 0-471-81751-1<br>
+van Dommelen, L.; Quantum Mechanics for Engineers, Author's edition, 2012<br>
+Zubairy, M. S.; Quantum Mechanics for Beginners, with applications to quantum communication and quantum computing, Oxford University Press, 2020. ISBN: 978-0-19-885423-4<br>
+
+## Métodos de ensino e atividades de aprendizagem
+The subjects of the course will be delivered in 6 theoretical lectures. The student will have to submit the solution to a group of take-home problems and to attend a final exam.<br /><br /><br /><br /><br />
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 16.5 hours
+- Frequência das aulas: 12.0 hours
+- Trabalho escrito: 12.0 hours
+- Total:: 40.5 hours
+
+## Fórmula de cálculo da classificação final
+0.3 (problems' grade) + 0.7(exam's grade)<br /><br /><br /><br /><br />
+
+## Obtenção de frequência
+Any student officially enrolled in the course who attends at least 75% of the lectures and submits the take-home problems is eligible to take the final exam. <br /><br /><br /><br /><br />
+
+## Exames ou Trabalhos Especiais
+<br /><br /><br /><br /><br /><br />
+
+## Melhoria de classificação
+<br /><br /><br /><br /><br /><br />
+

@@ -1,0 +1,124 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Projeto de Dissertação
+
+## Curso responsável
+Mestrado em Engenharia de Segurança e Higiene Ocupacionais
+
+## Créditos ECTS
+9
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<div style=&quot;text-align: justify;&quot;>O objetivo global é o de:</div><br /><div style=&quot;text-align: justify;&quot;>Desenvolver o conjunto de competências metodológicas que capacitem cada estudante a circunscrever um tema, identificar um problema e definir objetivos de trabalho.<br /><br />Nos casos em que a dissertação atribuída seja acolhida numa instituição externa, é possível que uma parte do trabalho de preparação no âmbito desta Unidade Curricular já seja efetuado nas instalações da instituição, com um responsável pelo acompanhamento por esta designado.</div>
+
+## Resultados de aprendizagem e competências
+<div style=&quot;text-align: justify;&quot;>Após conclusão da UC o estudante deve ter desenvolvido conhecimentos aptidões e competências que lhe permitam:</div><br /><div style=&quot;text-align: justify;&quot;><br /><ol><br /><li>Delimitar uma área de trabalho/investigação e identificar um tema</li><br /><li>Desenvolver uma pesquisa bibliográfica</li><br /><li>Construir uma matriz de conhecimento</li><br /><li>Definir e delimitar um problema de trabalho/investigação</li><br /><li>Formular hipóteses de resolução</li><br /><li>Definir objetivos (geral e específicos)</li><br /><li>Justificar a relevância do trabalho proposto</li><br /><li>Desenhar uma metodologia para o desenvolvimento do trabalho</li><br /><li>Identificar procedimentos e meios necessários</li><br /><li>Desenhar e planear o desenvolvimento do projeto de investigação</li><br /></ol><br />Delinear a forma de disseminação do conhecimento adquirido</div>
+
+## Pré-requisitos e co-requisitos
+n.a.
+
+## Programa
+<ol><br /><li style=&quot;text-align: justify;&quot;>Introdução à metodologia da investigação;</li><br /><li style=&quot;text-align: justify;&quot;>Racionalização e estruturação do processo de investigação;</li><br /><li style=&quot;text-align: justify;&quot;>Metodologias, métodos e técnicas de pesquisa do conhecimento;</li><br /><li style=&quot;text-align: justify;&quot;>Comunicação e divulgação dos resultados de investigação;</li><br /><li style=&quot;text-align: justify;&quot;>Elaboração de um projeto de dissertação;</li><br /><li style=&quot;text-align: justify;&quot;>Planeamento de projetos de investigação.</li><br /></ol>
+
+## Bibliografia obrigatória
+McMillan Kathleen; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005665540108801" title="How to write dissertations and project reports (Abre numa nova janela)" target="_blank" >How to write dissertations and project reports</a>. ISBN:  978-0-273-74383-5<br>
+
+## Bibliografia complementar
+Sarah Tracy; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005802100108801" title="Qualitative Research Methods: Collecting Evidence, Crafting Analysis, Communicating Impact (Abre numa nova janela)" target="_blank" >Qualitative Research Methods: Collecting Evidence, Crafting Analysis, Communicating Impact</a>, Willey, 2013<br>
+William Ellet; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990001113630108801" title="The Case Study Handbook: How to Read, Discuss, and Write Persuasively About Cases (Abre numa nova janela)" target="_blank" >The Case Study Handbook: How to Read, Discuss, and Write Persuasively About Cases</a>, Harvard Business Review Press, 2007. ISBN: 9781422101582<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<div style=&quot;text-align: justify;&quot;>A metodologia de ensino aplicada assenta em quatro componentes:</div><br /><ul><br /><li style=&quot;text-align: justify;&quot;><br /><div>Exposição dos conteúdos de caráter conceptual pelo docente; </div><br /></li><br /><li style=&quot;text-align: justify;&quot;><br /><div>Discussão das problemáticas de investigação em grupos temáticos e em grande grupo; </div><br /></li><br /><li style=&quot;text-align: justify;&quot;><br /><div>Prática assistida de pesquisa de informação; </div><br /></li><br /><li><br /><div style=&quot;text-align: justify;&quot;>Trabalho individual com apoio tutorial.</div><br /></li><br /></ul><br /><p style=&quot;text-align: justify;&quot;><br />A avaliação é efetuada a partir da apresentação pública de um Projeto de Dissertação, o qual deve incluir uma revisão sistemática sobre o estado da arte em três vertentes: científica, técnica e legal.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 2.5 horas
+- Elaboração de projeto: 44.0 horas
+- Frequência das aulas: 45.5 horas
+- Trabalho de investigação: 70.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+Trabalhos parcelares: 15 %<br />Apresentação dos trabalhos: 10 %<br />Participação nas aulas tutoriais: 5 % <br />Projeto de Dissertação (relatório): 60 %<br />Apresentação do Projeto de Dissertação: 10 %
+
+## Obtenção de frequência
+Condições de Frequência: presença em, pelo menos, 75% das aulas.
+
+## Exames ou Trabalhos Especiais
+n.a.
+
+## Melhoria de classificação
+Apresentação e defesa de um Projeto de Dissertação.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Dissertation project
+
+## Curso responsável
+Master in Occupational Safety and Hygiene Engineering
+
+## Créditos ECTS
+9
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+The overall objective is to:<br />Develop a set of methodological skills that enable each student to circumscribe a theme, identify a problem and define work objectives.<br /><br />In cases where the assigned dissertation is hosted in an external institution, it is possible that part of the preparatory work under this Curricular Unit will be done in the institution's facilities, with a tutor defined by it.
+
+## Resultados de aprendizagem e competências
+<div style=&quot;text-align: justify;&quot;>After completion of the UC students should have developed knowledge and skills that enable:</div><br /><div style=&quot;text-align: justify;&quot;><br /><ol><br /><li>Delimiting an area of work/research and identifying a theme</li><br /><li>Develop a literature search</li><br /><li>Build a knowledge matrix</li><br /><li>Define and delimit a work/research problem</li><br /><li>Formulate hypotheses for solving the problem</li><br /><li>Define objectives (general and specific)</li><br /><li>Justify the relevance of the proposed work</li><br /><li>To draw a methodology for the development of the work</li><br /><li>Identify the procedures and the necessary resources</li><br /><li>Design and plan the development of the research project</li><br /></ol><br />Outline the procedures for dissemination of the acquired knowledge</div>
+
+## Pré-requisitos e co-requisitos
+n.a.
+
+## Programa
+<ol><br /><li style=&quot;text-align: justify;&quot;>Introduction to the research methodology;</li><br /><li style=&quot;text-align: justify;&quot;>Rationalisation and structuration of the research process;</li><br /><li style=&quot;text-align: justify;&quot;>Methodologies, methods and techniques, research knowledge;</li><br /><li style=&quot;text-align: justify;&quot;>Communication and dissemination of research results;</li><br /><li style=&quot;text-align: justify;&quot;>Preparation of a dissertation project;</li><br /><li style=&quot;text-align: justify;&quot;>Planning research projects.</li><br /></ol>
+
+## Bibliografia obrigatória
+McMillan Kathleen; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005665540108801" title="How to write dissertations and project reports (Opens in a new window)" target="_blank" >How to write dissertations and project reports</a>. ISBN:  978-0-273-74383-5<br>
+
+## Bibliografia complementar
+Sarah Tracy; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005802100108801" title="Qualitative Research Methods: Collecting Evidence, Crafting Analysis, Communicating Impact (Opens in a new window)" target="_blank" >Qualitative Research Methods: Collecting Evidence, Crafting Analysis, Communicating Impact</a>, Willey, 2013<br>
+William Ellet; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990001113630108801" title="The Case Study Handbook: How to Read, Discuss, and Write Persuasively About Cases (Opens in a new window)" target="_blank" >The Case Study Handbook: How to Read, Discuss, and Write Persuasively About Cases</a>, Harvard Business Review Press, 2007. ISBN: 9781422101582<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<div style=&quot;text-align: justify;&quot;>The applied teaching methodology is based on four components:</div><br /><div style=&quot;text-align: justify;&quot;><br /><ul><br /><li>Presentation of the conceptual basic content by the teacher ;</li><br /><li>Discussion of research issues in thematic groups and in large groups;</li><br /><li>Assisted practice of information research;</li><br /><li>Individual work with tutorial support.</li><br /></ul><br /></div><br /><div style=&quot;text-align: justify;&quot;>The evaluation is carried out through the public presentation of a Master Dissertation Project, which should include a systematic review of the state of the art in three areas: scientific, technical and legal.</div>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 2.5 hours
+- Elaboração de projeto: 44.0 hours
+- Frequência das aulas: 45.5 hours
+- Trabalho de investigação: 70.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+Partial assignments: 15%<br />Presentation of assignments: 10%<br />Participation in tutorial classes: 5%<br />Dissertation project (report): 60%<br />Presentation of dissertation project: 10%
+
+## Obtenção de frequência
+Terms of frequency: Minimum attendance required of 75%.
+
+## Exames ou Trabalhos Especiais
+n.a.
+
+## Melhoria de classificação
+Presentation and defence of a new Dissertation Project.
+

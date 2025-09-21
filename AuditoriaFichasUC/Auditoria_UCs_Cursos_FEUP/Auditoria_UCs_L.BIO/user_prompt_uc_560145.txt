@@ -1,0 +1,447 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Biologia Celular
+
+## Curso responsável
+Licenciatura em Bioengenharia
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>A bioengenharia é uma disciplina que aplica princípios de engenharia de projeto e análise a sistemas biológicos e tecnologias biomédicas. Exemplos de investigação em bioengenharia incluem células concebidas para produzir produtos químicos, terapias para doenças, envelhecimento, engenharia de tecidos e órgãos, tecnologias de imagiologia médica, dispositivos de diagnóstico, implantes terapêuticos, próteses biónicas inteligentes, robótica, informática de IA aplicada, criação de empresas de biotecnologia.</p>
+<p>Os estudantes de bioengenharia são formados em fundamentos de biologia e engenharia, que podem incluir elementos de engenharia elétrica e mecânica, ciência da computação, ciência dos materiais, química e biologia. Esta amplitude permite que alunos e professores se especializem nas suas áreas de interesse e colaborem amplamente com investigadores em áreas afins.</p>
+<p>Os graduados seguem carreiras de sucesso na academia, na medicina e numa grande variedade de indústrias.</p>
+<p> </p>
+<p>Para se atingirem estes objetivos, conhecer como funciona a célula e os tecidos é, pois, fundamental.</p>
+<p>Na Unidade Curricular (UC) de Biologia Celular pretende-se que o estudante, numa perspetiva de biologia e fisiologia adaptadas à Bioengenharia:</p>
+<p>-Adquira os princípios básicos das moléculas e de como interagem.</p>
+<p>- Compreenda a diversidade celular.</p>
+<p>-Adquira os princípios básicos de microscopia;</p>
+<p>-Reconheça e compreenda a estrutura e função dos diversos componentes celulares e seja capaz de aplicar estes fundamentos básicos à dinâmica funcional das células, dos tecidos, órgãos e sistemas.</p>
+<p>-Adquira conhecimentos no reconhecimento de tecidos em imagiologia e da importância da radiologia de intervenção.</p>
+
+## Resultados de aprendizagem e competências
+<p><strong>Competências específicas a adquirir:</strong></p>
+<p>-Reconhecimento e modelação de biomoléculas.</p>
+<p>-Compreender o funcionamento dos diferentes tipos de microscópios.</p>
+<p>-Saber utilizar em autonomia o microscópio ótico.</p>
+<p>-Compreender o processamento de material biológico para microscopia ótica e eletrónica.</p>
+<p>-Identificar as estruturas, organelos e especializações das células.</p>
+<p>-Correlacionar os diferentes componentes da célula com a sua função no metabolismo.</p>
+<p>-Correlacionar as interações entre células e com o ambiente que as rodeia.</p>
+<p>-Deter conhecimento sobre o ciclo celular, de como se dividem, regeneram e morrem as células.</p>
+<p>-Reconhecer a integração celular em diferentes tecidos e de como estes se regulam.</p>
+<p>-Aquisição de competências no reconhecimento de tecidos em imagiologia e de como são passíveis de serem intervencionados.</p>
+<p><strong>Competências gerais a adquirir:</strong></p>
+<p>-Pensamento crítico e capacidade de resolução de problemas.</p>
+<p>-Colaboração, agilidade e adaptabilidade.</p>
+<p>-Iniciativa e empreendedorismo.</p>
+<p>-Boa comunicação oral e escrita.</p>
+<p>-Capacidade de aceder à informação e analisá-la.</p>
+<p>-Curiosidade e imaginação.</p>
+<p>-Resolução de problemas.</p>
+<p>-Saber trabalhar em grupo e saber debater temas, procedimentos e resultados.</p>
+<p>-Aprender a ser disciplinado, educado e respeitador em relação à Instituição, docentes e colegas.</p>
+<p><strong>O que o mercado de trabalho exige de um licenciado:</strong></p>
+<p>-Que possua conhecimentos sólidos.</p>
+<p>-Que seja autónomo.</p>
+<p>-Tenha a capacidade de aprendizagem contínua.</p>
+<p>-Que seja capaz de produzir conhecimento.</p>
+<p>-Que saiba resolver problemas.</p>
+<p>-Que seja capaz de interagir com pessoas, por vezes de múltiplas nacionalidades e backgrounds culturais diferentes.</p>
+<p>-Que seja capaz de se adaptar a novas situações.</p>
+<p> </p>
+
+## Pré-requisitos e co-requisitos
+<p>Necessita-se que o estudante tenha conhecimentos básicos de biologia celular do nível do 10º-12º ano do Liceu.</p>
+
+## Programa
+<p><strong>TEMAS TEÓRICOS</strong></p>
+<p>1-Apresentação. Programa. Metodologia de ensino e de avaliação.</p>
+<p>-Diversidade celular</p>
+<p>2-Microscopia.</p>
+<p>Técnicas de Microscopia</p>
+<p>3-Biomoléculas I</p>
+<p>4-Biomoléculas II</p>
+<p>5-Membranas biológicas I</p>
+<p>6-Membranas biológicas II</p>
+<p>7-Núcleo</p>
+<p>8-Replicação</p>
+<p>9-Transcrição</p>
+<p>10-Ribossoma</p>
+<p>-Síntese proteica</p>
+<p>11-Citosqueleto I</p>
+<p>12-Citosqueleto II</p>
+<p>13-Retículo endoplasmático</p>
+<p>14-Complexo de Golgi</p>
+<p>-Exocitose</p>
+<p>15-Lisossomas</p>
+<p>-Endocitose</p>
+<p>16-Peroxissomas</p>
+<p>17-Metabolismo</p>
+<p>18-Mitocôndrias</p>
+<p>19-Cloroplastos</p>
+<p>20-Adesão celular</p>
+<p>-Parede das células vegetais</p>
+<p>-Matriz extracelular</p>
+<p>21-Imagiologia dos Tecidos.</p>
+<p>22-Ciclo celular</p>
+<p>23-Mitose, Meiose</p>
+<p>24-Apoptose</p>
+<p>25-Gâmetas e Fertilização</p>
+<p>26-Bioengenharia de Tecidos</p>
+<p> </p>
+<p><strong>TEMAS PRÁTICOS</strong></p>
+<p>1-Microscópio ótico de fundo claro. Estrutura. Ótica</p>
+<p>-Aprendizagem em autonomia do manuseamento do microscópio ótico de fundo claro.</p>
+<p>2-Metodologia de processamento de material biológico para microscopia ótica e eletrónica</p>
+<p>3-Tecido Epitelial, Pele e Anexos</p>
+<p>4-Tecido Conjuntivo: propriamente dito e adiposo</p>
+<p>5-Postura e Movimento. Tecido ósseo. Tecido cartilagíneo. Tecido muscular estriado esquelético</p>
+<p>6-Sistema Circulatório. Tecido muscular estriado cardíaco. Vasos arteriais e venosos. Sangue</p>
+<p>7-Sistema Digestivo. Glândulas anexas</p>
+<p>8-Sistema Respiratório</p>
+<p>9-Sistema Nervoso</p>
+<p>10-Sistema Urinário</p>
+<p>11-Sistemas Reprodutores</p>
+<p>12-Imagiologia ecográfica dos tecidos moles e articulações. Radiologia de intervenção.</p>
+<p>13-Diagnóstico de organelos e estruturas celulares em imagens de microscopia eletrónica.</p>
+
+## Bibliografia obrigatória
+Young , Barbara; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990001642700108801" title="Wheater.s functional histology : a text and colour atlas (Abre numa nova janela)" target="_blank" >Wheater.s functional histology : a text and colour atlas</a>. ISBN: 978-0-7020-4747-3<br>
+Alberts , Bruce; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009545650108801" title="Molecular biology of the cell (Abre numa nova janela)" target="_blank" >Molecular biology of the cell</a>. ISBN: 9780393884821<br>
+Junqueira , Luis Carlos Uchôa; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009795500108801" title="Histologia básica : texto e atlas (Abre numa nova janela)" target="_blank" >Histologia básica : texto e atlas</a>. ISBN: 978-85-277-3181-2<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Blended-learning com atividades síncronas e assíncronas. Exposição dos conteúdos programáticos teóricos apoiada por meios audiovisuais e debate dos mesmos singularizando o papel da Engenharia na investigação em Biologia Celular. Componente prática laboratorial dedicada à execução de técnicas de microscopia, observação de tecidos em cortes histológicos, identificação das estruturas e organelos celulares em microscopia eletrónica, e radiologia de intervenção.</p>
+<p>-As aulas Teórico-Práticas são dinâmicas, permitindo interação com os estudantes.</p>
+<p>-As aulas Práticas são experimentais, personalizadas, permitindo integração com o conhecimento teórico, discussão interativa e trabalho de grupo, habilitando para o uso de instrumentos e de identificadores de modo autónomo.<br /><br />-Trabalho de campo: construção de modelo prático de resolução de problema real usando tecnologia de bioengenharia</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 97.0 horas
+- Frequência das aulas: 65.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p><strong>1-Exame final</strong>:</p>
+<p><strong>1.1-Perguntas de escolha múltipla</strong> sobre a matéria das aulas teóricas. Cada questão apresenta 5 alternativas. O aluno só pode assinalar uma resposta. As respostas erradas não descontam.</p>
+<p>-50 questões de escolha múltipla (2 por cada tema teórico), 50 minutos.</p>
+<p><strong>60% do Total-12 valores</strong><strong>.</strong></p>
+<p><strong>1.2-Identificação de imagens de tecidos</strong></p>
+<p>Identificação de imagens de microscopia ótica (tecidos). Para cada elemento assinalado existem 3 alternativas, das quais só uma está correta. O aluno deverá indicar a alínea correta. O aluno só pode assinalar uma resposta. As respostas erradas não descontam.</p>
+<p>-25 questões de escolha múltipla, 25 minutos.</p>
+<p><strong>10% do Total -2 valores</strong></p>
+<p><strong>1.3-Identificação de estruturas celulares</strong></p>
+<p>Identificação de estruturas e organelos celulares em imagens de microscopia eletrónica. Para cada estrutura celular assinalada existem 3 alternativas, das quais só uma está correta. O aluno deverá indicar a alínea correta. O aluno só pode assinalar uma resposta. As respostas erradas não descontam.</p>
+<p>-25 questões de escolha múltipla, 25 minutos.</p>
+<p><strong>10% do Total -2 valores</strong></p>
+<p><strong>1.4-Avaliação contínua</strong></p>
+<p>Cada estudante deverá elaborar um texto onde desenhe uma tarefa profissional em que gostasse de estar envolvido no seu futuro profissional. Exemplos: terapia genética, terapia génica, produção de vacinas, produção de anticorpos, produção de medicamentos, produção de biomateriais, produção de equipamentos, bactérias concebidas para produzir produtos químicos, novas tecnologias de imagiologia médica, dispositivos portáteis de diagnóstico de doenças e órgãos, tecidos e implantes de engenharia de tecidos, etc. Devem partir de uma necessidade real e efetuar uma construção de bioengenharia para resolver o problema (exemplos de necessidades reais: bioterrorismo, pandemia, queimados, politraumatizados, próteses, bioandroides, cirurgia plástica e reconstrutiva, bioengenharia espacial, bioengenharia aquática, bioengenharia de degradação de poluentes, bioengenharia de purificação do ar, doenças respiratórias, doenças renovesicais, doenças vasculares, doenças neuromusculares, doenças metabólicas, transplantes, doenças genéticas, etc). Sejam imaginativos e originais, mas ao mesmo tempo realistas.</p>
+<p><strong>20% do Total -4 valores</strong><strong>.</strong></p>
+<p><br /><strong>2-Classificação final</strong>:</p>
+<p>Exame final + Análise de imagens + Avaliação contínua</p>
+<p> </p>
+<p><strong>NORMAS DA AVALIAÇÃO CONTÍNUA</strong>:</p>
+<p>Formatação: A4, Times New Roman, tamanho 11, espaçamento 1.25. Paginação no canto superior direito. Numerar linhas de modo contínuo. Colocar no cabeçalho do word: nome completo, Tema, LBIO-BC 2025-2026, Turma.</p>
+<p> </p>
+<p><strong>Data limite de entrega dos trabalhos</strong> (O PDF deve ser nomeado com: nome completo-tema): <strong>1 de Maio 2026<br /></strong></p>
+<p> </p>
+<p>Organização do conteúdo. Introdução: introdução ao problema e resumir o que se já se fez (referências em números) para o resolver (1 página). Materiais e métodos: desenho biotecnológico para solução do problema (1-3 páginas). Resultados esperados e discussão face a outros trabalhos sob a resolução do mesmo problema (1-2 páginas). Referências (última página)</p>
+<p>-Formatação das referências (exemplos a seguir obrigatoriamente):</p>
+<p><strong>Artigo</strong>:</p>
+<ol>
+<li>Gonçalves A, Fortuna AM, Ariyurek Y, Oliveira ME, Nadais G, Pinheiro J, den Dunnen JT, Sousa M, Oliveira J, Santos R. Integrating whole-genome sequencing clinical genetics: identification of a novel disruptive structural rearrangement in the dystrophin gene. Journal of Molecular Sciences. 2022; <em>23</em>(1):1-10.</li>
+</ol>
+<p><a href="https://doi.org/10.3390/ijms23010059">https://doi.org/10.3390/ijms23010059</a></p>
+<p><strong>Capítulo de livro</strong>:</p>
+<ol>
+<li>Zariwala MA, Knowles MR, Leigh MW. Primary Ciliary Dyskinesia. In: Gene Reviews. Adam MP, Everman DB, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH, Gripp KW, Amemiya A, editors. University of Washington, Seattle, USA; 2017. p:1993&#8211;2023.</li>
+</ol>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/20301301/">https://pubmed.ncbi.nlm.nih.gov/20301301/</a></p>
+<p><strong>Livro</strong>:</p>
+<ol>
+<li>WHO, World Health Organization. Semen analysis. In: Laboratory manual for the examination and processing of human semen. World Health Organization, editors. WHO Press, Geneva, Switzerland; 2021. p:114 pages.</li>
+</ol>
+<p><a href="https://www.who.int/publications/i/item/9789240030787">https://www.who.int/publications/i/item/9789240030787</a></p>
+<p> </p>
+<p> CUIDADOS:</p>
+<p>--Devem ser rigorosos e metódicos, usando uma linguagem cuidadosa e culta.</p>
+<p>--Evitar frases longas. Muitos textos são prejudicados porque não se consegue entender.</p>
+<p>--Efetuar pontuação correta (não havendo pontuação, não se consegue entender).</p>
+<p>--Sempre que se utilizem valores, deve-se indicar o intervalo de referência. ex: estradiol 2 ng/ml (0.1-1.5 ng/ml).</p>
+<p><br />ERROS FREQUENTES:</p>
+<p>-Repetição de conteúdos</p>
+<p>-Uso de linguagem coloquial:</p>
+<p>Errado: como sabem, a FSH tem recetores nas células da granulosa</p>
+<p>Certo: a FSH liga-se aos seus recetores nas células da granulosa</p>
+<p>-Errado: esperma</p>
+<p>Certo (expressão científica): sémen/ejaculado</p>
+<p>-Uso de anglicismos:</p>
+<p>Errado: varicocele</p>
+<p>Certo: varicocelo</p>
+<p>Errado: oocito, oogénese</p>
+<p>Certo: ovócito, ovogénese</p>
+<p>-Uso de brasileirismos:</p>
+<p>Errado: varicocele, congênita</p>
+<p>Certo: varicocelo, congénita</p>
+<p>-Erros ortográficos:</p>
+<p>Errado: espermatozóide, oócito, oogénese</p>
+<p>Certo: espermatozoide, ovócito, ovogénese</p>
+<p>-Uso de siglas sem primeiramente as explicitar por extenso:</p>
+<p>-Errado: FSH, SOP</p>
+<p>Certo: hormona folículo-estimulante (FSH), síndrome do ovário Poliquístico (SOP)</p>
+<p>-Não se pode mencionar sem explicar porquê. ex: o SOP causa disfunção ovulatória (tem de se explicar o mecanismo).</p>
+<p>-Errado: Síndrome de Beckwith-Weidemann.</p>
+<p>Certo: Síndrome de Beckwith-Wiedemann (condição congénita de hipercrescimento caraterizada por macroglossia, gigantismo, onfalocele, visceromegalia e aumento de risco de neoplasias embrionárias)</p>
+
+## Obtenção de frequência
+<p>-Avaliação contínua e Avaliação Final.</p>
+<p>-Exame Final e Exame de Recurso (1 Junho-3 Julho).</p>
+<p><strong>-</strong>Nas aulas Práticas, os alunos não podem exceder em 25% o número de faltas não oficialmente justificadas (normas segundo a Lei).</p>
+<p>-O aluno que exceder este número fica automaticamente reprovado.</p>
+<p>-A frequência das aulas Práticas não entra para efeitos de avaliação.</p>
+
+## Exames ou Trabalhos Especiais
+Nenhum
+
+## Melhoria de classificação
+<p>Só pode ser efetuado no exame de Recurso</p>
+<p>A classificação do trabalho escrito será mantida.</p>
+<p>Na parte Teórica, a classificação será a mais altas das duas.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Cellular Biology
+
+## Curso responsável
+Bachelor in Bioengineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p><strong>OBJECTIVES</strong></p>
+<p>Bioengineering is a discipline that applies engineering principles of design and analysis to biological systems and biomedical technologies. Examples of bioengineering research include engineered cells to produce chemicals, therapies for disease, aging, tissue and organ engineering, medical imaging technologies, diagnostic devices, therapeutic implants, intelligent bionic prosthetics, robotics, applied AI computing, and the creation of biotechnology companies.</p>
+<p>Bioengineering students are trained in the fundamentals of biology and engineering, which may include elements of electrical and mechanical engineering, computer science, materials science, chemistry, and biology. This breadth allows students and faculty to specialize in their areas of interest and collaborate extensively with researchers in related fields.</p>
+<p>Graduates go on to successful careers in academia, medicine, and a wide variety of industries.</p>
+<p> </p>
+<p>For these objectives to be achieved, understanding how cells and tissue&#8217;s function is therefore essential.</p>
+<p>In the Cell Biology Curricular Unit (UC), the aim is for the student, from a perspective of biology and physiology adapted to Bioengineering, is to:</p>
+<p>-Acquire the basic principles of molecules and how they interact.</p>
+<p>-Understand cellular diversity.</p>
+<p>-Acquire the basic principles of microscopy;</p>
+<p>-Recognize and understand the structure and function of the various cellular components and be able to apply these basic fundamentals to the functional dynamics of cells, tissues, organs and systems.</p>
+<p>-Acquire knowledge in tissue recognition in imageology and the importance of interventional radiology.</p>
+
+## Resultados de aprendizagem e competências
+<p><strong>LEARNING OUTCOMES AND SKILLS</strong></p>
+<p><strong>Specific skills to be acquired:</strong></p>
+<p>-Recognition and modelling of biomolecules.</p>
+<p>-Understand how the different types of microscopes work.</p>
+<p>-Know how to use the optical microscope independently.</p>
+<p>-Understand the processing of biological material for optical and electron microscopy.</p>
+<p>-Identify the structures, organelles and specializations of cells.</p>
+<p>-Correlate the different components of the cell with their function in metabolism.</p>
+<p>-Correlate the interactions between cells and the environment that surrounds them.</p>
+<p>-Have knowledge about the cell cycle, how cells divide, regenerate and die.</p>
+<p>-Recognize cellular integration in different tissues and how they are regulated.</p>
+<p>-Acquisition of skills in recognizing tissues in images and how they can be intervened.</p>
+<p><strong>General skills to be acquired:</strong></p>
+<p>-Critical thinking and problem-solving skills.</p>
+<p>-Collaboration, agility and adaptability.</p>
+<p>-Initiative and entrepreneurship.</p>
+<p>-Good oral and written communication.</p>
+<p>-Ability to access information and analyse it.</p>
+<p>-Curiosity and imagination.</p>
+<p>-Know how to solve problems.</p>
+<p>-Know how to work in a group and discuss topics, procedures and results.</p>
+<p>-Learn to be disciplined, polite and respectful towards the Institution, teachers and colleagues.</p>
+<p><strong>What the job market demands from a bachelor's degree holder:</strong></p>
+<p>-That has solid knowledge.</p>
+<p>-That it be autonomous.</p>
+<p>-Have the ability for continuous learning.</p>
+<p>-That is capable of producing knowledge.</p>
+<p>-Who knows how to solve problems.</p>
+<p>-Be able to interact with people, sometimes of multiple nationalities and different cultural backgrounds.</p>
+<p>-May you be able to adapt to new situations.</p>
+
+## Pré-requisitos e co-requisitos
+<p>The student must have basic knowledge of cell biology at the 10th-12th grade high school level.</p>
+
+## Programa
+<p><strong>PROGRAM</strong></p>
+<p><strong>THEORETICAL TOPICS</strong></p>
+<p>1-Presentation. Program. Teaching and assessment methodology.</p>
+<p>-Cellular diversity</p>
+<p>2-Microscopy. Microscopy Techniques</p>
+<p>3-Biomolecules I</p>
+<p>4-Biomolecules II</p>
+<p>5-Biological membranes I</p>
+<p>6-Biological membranes II</p>
+<p>7-The nucleus</p>
+<p>8-DNA Replication</p>
+<p>9-DNA Transcription</p>
+<p>10-Ribosomes. Protein synthesis</p>
+<p>11-Cytoskeleton I</p>
+<p>12-Cytoskeleton II</p>
+<p>13-Endoplasmic reticulum</p>
+<p>14-Golgi Complex. Exocytosis</p>
+<p>15-Lysosomes. Endocytosis</p>
+<p>16-Peroxisomes</p>
+<p>17-Metabolism</p>
+<p>18-Mitochondria</p>
+<p>19-Chloroplasts</p>
+<p>20-Cell adhesion. Plant cell wall. Extracellular matrix</p>
+<p>21-Tissue imaging.</p>
+<p>22-Cell cycle</p>
+<p>23-Mitosis, Meiosis</p>
+<p>24-Apoptosis</p>
+<p>25-Gametes and Fertilization</p>
+<p>26-Tissue Bioengineering</p>
+<p> </p>
+<p><strong>PRACTICAL TOPICS</strong></p>
+<p>1-Light optical microscope. Structure. Optics</p>
+<p>-Autonomous learning of how to use a light optical microscope.</p>
+<p>2-Methodology for processing biological material for optical and electron microscopy</p>
+<p>3-Epithelial Tissue, Skin and Annexes</p>
+<p>4-Connective tissue: proper and adipose</p>
+<p>5-Posture and Movement. Bone tissue. Cartilaginous tissue. Striated skeletal muscle tissue</p>
+<p>6-Circulatory System. Striated cardiac muscle tissue. Arterial and venous vessels. Blood</p>
+<p>7-Digestive System. Annex glands</p>
+<p>8-Respiratory System</p>
+<p>9-Nervous System</p>
+<p>10-Urinary System</p>
+<p>11-Reproductive Systems</p>
+<p>12-Ultrasound imaging of soft tissues and joints. Interventional radiology.</p>
+<p>13-Ultrastructural diagnosis of organelles and cellular structures.</p>
+
+## Bibliografia obrigatória
+Young , Barbara; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990001642700108801" title="Wheater.s functional histology : a text and colour atlas (Opens in a new window)" target="_blank" >Wheater.s functional histology : a text and colour atlas</a>. ISBN: 978-0-7020-4747-3<br>
+Alberts , Bruce; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009545650108801" title="Molecular biology of the cell (Opens in a new window)" target="_blank" >Molecular biology of the cell</a>. ISBN: 9780393884821<br>
+Junqueira , Luis Carlos Uchôa; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009795500108801" title="Histologia básica : texto e atlas (Opens in a new window)" target="_blank" >Histologia básica : texto e atlas</a>. ISBN: 978-85-277-3181-2<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><strong>TEACHING METHODS AND LEARNING ACTIVITIES</strong></p>
+<p>Blended-learning with synchronous and asynchronous activities. Presentation of theoretical programmatic contents supported by audiovisual means and discussion of the same, highlighting the role of Engineering in research in Cell Biology. Practical laboratory component dedicated to the execution of microscopy techniques, observation of tissues in histological sections, identification of cellular structures and organelles in electron microscopy, and interventional radiology.</p>
+<p>-Theoretical-Practical classes are dynamic, allowing interaction with students.</p>
+<p>-Practical classes are experimental, personalized, allowing integration with theoretical knowledge, interactive discussion and group work, enabling the use of instruments and identifiers autonomously.</p>
+<p>-Fieldwork: construction of a practical model for solving a real problem using bioengineering technology.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 97.0 hours
+- Frequência das aulas: 65.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><strong>FINAL CLASSIFICATION CALCULATION FORMULA:</strong></p>
+<p><strong>1-Final exam:</strong></p>
+<p>1.1-Multiple choice questions on the subject of the theoretical classes. Each question has 5 alternatives. The student can only mark one answer. Wrong answers do not count.</p>
+<p>-50 multiple choice questions (2 for each theoretical topic), 50 minutes.</p>
+<p>60% of the Total-12 values.</p>
+<p>1.2-Identification of tissue images</p>
+<p>Identification of optical microscopy images (tissues). For each marked element there are 3 alternatives, of which only one is correct. The student must indicate the correct item. The student can only mark one answer. Wrong answers do not count.</p>
+<p>-25 multiple choice questions, 25 minutes.</p>
+<p>10% of Total -2 points</p>
+<p>1.3-Identification of cellular structures</p>
+<p>Identification of cellular structures and organelles in electron microscopy images. For each marked cellular structure there are 3 alternatives, of which only one is correct. The student must indicate the correct item. The student can only mark one answer. Wrong answers do not count.</p>
+<p>-25 multiple choice questions, 25 minutes.</p>
+<p>10% of the Total -2 values</p>
+<p>1.4-Continuous assessment</p>
+<p>Each student must write a text in which they outline a professional task in which they would like to be involved in their professional future. Examples: genetic therapy, gene therapy, vaccine production, antibody production, drug production, biomaterials production, equipment production, engineered cells to produce chemicals, new medical imaging technologies, portable disease diagnostic devices and organs, tissue and tissue-engineered implants, etc. They must start from a real need and carry out bioengineering to solve the problem (examples of real needs: bioterrorism, pandemic, burns, multiple trauma, prosthetics, bioandroids, plastic and reconstructive surgery, space bioengineering, aquatic bioengineering, pollutant degradation bioengineering, air purification bioengineering, respiratory diseases, renal diseases, vascular diseases, neuromuscular diseases, metabolic diseases, transplants, genetic diseases, etc.). Be imaginative and original, but at the same time realistic.</p>
+<p>20% of Total -4 points.</p>
+<p> </p>
+<p><strong>2-Final classification:</strong></p>
+<p>Final exam + Image analysis + Continuous assessment</p>
+<p> </p>
+<p><strong>CONTINUOUS EVALUATION RULES:</strong></p>
+<p>Formatting: A4, Times New Roman, size 11, spacing 1.25. Pagination in the upper right corner. Number lines continuously. Put in the Word header: full name, class, Theme, LBIO-BC 2025-2026, Class.</p>
+<p>Deadline for submission of papers (The PDF must be named with: full name-topic): May 1st</p>
+<p> </p>
+<p>Organization of content. Introduction: introduction to the problem and summarize what has already been done (references in numbers) to solve it (1 page). Materials and methods: biotechnological design to solve the problem (1-3 pages). Expected results and discussion in relation to other works on solving the same problem (1-2 pages). References (last page)</p>
+<p>-Formatting of references (examples to be followed):</p>
+<p>Article:</p>
+<ol>
+<li>Gonçalves A, Fortuna AM, Ariyurek Y, Oliveira ME, Nadais G, Pinheiro J, den Dunnen JT, Sousa M, Oliveira J, Santos R. Integrating whole-genome sequencing clinical genetics: identification of a novel disruptive structural rearrangement in the dystrophin gene. Journal of Molecular Sciences. 2022; 23(1):1-10.</li>
+</ol>
+<p>https://doi.org/10.3390/ijms23010059</p>
+<p>Book chapter:</p>
+<ol>
+<li>Zariwala MA, Knowles MR, Leigh MW. Primary ciliary dyskinesia. In: Gene Reviews. Adam MP, Everman DB, Mirzaa GM, Pagon RA, Wallace SE, Bean LJH, Gripp KW, Amemiya A, editors. University of Washington, Seattle, USA; 2017. p:1993&#8211;2023.</li>
+</ol>
+<p>https://pubmed.ncbi.nlm.nih.gov/20301301/</p>
+<p>Book:</p>
+<ol>
+<li>WHO, World Health Organization. Semen analysis. In: Laboratory manual for the examination and processing of human semen. World Health Organization, editors. WHO Press, Geneva, Switzerland; 2021. p: 114 pages.</li>
+</ol>
+<p>https://www.who.int/publications/i/item/9789240030787</p>
+<p> </p>
+<p> </p>
+<p><strong>CARE:</strong></p>
+<p>--They must be rigorous and methodical, using careful and cultured language.</p>
+<p>--Avoid long sentences. Many texts are damaged because they are not understandable.</p>
+<p>--Perform correct punctuation (if there is no punctuation, it is not possible to understand).</p>
+<p>--Whenever values are used, the reference range must be indicated. ex: estradiol 2 ng/ml (0.1-1.5 ng/ml).</p>
+<p> </p>
+<p><strong>FREQUENT ERRORS:</strong></p>
+<p>-Repetition of content</p>
+<p>-Use of colloquial language:</p>
+<p>Wrong: As you know, FSH has receptors on granulosa cells</p>
+<p>Correct: FSH binds to its receptors on granulosa cells</p>
+<p>-Wrong: sperm</p>
+<p>Right (scientific expression): semen/ejaculate</p>
+<p>-Use of anglicisms:</p>
+<p>Wrong: varicocele</p>
+<p>Correct: varicocele</p>
+<p>Wrong: oocyte, oogenesis</p>
+<p>Right: oocyte, oogenesis</p>
+<p>-Use of Brazilianisms:</p>
+<p>Wrong: varicocele, congenital</p>
+<p>Correct: varicocele, congenital</p>
+<p>-Spelling errors:</p>
+<p>Wrong: sperm, oocyte, oogenesis</p>
+<p>Right: sperm, oocyte, oogenesis</p>
+<p>-Use of acronyms without first explaining them in full:</p>
+<p>-Wrong: FSH, SOP</p>
+<p>Right: Follicle-stimulating hormone (FSH), Polycystic ovary syndrome (PCOS)</p>
+<p>-You can't mention it without explaining why. ex: PCOS causes ovulatory dysfunction (the mechanism must be explained).</p>
+<p>-Wrong: Beckwith-Weidemann syndrome.</p>
+<p>Correct: Beckwith-Wiedemann syndrome (congenital overgrowth condition characterized by macroglossia, gigantism, omphalocele, visceromegaly, and increased risk of embryonal neoplasms)</p>
+
+## Obtenção de frequência
+<p>-Continuous assessment and Final Assessment.</p>
+<p>-Final Exam and Appeal Exam (June 1-July 3).</p>
+<p>-In Practical classes, students cannot exceed 25% of the number of absences not officially justified (rules according to the Law).</p>
+<p>-Any student who exceeds this number will automatically fail.</p>
+<p>-The frequency of practical classes does not count towards assessment purposes.</p>
+
+## Exames ou Trabalhos Especiais
+<p><strong>TESTS AND SPECIAL WORKS</strong>: None</p>
+
+## Melhoria de classificação
+<p>It can only be carried out in the Appeal exam</p>
+<p>The grade of the written work will be maintained.</p>
+<p>In the Theoretical part, the grade will be the highest of the two.</p>
+

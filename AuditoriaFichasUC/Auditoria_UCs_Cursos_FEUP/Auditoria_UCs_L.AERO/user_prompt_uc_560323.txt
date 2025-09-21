@@ -1,0 +1,187 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Eletrónica e Instrumentação
+
+## Curso responsável
+Licenciatura em Engenharia Aeroespacial
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<div style=&quot;text-align: justify;&quot;>Os objetivos principais da unidade curricular de Eletrónica e Instrumentação são dois e complementares. Pretende-se desenvolver uma compreensão sólida e prática dos princípios de medição e da sua aplicação em engenharia, capacitando os estudantes para a medição correta de grandezas físicas com recurso à observação e tratamento de sinais elétricos. Em segundo lugar, fornecem-se as ferramentas e os conhecimentos necessários para conceber e implementar soluções eficazes de aquisição de dados para sistemas de medição de precisão.</div><br /><div style=&quot;text-align: justify;&quot;>Neste sentido, pretende-se incutir nos alunos a avaliação da qualidade da medição como prática padrão na apresentação de resultados experimentais, com quantificação sistemática da incerteza e com base nas especificações dos instrumentos certificados utilizados.</div><br /><div style=&quot;text-align: justify;&quot;>Promove-se ainda que o aluno, enquanto projetista de circuitos eletrónicos de medição, introduza técnicas de projeto que permitam reduzir fontes intrínsecas de incerteza e aplicar estratégias de mitigação, tanto ao nível do projeto como no decorrer da operação.</div><br /><div style=&quot;text-align: justify;&quot;>Em síntese, pretende-se consciencializar os alunos para os princípios físicos que constituem os transdutores, obtendo competência para a sua seleção e para a interação com os circuitos eletrónicos projetados para aplicações no contexto aeroespacial.</div>
+
+## Resultados de aprendizagem e competências
+<p><strong>Os resultados de aprendizagem nesta Unidade Curricular os alunos deverão ser capazes de:</strong></p>
+<ul>
+<li>Utilizar corretamente instrumentação eletrónica em medições de grandezas elétricas e sinais, identificando e avaliando fontes de erro.</li>
+<li>Analisar e explicar princípios de funcionamento dos transdutores e circuito eletrónicos de instrumentação e medição relevantes em engenharia aeroespacial.</li>
+<li>Caracterizar um problema de medição e elaborar requisitos e especificações técnicas de medição.</li>
+<li>Interpretar especificações de circuitos e componentes ao longo da cadeia de medição.</li>
+<li>Conceber, implementar e validar sistemas de medição e instrumentação para aplicações específicas.</li>
+<li>Organizar, preparar e apresentar documentação técnica e aplicar métodos para avaliar a qualidade das medições dos sistemas projetados.</li>
+</ul>
+<p><strong>Competências técnicas específicas</strong></p>
+<ul>
+<li>Domínio dos conceitos de medição e instrumentação.</li>
+<li>Raciocínio estruturado para analisar e resolver problemas de medição com rigor.</li>
+<li>Projeto, implementação e teste de instrumentação para aplicações específicas.</li>
+</ul>
+<p>Outras competências relevantes</p>
+<ul>
+<li>Trabalho experimental em equipa (laboratório e projetos).</li>
+<li>Interpretação e aplicação de folhas de dados no projeto e diagnóstico.</li>
+<li>Comunicação escrita e oral com rigor técnico.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+Conhecimentos básicos de análise de circuitos elétricos e de eletrónica fundamental.
+
+## Programa
+<p><strong>Conteúdos programáticos</strong></p>
+<p>Estruturam&#8209;se em quatro partes principais.</p>
+<p><strong>Parte I &#8212; Medição e Incerteza</strong></p>
+<ul>
+<li>Perspetiva histórica da metrologia.</li>
+<li>Sistema Internacional de Unidades (SI).</li>
+<li>Conceitos e terminologia metrológica.</li>
+<li>Qualidade da medição:</li>
+</ul>
+<p><strong>Parte II &#8212; Instrumentação Eletrónica</strong></p>
+<ul>
+<li>Multímetros digitais (DMM).</li>
+<li>Medidores digitais de potência e energia.</li>
+<li>Osciloscópios digitais.</li>
+<li>Contadores digitais.</li>
+<li>Medidores de impedância.</li>
+</ul>
+<p><strong> </strong><strong>Parte III &#8212; Sensores, Transdutores e Sistemas de Medição </strong></p>
+<ul>
+<li>Sensor vs transdutor; classificações por efeito físico e por grandeza.</li>
+<li>Famílias de transdutores.</li>
+<li>Comunicação digital com transdutores.</li>
+<li>Exemplos de sistemas completos.</li>
+</ul>
+<p><strong> </strong><strong>Parte IV &#8212; Cadeia de Sinal e Aquisição de Dados</strong></p>
+<ul>
+<li>Introdução a sinais elétricos.</li>
+<li>Aquisição de sinal.</li>
+<li>Conversores D/A.</li>
+<li>Arquiteturas de A/D.</li>
+<li>Condicionamento de sinal.</li>
+<li>Microcontroladores nos sistemas de medição.</li>
+</ul>
+
+## Bibliografia obrigatória
+Aurélio Campilho; Instrumentação Electrónica: Métodos e Técnicas de Medição, FEUP Edições, 2013. ISBN: ISBN: 978-972-752-163-0<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<div style=&quot;text-align: justify;&quot;>Os métodos de ensino e as atividades de aprendizagem deste curso combinam a instrução teórica com a aplicação prática decomposta em prática laboratorial componente de projeto. Esta abordagem permite uma sólida compreensão dos conceitos fundamentais através da realização de experiências práticas que enfatizam a aplicação de técnicas de medição e o projeto de diversos sistemas de medição, tanto para grandezas elétricas como não elétricas.</div><br /><div style=&quot;text-align: justify;&quot;>Na componente Teórica, serão expostos os fundamentos de metrologia e métodos analíticos; estudo de princípios de funcionamento de instrumentos e circuitos com exemplos de projeto, limitações e erros comuns, abrindo porta a uma discussão aberta para promover pensamento crítico sobre os conteúdos.</div><br /><div style=&quot;text-align: justify;&quot;>Na componente laboratorial estas são planeadas para complementar e reforçar o enquadramento teórico, envolvendo os alunos em procedimentos experimentais com recurso a equipamentos laboratoriais. Através destas atividades práticas, os alunos desenvolvem competências essenciais em calibração, aquisição de dados e análise de incertezas com instrumentação de laboratório.</div><br /><div style=&quot;text-align: justify;&quot;>Os alunos participam também em equipa em diversos projetos de implementação de sistemas de medição, focando-se no planeamento e execução de experiências, na interpretação dos resultados e na avaliação crítica das limitações da medição. Pretende-se a implementação de cadeias completas de medição, desde especificação até validação, culminando em documentação técnica e apresentação oral aos restantes colegas.</div>
+
+## Software
+&#8226;	LTspice<br>
+&#8226;	Octave<br>
+VS Code<br>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Elaboração de projeto: 34.0 horas
+- Estudo autónomo: 76.0 horas
+- Frequência das aulas: 26.0 horas
+- Trabalho laboratorial: 26.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A classificação final (CF), de 0 a 20 valores é determinada da seguinte forma:</p>
+<p>CF = 0,40 E + 0,60 min { P, E + 4 }</p>
+<p>onde:</p>
+<ul>
+<li>E é a nota do exame (0&#8211;20) (época normal ou recurso).</li>
+<li>P é a nota prática total (0&#8211;20), definida por:</li>
+</ul>
+<p>P = 0,15 (LAB1 + LAB2) + 0,35 (PRJ1 + PRJ2)</p>
+<p>O LAB1 e o LAB2 correspondem aos resultados da avaliação (de 0,20 cada) das primeira e segunda partes do trabalho laboratorial proposto, abrangendo as medições/incertezas dos transdutores, respetivamente;</p>
+<ul>
+<li>PRJ1 e PRJ2 são as classificações (de 0,20 cada) obtidas nos dois projetos.</li>
+</ul>
+
+## Obtenção de frequência
+<p>A frequência das aulas práticas é obrigatória e está sujeita ao número máximo de faltas permitido.</p>
+<p>A justificação da falta não elimina o respetivo trabalho da contagem para efeitos de classificação.</p>
+<p>É também necessário alcançar um mínimo de 9 valores (em 20) na componente laboratorial (Trabalho laboratorial + Trabalho prático ou de projeto) para obtenção de frequência.</p>
+<p>Os alunos que tenham frequentado aulas práticas em anos letivos anteriores podem manter esta componente de classificação. Esta opção é automaticamente concedida caso o aluno não se inscreva numa aula prática. Caso contrário, a classificação prévia será definitivamente cancelada.</p>
+
+## Melhoria de classificação
+<p>Teórica: através de exame realizado no período próprio para o efeito.</p>
+Prática: repetição de todas as atividades laboratoriais no ano letivo seguinte (com inscrição em turma).
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Electronics and Instrumentation
+
+## Curso responsável
+Bachelor in Aerospace Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+The Electronics and Instrumentation course has two main objectives, each complementary to the other. The objective is to develop a solid and practical understanding of measurement principles and their application in engineering, enabling students to accurately measure physical quantities using the observation and processing of electrical signals. Second, the course provides the tools and knowledge necessary to design and implement effective data acquisition solutions for precision measurement systems.<br />In this sense, the objective is to instill in students the assessment of measurement quality as a standard practice in the presentation of experimental results, with systematic quantification of uncertainty based on the specifications of the certified instruments used.<br />The course also encourages students, as designers of electronic measurement circuits, to introduce design techniques that allow for the reduction of intrinsic sources of uncertainty and the application of mitigation strategies, both at the design level and during operation.<br />In summary, the objective is to raise students' awareness of the physical principles underlying transducers, developing skills for their selection and interaction with electronic circuits designed for aerospace applications.
+
+## Resultados de aprendizagem e competências
+<strong>The learning outcomes of this course unit are:</strong><br /><br /><br /><ul><br /><li>Properly use electronic instrumentation to measure electrical quantities and signals, identifying and evaluating sources of error.</li><br /><li>Analyze and explain the operating principles of transducers and electronic circuits for instrumentation and measurement relevant to aerospace engineering.</li><br /><li>Characterize a measurement problem and develop measurement requirements and technical specifications.</li><br /><li>Interpret circuit and component specifications throughout the measurement chain.</li><br /><li>Design, implement, and validate measurement and instrumentation systems for specific applications.</li><br /><li>Organize, prepare, and present technical documentation and apply methods to evaluate the measurement quality of designed systems.</li><br /></ul><br /><br /><strong>Specific Technical Skills</strong><br /><ul><br /><li>Mastery of measurement and instrumentation concepts.</li><br /><li>Structured reasoning to rigorously analyze and solve measurement problems.</li><br /><li>Design, implement, and test instrumentation for specific applications.</li><br /></ul><br /><br />Other Relevant Skills<br /><br /><br /><ul><br /><li>Experimental teamwork (laboratory and projects).</li><br /><li>Interpret and apply datasheets in design and diagnostics.</li><br /><li>Written and oral communication with technical rigor.</li><br /></ul>
+
+## Pré-requisitos e co-requisitos
+Basic knowledge of electrical circuit analysis and fundamental electronics.
+
+## Programa
+<strong>Program Contents</strong><br /><br />Structured in four main parts.<br /><br /><strong>Part I &#8212; Measurement and Uncertainty</strong><br /><br /><ul><br /><li>Historical perspective of metrology.</li><br /><li>International System of Units (SI).</li><br /><li>Metrological concepts and terminology.</li><br /><li>Measurement Quality.</li><br /></ul><br /><strong>Part II &#8212; Electronic Instrumentation</strong><br /><br /><ul><br /><li>Digital Multimeters (DMMs).</li><br /><li>Digital Power and Energy Meters.</li><br /><li>Digital Oscilloscopes.</li><br /><li>Digital Counters.</li><br /><li>Impedance Meters.</li><br /></ul><br /><strong>Part III &#8212; Sensors, Transducers, and Measurement Systems</strong><br /><br /><ul><br /><li>Sensor vs. Transducer; Classifications by Physical Effect and Quantity.</li><br /><li>Transducer Families.</li><br /><li>Digital Communication with Transducers.</li><br /><li>Examples of Complete Systems.</li><br /></ul><br /><strong>Part IV &#8212; Signal Chain and Data Acquisition</strong><br /><br /><ul><br /><li>Introduction to Electrical Signals.</li><br /><li>Signal Acquisition.</li><br /><li>D/A Converters.</li><br /><li>A/D Architectures.</li><br /><li>Signal Conditioning.</li><br /><li>Microcontrollers in measurement systems.</li><br /></ul>
+
+## Bibliografia obrigatória
+Aurélio Campilho; Instrumentação Electrónica: Métodos e Técnicas de Medição, FEUP Edições, 2013. ISBN: ISBN: 978-972-752-163-0<br>
+
+## Métodos de ensino e atividades de aprendizagem
+The teaching methods and learning activities of this course combine theoretical instruction with practical application, broken down into a hands-on laboratory project component. This approach enables a solid understanding of fundamental concepts through hands-on experiments that emphasize the application of measurement techniques and the design of various measurement systems, for both electrical and non-electrical quantities.<br />The theoretical component will cover the fundamentals of metrology and analytical methods; the operating principles of instruments and circuits will be studied, with design examples, limitations, and common errors, paving the way for open discussion to promote critical thinking about the content.<br />The laboratory component is designed to complement and reinforce the theoretical framework, engaging students in experimental procedures using laboratory equipment. Through these practical activities, students develop essential skills in calibration, data acquisition, and uncertainty analysis with laboratory instrumentation.<br />Students also participate as teams in various measurement system implementation projects, focusing on the planning and execution of experiments, the interpretation of results, and the critical evaluation of measurement limitations. The aim is to implement complete measurement chains, from specification to validation, culminating in technical documentation and oral presentation to other colleagues.
+
+## Software
+&#8226;	LTspice<br>
+&#8226;	Octave<br>
+VS Code<br>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Elaboração de projeto: 34.0 hours
+- Estudo autónomo: 76.0 hours
+- Frequência das aulas: 26.0 hours
+- Trabalho laboratorial: 26.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+The final grade (CF), from 0 to 20 points, is determined as follows:<br /><br />CF = 0.40 E + 0.60 min { P, E + 4 }<br /><br />where:<br /><br />E is the exam grade (0&#8211;20) (regular).<br />P is the total practical grade (0&#8211;20), defined by:<br />P = 0.15 (LAB1 + LAB2) + 0.35 (PRJ1 + PRJ2)<br /><br />LAB1 and LAB2 correspond to the evaluation results (0.20 each) of the first and second parts of the proposed laboratory work, covering transducer measurements/uncertainties, respectively;<br /><br />PRJ1 and PRJ2 are the grades (0.20 each) obtained for the two projects.
+
+## Obtenção de frequência
+Attendance at practical classes is mandatory and subject to the maximum number of absences allowed.<br /><br />Justifying an absence does not eliminate the corresponding assignment from the grading system.<br /><br />A minimum of 9 points (out of 20) in the laboratory component (Laboratory work + Practical work or project) is also required to qualify for attendance.<br /><br />Students who participated in practical classes in previous academic years may retain this component of their grade. This option is automatically granted if the student does not enroll in a practical class. Otherwise, the previous grade will be permanently canceled.
+
+## Melhoria de classificação
+Theoretical: through an exam taken during the designated period.<br /><br />Practical: repetition of all laboratory activities in the following academic year (with enrollment in a class).
+

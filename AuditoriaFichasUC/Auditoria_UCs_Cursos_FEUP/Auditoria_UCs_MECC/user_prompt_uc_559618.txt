@@ -1,0 +1,180 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Fundamentos de Comunicação Estratégica
+
+## Curso responsável
+Mestrado em Ciências da Comunicação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p style="font-weight: 400;">Objetivo 1) Conhecer as principais correntes teóricas e a própria definição de Comunicação Estratégica;</p>
+<p style="font-weight: 400;">Objetivo 2) Desenvolver capacidades críticas que lhe permitam distinguir os diferentes campos e modelos operacionais da Comunicação;</p>
+<p style="font-weight: 400;">Objetivo 3) Conhecer a evolução e transformação ao longo da história da Comunicação;</p>
+<p style="font-weight: 400;">Objetivo 4) Dominar os efeitos da Comunicação Estratégica no espaço público, em particular os efeitos da comunicação tradicional <em>versus</em>digital;</p>
+<p style="font-weight: 400;">Objetivo 5) Saber planear e gerir um plano de Comunicação Estratégica, bem como analisar e interpretar os seus resultados;</p>
+<p style="font-weight: 400;">Objetivo 6) Compreender e contextualizar o alcance das teorias e paradigmas contemporâneos na Comunicação Estratégica;</p>
+<p style="font-weight: 400;">Objetivo 7) Desenvolver e fortalecer a capacidade de análise, quer para aplicação profissional como para investigação científica.</p>
+
+## Resultados de aprendizagem e competências
+<p style="font-weight: 400;">O1)  conhecer as principais correntes teóricas e a própria definição de Comunicação Estratégica;</p>
+<p style="font-weight: 400;">O2)  desenvolver capacidades críticas que lhe permitam distinguir os diferentes campos e modelos operacionais da Comunicação;</p>
+<p style="font-weight: 400;">O3) conhecer a evolução e transformação ao longo da história da Comunicação;</p>
+<p style="font-weight: 400;">O4)  dominar os efeitos da Comunicação Estratégica no espaço público, em particular os efeitos da comunicação tradicional versus digital;</p>
+<p style="font-weight: 400;">O5) Compreender e contextualizar o alcance das teorias sociais contemporâneas na Comunicação Estratégica;</p>
+<span style="font-weight: 400;">O6) Desenvolver e fortalecer capacidade de análise, quer para aplicação profissional como para investigação científica.</span>
+
+## Programa
+<p style="font-weight: 400;">CP 1) Princípios ontológicos, epistemológico e quadro teórico</p>
+<p style="font-weight: 400;">1.1 Persuasão e Poder.</p>
+<p style="font-weight: 400;">1.2 Análise e crítica da Teoria da Propaganda</p>
+<p style="font-weight: 400;">1.3 A Comunicação Pública</p>
+<p style="font-weight: 400;">CP 2) Os campos e os paradigmas emergentes da Comunicação Estratégica.</p>
+<p style="font-weight: 400;">CP 3) Da <em>press agentry</em> à Comunicação Estratégica</p>
+<p style="font-weight: 400;">CP 4. Comunicação Estratégica, a Esfera Pública e a Opinião pública dissonante;</p>
+<p style="font-weight: 400;">4.1 Comunicação Estratégica Digital</p>
+<p style="font-weight: 400;">CP 5. O Plano de Comunicação Estratégica</p>
+<p style="font-weight: 400;">CP 6. Introdução à Comunicação Estratégica Aplicada</p>
+<p style="font-weight: 400;">CP 7 Oportunidades e desafios de investigação</p>
+<p style="font-weight: 400;">7.1 Metodologias aplicadas à Comunicação Estratégica</p>
+
+## Bibliografia obrigatória
+W. Timothy Coombs; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008810400108801" title="Strategic communication, social media and democracy (Abre numa nova janela)" target="_blank" >Strategic communication, social media and democracy</a>. ISBN: 978-1-138-84116-1<br>
+Hallahan, K., D. Holtzhausen, B. van Ruler, D. Vercic, and K. Sriramesh; Defining strategic communication, . International Journal of Strategic Communication , 2007<br>
+Hallahan, Kirk ; Seven Models of Framing: Implication for Public Relations, Journal of Public Relations Research, 2007<br>
+Holtzhausen, Derina, & Zerfass, Ansgar; he Routledge Handbook of Strategic Communication, Routledge, 2018<br>
+Bernays , Edward; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009871500108801" title="Propaganda (Abre numa nova janela)" target="_blank" >Propaganda</a>. ISBN: 978-989-35478-6-1<br>
+Dietrich, G.; Spin Sucks: Communication and Reputation Management in the Digital Age., Que., 2014<br>
+Lippmann , Walter; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990000571070108801" title="Public opinion (Abre numa nova janela)" target="_blank" >Public opinion</a>. ISBN: 0-684-83327-1<br>
+Tench , Ralph; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008227020108801" title="Exploring public relations (Abre numa nova janela)" target="_blank" >Exploring public relations</a>. ISBN: 978-0273-75777-1<br>
+Villafañe , Justo; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005719830108801" title="Imagem positiva : gestão estratégica da imagem das empresas (Abre numa nova janela)" target="_blank" >Imagem positiva : gestão estratégica da imagem das empresas</a>. ISBN: 972-618-192-5<br>
+
+## Bibliografia complementar
+Berger, Charles R., Knowlton, Steven W., & Abrahams, Matthew F.; The Hierarchy Principle in Strategic Communication, Communication Theory, 1996<br>
+Caywood, Clarke L. ; The Handbook of Strategic Public Relations & Integrated Communications, McGraw-Hill, 2011<br>
+Dudo, Anthony, & Kahlor, LeeAnn. ; Strategic Communication - New Agendas in Communication, Routledge, 2018<br>
+Bennett, Lance W., & Entman, Robert; Mediated Politics: Communication in the Future of Democracy, Cambridge University Press, 2005<br>
+Chomsky, Noam; A manipulação dos media: Os feitos extraordinários da propaganda., Editorial Inquérito, 2002<br>
+Cuomo, Maria Teresa, & Foroudi, Pantea. ; Digital Transformation and Corporate Branding : Opportunities and Pitfalls for Identity and Reputation Management., Routledge, Taylor & Franci, 2023<br>
+Domenach, Jean-Marie; A propaganda política, Bertrand, 1975<br>
+Gonçalves, Gisela; Introdução à teoria das relações públicas, Porto Editora, 2002<br>
+Jowett, Garth, & O'Donnell, Victoria;  Propaganda and Persuasion, SAGE Publications, 2012<br>
+Manning, Paul; News and news sources: a critical introduction, Sage Publications, 2001<br>
+Oliveira, Evandro, & Ruão, Teresa; Os quatro paradigmas da comunicação estratégica e o ensino em Portugal. Artigo apresentado na 8º SOPCOM Comunicação Global, Cultura e Tecnologia, SOPCOM, 2014<br>
+Packard, Vance; The Hidden Persuaders, IG Publisher, 1957<br>
+Ruão, Teresa; A Comunicação organizacional e a gestão de recursos humanos - Evolução e atualidade.,  Cadernos do Noroeste, 1999<br>
+Coombs, W. Timothy, & Holladay, Sherry J; Handbooks in Communication and Media, Routledge, 2007<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Método demostrativo e expositivo. Distribuição antecipada de textos teóricos para discussão. Na avaliação o estudante deverá participar nas aulas (40%) e apresentar 3 recensões críticas de obras selecionadas (60%). O estudante deverá obter um mínimo de 10 valores .
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 40.0 horas
+- Frequência das aulas: 60.0 horas
+- Trabalho de campo: 35.0 horas
+- Trabalho escrito: 27.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+Participar nas aulas (40%) e apresentar 3 recensões críticas de obras selecionadas (60%).
+
+## Obtenção de frequência
+Participar nas aulas (40%) e apresentar 3 recensões críticas de obras selecionadas (60%).
+
+## Melhoria de classificação
+Ensaio definido pelo regente (100%).
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Fundamentals of Strategic Communication
+
+## Curso responsável
+Master in Communication Sciences
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<strong data-start=&quot;0&quot; data-end=&quot;16&quot; data-is-only-node=&quot;&quot;>Objective 1)</strong> Understand the main theoretical currents and the definition of Strategic Communication;<br data-start=&quot;109&quot; data-end=&quot;112&quot; /><strong data-start=&quot;112&quot; data-end=&quot;128&quot;>Objective 2)</strong> Develop critical skills to distinguish the different fields and operational models of Communication;<br data-start=&quot;229&quot; data-end=&quot;232&quot; /><strong data-start=&quot;232&quot; data-end=&quot;248&quot;>Objective 3)</strong> Understand the evolution and transformation of Communication throughout history;<br data-start=&quot;329&quot; data-end=&quot;332&quot; /><strong data-start=&quot;332&quot; data-end=&quot;348&quot;>Objective 4)</strong> Master the effects of Strategic Communication in the public sphere, particularly the effects of traditional versus digital communication;<br data-start=&quot;486&quot; data-end=&quot;489&quot; /><strong data-start=&quot;489&quot; data-end=&quot;505&quot;>Objective 5)</strong> Learn how to plan and manage a Strategic Communication plan, as well as analyze and interpret its results;<br data-start=&quot;612&quot; data-end=&quot;615&quot; /><strong data-start=&quot;615&quot; data-end=&quot;631&quot;>Objective 6)</strong> Comprehend and contextualize the scope of contemporary theories and paradigms in Strategic Communication;<br data-start=&quot;737&quot; data-end=&quot;740&quot; /><strong data-start=&quot;740&quot; data-end=&quot;756&quot;>Objective 7)</strong> Develop and strengthen analytical skills for both professional application and scientific research.
+
+## Resultados de aprendizagem e competências
+O1) know the main theoretical currents and the definition of Strategic Communication;<br /><br />O2) develop critical skills that allow you to distinguish the different fields and operational models of Communication;<br /><br />O3) to know the evolution and transformation throughout the history of Communication;<br /><br />O4) master the effects of Strategic Communication in the public space, in particular the effects of traditional versus digital communication;<br /><br />O5) Understand and contextualize the scope of contemporary social theories in Strategic Communication;<br /><br />O6) Develop and strengthen analytical capacity, both for professional application and for scientific research.
+
+## Programa
+<p data-start="0" data-end="183"><strong data-start="0" data-end="78">CP 1) Ontological and Epistemological Principles and Theoretical Framework</strong><br data-start="78" data-end="81" />1.1 Persuasion and Power<br data-start="105" data-end="108" />1.2 Analysis and Critique of Propaganda Theory<br data-start="154" data-end="157" />1.3 Public Communication</p>
+<p data-start="185" data-end="253"><strong data-start="185" data-end="251">CP 2) Fields and Emerging Paradigms of Strategic Communication</strong></p>
+<p data-start="255" data-end="312"><strong data-start="255" data-end="310">CP 3) From Press Agentry to Strategic Communication</strong></p>
+<p data-start="314" data-end="436"><strong data-start="314" data-end="396">CP 4) Strategic Communication, the Public Sphere, and Dissonant Public Opinion</strong><br data-start="396" data-end="399" />4.1 Digital Strategic Communication</p>
+<p data-start="438" data-end="482"><strong data-start="438" data-end="480">CP 5) The Strategic Communication Plan</strong></p>
+<p data-start="484" data-end="543"><strong data-start="484" data-end="541">CP 6) Introduction to Applied Strategic Communication</strong></p>
+<p data-start="545" data-end="650" data-is-last-node="" data-is-only-node=""><strong data-start="545" data-end="595">CP 7) Opportunities and Challenges in Research</strong><br data-start="595" data-end="598" />7.1 Methodologies Applied to Strategic Communication</p>
+
+## Bibliografia obrigatória
+W. Timothy Coombs; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008810400108801" title="Strategic communication, social media and democracy (Opens in a new window)" target="_blank" >Strategic communication, social media and democracy</a>. ISBN: 978-1-138-84116-1<br>
+Hallahan, K., D. Holtzhausen, B. van Ruler, D. Vercic, and K. Sriramesh; Defining strategic communication, . International Journal of Strategic Communication , 2007<br>
+Hallahan, Kirk ; Seven Models of Framing: Implication for Public Relations, Journal of Public Relations Research, 2007<br>
+Holtzhausen, Derina, & Zerfass, Ansgar; he Routledge Handbook of Strategic Communication, Routledge, 2018<br>
+Bernays , Edward; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009871500108801" title="Propaganda (Opens in a new window)" target="_blank" >Propaganda</a>. ISBN: 978-989-35478-6-1<br>
+Dietrich, G.; Spin Sucks: Communication and Reputation Management in the Digital Age., Que., 2014<br>
+Lippmann , Walter; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990000571070108801" title="Public opinion (Opens in a new window)" target="_blank" >Public opinion</a>. ISBN: 0-684-83327-1<br>
+Tench , Ralph; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008227020108801" title="Exploring public relations (Opens in a new window)" target="_blank" >Exploring public relations</a>. ISBN: 978-0273-75777-1<br>
+Villafañe , Justo; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005719830108801" title="Imagem positiva : gestão estratégica da imagem das empresas (Opens in a new window)" target="_blank" >Imagem positiva : gestão estratégica da imagem das empresas</a>. ISBN: 972-618-192-5<br>
+
+## Bibliografia complementar
+Berger, Charles R., Knowlton, Steven W., & Abrahams, Matthew F.; The Hierarchy Principle in Strategic Communication, Communication Theory, 1996 (2(May), 111-142.)<br>
+Caywood, Clarke L. ; The Handbook of Strategic Public Relations & Integrated Communications, McGraw-Hill, 2011<br>
+Dudo, Anthony, & Kahlor, LeeAnn. ; Strategic Communication - New Agendas in Communication, Routledge, 2018<br>
+Bennett, Lance W., & Entman, Robert; Mediated Politics: Communication in the Future of Democracy, Cambridge University Press, 2005<br>
+Chomsky, Noam; A manipulação dos media: Os feitos extraordinários da propaganda., Editorial Inquérito, 2002<br>
+Cuomo, Maria Teresa, & Foroudi, Pantea. ; Digital Transformation and Corporate Branding : Opportunities and Pitfalls for Identity and Reputation Management., Routledge, Taylor & Franci, 2023<br>
+Domenach, Jean-Marie; A propaganda política, Bertrand, 1975<br>
+Gonçalves, Gisela; Introdução à teoria das relações públicas, Porto Editora, 2002<br>
+Jowett, Garth, & O'Donnell, Victoria;  Propaganda and Persuasion, SAGE Publications, 2012<br>
+Manning, Paul; News and news sources: a critical introduction, Sage Publications, 2001<br>
+Oliveira, Evandro, & Ruão, Teresa; Os quatro paradigmas da comunicação estratégica e o ensino em Portugal. Artigo apresentado na 8º SOPCOM Comunicação Global, Cultura e Tecnologia, SOPCOM, 2014<br>
+Packard, Vance; The Hidden Persuaders, IG Publisher, 1957<br>
+Ruão, Teresa; A Comunicação organizacional e a gestão de recursos humanos - Evolução e atualidade.,  Cadernos do Noroeste, 1999<br>
+Coombs, W. Timothy, & Holladay, Sherry J; Handbooks in Communication and Media, Routledge, 2007<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Demonstrative and expository method. Early distribution of theoretical texts for discussion. In the evaluation, the student must participate in classes (40%) and present 3 critical reviews of selected works (60%). The student must obtain a minimum of 10 values.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 40.0 hours
+- Frequência das aulas: 60.0 hours
+- Trabalho de campo: 35.0 hours
+- Trabalho escrito: 27.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+Participate in classes (40%) and present 3 critical reviews of selected works (60%).
+
+## Obtenção de frequência
+Participate in classes (40%) and present 3 book reviews of selected works (60%).
+
+## Melhoria de classificação
+Essay chosen by the professor (100%).
+

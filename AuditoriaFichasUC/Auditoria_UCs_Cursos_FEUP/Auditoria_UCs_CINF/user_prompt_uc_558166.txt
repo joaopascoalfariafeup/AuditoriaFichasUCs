@@ -1,0 +1,170 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+História da Cultura
+
+## Curso responsável
+Licenciatura em Ciência da Informação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Tendo uma vocação interdisciplinar e promovendo a reflexão sobre o passado e o presente, a UC de História da Cultura visa dotar os estudantes de conhecimentos sobre a cultura numa perspetiva diacrónica, estimulando a reflexão sobre conceitos atinentes à história cultural. Pretende que os estudantes desenvolvam aptidões que envolvam o sentido crítico e a capacidade de relacionamento entre épocas passadas e o presente, de forma a promover a aquisição de competências que permitam identificar um problema, debater criticamente um tema e aplicar os conhecimentos adquiridos a novas situações.</p>
+
+## Resultados de aprendizagem e competências
+<p>Esta UC visa dotar os estudantes de conhecimentos que lhes permitam identificar as diferentes épocas da cultura ocidental até à contemporaneidade, dominar conceitos que lhe são próprios e estabelecer nexos entre eles. Pretende ainda orientar estratégias autónomas de aprendizagem e desenvolver capacidades de interpretação e análise crítica.</p>
+
+## Pré-requisitos e co-requisitos
+N/A
+
+## Programa
+<p class="ListParagraphCxSpFirst" style="margin-bottom: 12pt; text-indent: -18pt; line-height: 150%;"><!-- [if !supportLists]--><strong><span style="font-size: 9.0pt; line-height: 150%; font-family: Arial; mso-fareast-font-family: Arial; color: #666666; mso-fareast-language: PT;">1.<span style="font-weight: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';"> </span></span></strong></p>
+<ol>
+<li>O monaquismo: das origens orientais até à regra de S. Bento</li>
+<li>A Regra de S. Bento como matriz cultural da Europa</li>
+<li>A educação na Alta Idade Média</li>
+<li>O &#8220;Renascimento Carolíngio&#8221;</li>
+<li>Mudanças na cultura e no ensino da Europa ocidental nos séculos XI e XII</li>
+<li>A criação das universidades medievais</li>
+<li>O Humanismo e o renascimento da Antiguidade</li>
+<li> Transformações religiosas</li>
+<li> &#8220;Revolução Científica&#8221;</li>
+<li>O Iluminismo</li>
+<li>O(s) Romantismo(s)</li>
+<li>Cultura e sociabilidade burguesas</li>
+<li>Modernismo e vanguardas no início do século XX</li>
+<li>Transformações culturais no período de entre guerras</li>
+<li>Cultura de massas</li>
+</ol>
+
+## Bibliografia obrigatória
+Baumer, F. L. ; O Pensamento Europeu Moderno, Edições 70, 1990<br>
+Beaune, C.; Éducation et cultures du début du XIIe siècle au milieu du XVe siècle, SEDES, 1999<br>
+Blanning, T. C. W. ; The Culture of Power and the Power of Culture: Old Regime Europe 1660-1789, Oxford University Press, 2002<br>
+Bronowski, J.; Mazlish, B. ; A Tradição Intelectual do Ocidente, Edições 70, 2002<br>
+Brown, M. (ed.) ; Romanticism, Cambridge University Press., 2000<br>
+Burke, P. ; Popular Culture in Early Modern Europe, Temple Smith, 1978<br>
+Colish, M. L.; Medieval Foundations of the Western Intellectual Transition. 400-1400, Yale University Press, 2002<br>
+Eire, C. M. N. ; Reformations. The Early Modern World, 1450-1650, Yale University Press, 2002<br>
+Grafton, A.; Inky Fingers. The Making of Books in Early Modern Europe. , The Belknap Press of Harvard University Press, 2020<br>
+Price, B. B.; Introdução ao Pensamento Medieval, Ed. ASA, 1996<br>
+Rioux, J.-P. ; Le temps des masses: le vingtième siècle, Seuil, 1998<br>
+Russ, J. ; A Aventura do Pensamento Europeu. Uma história das ideias ocidentais, Terramar, 1997<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas têm natureza teórico-prática e serão lecionadas articulando a vertente expositiva (transmissão de conhecimentos para apreensão pelos estudantes) com sessões de debate de bibliografia e documentos de diversas tipologias. Essas discussões pretendem contribuir para o desenvolvimento de competências argumentativas pelos discentes.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 121.0 horas
+- Frequência das aulas: 41.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Exame - 100%</p>
+
+## Obtenção de frequência
+<p>Presença a 75% das aulas.</p>
+
+## Exames ou Trabalhos Especiais
+N/A
+
+## Melhoria de classificação
+<p>De acordo com Regulamento de Avaliação em vigor</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+History of Culture
+
+## Curso responsável
+Bachelor of Arts in Information Science
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p><span lang="EN-US" style="font-size: 9.0pt; mso-bidi-font-size: 11.0pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: PT; mso-bidi-language: AR-SA; mso-bidi-font-style: italic;">Having an interdisciplinary focus and promoting a reflection o</span><span lang="EN-US" style="font-size: 9.0pt; mso-bidi-font-size: 11.0pt; line-height: 115%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-ansi-language: EN-US; mso-fareast-language: PT; mso-bidi-language: AR-SA; mso-bidi-font-style: italic;">n the past and present, the Curricular Unit of History of Culture aims to provide students with knowledge </span><span class="Y2IQFc" lang="en">about culture from a diachronic perspective, encouraging reflection on concepts related to cultural history. </span><span class="Y2IQFc" lang="en">It aims for students to develop skills that involve critical thinking and the ability to relate past times to the present, in order to promote the acquisition of skills that allow them to identify a problem, critically<br /> debate a topic and apply the knowledge acquired to new situations.</span></p>
+<p><strong><span lang="EN-US" style="font-size: 9pt; line-height: 115%; font-family: Arial, sans-serif;"><br /> <!--[endif]--></span></strong></p>
+
+## Resultados de aprendizagem e competências
+<div style=&quot;text-align: justify;&quot;><strong style=&quot;line-height: 15px; text-align: justify;&quot;><span style=&quot;font-size: 9pt; line-height: 150%; font-family: Arial;&quot;> </span></strong><span lang=&quot;EN-US&quot; style=&quot;font-size: 9pt; line-height: 115%; font-family: Arial, sans-serif;&quot;>This Curricular Unit aims to provide students with knowledge that allows them to identify the different Western culture eras up to the present, </span>master their specific concepts and establish connections between them. It also aims to guide autonomous learning strategies and develop interpretation and critical analysis skills.</div><br /><p><strong><span lang=&quot;EN-US&quot; style=&quot;font-size: 9pt; line-height: 115%; font-family: Arial, sans-serif;&quot;> <!-- [if !supportLineBreakNewLine]--><br /> <!--[endif]--></span></strong></p>
+
+## Pré-requisitos e co-requisitos
+N/A
+
+## Programa
+<p class="ListParagraphCxSpFirst" style="mso-margin-top-alt: auto; margin-bottom: 12.0pt; mso-add-space: auto; text-indent: -18.0pt; line-height: 150%; mso-list: l0 level1 lfo1;"><strong><span style="font-size: 9.0pt; line-height: 150%; font-family: Arial; mso-fareast-font-family: Arial; color: #666666; mso-fareast-language: PT;"><span style="font-weight: normal; font-size: 7pt; line-height: normal; font-family: 'Times New Roman';"> </span></span></strong><span dir="LTR"><strong><span style="font-size: 9.0pt; line-height: 150%; font-family: Arial; color: #666666; mso-fareast-language: PT; mso-bidi-font-style: italic;">C</span></strong></span><strong style="line-height: 150%;"><span lang="EN-US" style="font-size: 9.0pt; mso-bidi-font-size: 11.0pt; line-height: 150%; font-family: 'Arial','sans-serif'; mso-ansi-language: EN-US; mso-fareast-language: PT; mso-bidi-font-style: italic;">1.</span></strong></p>
+<ol>
+<li>Monasticism: from its origins in the East to the Rule of St Benedict</li>
+<li>The Rule of St Benedict as the cultural matrix of Europe.</li>
+<li>Education in the High Middle Ages</li>
+<li>The "Carolingian Renaissance"</li>
+<li>Changes in culture and education in Western Europe in the 11th and 12th centuries</li>
+<li>The foundation of medieval universities</li>
+<li>Humanism and the revival of Antiquity</li>
+<li>Religious transformations</li>
+<li>The "Scientific Revolution"</li>
+<li>The Enlightenment</li>
+<li>Romanticism(s)</li>
+<li>Bourgeois culture and sociability</li>
+<li>Modernism and avant-garde in the early 20th century</li>
+<li>Cultural transformations in the interwar period</li>
+<li>Mass culture</li>
+</ol>
+
+## Bibliografia obrigatória
+Baumer, F. L. ; O Pensamento Europeu Moderno, Edições 70, 1990<br>
+Beaune, C.; Éducation et cultures du début du XIIe siècle au milieu du XVe siècle, SEDES, 1999<br>
+Blanning, T. C. W. ; The Culture of Power and the Power of Culture: Old Regime Europe 1660-1789, Oxford University Press, 2002<br>
+Bronowski, J.; Mazlish, B. ; A Tradição Intelectual do Ocidente, Edições 70, 2002<br>
+Brown, M. (ed.) ; Romanticism, Cambridge University Press., 2000<br>
+Burke, P. ; Popular Culture in Early Modern Europe, Temple Smith, 1978<br>
+Colish, M. L.; Medieval Foundations of the Western Intellectual Transition. 400-1400, Yale University Press, 2002<br>
+Eire, C. M. N. ; Reformations. The Early Modern World, 1450-1650, Yale University Press, 2002<br>
+Grafton, A.; Inky Fingers. The Making of Books in Early Modern Europe. , The Belknap Press of Harvard University Press, 2020<br>
+Price, B. B.; Introdução ao Pensamento Medieval, Ed. ASA, 1996<br>
+Rioux, J.-P. ; Le temps des masses: le vingtième siècle, Seuil, 1998<br>
+Russ, J. ; A Aventura do Pensamento Europeu. Uma história das ideias ocidentais, Terramar, 1997<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="font-size: 9pt; line-height: 150%; font-family: Arial;"><span lang="EN-US" style="font-size: 9pt; line-height: 115%; font-family: Arial, sans-serif;">The classes a</span></span><span class="Y2IQFc" lang="en">re theoretical and practical in nature and will be taught by combining the expository aspect (transmission of knowledge for students to learn) with discussion sessions on bibliography and documents of various types. These discussions aim to contribute to the development of argumentative skills by the students.</span></p>
+<p><span style="font-size: 9pt; line-height: 150%; font-family: Arial;"><span lang="EN-US" style="font-size: 9pt; line-height: 115%; font-family: Arial, sans-serif;"><br /><br /></span></span></p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 121.0 hours
+- Frequência das aulas: 41.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Exam - 100%</p>
+
+## Obtenção de frequência
+Attendance at 75% of classes.
+
+## Exames ou Trabalhos Especiais
+<p>N/A</p>
+
+## Melhoria de classificação
+<p>According to the Assessment Regulations in force</p>
+

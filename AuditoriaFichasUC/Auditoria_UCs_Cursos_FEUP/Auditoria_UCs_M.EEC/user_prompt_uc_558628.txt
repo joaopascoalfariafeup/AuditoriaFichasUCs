@@ -1,0 +1,127 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Decisão, Otimização e Inteligência Computacional
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Conferir aos estudantes competências gerais para abordarem problemas de decisão e otimização e aplicarem técnicas de inteligência computacional no âmbito sistemas de energia elétrica.</p>
+
+## Resultados de aprendizagem e competências
+<p>Como resultado da aprendizagem, os estudantes devem apresentar as seguintes competências:</p>
+<p>Formulação de problemas de decisão para análise multicritério. Aplicação de metodologias de ajuda à decisão. (CDIO 1.3, 2.3) Formulação de representações da incerteza com conjuntos difusos. Aplicação de métodos baseados em representação difusa. (CDIO 1.3, 2.1, 2.3, 4.3, 4.4) Aplicação de métodos de otimização não linear. Compreensão dos fundamentos das meta-heurísticas e implementação de algoritmos para resolver problemas. (CDIO 1.3, 2.1, 2.3, 4.3, 4.4) Compreensão dos conceitos de computação neuronal e sua aplicação a diversos tipos de problemas. (CDIO 1.3, 2.1, 2.3, 4.3, 4.4) Desenvolvimento da capacidade trabalho autónomo (CDIO 2.5) e em grupo (CDIO 3.1, 3.2, 3.3).</p>
+
+## Pré-requisitos e co-requisitos
+Nenhum.
+
+## Programa
+<p>Conceitos gerais relativos a análise multi-critério, risco e incerteza. Métodos de ajuda à decisão. Modelos difusos para estudos de trânsito de potências DC e AC. Otimização não linear. Métodos de gradiente. Programação não linear com restrições. Modelo linear e não linear do trânsito de potência ótimo DC com restrições. Algoritmos evolucionários, enxames de partículas e outras meta-heurísticas. Redes neuronais.</p>
+
+## Bibliografia obrigatória
+Grainger, John J.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004244670108801" title="Power System Analysis (Abre numa nova janela)" target="_blank" >Power System Analysis</a>. ISBN: 0-07-113338-0  (Capítulos referentes a despacho e optimização)<br>
+Vladimiro Miranda; Computação Evolucionária Fenotípica, 2005 (versão 2.0 Março 2005)<br>
+Vladimiro Miranda; DESPACHO ECONOMICO DE SISTEMAS DE PRODUÇÃO-TRANSPORTE - modelização e algoritmos , 1996 (Versão 2.0 Setembro 1996)<br>
+Clemen, Robert T.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004546140108801" title="Making hard decisions with decision tools (Abre numa nova janela)" target="_blank" >Making hard decisions with decision tools</a>. ISBN: 0-534-36597-3 <br>
+Vladimiro Miranda; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004447440108801" title="Algumas Notas sobre Programação Não Linear (Abre numa nova janela)" target="_blank" >Algumas Notas sobre Programação Não Linear</a>, 1986 (1º Ciclo de Conferências em Análise Numérica e Optimização (livro), Departamento de Matemática, FCT Universidade de Coimbra)<br>
+Manuel Matos; Notas sobre Ajuda à Decisão Multicritério<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teóricas de exposição, discussão e interação sobre conceitos e sobre os fundamentos das metodologias. Aulas teórico-práticas para desenvolvimento em grupo de pequenos projetos que constituem os trabalhos da disciplina.</p>
+
+## Software
+Matlab<br>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Elaboração de relatório/dissertação/tese: 56.0 horas
+- Estudo autónomo: 50.0 horas
+- Frequência das aulas: 56.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+CF=(0.6).E+(0.2).T1+(0.2).T2<br /><br />As classificações parciais não podem ser inferiores a 8/20.<br /><br />Além de entregarem os trabalhos da disciplina, os estudantes também devem participar numa discussão sobre os mesmos, estando preparados para responder a perguntas.
+
+## Obtenção de frequência
+<p>Entrega dos dois trabalhos da disciplina.</p>
+
+## Melhoria de classificação
+<div id=&quot;envolvente&quot;><br /><div id=&quot;conteudo&quot;><br /><div id=&quot;conteudoinner&quot;><br /><p>A classificação dos trabalhos, pela sua natureza, não é suscetíveis de melhoria.</p><br /></div><br /></div><br /></div>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Decision, Optimization and Computacional Intelligence
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>To enable the students approach optimization and decision problems and apply computacional intelligence techniques to electric power systems.</p>
+
+## Resultados de aprendizagem e competências
+<p>As a result of learning, the students should manifest that followin competences:</p>
+<p>Problem formulation in the framework of multiple criteria decision analysis. Application of decision aid methodologies. (CDIO 1.3, 2.3) Representation of uncertainties with fuzzy sets. Application of methods based on fuzzy reasoning. (CDIO 1.3, 2.1, 2.3, 4.3, 4.4) Application of methods based on non-linear optimization. Understanding of the fundamentals of meta-heuristics and application to solve problems. (CDIO 1.3, 2.1, 2.3, 4.3, 4.4) Understanding the concepts of neural computing and apply them to a diversity of problems. (CDIO 1.3, 2.1, 2.3, 4.3, 4.4) Development of autonomous work ability (CDIO 2.5) and of team work ability (CDIO 3.1, 3.2, 3.3).</p>
+
+## Pré-requisitos e co-requisitos
+None.
+
+## Programa
+<p>General concepts related to multiple criteria analysis, risk and uncertainty. Decision aid methods. Fuzzy models for the study of DC and AC power flows. Non-linear programming. Gradient methods. Non-linear programming with constraints. Linear and non-linear DC model for the optimal power flow problem with constraints. Evolutionary algorithms, particle swarm algorithms and other meta-heuristics. Neural Networks.</p>
+
+## Bibliografia obrigatória
+Grainger, John J.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004244670108801" title="Power System Analysis (Opens in a new window)" target="_blank" >Power System Analysis</a>. ISBN: 0-07-113338-0 <br>
+Vladimiro Miranda; Computação Evolucionária Fenotípica, 2005<br>
+Vladimiro Miranda; DESPACHO ECONOMICO DE SISTEMAS DE PRODUÇÃO-TRANSPORTE - modelização e algoritmos , 1996<br>
+Clemen, Robert T.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004546140108801" title="Making hard decisions with decision tools (Opens in a new window)" target="_blank" >Making hard decisions with decision tools</a>. ISBN: 0-534-36597-3 <br>
+Vladimiro Miranda; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004447440108801" title="Algumas Notas sobre Programação Não Linear (Opens in a new window)" target="_blank" >Algumas Notas sobre Programação Não Linear</a>, 1986<br>
+Manuel Matos; Notas sobre Ajuda à Decisão Multicritério<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>General theoretical classes with transparency or power point support. Theory/practice classes presenting study cases, solving problems and assisting students in their work assignments.</p>
+
+## Software
+Matlab<br>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Elaboração de relatório/dissertação/tese: 56.0 hours
+- Estudo autónomo: 50.0 hours
+- Frequência das aulas: 56.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>CF=(0.6).E+(0.2).T1+(0.2).T2</p>
+<p>Partial grades cannot be lower than 8/20.<br /><br />In addition to submitting the assignment works, students must also participate in a discussion about them, being prepared to answer questions.</p>
+
+## Obtenção de frequência
+<p>Delivery of the two assignment works.</p>
+
+## Melhoria de classificação
+<p>Assignments evaluation cannot by its nature be improved.</p>
+

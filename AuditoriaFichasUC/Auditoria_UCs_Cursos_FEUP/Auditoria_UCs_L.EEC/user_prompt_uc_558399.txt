@@ -1,0 +1,184 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sinais e Sistemas
+
+## Curso responsável
+Licenciatura em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>1. Descrever e explicar os conceitos, características, propriedades e operações essenciais dos sinais e dos sistemas;<br />2. Identificar e distinguir sinais e sistemas contínuos/discretos;<br />3. Definir, explicar, operar e resolver sistemas lineares e invariantes (SLIT), contínuos e discretos, no domínio dos tempos e no domínio das frequências (Fourier);<br />4. Interpretar e calcular transformada de Laplace, e relacioná-las com SLIT;<br />5. Decompor sinais e sistemas e ilustrá-lo graficamente;<br />6. Analisar SLIT, representados no tempo e na frequência.</p>
+
+## Resultados de aprendizagem e competências
+<p>O objetivo principal da unidade curricular de Sinais e Sistemas é fornecer aos alunos formação básica em  sinais e sistemas lineares, contínuos e discretos.Como resultados de aprendizagem os alunos devem adquirir as competências formuladas nos Objetivos da unidade curricular e demonstrar a sua incorporação na sua formação. Assim, devem, designadamente:</p>
+<ol>
+<li>Descrever e explicar os conceitos e propriedades de sinais contínuos e discretos.</li>
+<li>Representar sinais e realizar as suas transformações.</li>
+<li>Descrever e explicar o conceito de sistema, e identificar e distinguir as suas propriedades principais.</li>
+<li>Compreender, formular e operar a transformação de sinais realizada por sistemas lineares e invariantes no tempo.</li>
+<li>Incorporar e dominar as noções de análise temporal e frequencial de sinais e sistemas. </li>
+<li>Equacionar, explicar e resolver problemas práticos de tratamento de sinais por intermédio de sistemas lineares e invariantes.</li>
+</ol>
+<p> </p>
+
+## Pré-requisitos e co-requisitos
+<p>Conhecimentos básicos de Análise Matemática, Álgebra e Circuitos.</p>
+
+## Programa
+<p>CONTEÚDO <br />Sinais e sistemas, contínuos e discretos. Sistemas lineares e invariantes. Transfromada de Laplace. Análise de sistemas no domínio de Laplace. Análise de Fourier para sinais e sistemas. Resposta em frequência. Amostragem.<br /> <br /><br /><br /></p>
+
+## Bibliografia obrigatória
+Oppenheim, Alan V.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004222110108801" title="Signals & systems (Abre numa nova janela)" target="_blank" >Signals & systems</a>. ISBN: 0-13-651175-9<br>
+Michael J. Roberts; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009008530108801" title="Fundamentals of Signals and Systems (Abre numa nova janela)" target="_blank" >Fundamentals of Signals and Systems</a>, McGraw-Hill International Edition, 2008. ISBN: 978-007-125937-8<br>
+
+## Bibliografia complementar
+Buck, John R.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004507240108801" title="Computer explorations in signals and systems (Abre numa nova janela)" target="_blank" >Computer explorations in signals and systems</a>. ISBN: 0-13-732868-0 <br>
+Lindner, Douglas K; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004567190108801" title="Introduction to signals and systems (Abre numa nova janela)" target="_blank" >Introduction to signals and systems</a>. ISBN: 0-07-116489-8 <br>
+Signals and Systems-MIT open course ware, MIT  (http://ocw.mit.edu/OcwWeb/Electrical-Engineering-and-Computer-Science/6-003Fall-2003/CourseHome/index.htm)<br>
+H. P. Hsu; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005796330108801" title="Signals and Systems (Abre numa nova janela)" target="_blank" >Signals and Systems</a>, Mc Graw-Hill, 1995. ISBN: ISBN 0-07-030641-9<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas Teóricas: <br />Exposição das matérias do programa, ilustração dos métodos por meio da resolução de problemas representativos. <br /> <br />Aulas Teórico-Práticas: <br />Resolução de problemas ilustrativos das matérias leccionadas nas aulas teóricas. Proposta e discussão de trabalhos de casa, resolução de problemas na aula. <br /> <br />Fora das Aulas: <br />Estudo das matérias da disciplina, resolução de problemas propostos (de modo convencional e também fazendo uso do MatLab, disponível na rede FEUP, bem como de outro software livre de apoio).</p>
+
+## Software
+MatLab 7<br>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 horas
+- Frequência das aulas: 52.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<article class=&quot;text-token-text-primary w-full focus:outline-none scroll-mt-(--header-height)&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot; data-turn-id=&quot;abc4d035-726c-4bb8-b0c9-ca0210c8d6da&quot; data-testid=&quot;conversation-turn-5&quot; data-scroll-anchor=&quot;false&quot; data-turn=&quot;user&quot;><br /><div class=&quot;text-base my-auto mx-auto pt-12 [--thread-content-margin:--spacing(4)] thread-sm:[--thread-content-margin:--spacing(6)] thread-lg:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)&quot;><br /><div class=&quot;[--thread-content-max-width:40rem] thread-sm:[--thread-content-max-width:40rem] thread-lg:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col&quot; tabindex=&quot;-1&quot;><br /><div class=&quot;flex max-w-full flex-col grow&quot;><br /><div class=&quot;min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-5&quot; dir=&quot;auto&quot; data-message-author-role=&quot;user&quot; data-message-id=&quot;abc4d035-726c-4bb8-b0c9-ca0210c8d6da&quot;><br /><div class=&quot;flex w-full flex-col gap-1 empty:hidden items-end rtl:items-start&quot;><br /><div class=&quot;user-message-bubble-color relative rounded-[18px] px-4 py-1.5 data-[multiline]:py-3 max-w-[var(--user-chat-width,70%)]&quot; data-multiline=&quot;&quot;><br /><div class=&quot;whitespace-pre-wrap&quot;><strong>Avaliação distribuída (AD)</strong> - efetuada por meio da realização de 6 a 8 questoes de aula com duração não superior 20 minutos em aula. A classificação da avaliação distribuída consiste na medía das classificações destas questões, retirando as duas pior classificadas. A não realização de uma questão implica a sua avaliação com zero.<br /><br /><strong>Exame final (E)</strong> - questões de desenvolvimento e eventualmente de escolha múltipla<br /><br /><strong>Classificação F = 0.3 AD + 0.7 EF<br /></strong><br />Melhoria realizada para 20 valores.<br /><br /><strong>Notas para estudantes que repetem a UC:</strong><br /><br /><ul><br /><li>estudantes inscritos a turmas práticas serão avaliados tal como definido acima</li><br /><li>estudantes não inscritos a turmas práticas:</li><br /><ul><br /><li>se tiverem AD de 2024/2025 ou 2023/2024, mantêm essa componente de acordo com a expressão acima</li><br /><li>se não tiverem AD de 2024/2025 nem de 2023/2024, realizarão exame para 20 valores</li><br /></ul><br /></ul><br /></div><br /></div><br /></div><br /></div><br /></div><br /></div><br /></div><br /></article><br /><article class=&quot;text-token-text-primary w-full focus:outline-none scroll-mt-[calc(var(--header-height)+min(200px,max(70px,20svh)))]&quot; dir=&quot;auto&quot; tabindex=&quot;-1&quot; data-turn-id=&quot;request-WEB:986a28dc-352c-4691-9fd3-b01fdbf3d3f6-2&quot; data-testid=&quot;conversation-turn-6&quot; data-scroll-anchor=&quot;true&quot; data-turn=&quot;assistant&quot;><br /><div class=&quot;text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] thread-sm:[--thread-content-margin:--spacing(6)] thread-lg:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)&quot;><br /><div class=&quot;[--thread-content-max-width:40rem] thread-sm:[--thread-content-max-width:40rem] thread-lg:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn&quot; tabindex=&quot;-1&quot;><br /><div class=&quot;flex min-h-[46px] justify-start&quot;> </div><br /><div class=&quot;mt-3 w-full empty:hidden&quot;> </div><br /></div><br /></div><br /></article>
+
+## Obtenção de frequência
+<p>Os alunsos que em ano anterior tenham estados inscritos à UC estão dispensados de obtenção de frequência.</p>
+
+## Exames ou Trabalhos Especiais
+Ver avaliação especial
+
+## Melhoria de classificação
+<p>Nos exames de melhoria da classificação, a classificação final será igual ao resultado obtido nesse exame, se melhor do que a classificação anterior. A classificação da avaliação distribuida não será considerada.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Signals and Systems
+
+## Curso responsável
+Bachelor in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>1. To describe and explain essential concepts, characteristics, properties and operations of signals and systems; <br />2. To identify and distinguish continuous/discrete signals and systems; <br />3. To define, explain, operate and solve time invariant linear systems, continuous and discrete, in  time and frequency (Fourier) domains. <br />4. To interpret and calculate Laplace transform and relate it with time invariant linear systems. <br />5. To decompose signals and systems and illustrate them; <br />6. To analyse time invariant linear systems and represent them in time and frequency.</p>
+
+## Resultados de aprendizagem e competências
+<p> </p>
+<p data-start="42" data-end="424">The main objective of the curricular unit <em data-start="84" data-end="105">Signals and Systems</em> is to provide students with basic training in continuous and discrete signals and linear systems. As learning outcomes, students are expected to acquire the competencies formulated in the objectives of the curricular unit and demonstrate their incorporation into their training. Specifically, they should be able to:</p>
+<ol data-start="426" data-end="1011">
+<li data-start="426" data-end="515">
+<p data-start="429" data-end="515">Describe and explain the concepts and properties of continuous and discrete signals.</p>
+</li>
+<li data-start="516" data-end="573">
+<p data-start="519" data-end="573">Represent signals and perform their transformations.</p>
+</li>
+<li data-start="574" data-end="674">
+<p data-start="577" data-end="674">Describe and explain the concept of a system, and identify and distinguish its main properties.</p>
+</li>
+<li data-start="675" data-end="788">
+<p data-start="678" data-end="788">Understand, formulate, and apply the transformation of signals carried out by linear time-invariant systems.</p>
+</li>
+<li data-start="789" data-end="897">
+<p data-start="792" data-end="897">Incorporate and master the notions of time-domain and frequency-domain analysis of signals and systems.</p>
+</li>
+<li data-start="898" data-end="1011">
+<p data-start="901" data-end="1011">Formulate, explain, and solve practical problems of signal processing through linear time-invariant systems.</p>
+</li>
+</ol>
+
+## Pré-requisitos e co-requisitos
+<p><br />Basic knowledge in mathematical analysis, algebra and circuit theory.</p>
+
+## Programa
+<p>CONTENTS <br /> Continuous and discrete signals and systems. Time invariant linear systems. Laplace transform.<br />Fourier analysis for signals and systems. Frequency response; Sampling.<br /> <br /><br /><br /><br /></p>
+
+## Bibliografia obrigatória
+Oppenheim, Alan V.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004222110108801" title="Signals & systems (Opens in a new window)" target="_blank" >Signals & systems</a>. ISBN: 0-13-651175-9<br>
+Michael J. Roberts; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009008530108801" title="Fundamentals of Signals and Systems (Opens in a new window)" target="_blank" >Fundamentals of Signals and Systems</a>, McGraw-Hill International Edition, 2008. ISBN: 978-007-125937-8<br>
+
+## Bibliografia complementar
+Buck, John R.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004507240108801" title="Computer explorations in signals and systems (Opens in a new window)" target="_blank" >Computer explorations in signals and systems</a>. ISBN: 0-13-732868-0 <br>
+Lindner, Douglas K; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004567190108801" title="Introduction to signals and systems (Opens in a new window)" target="_blank" >Introduction to signals and systems</a>. ISBN: 0-07-116489-8 <br>
+Signals and Systems-MIT open course ware, MIT <br>
+H. P. Hsu; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005796330108801" title="Signals and Systems (Opens in a new window)" target="_blank" >Signals and Systems</a>, Mc Graw-Hill, 1995. ISBN: ISBN 0-07-030641-9<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p data-start="42" data-end="195"><strong data-start="42" data-end="77">Lectures (Theoretical Classes):</strong><br data-start="77" data-end="80" />Presentation of the program topics, with illustration of methods through the solution of representative problems.</p>
+<p data-start="197" data-end="387"><strong data-start="197" data-end="228">Tutorial/Practical Classes:</strong><br data-start="228" data-end="231" />Solving illustrative problems related to the topics taught in the lectures. Proposal and discussion of homework assignments, and problem solving in class.</p>
+<p data-start="389" data-end="615"><strong data-start="389" data-end="415">Outside the Classroom:</strong><br data-start="415" data-end="418" />Independent study of the course topics and solving proposed problems (both in the conventional way and using MATLAB, available on the FEUP network, as well as other open-source support software).</p>
+
+## Software
+MatLab 7<br>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 hours
+- Frequência das aulas: 52.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p data-start="42" data-end="368"><strong data-start="42" data-end="73">Distributed Assessment (DA)</strong> &#8211; carried out through 6 to 8 in-class questions, each lasting no more than 20 minutes. The distributed assessment grade corresponds to the average of the scores obtained in these questions, excluding the two lowest. Failure to complete a question results in a grade of zero for that question.</p>
+<p data-start="370" data-end="480"><strong data-start="370" data-end="389">Final Exam (FE)</strong> &#8211; composed of development (open-ended) questions and possibly multiple-choice questions.</p>
+<p data-start="482" data-end="519"><strong data-start="482" data-end="517">Final Grade F = 0.3 DA + 0.7 FE</strong></p>
+<p data-start="521" data-end="570">Grade improvement is conducted on a 0&#8211;20 scale.</p>
+<p data-start="572" data-end="668"><strong data-start="572" data-end="666">Notes for students retaking the course unit (UC):</strong></p>
+<ul data-start="669" data-end="1033">
+<li data-start="669" data-end="746">
+<p data-start="671" data-end="746">Students enrolled in practical classes will be assessed as defined above.</p>
+</li>
+<li data-start="747" data-end="1033">
+<p data-start="749" data-end="794">Students not enrolled in practical classes:</p>
+<ul data-start="797" data-end="1033">
+<li data-start="797" data-end="936">
+<p data-start="799" data-end="936">If they have DA from 2024/2025 or 2023/2024, that component is retained and combined according to the formula above.</p>
+</li>
+<li data-start="939" data-end="1033">
+<p data-start="941" data-end="1033">If they do not have DA neither from 2024/2025 nor from 2023/2024, they must take the exam graded on a 0&#8211;20 scale.</p>
+</li>
+</ul>
+</li>
+</ul>
+
+## Obtenção de frequência
+Students enrolled in this course in previous years, do not need to enroll in tutorial sessions
+
+## Exames ou Trabalhos Especiais
+check special evaluation
+
+## Melhoria de classificação
+<p>In grade improvement exams, the final grade will be equal to the result obtained in that exam, if it is higher than the previous grade. The distributed assessment grade will not be taken into account.</p>
+

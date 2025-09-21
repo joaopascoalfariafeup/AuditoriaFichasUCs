@@ -1,0 +1,110 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Introdução aos Computadores
+
+## Curso responsável
+Licenciatura em Ciência de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>Fornecer aos estudantes uma visão geral sobre a Ciência de Computadores, em particular, sobre os conceitos fundamentais sobre a estrutura e o funcionamento dos computadores digitais e dos sistemas de operacão.  </p>
+
+## Resultados de aprendizagem e competências
+<p>Ao concluir esta disciplina o estudante deverá:<br /><br />- entender as noções básicas sobre o funcionamento e a arquitetura dos computadores.<br />- conhecer conceitos básicos sobre um sistema de operação (Unix/Linux).<br />- conhecer os diferentes tipos de linguagens de programação.<br />- ser capaz de usar a linha de comandos do Linux e escrever "scripts" básicos em Bash shell.<br /><br /> </p>
+
+## Programa
+<p>Noções básicas de arquitectura de computadores. <br />Representação digital de informação e seu processamento - inteiros e vírgula flutuante. Estrutura de computadores e os seus componentes principais. Modelos abstractos de máquinas. Máquinas programáveis: linguagens máquina e assembladores.<br /><br />Circuitos digitais básicos<br />Portas lógicas básicas e bases. Relação entre fórmulas lógicas e circuitos. Tabelas de verdade. Circuitos básicos para operações lógicas, aritméticas e de memória. <br /><br />Conceitos básicos sobre Programação<br />Linguagens de programação: evolução, classificação. Paradigmas de programação. Sintaxe e semântica de linguagens. Compiladores e interpretadores. Carregadores e ligadores. Ferramentas de ajuda à programação.<br /><br />Sistemas de operação (Unix/Linux).<br />Sistema de Ficheiros. Processos. Organização e administração de memória central. Linguagens de comandos. Utilitários. Controle de periféricos. </p>
+
+## Bibliografia obrigatória
+J. Glenn Brookshear, David Smith and Dennis Brylow; Computer Science: An Overview, Pearson (Addison-Wesley), 2012. ISBN: 9780132569033<br>
+
+## Bibliografia complementar
+John L. Hennessy, David A. Patterson; Computer Organization and Design : the Hardware/Software Interface , Morgan Kaufmann<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas teóricas são usadas para a exposição e a discussão dos conceitos fundamentais da teória e da prática dos tópicos abordados pela disciplina.<br /><br />As aulas práticas destinam-se à resolução de problemas ilustrativos dos conceitos expostos nas aulas teóricas.<br /><br /></p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Frequência das aulas: 48.0 horas
+- Estudo autónomo: 114.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação dos estudantes faz-se por realização de dois testes escritos ou por exame final escrito.<br /><br />O primeiro teste será realizado a meio do semestre e o segundo durante a época normal de exames. Cada teste terá um peso de 10 em 20 valores na classificação final da unidade curricular.<br /><br />O exame final escrito será realizado na época de recurso e terá um peso de 20 em 20 valores na classificação final da unidade curricular.</p>
+
+## Obtenção de frequência
+<p>Presença em pelo menos 3/4 (75%) das aulas práticas.</p>
+
+## Melhoria de classificação
+Os estudantes podem melhorar as notas do ano anterior realizando um exame de recurso, com peso de 100% na nota final, realizado na época de recurso.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Introduction to Computers
+
+## Curso responsável
+Bachelor in Computer Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tradução"><span class="Y2IQFc" lang="en">Provide students with an overview about Computer Science, in particular, the fundamental concepts about the organization and operation of digital computers and operating systems.</span></p>
+
+## Resultados de aprendizagem e competências
+<p id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tradução"><span class="Y2IQFc" lang="en">At the end of the course, the students are expected to:<br /><br /> - understand the basics about the operation and architecture of computers.<br /> - know basic concepts about an operating system (Unix/Linux). <br />- know the different kinds of programming languages. <br />- be able to use the Linux terminal and write basic scripts in Bash shell.</span></p>
+<p> </p>
+
+## Programa
+<p>Key ideas about  Computer Architecture. <br />Digital representation and processing of information - integers and floating point. Computer organization and its main components. Abstract models of machines. Programmable machines: machine language and assemblers.</p>
+<p>Basic digital circuits<br />Logic gates and basis. Relationship between logic formulae and circuits. Truth tables. Basic circuits for logic and arithmetic operations, and for memory cells. </p>
+<p>Basic concepts about Programming<br />Programming Languages: history, taxonomy. Programming paradigms. Syntax and Semantics. Compilers and interpreters. Loaders and linkers. Programming tools.</p>
+<p>Operating Systems (Unix/Linux)<br />File systems. Processes. Main memory. Command Languages. Applications. Input/Output. </p>
+
+## Bibliografia obrigatória
+J. Glenn Brookshear, David Smith and Dennis Brylow; Computer Science: An Overview, Pearson (Addison-Wesley), 2012. ISBN: 9780132569033<br>
+
+## Bibliografia complementar
+John L. Hennessy, David A. Patterson; Computer Organization and Design : the Hardware/Software Interface , Morgan Kaufmann<br>
+
+## Métodos de ensino e atividades de aprendizagem
+The lecture classes are used for the exposition and discussion of concepts about the theory and the practice of the topics covered by the course.<br /><br />The practical classes are designed to solve illustrative problems of the concepts presented in the lecture classes.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Frequência das aulas: 48.0 hours
+- Estudo autónomo: 114.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<em>The assessment of students is carried out either through two written tests or a final written exam.</em><br /><div class=&quot;text-base my-auto mx-auto pb-10 [--thread-content-margin:--spacing(4)] @[37rem]:[--thread-content-margin:--spacing(6)] @[72rem]:[--thread-content-margin:--spacing(16)] px-(--thread-content-margin)&quot;><br /><div class=&quot;[--thread-content-max-width:32rem] @[34rem]:[--thread-content-max-width:40rem] @[64rem]:[--thread-content-max-width:48rem] mx-auto max-w-(--thread-content-max-width) flex-1 group/turn-messages focus-visible:outline-hidden relative flex w-full min-w-0 flex-col agent-turn&quot; tabindex=&quot;-1&quot;><br /><div class=&quot;flex max-w-full flex-col grow&quot;><br /><div class=&quot;min-h-8 text-message relative flex w-full flex-col items-end gap-2 text-start break-words whitespace-normal [.text-message+&amp;]:mt-5&quot; dir=&quot;auto&quot; data-message-author-role=&quot;assistant&quot; data-message-id=&quot;5ed7b71e-8946-4929-ac2f-16484e0e07b2&quot; data-message-model-slug=&quot;gpt-4o&quot;><br /><div class=&quot;flex w-full flex-col gap-1 empty:hidden first:pt-[3px]&quot;><br /><div class=&quot;markdown prose dark:prose-invert w-full break-words light&quot;><br /><p data-start=&quot;101&quot; data-end=&quot;275&quot;>The first test will be held mid-semester, and the second during the regular exam period. Each test will account for 10 out of 20 points in the final grade of the course unit.</p><br /><p data-start=&quot;277&quot; data-end=&quot;419&quot; data-is-last-node=&quot;&quot; data-is-only-node=&quot;&quot;>The final written exam will take place during the resit period and will account for 20 out of 20 points in the final grade of the course unit.</p><br /></div><br /></div><br /></div><br /></div><br /></div><br /></div>
+
+## Obtenção de frequência
+<p>Students must attend at least 3/4 (75%) of the practical classes.</p>
+
+## Melhoria de classificação
+Students can improve their previous year's grades by taking a resit exam worth 100% of the final grade, held during the resit season
+

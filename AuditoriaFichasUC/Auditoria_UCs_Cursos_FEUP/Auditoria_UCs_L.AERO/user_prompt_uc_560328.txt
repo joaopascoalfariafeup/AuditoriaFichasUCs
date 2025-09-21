@@ -1,0 +1,36 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Análise Numérica
+
+## Curso responsável
+Licenciatura em Engenharia Aeroespacial
+
+## Créditos ECTS
+4,5
+
+## Ano
+2
+
+## Semestre
+2
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Numerical analysis
+
+## Curso responsável
+Bachelor in Aerospace Engineering
+
+## Créditos ECTS
+4,5
+
+## Ano
+2
+
+## Semestre
+2
+

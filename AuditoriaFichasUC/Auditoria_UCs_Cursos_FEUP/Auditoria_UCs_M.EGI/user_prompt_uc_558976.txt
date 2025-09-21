@@ -1,0 +1,174 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Marketing
+
+## Curso responsável
+Mestrado em Engenharia e Gestão Industrial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p data-start="266" data-end="434">At the end of the course, each student is expected to be able to handle, discuss, and apply the fundamental concepts of strategic management and marketing management.</p>
+<p data-start="436" data-end="908"><strong data-start="436" data-end="471">Marketing: A Strategic Approach</strong> begins by adopting the analytical and conceptual frameworks of strategic management, ensuring that students develop the ability to evaluate internal and external environments, identify strategic issues, and formulate evidence-based options. This discipline contributes directly to the United Nations Sustainable Development Goals (SDGs), by promoting responsible decision-making, ethical awareness, and sustainable business practices.</p>
+<p data-start="910" data-end="1289">Building upon this foundation, <strong data-start="941" data-end="976">Marketing: A Strategic Approach</strong> introduces a comprehensive and integrated view of marketing as a strategic discipline. The course develops the capacity to design, implement, and evaluate marketing strategies that support organisational competitiveness and long-term sustainability, while aligning with the principles of social responsibility.</p>
+<p data-start="1291" data-end="1344">Particular emphasis will be given to the following:</p>
+<ul data-start="1345" data-end="1995">
+<li data-start="1345" data-end="1493">
+<p data-start="1347" data-end="1493">The articulation of marketing decisions within a strategic framework that aligns with broader corporate objectives and stakeholder expectations.</p>
+</li>
+<li data-start="1494" data-end="1686">
+<p data-start="1496" data-end="1686">The rigorous understanding and application of the marketing mix (the 4 Ps: product, price, place, and promotion), extended to include service marketing, branding, and digital perspectives.</p>
+</li>
+<li data-start="1687" data-end="1827">
+<p data-start="1689" data-end="1827">The integration of advanced strategic insights with marketing practice, highlighting the role of ethics, sustainability, and innovation.</p>
+</li>
+<li data-start="1828" data-end="1995">
+<p data-start="1830" data-end="1995">The development of critical thinking and strategic communication skills, enabling students to justify and defend marketing choices in complex and dynamic contexts.</p>
+</li>
+</ul>
+<p data-start="1997" data-end="2078"><strong data-start="1997" data-end="2032">Marketing: A Strategic Approach</strong> contributes to several SDGs, in particular:</p>
+<ul data-start="2079" data-end="2787">
+<li data-start="2079" data-end="2215">
+<p data-start="2081" data-end="2215"><strong data-start="2081" data-end="2110">SDG 4 &#8211; Quality Education</strong>, by equipping students with knowledge and skills to make informed and responsible marketing decisions.</p>
+</li>
+<li data-start="2216" data-end="2354">
+<p data-start="2218" data-end="2354"><strong data-start="2218" data-end="2261">SDG 8 &#8211; Decent Work and Economic Growth</strong>, by fostering innovative and sustainable marketing strategies that create long-term value.</p>
+</li>
+<li data-start="2355" data-end="2501">
+<p data-start="2357" data-end="2501"><strong data-start="2357" data-end="2409">SDG 9 &#8211; Industry, Innovation, and Infrastructure</strong>, by encouraging the use of digital technologies, analytics, and AI in marketing practice.</p>
+</li>
+<li data-start="2502" data-end="2643">
+<p data-start="2504" data-end="2643"><strong data-start="2504" data-end="2555">SDG 12 &#8211; Responsible Consumption and Production</strong>, by promoting ethical approaches to product development, branding, and communication.</p>
+</li>
+<li data-start="2644" data-end="2787">
+<p data-start="2646" data-end="2787"><strong data-start="2646" data-end="2698">SDG 16 &#8211; Peace, Justice, and Strong Institutions</strong>, by embedding transparency, fairness, and ethical reasoning into marketing strategies.</p>
+</li>
+</ul>
+<p data-start="2789" data-end="2998">Through <strong data-start="2797" data-end="2832">Marketing: A Strategic Approach</strong>, students will acquire both the strategic mindset and the operational tools necessary to design marketing strategies that are innovative, ethical, and sustainable.</p>
+
+## Resultados de aprendizagem e competências
+<p>People often think about &#8220;marketing&#8221; strictly as advertising &#8212; a highly visible activity by which organizations try to persuade customers to buy products and services. However, marketing is much more than advertising alone; even the most skilful marketer cannot make customers buy things that they don't want. In this course students will acquire skills and competencies to make and defend marketing decisions in the context of real-world problem situations with incomplete information (case studies and simulations) and make cross-functional connections between marketing and other business areas. The skills acquired will be useful regardless of the industry.</p>
+<p data-start="350" data-end="652">Upon completion of <strong data-start="369" data-end="404">Marketing: A Strategic Approach</strong>, students will have acquired the competencies to design, communicate, and implement marketing strategies within a broader strategic management framework. The focus will be on rigorous analysis, ethical reasoning, and sustainable decision-making.</p>
+<p data-start="654" data-end="757">We will emphasise four core competencies, each articulated through traits and rubrics of performance:</p>
+<hr data-start="759" data-end="762" />
+
+## Programa
+<ol><br /><li><br />
+
+## Bibliografia obrigatória
+Johnson , Gerry; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990000469970108801" title="Exploring corporate strategy (Abre numa nova janela)" target="_blank" >Exploring corporate strategy</a>. ISBN: 0-13-080739-7<br>
+Bearden, W. O., Ingram, T. N., & LaForge, R. W.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990003875800108801" title="Marketing: Principles and Perspectives (Abre numa nova janela)" target="_blank" >Marketing: Principles and Perspectives</a>, McGraw-Hill Education, 2006. ISBN: ISBN-13-978-0072322972<br>
+Kerin, R. A., Hartley, S.W., Rudelius, W; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005319530108801" title="Marketing (Abre numa nova janela)" target="_blank" >Marketing</a>, McGraw-Hill . ISBN: ISBN-13- 978-1259573545<br>
+Urban, G. L., & Star, S. H.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990000472440108801" title="Advanced marketing strategy: Phenomena, analysis, and decisions. (Abre numa nova janela)" target="_blank" >Advanced marketing strategy: Phenomena, analysis, and decisions.</a>, Prentice Hall, 1991. ISBN: ISBN-13-978-0138519407<br>
+Ries, A., & Trout, J.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990001480510108801" title="Positioning: The battle for your mind (Abre numa nova janela)" target="_blank" >Positioning: The battle for your mind</a>, McGraw-Hill Education, 2001. ISBN: ISBN-13-978-0071373586<br>
+Ries, A., & Trout, J.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009432570108801" title="The 22 Immutable Laws of Marketing (Abre numa nova janela)" target="_blank" >The 22 Immutable Laws of Marketing</a>, Profile Books, 1993. ISBN: ISBN-13- 978-1861976109<br>
+Lindstrom, M.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009427880108801" title="Buyology: How everything we believe about why we buy is wrong (Abre numa nova janela)" target="_blank" >Buyology: How everything we believe about why we buy is wrong</a>, Random House Business, 2012. ISBN: ISBN-13- 978-11847940131<br>
+Holiday, R.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009432580108801" title="Trust me, I'm lying: confessions of a media manipulator (Abre numa nova janela)" target="_blank" >Trust me, I'm lying: confessions of a media manipulator</a>, Profile Books, 2018. ISBN: ISBN-13-978-1788160063<br>
+Miller, D.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009427880108801" title="Building a StoryBrand: Clarify your message so customers will listen (Abre numa nova janela)" target="_blank" >Building a StoryBrand: Clarify your message so customers will listen</a>, Thomas Nelson, 2017. ISBN: ISBN-13:978-1400201839<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><br /><br />Class sessions will be mixed in format, to include interactive lectures, discussions of readings, small case analyses, video clips, and in-class exercises. <br /><br />Class participation and Key Learning points will be an important part of learning and evaluation.</p>
+
+## Software
+Microsoft Office<br>
+Phyton Programming and AI tools as per teacher indication<br>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 65.0 horas
+- Frequência das aulas: 52.0 horas
+- Trabalho escrito: 45.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Final grade: 10% from class participation (up to 2 values); 20% from the development of a Key learning points - class plan (up to 4 values) and 70% from an individual exam (up to 14 values). Class participation and Key learning points will be marked together (given a single mark).</p>
+<p>Students will also have to self evaluate and propose a grade to evaluate their class participation and Key learning points quality.</p>
+<p>Class plan: Each student will be asked to prepare and submit a class plan derived from its participation in the classes. After each class every student will be asked to prepare a shirt summary of the Key learning points of the class and at the end of the course a full version of all the course should be submitted to be marked accordingly. In the individual plan a personal marketing plan and a hot, cold, and cool exercise can be asked.<br /><br /><strong>PLEASE NOTE:</strong></p>
+<p><strong>Exams answers will be limitted to a maximum of 10 pages A4</strong><br /><strong>Class plans will be limitted to a maximum of 50 pages A4</strong></p>
+
+## Obtenção de frequência
+Condições de Frequência: <br />Presença nas aulas, de acordo com as &quot;Normas Gerais de Avaliação&quot; do Conselho Pedagógico da FEUP.
+
+## Melhoria de classificação
+<p>Grade improvements can be obtained by submitting an individual essay (no more than 10 A4 pages) with a case analysis. Case and marketing subjects covered will be based on individual preferences.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Marketing
+
+## Curso responsável
+Master in Industrial Engineering and Management
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<div class=&quot;page&quot; title=&quot;Page 55&quot;><br /><div class=&quot;section&quot;><br /><div class=&quot;layoutArea&quot;><br /><div class=&quot;column&quot;><br /><p data-start=&quot;266&quot; data-end=&quot;434&quot;>At the end of the course, each student is expected to be able to handle, discuss, and apply the fundamental concepts of strategic management and marketing management.</p><br /><p data-start=&quot;436&quot; data-end=&quot;908&quot;><strong data-start=&quot;436&quot; data-end=&quot;471&quot;>Marketing: A Strategic Approach</strong> begins by adopting the analytical and conceptual frameworks of strategic management, ensuring that students develop the ability to evaluate internal and external environments, identify strategic issues, and formulate evidence-based options. This discipline contributes directly to the United Nations Sustainable Development Goals (SDGs), by promoting responsible decision-making, ethical awareness, and sustainable business practices.</p><br /><p data-start=&quot;910&quot; data-end=&quot;1289&quot;>Building upon this foundation, <strong data-start=&quot;941&quot; data-end=&quot;976&quot;>Marketing: A Strategic Approach</strong> introduces a comprehensive and integrated view of marketing as a strategic discipline. The course develops the capacity to design, implement, and evaluate marketing strategies that support organisational competitiveness and long-term sustainability, while aligning with the principles of social responsibility.</p><br /><p data-start=&quot;1291&quot; data-end=&quot;1344&quot;>Particular emphasis will be given to the following:</p><br /><ul data-start=&quot;1345&quot; data-end=&quot;1995&quot;><br /><li data-start=&quot;1345&quot; data-end=&quot;1493&quot;><br /><p data-start=&quot;1347&quot; data-end=&quot;1493&quot;>The articulation of marketing decisions within a strategic framework that aligns with broader corporate objectives and stakeholder expectations.</p><br /></li><br /><li data-start=&quot;1494&quot; data-end=&quot;1686&quot;><br /><p data-start=&quot;1496&quot; data-end=&quot;1686&quot;>The rigorous understanding and application of the marketing mix (the 4 Ps: product, price, place, and promotion), extended to include service marketing, branding, and digital perspectives.</p><br /></li><br /><li data-start=&quot;1687&quot; data-end=&quot;1827&quot;><br /><p data-start=&quot;1689&quot; data-end=&quot;1827&quot;>The integration of advanced strategic insights with marketing practice, highlighting the role of ethics, sustainability, and innovation.</p><br /></li><br /><li data-start=&quot;1828&quot; data-end=&quot;1995&quot;><br /><p data-start=&quot;1830&quot; data-end=&quot;1995&quot;>The development of critical thinking and strategic communication skills, enabling students to justify and defend marketing choices in complex and dynamic contexts.</p><br /></li><br /></ul><br /><p data-start=&quot;1997&quot; data-end=&quot;2078&quot;><strong data-start=&quot;1997&quot; data-end=&quot;2032&quot;>Marketing: A Strategic Approach</strong> contributes to several SDGs, in particular:</p><br /><ul data-start=&quot;2079&quot; data-end=&quot;2787&quot;><br /><li data-start=&quot;2079&quot; data-end=&quot;2215&quot;><br /><p data-start=&quot;2081&quot; data-end=&quot;2215&quot;><strong data-start=&quot;2081&quot; data-end=&quot;2110&quot;>SDG 4 &#8211; Quality Education</strong>, by equipping students with knowledge and skills to make informed and responsible marketing decisions.</p><br /></li><br /><li data-start=&quot;2216&quot; data-end=&quot;2354&quot;><br /><p data-start=&quot;2218&quot; data-end=&quot;2354&quot;><strong data-start=&quot;2218&quot; data-end=&quot;2261&quot;>SDG 8 &#8211; Decent Work and Economic Growth</strong>, by fostering innovative and sustainable marketing strategies that create long-term value.</p><br /></li><br /><li data-start=&quot;2355&quot; data-end=&quot;2501&quot;><br /><p data-start=&quot;2357&quot; data-end=&quot;2501&quot;><strong data-start=&quot;2357&quot; data-end=&quot;2409&quot;>SDG 9 &#8211; Industry, Innovation, and Infrastructure</strong>, by encouraging the use of digital technologies, analytics, and AI in marketing practice.</p><br /></li><br /><li data-start=&quot;2502&quot; data-end=&quot;2643&quot;><br /><p data-start=&quot;2504&quot; data-end=&quot;2643&quot;><strong data-start=&quot;2504&quot; data-end=&quot;2555&quot;>SDG 12 &#8211; Responsible Consumption and Production</strong>, by promoting ethical approaches to product development, branding, and communication.</p><br /></li><br /><li data-start=&quot;2644&quot; data-end=&quot;2787&quot;><br /><p data-start=&quot;2646&quot; data-end=&quot;2787&quot;><strong data-start=&quot;2646&quot; data-end=&quot;2698&quot;>SDG 16 &#8211; Peace, Justice, and Strong Institutions</strong>, by embedding transparency, fairness, and ethical reasoning into marketing strategies.</p><br /></li><br /></ul><br /><p data-start=&quot;2789&quot; data-end=&quot;2998&quot;>Through <strong data-start=&quot;2797&quot; data-end=&quot;2832&quot;>Marketing: A Strategic Approach</strong>, students will acquire both the strategic mindset and the operational tools necessary to design marketing strategies that are innovative, ethical, and sustainable.</p><br /></div><br /></div><br /></div><br /></div>
+
+## Resultados de aprendizagem e competências
+<p>People often think about &#8220;marketing&#8221; strictly as advertising &#8212; a highly visible activity by which organizations try to persuade customers to buy products and services. However, marketing is much more than advertising alone; even the most skilful marketer cannot make customers buy things that they don't want. In this course students will acquire skills and competencies to make and defend marketing decisions in the context of real-world problem situations with incomplete information (case studies and simulations) and make cross-functional connections between marketing and other business areas. The skills acquired will be useful regardless of the industry.</p>
+<p data-start="350" data-end="652">Upon completion of <strong data-start="369" data-end="404">Marketing: A Strategic Approach</strong>, students will have acquired the competencies to design, communicate, and implement marketing strategies within a broader strategic management framework. The focus will be on rigorous analysis, ethical reasoning, and sustainable decision-making.</p>
+<p data-start="654" data-end="757">We will emphasise four core competencies, each articulated through traits and rubrics of performance:</p>
+<hr data-start="759" data-end="762" />
+
+## Programa
+<ol><br /><li><br />
+
+## Bibliografia obrigatória
+Johnson , Gerry; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990000469970108801" title="Exploring corporate strategy (Opens in a new window)" target="_blank" >Exploring corporate strategy</a>. ISBN: 0-13-080739-7<br>
+Bearden, W. O., Ingram, T. N., & LaForge, R. W.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990003875800108801" title="Marketing: Principles and Perspectives (Opens in a new window)" target="_blank" >Marketing: Principles and Perspectives</a>, McGraw-Hill Education, 2006. ISBN: ISBN-13-978-0072322972<br>
+Kerin, R. A., Hartley, S.W., Rudelius, W; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005319530108801" title="Marketing (Opens in a new window)" target="_blank" >Marketing</a>, McGraw-Hill . ISBN: ISBN-13- 978-1259573545<br>
+Urban, G. L., & Star, S. H.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990000472440108801" title="Advanced marketing strategy: Phenomena, analysis, and decisions. (Opens in a new window)" target="_blank" >Advanced marketing strategy: Phenomena, analysis, and decisions.</a>, Prentice Hall, 1991. ISBN: ISBN-13-978-0138519407<br>
+Ries, A., & Trout, J.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990001480510108801" title="Positioning: The battle for your mind (Opens in a new window)" target="_blank" >Positioning: The battle for your mind</a>, McGraw-Hill Education, 2001. ISBN: ISBN-13-978-0071373586<br>
+Ries, A., & Trout, J.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009432570108801" title="The 22 Immutable Laws of Marketing (Opens in a new window)" target="_blank" >The 22 Immutable Laws of Marketing</a>, Profile Books, 1993. ISBN: ISBN-13- 978-1861976109<br>
+Lindstrom, M.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009427880108801" title="Buyology: How everything we believe about why we buy is wrong (Opens in a new window)" target="_blank" >Buyology: How everything we believe about why we buy is wrong</a>, Random House Business, 2012. ISBN: ISBN-13- 978-11847940131<br>
+Holiday, R.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009432580108801" title="Trust me, I'm lying: confessions of a media manipulator (Opens in a new window)" target="_blank" >Trust me, I'm lying: confessions of a media manipulator</a>, Profile Books, 2018. ISBN: ISBN-13-978-1788160063<br>
+Miller, D.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009427880108801" title="Building a StoryBrand: Clarify your message so customers will listen (Opens in a new window)" target="_blank" >Building a StoryBrand: Clarify your message so customers will listen</a>, Thomas Nelson, 2017. ISBN: ISBN-13:978-1400201839<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><br /><br />Class sessions will be mixed in format, to include interactive lectures, discussions of readings, small case analyses, video clips, and in-class exercises. <br /><br />Class participation and Key Learning points will be an important part of learning and evaluation.</p>
+
+## Software
+Microsoft Office<br>
+Phyton Programming and AI tools as per teacher indication<br>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 65.0 hours
+- Frequência das aulas: 52.0 hours
+- Trabalho escrito: 45.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Final grade: 10% from class participation (up to 2 values); 20% from the development of a Key learning points - class plan (up to 4 values) and 70% from an individual exam (up to 14 values). Class participation and Key learning points will be marked together (given a single mark).</p>
+<p>Students will also have to self evaluate and propose a grade to evaluate their class participation and Key learning points quality.</p>
+<p>Class plan: Each student will be asked to prepare and submit a class plan derived from its participation in the classes. After each class every student will be asked to prepare a shirt summary of the Key learning points of the class and at the end of the course a full version of all the course should be submitted to be marked accordingly. In the individual plan a personal marketing plan and a hot, cold, and cool exercise can be asked.<br /><br /><strong>PLEASE NOTE:</strong></p>
+<p><strong>Exams answers will be limitted to a maximum of 10 pages A4</strong><br /><strong>Class plans will be limitted to a maximum of 50 pages A4</strong></p>
+
+## Obtenção de frequência
+Terms of frequency: <br />Students have to attend classes (according to the &quot;General Evaluation Rules&quot; of FEUP Pedagogical Council).
+
+## Melhoria de classificação
+<p>Grade improvements can be obtained by submitting an individual essay (no more than 10 A4 pages) with a case analysis. Case and marketing subjects covered will be based on individual preferences.</p>
+

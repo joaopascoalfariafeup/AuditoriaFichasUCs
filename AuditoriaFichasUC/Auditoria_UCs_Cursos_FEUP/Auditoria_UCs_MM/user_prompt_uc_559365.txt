@@ -1,0 +1,122 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sistemas Gráficos e Animação 3D
+
+## Curso responsável
+Mestrado em Multimédia
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Transmitir o conhecimento de conceitos, técnicas, algoritmos e tecnologias de Computação Gráfica e de Animação por Computador. Um estudo aprofundado é efetuado no domínio da computação gráfica 3D. Temas importantes são a modelação 3D, a Síntese de Imagens e a animação por Computador. O conteúdo prático da disciplina é complementado com uma visão de uma aplicação de modelação, síntese de imagem e animação 3D. </p>
+
+## Resultados de aprendizagem e competências
+<p>No final da unidade curricular, o estudante deve ser capaz de: - compreender um sistema gráfico no seu todo - modelar geometricamente um conjunto de objetos tridimensionais - controlar a iluminação e o aspeto visual dos objetos - definir e elaborar animações com objetos tridimensionais.</p>
+
+## Programa
+<p>Panorâmica sobre a computação gráfica com predominância para os 3D.<br />   - Síntese de Imagens e Modelos de Iluminação (incluindo alguns tópicos sobre síntese de imagem com elevado nível de realismo),<br />   - Cor.<br />   - Modelação de curvas, superfícies e sólidos.<br />   - Transformações geométricas 3D.<br /><br />Pipeline de animação 3D <br /> - Engenharia do <em>pipeline</em> de animação<br /> - Modelação de Superfícies 3D, baseada em polígonos<br /> - Modelação e animação baseada em estruturas esqueléticas <br /> - O <em>Rig</em> num contexto de criação de <em>avatars</em> faciais 3D<br /> - Animação baseada em <em>scripts</em></p>
+
+## Bibliografia obrigatória
+James D. Foley... [et al.]; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004551570108801" title="Introduction to computer graphics (Abre numa nova janela)" target="_blank" >Introduction to computer graphics</a>. ISBN: 0-201-60921-5 <br>
+João M. Pereira, João Brisson, António Coelho, Alfredo Ferreira, Mário Rui Gomes; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008796090108801" title="Introdução à Computação Gráfica (Abre numa nova janela)" target="_blank" >Introdução à Computação Gráfica</a>, FCA, 2018. ISBN: 978-972-722-877-5 (livro escrito em português)<br>
+
+## Bibliografia complementar
+Donald Hearn, M. Pauline Baker; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004593540108801" title="Computer graphics (Abre numa nova janela)" target="_blank" >Computer graphics</a>. ISBN: 0-13-578634-7 <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Exposição dos temas programáticos baseada em acetatos. Apresentação e discussão de exemplos, nomeada mas não exclusivamente em síntese de imagens 3D, usando software de modelação, síntese de imagem e animação 3D. Execução de trabalhos de modelação e animação com o mesmo software.</p>
+
+## Software
+Autodesk Maya<br>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho laboratorial: 70.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Cl.Final=40%*Cl.Trabalho + 60%*Cl.Exame<br />Obs.: o trabalho prático é obrigatório</p>
+
+## Obtenção de frequência
+<p>Frequência das aulas</p>
+
+## Exames ou Trabalhos Especiais
+<p>Trabalho Prático: Modelação e animação de uma cena 3D proposta pelo estudante e a combinar com o docente. NOTA: o trabalho prático é obrigatório.</p>
+
+## Melhoria de classificação
+<p>Não existe melhoria do trabalho prático. O Exame segue as regras normais de melhoria em vigor na FEUP.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Graphic Systems and 3D Animation
+
+## Curso responsável
+Master in Multimedia
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Present the knowledge of the Computer Graphics and Computer Animation concepts, algorithms and technologies. A deep study is done in the 3D domain. Important themes are Modelling 3D, Image Synthesis and Computer Animation. The practical component of this course unit is complemented with a software application for modelling, rendering and animation in 3D. </p>
+
+## Resultados de aprendizagem e competências
+<p>After the successful completion of this course unit, students should be capable of: - understanding a graphic system on its whole; - geometrically modelling a set of three-dimensional objects; - controlling lighting and the visual aspect of objects; - defining and developing animations with three-dimensional objects.</p>
+
+## Programa
+<p>Overview about Computer Graphics, with predominance in the 3D.<br />  - Image Synthesis and Illumination Models, including topics in the domain of High Realistic Rendering. <br />  - Colour. <br />  - Modelling curves, surfaces and solids. <br />  - 3D Geometrical Transformations. <br /><br />3D animation pipeline <br />  - Engineering behind an animation pipeline <br />  - 3D Surface Modelling based on polygons <br />  - Modelling and animation based on skeletal structures<br />  - The Rig in the context of creation of 3D facial avatars <br />  - Script based animation </p>
+
+## Bibliografia obrigatória
+James D. Foley... [et al.]; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004551570108801" title="Introduction to computer graphics (Opens in a new window)" target="_blank" >Introduction to computer graphics</a>. ISBN: 0-201-60921-5 <br>
+João M. Pereira, João Brisson, António Coelho, Alfredo Ferreira, Mário Rui Gomes; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008796090108801" title="Introdução à Computação Gráfica (Opens in a new window)" target="_blank" >Introdução à Computação Gráfica</a>, FCA, 2018. ISBN: 978-972-722-877-5 (book in portuguese)<br>
+
+## Bibliografia complementar
+Donald Hearn, M. Pauline Baker; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004593540108801" title="Computer graphics (Opens in a new window)" target="_blank" >Computer graphics</a>. ISBN: 0-13-578634-7 <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theorical expositions with transparencies. Presentation and discussion of examples, namely but not restricted to 3D Image Synthesis, by the use of software 3DStudio MAX. Execution pf Practical works of modelling, rendering and animation with the same software.</p>
+
+## Software
+Autodesk Maya<br>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho laboratorial: 70.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Final.Cl=40%*PractWork + 60%*Exam<br />Obs.: the practical work is mandatory</p>
+
+## Obtenção de frequência
+<p>Regularity in classes and conclusion of the practical work</p>
+
+## Exames ou Trabalhos Especiais
+<p>Practical work: Modelling and animation of a 3D Scene proposed by the student and to be agreed with the professor. The practical work is mandatory.</p>
+
+## Melhoria de classificação
+<p>Practical work classification improvement does not exist. The final exam improvement follows the normal rules of FEUP.</p>
+

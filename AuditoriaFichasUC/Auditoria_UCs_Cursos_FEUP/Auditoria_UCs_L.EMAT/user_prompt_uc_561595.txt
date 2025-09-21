@@ -1,0 +1,130 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Física II
+
+## Curso responsável
+Licenciatura em Engenharia de Materiais
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+Aquirir conhecimentos fundamentais de Electromagnetismo, Circuitos Elétricos e de Ótica Geométrica.<br />Desenvolver competências de raciocínio físico.<br />Melhorar a competência de resolução de problemas.<br />Aprender a usar instrumentos de medição elétrica.
+
+## Resultados de aprendizagem e competências
+Após aprovar esta unidade curricular, o estudante deverá ser capaz de:<br />Descrever os principais fenómenos eletromagnéticos.<br />Analisar circuitos de corrente contínua e de corrente alternada.<br />Analisar instrumentos óticos com lentes e espelhos.<br />Descrever o espetro eletromagnético e as propriedades das ondas eletromagnéticas.
+
+## Pré-requisitos e co-requisitos
+A disciplina pressupõe o domínio pelos estudantes das matérias leccionadas em Física I e Análise Matemática II.
+
+## Programa
+1. Circuitos de corrente contínua.<br />2. Força magnética.<br />3. Cálculo do campo magnético.<br />4. Indução eletromagnética.<br />5. Ótica geométrica<br />6. Vibrações mecânicas<br />7. Ondas mecânicas.<br />8. Natureza da luz.<br />9. Ondas eletromagnéticas.<br />10. Fotões.
+
+## Bibliografia obrigatória
+Villate, J. E. & Martelo L. M.; Eletromagnetismo e Circuitos (2ª edic.), Edição dos autores, 2025. ISBN: 978-972-752-317-7<br>
+Villate, J. E. & Martelo L. M.; Problemas resolvidos de eletromagnetismo e circuitos (2º edic), Edição dos autores, 2025. ISBN: 978-972-752-318-4<br>
+Villate, J. E. & Martelo L. M.; Ótica e Ondas, Edição dos autores, 2025<br>
+
+## Bibliografia complementar
+Griffiths, D. J.; Introduction to electrodynamics (3ª edic.), Prentice Hall., 1999. ISBN: 0-13-805326-X	<br>
+Hecht, E.; Óptica, Fundação Caluste Gulbenkian, 1991<br>
+
+## Métodos de ensino e atividades de aprendizagem
+- Aulas teoricas (T): exposição dos vários conceitos, apresentação de exemplos de aplicação, resolução de exercícios ilustrativos e realização de algumas demonstrações experimentais mais pertinentes.<br />- Aulas teórico-práticas (TP): resolução de exercícios supervisionadas pelo docente e realização de trabalho laboratorial.
+
+## Software
+spyder<br>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 53.0 horas
+- Frequência das aulas: 56.0 horas
+- Total:: 109.0 horas
+
+## Fórmula de cálculo da classificação final
+A avaliação consistirá em:<br />- TI: teste intercalar;<br />- TF: teste final;<br />- AP: avaliação da participação nas aulas TP;<br />- AL: avaliação do trabalho laboratorial.<br />O aluno só terá aprovação à UC se obtiver uma nota final igual ou superior a 10 valores dada pela seguinte fórmula:<br />NF=0.7((TI+TF)/2) + 0.1AP + 0.2AL
+
+## Obtenção de frequência
+Os estudantes obtêm frequência quando:<br />- Não ultrapassem as 3 faltas às aulas práticas.<br />Os estudantes que ultrapassem as 3 faltas não se poderão apresentar ao exame de recurso.<br />- Obtenham a classificação de 10 (dez) valores na componente de avaliação contínua, incluindo participação nas aulas TP e no laboratório.
+
+## Exames ou Trabalhos Especiais
+n.a.
+
+## Melhoria de classificação
+Através de exame de Recurso.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Physics II
+
+## Curso responsável
+Bachelor in Materials Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+To learn the basics of Electromagnetism, Electrical Circuits, and Geometrical Optics.<br />To develop physical reasoning skills.<br />To improve problem-solving methods.<br />To get acquainted with the use of electrical measuring devices.
+
+## Resultados de aprendizagem e competências
+Students who approve this course are expected to be able to:<br />Describe electromagnetic phenomena.<br />Analyze direct-current and alternating-current circuits.<br />Analyze optical instruments with lenses and mirrors.<br />Conduct measurements in electrical circuits.<br />Describe the electromagnetic spectrum and the properties of electromagnetic waves.
+
+## Pré-requisitos e co-requisitos
+It is assumed that the students have a good knowledge of the topics learned in Physics I and Mathematical Analysis II.
+
+## Programa
+1. Direct-current circuits.<br />2. Magnetic force.<br />3. Computing the magnetic field. <br />4. Electromagnetic induction.<br />5. Geometrical optics.<br />6. Mechanical vibrations.<br />7. Mechanical waves.<br />8. The nature of light.<br />9. Electromagnetic waves.<br />10. Photons.
+
+## Bibliografia obrigatória
+Villate, J. E. & Martelo L. M.; Eletromagnetismo e Circuitos (2ª edic.), Edição dos autores, 2025. ISBN: 978-972-752-317-7<br>
+Villate, J. E. & Martelo L. M.; Problemas resolvidos de eletromagnetismo e circuitos (2º edic), Edição dos autores, 2025. ISBN: 978-972-752-318-4<br>
+Villate, J. E. & Martelo L. M.; Ótica e Ondas, Edição dos autores, 2025<br>
+
+## Bibliografia complementar
+Griffiths, D. J.; Introduction to electrodynamics (3ª edic.), Prentice Hall., 1999. ISBN: 0-13-805326-X	<br>
+Hecht, E.; Óptica, Fundação Caluste Gulbenkian, 1991<br>
+
+## Métodos de ensino e atividades de aprendizagem
+- Lectures (T classes): discussion of concepts, examples, experimental demonstrations, and problem-solving.<br />- Practical sessions (TP classes): problem-solving under the supervision of the instructor and laboratory experimentation.
+
+## Software
+spyder<br>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 53.0 hours
+- Frequência das aulas: 56.0 hours
+- Total:: 109.0 hours
+
+## Fórmula de cálculo da classificação final
+The final grade will include the following items:- TI: mid-term quiz;<br />- TF: final quiz;<br />- AP: participation in the recitation sessions;<br />- AL: evaluation of the laboratory work.<br />To pass the course, a student must obtain at least 10 in the final grade, NF, computed according to the following formula:<br />NF=0.7((TI+TF)/2) + 0.1AP + 0.2AL
+
+## Obtenção de frequência
+Students obtain attendance approval when:<br />- Do not miss more than 3 recitation sessions.<br />-Students with more than 3 absences will not be accepted in the exam.<br />- Obtain a grade of at least 10 in the continuous evaluation.
+
+## Exames ou Trabalhos Especiais
+n.a.
+
+## Melhoria de classificação
+Through a final exam.
+

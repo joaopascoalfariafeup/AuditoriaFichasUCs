@@ -1,0 +1,198 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Metodologia de Investigação
+
+## Curso responsável
+Mestrado em Ciência da Informação
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p><span style="font-weight: 400;">Esta unidade curricular pretende dotar os estudantes com conhecimentos e competências básicas sobre os princípios e instrumentos metodológicos e técnicos para a realização de atividades de investigação. Pretende, em particular, apoiar os estudantes no planeamento e na definição da metodologia da sua Dissertação.</span></p>
+
+## Resultados de aprendizagem e competências
+<p><span style="font-weight: 400;">No final da unidade curricular, os estudantes serão capazes de:</span></p>
+<p><strong>Preparar a investigação </strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Elaborar uma revisão da literatura</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Elaborar uma avaliação do estado-da-arte</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Definir questões de investigação,  hipóteses de investigação, problema de investigação</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Definir os objetivos da investigação e elaborar a árvore de objetivos</span></li>
+</ul>
+<p><strong>Conceber/desenhar uma investigação </strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Seleccionar o tipo/paradigma de investigação mais adequado ao problema</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Identificar e distinguir métodos e técnicas de recolha de dados para o trabalho de investigação: Entrevistas, Inquéritos, Grupos Focais, métodos etnográficos.</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Definir o tipo de  análise de dados a utilizar</span></li>
+</ul>
+<p><span style="font-weight: 400;"> </span><strong>Analisar dados </strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Distinguir a análise qualitativa da análise quantitativa de dados</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Distinguir tipos de variáveis</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Diferenciar a análise descritiva da estatística inferencial</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Saber quando e porquê aplicar certos métodos estatísticos</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Identificar aplicações informáticas apropriadas a diferentes tipos de análise de dados</span><span style="font-weight: 400;"><br /><br /></span></li>
+</ul>
+<p><strong>Comunicar resultados da investigação </strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Definir a forma do documento e a estrutura dos conteúdos de um relatório de investigação, artigo científico e dissertação</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Criar uma apresentação que sumarie a investigação a realizar</span></li>
+</ul>
+<p><strong>Gerir um projeto de dissertação </strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Decompor um projeto em tarefas a partir dos seus objetivos </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Estimar o tempo de realização das tarefas e definir uma calendarização </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Controlar a realização das  tarefas</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Conhecer os detalhes de um plano de gestão de dados</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Conhecer os códigos e políticas de ética em investigação</span></li>
+</ul>
+
+## Programa
+<p><strong>Parte 1: O Início do Processo de Investigação</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Principais paradigmas de investigação</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Revisão da literatura</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Definição da investigação</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">A proposta de investigação</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Amostragem</span></li>
+</ul>
+<p><strong>Parte 2: Métodos de Investigação</strong></p>
+<ul>
+<li><span style="font-weight: 400;">Estudo de caso</span></li>
+<li><span style="font-weight: 400;">Inquérito</span></li>
+<li><span style="font-weight: 400;">Investigação Experimental</span></li>
+<li><span style="font-weight: 400;">Etnografia</span></li>
+<li><span style="font-weight: 400;">Estudo Delphy</span></li>
+<li><span style="font-weight: 400;">Método Quadripolar</span></li>
+<li><span style="font-weight: 400;">Investigação-ação</span></li>
+<li><span style="font-weight: 400;">Investigação histórica</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Grounded theory</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Design Science Research</span></li>
+</ul>
+<p><strong>Parte 3: Técnicas de Recolha de Dados</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Entrevistas</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Questionários</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Observação</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Diários</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Grupos focais</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Análise de materiais externos</span></li>
+</ul>
+<p><strong>Parte 4: Análise de Dados e Apresentação da Investigação</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Análise qualitativa</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Análise quantitativa</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Apresentação da investigação</span></li>
+</ul>
+<p><strong>Parte 5: Gestão de projecto</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Planeamento de projecto</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Gestão de Dados de investigação</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ética em Investigação</span></li>
+</ul>
+
+## Bibliografia obrigatória
+ALISON JANE PICKARD; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005793010108801" title="Research Methods in Information (Abre numa nova janela)" target="_blank" >Research Methods in Information</a>, Facet Publishing, 2013. ISBN: 9781856048132<br>
+
+## Bibliografia complementar
+Yin, Robert K.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004633070108801" title="Case study research (Abre numa nova janela)" target="_blank" >Case study research</a>. ISBN: 0-8039-5663-0 <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="font-weight: 400;">As sessões desta UC são estruturadas, entre a exposição do docente e a execução de exercícios práticos à volta de leituras prévias, exemplificativas dos vários temas constantes do programa. Estas leituras são de origens múltiplas de forma a ilustrar os vários tipos de fontes de conhecimento, comunidades científicas e abordagens, fomentando a discussão e o desenvolvimento do pensamento crítico.</span></p>
+<p><span style="font-weight: 400;">Esta UC articula-se com a UC Dissertação, possibilitando um ensino orientado ao projeto e proporcionando componentes de avaliação mais ricos.</span></p>
+
+## Software
+Overleaf<br>
+SPSS 11<br>
+QualCoder 3.7<br>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 40.0 horas
+- Frequência das aulas: 42.0 horas
+- Apresentação/discussão de um trabalho científico: 20.0 horas
+- Trabalho escrito: 50.0 horas
+- Total:: 152.0 horas
+
+## Fórmula de cálculo da classificação final
+<p><span style="font-weight: 400;">Classificação Final = Mínimo (arredonda (10% Manifesto + 15% Pitch em Vídeo + 60% Relatório/Monografia + 15% Apresentação + 5% CEDME); 20)</span></p>
+<p><span style="font-weight: 400;">CEDME corresponde ao módulo &#8220;Como Elaborar uma Dissertação de Mestrado em Engenharia&#8221; realizado na Biblioteca da FEUP</span></p>
+<p><span style="font-weight: 400;">O/A estudante obtém aproveitamento caso tenha uma classificação final &gt;= 10 valores e Relatório/Monografia &gt;= 10 valores.</span></p>
+
+## Obtenção de frequência
+<span style=&quot;font-weight: 400;&quot;>Para a obtenção de frequência, os estudantes não poderão exceder o limite de faltas às aulas teórico-práticas (25% do número de aulas teórico-práticas).</span>
+
+## Melhoria de classificação
+É permitida a melhoria de classificação de todas as componentes de avaliação por frequência de unidade curricular.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Research  Methodology
+
+## Curso responsável
+Master in Information Science
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>This course aims to provide students with basic knowledge and skills on the methodological and technical principles and tools for carrying out research activities. In particular, it aims to support students in planning and defining the methodology of their dissertations.</p>
+
+## Resultados de aprendizagem e competências
+At the end of the course, students will be able to:<br /><br /><strong>Prepare research </strong><br /><br /><ul><br /><li> Prepare a literature review</li><br /><li> Draw up an assessment of the state of the art</li><br /><li> Define research questions, research hypotheses, and the research problem</li><br /><li> Defining the research objectives and drawing up the objectives tree</li><br /></ul><br /><strong>Conceiving/designing a research project </strong><br /><br /><ul><br /><li>Select the type/paradigm of research best suited to the problem</li><br /><li>Identify and distinguish data collection methods and techniques for research work: Interviews, Surveys, Focus Groups, and ethnographic methods.</li><br /><li>Define the type of data analysis to be used</li><br /></ul><br /><strong> Analysing data </strong><br /><br /><ul><br /><li>Distinguish between qualitative and quantitative data analysis</li><br /><li>Distinguish between types of variables</li><br /><li>Differentiate descriptive analysis from inferential statistics</li><br /><li>Know when and why to apply certain statistical methods</li><br /><li>Identify appropriate computer applications for different types of data analysis</li><br /></ul><br /><br /><strong>Communicate research results </strong><br /><br /><ul><br /><li>Define the form of the document and the structure of the contents of a research report, scientific article, and dissertation</li><br /><li>Create a presentation summarising the research carried out</li><br /></ul><br /><strong>Manage a dissertation project </strong><br /><ul><br /><li>Break down a project into tasks based on its objectives </li><br /><li>Estimate the time it will take to complete the tasks and define a timetable </li><br /><li>Monitoring the completion of tasks</li><br /><li>Know the details of a data management plan</li><br /><li>Know research ethics codes and policies</li><br /></ul>
+
+## Programa
+<strong>Part 1: The Beginning of the Research Process</strong><br /><ul><br /><li>Main research paradigms</li><br /><li>Literature review</li><br /><li>Research definition</li><br /><li>The research proposal</li><br /><li>Sampling</li><br /></ul><br /><strong>Part 2: Research methods</strong><br /><br /><ul><br /><li>Case study</li><br /><li>Survey</li><br /><li>Experimental research</li><br /><li>Ethnography</li><br /><li>Delphy study</li><br /><li>Quadrupole method</li><br /><li>Action research</li><br /><li>Historical research</li><br /><li>Grounded theory</li><br /><li>Design Science Research</li><br /></ul><br /><strong>Part 3: Data Collection Techniques</strong><br /><br /><ul><br /><li>Interviews</li><br /><li>Questionnaires</li><br /><li>Observation</li><br /><li>Diaries</li><br /><li>Focus groups</li><br /><li>Analysing external materials</li><br /></ul><br /><strong>Part 4: Data Analysis and Research Presentation</strong><br /><br /><ul><br /><li>Qualitative analysis</li><br /><li>Quantitative analysis</li><br /><li>Research presentation</li><br /></ul><br /><strong>Part 5: Project management</strong><br /><br /><ul><br /><li>Project planning</li><br /><li>Research data management</li><br /><li>Research ethics</li><br /></ul>
+
+## Bibliografia obrigatória
+ALISON JANE PICKARD; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005793010108801" title="Research Methods in Information (Opens in a new window)" target="_blank" >Research Methods in Information</a>, Facet Publishing, 2013. ISBN: 9781856048132<br>
+
+## Bibliografia complementar
+Yin, Robert K.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004633070108801" title="Case study research (Opens in a new window)" target="_blank" >Case study research</a>. ISBN: 0-8039-5663-0 <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The sessions of this course are structured, between the lecturer's presentation and the execution of practical exercises, around previous readings that illustrate the various topics on the syllabus. These readings come from multiple sources to describe the different types of knowledge sources, scientific communities, and approaches, encouraging discussion and the development of critical thinking.<br /><br />This course is articulated with the Dissertation course, enabling project-based learning with richer assessment components.</p>
+
+## Software
+Overleaf<br>
+SPSS 11<br>
+QualCoder 3.7<br>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 40.0 hours
+- Frequência das aulas: 42.0 hours
+- Apresentação/discussão de um trabalho científico: 20.0 hours
+- Trabalho escrito: 50.0 hours
+- Total:: 152.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Final Grade = Min (round (10% Manifesto + 15% Video Pitch + 60% Report/Monograph + 15% Presentation + 5% CEDME); 20)<br /><br />CEDME corresponds to the module "How to Write a Master's Dissertation in Engineering" held in the FEUP Library.<br /><br />The student obtains a pass if he/she has a final mark &gt;= 10 and a Report/Monograph &gt;= 10.</p>
+
+## Obtenção de frequência
+Students must not exceed 25% of absences from the theoretical-practical classes.
+
+## Melhoria de classificação
+Improving the classification of all assessment components through course attendance is allowed.
+

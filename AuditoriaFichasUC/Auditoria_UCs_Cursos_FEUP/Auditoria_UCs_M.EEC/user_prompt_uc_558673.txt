@@ -1,0 +1,136 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Sistemas de Radiocomunicação
+
+## Curso responsável
+Mestrado em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Estudo das tecnologias e metodologias relevantes para o projecto de sistemas de radiocomunicação, incuindo ligações por feixes hertzianos, sistemas de satélite, sistemas de radar, sistemas de radionavegação e suas aplicações. Apresentação dos principais termos, conceitos, princípios básicos e estudo dos modelos arquitectónicos com vista ao projecto e implementação dos sistemas.<br /><br /></p>
+
+## Resultados de aprendizagem e competências
+<p>Com os conhecimentos adquiridos nesta unidade curricular os estudantes ficam capacitados em:<br /><br />- Utilizar equipamentos de emissão/receção e de medida de RF em ambiente laboratorial e em cenários de aplicação de campo.</p>
+<p>- Reconhecer e empregar termos e princípios básicos de radiocomunicações, radar e radiolocalização.</p>
+<p>- Analisar sistemas de radiocomunicação e radar, determinando os parâmetros de desempenho mais importantes.</p>
+<p>- Dimensionar sistemas de radiocomunicação terrestres e por satélite.</p>
+<p>- Utilizar ferramentas de simulação de sistemas de radiocomunicações nas fases de análise e projeto.<br /><br /></p>
+
+## Programa
+<p>Sistemas por Feixe Hertziano: conceitos básicos, modulações, balanço de potência, ruído de sistema, plano de frequências, estações terminais e repetidores, sistemas rádio baseados em software (SDR); projeto de sistemas.</p>
+<p>Sistemas de Comunicação por Satélite: conceitos básicos, órbita dos satélites, ligações por satélite, acesso a satélites, segmento do satélite, segmento terrestre, séries de satélites; projeto de sistemas.</p>
+<p>Sistemas de Radar: conceitos básicos e princípios de funcionamento, radares de impulsos (radares de procura, radares de seguimento, radares indicadores de movimento, radares de sinalização), radar de onda contínua (radar CW de efeito Doppler, radar FM-CW), radar de abertura sintética (SAR); projeto de sistemas.</p>
+<p>Sistemas de Radiolocalização: princípios de funcionamento de sistemas de localização baseados em ondas rádio, análise da configuração e sinais de sistemas em uso corrente (GNSS, VOR/DME).<br /><br /></p>
+
+## Bibliografia obrigatória
+Mário Jorge Moreira Leitão; Apontamentos de Projecto de Sistemas de Telecomunicações<br>
+Carlos Salema; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004246250108801" title="Feixes hertzianos (Abre numa nova janela)" target="_blank" >Feixes hertzianos</a>. ISBN: 972-8469-02-0 <br>
+
+## Bibliografia complementar
+Dennis Roddy; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004545570108801" title="Satellite communications (Abre numa nova janela)" target="_blank" >Satellite communications</a>. ISBN: 0-07-114664-4 <br>
+M. Richards, J. Scheer, W. Holm; Principles of Modern Radar, Scitech Publishing, 2010. ISBN: 978-1-891121-52-4<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aula teórica para exposição da matéria. Aulas práticas de laboratório para a realização de trabalhos em equipa, inluindo realização de medições sobre sistemas rádio, simulações e manipulação de dados de radar.</p>
+
+## Software
+Radio Mobile<br>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 66.0 horas
+- Frequência das aulas: 56.0 horas
+- Trabalho laboratorial: 40.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Trabalhos laboratoriais: 50% (relatórios 90%, participação 10%)</p>
+<p>Exame final sobre a parte teórica: 50%</p>
+<p>Para se obter a aprovação é obrigatório atingir no exame final uma classificação maior ou igual a 8 valores.</p>
+
+## Obtenção de frequência
+<p>Constitui condição para obtenção de frequência atingir, na componente de avaliação distribuída, pelo menos 8 valores.</p>
+
+## Melhoria de classificação
+<p>Exame escrito para melhoria da nota teórica e exame prático laboratorial para melhoria da componente distribuída.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Radiocommunication Systems
+
+## Curso responsável
+Master in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Study of technologies and methodologies relevant to the design of specific radiocommunications systems, including microwave links, satellite systems, radar systems, radio navigation systems and their applications. Presentation of key terms, concepts, principles and architectural models with a view to the design and implementation of these systems.<br /><br /></p>
+
+## Resultados de aprendizagem e competências
+<p>With the knowledge resulting from this course the students obtain:<br /><br />- Ability to use RF transmission/reception and measurement equipment both in laboratory and field applications.</p>
+<p>- Ability to recognize and employ terms and fundamental principles of radiocommunication, radar and radiolocation.</p>
+<p>- Ability to analyse radiocommunications and radar systems, being able to determine the more relevant performance parameters.</p>
+<p>- Ability to design terrestrial and satellite radiocommunication systems.</p>
+- Ability to use software simulation tools for radiocommunication systems analysis and design.
+
+## Programa
+<p>Microwave Links: basic concepts, modulations, link budget, system noise, frequency plan, terminal stations and repeaters, software defined radio systems (SDR); radio systems design.</p>
+<p>Satellite Communication Systems: basic concepts, satellite orbits, satellite links, satellite access, space segment, terrestrial segment, satellite constellations; satellite communication systems design.</p>
+<p>Radar Systems: basic concepts and principles of operation, pulsed radars (search radars, tracking radars, motion indicator radars, signaling radars), continuous wave radar (Doppler CW radar, FM-CW radar), synthetic aperture radar (SAR); radar systems design.</p>
+Radiolocation Systems: principles of operation of radio wave based localization systems, configuration and signal analysis of current systems (GNSS, VOR/DME).
+
+## Bibliografia obrigatória
+Mário Jorge Moreira Leitão; Apontamentos de Projecto de Sistemas de Telecomunicações<br>
+Carlos Salema; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004246250108801" title="Feixes hertzianos (Opens in a new window)" target="_blank" >Feixes hertzianos</a>. ISBN: 972-8469-02-0 <br>
+
+## Bibliografia complementar
+Dennis Roddy; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004545570108801" title="Satellite communications (Opens in a new window)" target="_blank" >Satellite communications</a>. ISBN: 0-07-114664-4 <br>
+M. Richards, J. Scheer, W. Holm; Principles of Modern Radar, Scitech Publishing, 2010. ISBN: 978-1-891121-52-4<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical classes and laboratory sessions dedicated to guited exercices, including measurements of radio systems, simulations and manipulation of radar data.</p>
+
+## Software
+Radio Mobile<br>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 66.0 hours
+- Frequência das aulas: 56.0 hours
+- Trabalho laboratorial: 40.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Lab work: 50% <u>(reports 90%; participation 10%)</u></p>
+<p>Final exam: 50%</p>
+<p>Terms of approval: minimum of 8 point in the final exam.</p>
+
+## Obtenção de frequência
+<p>Terms of frequency: Minimum of 8 points (out of 20) in the distributed component;</p>
+
+## Melhoria de classificação
+Written exam and practical exam for improvement of distributed component associaed with the lab work.
+

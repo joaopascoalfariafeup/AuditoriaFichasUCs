@@ -1,0 +1,120 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Análise III
+
+## Curso responsável
+Licenciatura em Física
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>Consolidar e aprofundar o cálculo diferencial e integral com análise vectorial em domínios a duas e três dimensões, com foco em campos vectoriais, campos de gradiente e funções potencial.<br /><br />Adquirir a capacidade de utlizar os principais teoremas integrais da análise vectorial &#8212; Green, Stokes e Gauss &#8212; do ponto de vista matemático e físico, interpretando a circulação como trabalho ao longo de uma curva e o fluxo como emissão ou entrada.<br /><br />Interpretar modelos de fenómenos físicos, como campos eléctricos, magnéticos e de fluidos, para motivar e contextualizar os conceitos.<br /><br />Desenvolver conhecimentos e capacidades de aplicação de métodos fundamentais para a resolução de equações diferenciais ordinárias, com ênfase nas equações lineares de 1.ª e 2.ª ordem, incluindo aplicações a sistemas físicos simples. <br /><br /> Desenvolver competências de resolução de problemas, abstracção, argumentação lógica e interpretação geométrica, promovendo a autonomia e a aplicação em contextos interdisciplinares, nomeadamente em Física e Engenharia.</p>
+
+## Resultados de aprendizagem e competências
+Aquisição competências de resolução de problemas de Análise Vectorial e resolução de equações diferenciais.<br />  <br />Aquisição de capacidades de interpretação de resultados obtidos no cálculo diferencial e integral e na resolução de equações diferenciais.<br /><br />Compreensão teórica e aplicação dos resultados e técnicas introduzidos a problemas da Física.
+
+## Pré-requisitos e co-requisitos
+Conteúdos das disciplinas Cálculo Infinitesimal I (ou Análise Real I), Cálculo Infinitesimal II (ou Análise Real II)  e Álgebra Linear I.
+
+## Programa
+<br />A. Análise Vectorial:<br /><br />1. Caminhos em abertos de  R^n. Integrais de linha,  <br />Campos de  vectores em abertos de R^n, campos de vectores conservativos, gradiente de uma função escalar, campos de gradientes. Abertos convexos.  Relações entre campos fechados, gradientes e conservativos. Teorema de Green.<br /><br />2.  Subvariedades regulares  R^3: imagem inversa de um valor regular de uma função escalar, parametrizações regulares,  espaços tangente e normal num ponto. Orientação de uma superfície regular. Orientação induzida no bordo.<br /><br />3. Integrais de Superffície de funções escalares. <br />Áreas de superfícies.  Fluxo de um campo de vectores ao longo de uma superfície.  Teoremas da divergência de Gauss e de Stokes<br /><br />B. Equações diferenciais ordinárias: Resolução do problema de valor inicial para vários tipos  de equações diferenciais:<br /><br />1.  Enunciado do teorema de existência e unicidade de solução do problema de valor  incial de um sistema de equações diferenciais  de primeria ordem com coeficientes de classe C^1. Redução de (sistemas de) equações diferenciais de ordem superior a 1 ao caso de um sistema de equações diferenciais de primeira ordem.<br /><br />2. Resolução explícita de alguns tipos de equações diferenciais  de primeira ordem lineares, em variáveis separáveis,  homogéneas, de Bernoulli, de Ricatti e exactas<br /><br />3.  Equaçoes diferenciais lineares com coeficientes contínuos. Existência e unicidade de soluções do problema de Cauchy.  Espaço vectorial das soluções da equação homogénea associada.  Sistema fundamental de soluções.  Método de redução de ordem. No caso de uma equação diferencial linear com coeficientes constantes utilização do polinómio característico para determinar um sistema fundamental de soluções.  Métodos para determinar uma solução particular: método dos coeficientes indeterminados, método de  Lagrange da variação das constantes. Exponencial de um operador linear. Sistemas de equações diferenciais lineares.
+
+## Bibliografia obrigatória
+Luísa Madureira; Problemas de Equações Diferenciais Ordinárias e Transformadas de Laplace,  Quântica Editora, 2020. ISBN: 9789898927583 (as páginas e os exercícios a indicar nas aulas referem-se a esta edição (5ª))<br>
+Martin Braun; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002405350108801" title="Differential equations and their applications (Abre numa nova janela)" target="_blank" >Differential equations and their applications</a>. ISBN: 0-387-97894-1<br>
+Jerrold E. Marsden; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004046680108801" title="Vector calculus (Abre numa nova janela)" target="_blank" >Vector calculus</a>. ISBN: 978-1-4292-2404-8 <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teóricas:  Exposição das matérias do programa. Proposta de exercícios.<br />Aulas práticas: Resolução de parte  dos exercícios propostos e esclarecimento de dúvidas sobre a resolução de problemas e trabalhos propostos.<br />Incentiva-se fortemente o trabalho autónomo. </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+
+## Tipo de avaliação
+Avaliação por exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 114.0 horas
+- Frequência das aulas: 48.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+A classificação final será a nota obtida do exame final arredondada às unidades.
+
+## Obtenção de frequência
+Não é obrigatória a frequência das aulas Teóricas ou teórico-prácticas
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Analysis III
+
+## Curso responsável
+Bachelor in Physics
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+To consolidate and deepen knowledge of differential and integral calculus with vector analysis in two- and three-dimensional domains, focusing on vector fields, gradient fields, and potential functions.<br /><br />To acquire the ability to use the main integral theorems of vector analysis &#8212; Green&#8217;s, Stokes&#8217; and Gauss&#8217; theorems &#8212; from both mathematical and physical perspectives, interpreting circulation as work along a curve and flux as emission or inflow.<br /><br />To interpret models of physical phenomena, such as electric, magnetic, and fluid fields, in order to motivate and contextualise the concepts.<br /><br />To develop knowledge and skills in applying fundamental methods for solving ordinary differential equations, with emphasis on first- and second-order linear equations, including applications to simple physical systems.<br /><br />To develop problem-solving skills, abstraction, logical reasoning, and geometric interpretation, promoting autonomy and application in interdisciplinary contexts, particularly in Physics and Engineering.
+
+## Resultados de aprendizagem e competências
+Development of problem-solving skills in Vector Analysis and in the solution of differential equations.<br /><br />Development of the ability to interpret results obtained through differential and integral calculus, as well as in the solution of differential equations.<br /><br />Theoretical understanding and application of the results and techniques introduced to problems in Physics
+
+## Pré-requisitos e co-requisitos
+Calculus in one and several real variables and Linear Algebra.
+
+## Programa
+<p>A.Vector Analysis<br /><br />1. Paths in  open domains of R^n. Line integrals. Vector fields. Gradient of a scalar function, gradient and conservative vector fields, Convex, star-shapeped sets. Conditions for a vector field to be a gradient vector field.  Green's theorem.<br /><br />2.  Regular submanifolds of R^3: inverse image of a regular value of a scalar function, regular parametrizations, tangent and normal spaces at a point  Orientation of a regular  surface. Orientation of the boundary<br /><br />3. Surface integrals of scalar functions, Surface area.  Flux of a vector field along a surface. Stokes and Gauss theorems.<br /><br /></p>
+<p>B. Ordinary Differential equations (ODE). Study of the initial value prolems (IVP) for some types of ODE.</p>
+<p>1. Reference to the theorem on the existence and uniqueness of solutions of the IVP for C^1 systems of first order ODEs. Transformation of an arbitrary order system  to a first order system. </p>
+<p>2. Expliict Solutions of some  ODE: scalar 1st order linear equations.  separable equations,  1st order homogeneous equations, Bernoulli equations,  Ricatti equations, exact differental equations.</p>
+<p>3. Linear ODE with continupus coefficients. Existence and uniqueness theorems. Vector spaces of solutions of  the associated  homogeneous equations. Fundamental systems of solutions, order reduction method. In case of inear ODE with constant coefficients use  of the zeros of the characteristic polynomial   to compute a fundamental system of solutions   Methods for determining particular solutions of the general equation: method of undetermined coefficients and variation of parameters. Exponential of a linear operator. Systems of linear ODE.</p>
+<p> </p>
+
+## Bibliografia obrigatória
+Luísa Madureira; Problemas de Equações Diferenciais Ordinárias e Transformadas de Laplace,  Quântica Editora, 2020. ISBN: 9789898927583<br>
+Martin Braun; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002405350108801" title="Differential equations and their applications (Opens in a new window)" target="_blank" >Differential equations and their applications</a>. ISBN: 0-387-97894-1<br>
+Jerrold E. Marsden; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004046680108801" title="Vector calculus (Opens in a new window)" target="_blank" >Vector calculus</a>. ISBN: 978-1-4292-2404-8 <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot; dir=&quot;ltr&quot; data-placeholder=&quot;Translation&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>Theoretical classes: Exposition of the program subjects. Exercise proposals.<br />Practical classes: Resolution of part of the proposed exercises and clarification <br />of doubts about solving problems and proposed work.<br />Autonomous theoretical and practical study is strongly encouraged.</span></pre>
+
+## Tipo de avaliação
+Evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 114.0 hours
+- Frequência das aulas: 48.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<pre id=&quot;tw-target-text&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot; dir=&quot;ltr&quot; data-placeholder=&quot;Translation&quot;><span class=&quot;Y2IQFc&quot; lang=&quot;en&quot;>The final grade will be the grade obtained from the final exam rounded to the nearest integer.</span></pre>
+
+## Obtenção de frequência
+The attending of theoretic or practice class is not mandatory.
+
+## Exames ou Trabalhos Especiais
+<span style=&quot;font-size: small;&quot;><br /><br /></span>
+
+## Melhoria de classificação
+<p><span style="font-size: small;"> </span></p>
+

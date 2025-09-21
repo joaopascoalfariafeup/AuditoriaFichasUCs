@@ -1,0 +1,117 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Álgebra Linear e Geometria Analítica
+
+## Curso responsável
+Licenciatura em Física
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p><span lang="PT"><span style="font-family: Verdana, Arial, Helvetica, sans-serif;">Introduzir os conceitos e resultados básicos de Álgebra Linear, nomeadamente no espaço vetorial (com produto escalar) Rn.<br /><br /></span></span></p>
+
+## Resultados de aprendizagem e competências
+<p><span lang="PT"><span lang="PT">Pretende-se que o estudante domine a resolução e discussão de sistemas lineares, </span></span><span lang="PT">os conceitos e propriedades básicas dos espaços vetoriais reais de dimensão finita e as suas aplicações.<br /></span><span lang="PT"><br /><br /></span></p>
+
+## Programa
+<p>. Sistemas lineares e matrizes.<br /><br />. Matrizes.<br /><br />. Determinantes.<br /><br />. Espaços vetoriais reais.<br /><br />. Aplicações lineares.<br /><br />. Diagonalização de matrizes.</p>
+
+## Bibliografia obrigatória
+;  Texto de apoio, disponível na página da disciplina no Moodle.<br>
+
+## Bibliografia complementar
+Howard Anton; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002808840108801" title="Elementary linear algebra (Abre numa nova janela)" target="_blank" >Elementary linear algebra</a>. ISBN: 0-471-66959-8<br>
+C. H. Edwards, Jr; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002314310108801" title="Elementary linear algebra (Abre numa nova janela)" target="_blank" >Elementary linear algebra</a>. ISBN: 0-13-258245-7<br>
+Larry E. Mansfield; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002351770108801" title="Linear algebra with geometric applications (Abre numa nova janela)" target="_blank" >Linear algebra with geometric applications</a>. ISBN: 0-8247-6321-1<br>
+António Monteiro; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002143980108801" title="Álgebra linear e geometria analítica (Abre numa nova janela)" target="_blank" >Álgebra linear e geometria analítica</a>. ISBN: 972-8298-66-8<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Genericamente,<br /><br />- as aulas teóricas consistem na exposição dos conteúdos do programa, feita pela docente e baseada nos apontamentos disponibilizados na página da disciplina no Moodle.<br /><br />- as aulas teórico-práticas consistem na resolução dos exercícios das folhas disponibilizadas na página da disciplina no Moodle, feita pelos alunos com apoio da docente.<br /><br /><br /></p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 114.0 horas
+- Frequência das aulas: 48.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+Durante o semestre haverá dois testes:<br /><br />- o primeiro será realizado durante o período das aulas e terá a cotação de 10 valores;<br /><br />- o segundo será realizado na época normal de exames e terá a cotação de 10 valores. <br /><br />A aprovação à unidade curricular pode ser obtida<br /><br />1) na <strong>época normal</strong>, onde a classificação final é a soma das classificações obtidas nos dois testes.<br /><br />2) no <strong>exame final</strong>, a realizar na <strong>época de recurso</strong> (ou numa época <strong>especial</strong>).<br /><br />O exame final consistirá em 2 partes, cada uma correspondente a um teste e com a mesma cotação dele.<br /><br />Um estudante que vá realizar o exame final <strong>para obter aprovação</strong> pode optar por não resolver uma parte do exame e atribuir a essa parte não resolvida a classificação obtida no teste correspondente.<br /><br />A possibilidade referida no parágrafo anterior <strong>não se aplica</strong> à realização de exame para <strong>melhoria de classificação</strong>.<br /><br />Em qualquer situação, a cada parte resolvida no exame final será atribuída a classificação dessa resolução (e não a do teste correspondente).
+
+## Obtenção de frequência
+Não é exigida assiduidade para a obtenção de frequência.
+
+## Melhoria de classificação
+Os alunos que pretendam obter melhoria de classificação terão de realizar a totalidade do exame.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Linear Algebra and Analytic Geometry
+
+## Curso responsável
+Bachelor in Physics
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Introduce the basic concepts and results of Linear Algebra, namely in vector space (with dot product) Rn.
+
+## Resultados de aprendizagem e competências
+<p>A student is expected to master the techniques of solving linear systems, and the basic notions and results about vector spaces of finite dimension and their applications.</p>
+
+## Programa
+<p>. Linear systems and matrices.<br /><br />. Matrices.<br /><br />. Determinants.<br /><br />. Real vector spaces.<br /><br />. Linear applications.<br /><br />. Diagonalization of matrices.<br /><br /></p>
+
+## Bibliografia obrigatória
+;  Texto de apoio, disponível na página da disciplina no Moodle.<br>
+
+## Bibliografia complementar
+Howard Anton; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002808840108801" title="Elementary linear algebra (Opens in a new window)" target="_blank" >Elementary linear algebra</a>. ISBN: 0-471-66959-8<br>
+C. H. Edwards, Jr; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002314310108801" title="Elementary linear algebra (Opens in a new window)" target="_blank" >Elementary linear algebra</a>. ISBN: 0-13-258245-7<br>
+Larry E. Mansfield; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002351770108801" title="Linear algebra with geometric applications (Opens in a new window)" target="_blank" >Linear algebra with geometric applications</a>. ISBN: 0-8247-6321-1<br>
+António Monteiro; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002143980108801" title="Álgebra linear e geometria analítica (Opens in a new window)" target="_blank" >Álgebra linear e geometria analítica</a>. ISBN: 972-8298-66-8<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p lang="EN-GB"><span lang="EN-GB">The content of the syllabus is presented at the lectures, and proposed exercises are solved by the students</span> at the practical classes.<br /><br /><br /><br /></p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 114.0 hours
+- Frequência das aulas: 48.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>During the semester there will be two tests, each with quotation 10. The second test will take place at the first exam season.</p>
+<p>Course approval can be obtained </p>
+<p>1) at the <strong>first exam season</strong>, where the final classification is the sum of the classifications obtained in the two tests.</p>
+<p>2) in the <strong>final exam</strong>, to be held at the <strong>second or special exam</strong> season.<br /><br />The final exam consists of 2 parts, each corresponding to a test.</p>
+<p>In the final exam, students who have not yet obtained approval (and only these) may choose not to solve one part of the exam, that would then get the grade of the corresponding test.</p>
+<p>Students wishing to undertake a classification improvement must solve all parts of the exam.</p>
+
+## Obtenção de frequência
+<p>No requirements.</p>
+
+## Melhoria de classificação
+Students wishing to undertake a classification improvement must solve all parts of the exam.
+

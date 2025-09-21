@@ -1,0 +1,293 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Preservação da Informação
+
+## Curso responsável
+Licenciatura em Ciência da Informação
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p>1-Compreender e situar a preservação e a sua gestão numa perspetiva sistémica, no âmbito da gestão do sistema de informação organizacional (SIO) e ao longo do fluxo infocomunicacional (planos teórico, organizacional, estratégico e de operacionalização).</p>
+<p style="font-weight: 400;">2-Adquirir os conhecimentos e aptidões básicos para prover à preservação e acesso continuado à informação no longo prazo (modelos, requisitos, estratégias, processos, técnicas, ferramentas e serviços), considerando a sua natureza, as dimensões a preservar, fase do fluxo / ciclo de vida, modo de produção / aquisição / captura, tramitação, seleção, organização, representação, disponibilização, recuperação, uso, armazenamento e meio tecnológico / suporte material de registo.</p>
+<p style="font-weight: 400;">3-Adquirir a capacidade de colaborar na definição e implementação de uma política, planeamento e execução do plano estratégico de preservação e consequente plano de operacionalização e segurança; em projetos de digitalização ou de criação, gestão e certificação de repositórios digitais (em sistemas de informação híbridos ou digitais).</p>
+
+## Resultados de aprendizagem e competências
+<div style=&quot;text-align: justify;&quot;>Possuir os conhecimentos e aptidões básicos para prover à preservação e acesso continuado à informação no longo prazo (modelos, requisitos, estratégias, processos, técnicas, ferramentas e serviços), considerando a sua natureza, as dimensões a preservar, fase do fluxo / ciclo de gestão, modo de produção/aquisição/captura, tramitação, seleção, organização, representação, disponibilização, recuperação, uso, armazenamento e meio tecnológico/suporte de registo.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot;>Ser capaz de colaborar no desenvolvimento da política, no planeamento e execução do plano estratégico de preservação e consequente plano de operacionalização e segurança; de projetos de digitalização ou de criação, gestão e certificação de repositórios digitais (em sistemas de informação híbridos ou digitais)</div>
+
+## Pré-requisitos e co-requisitos
+Gestão da Informação
+
+## Programa
+<p><span style="font-family: arial,helvetica,sans-serif; font-size: x-small;"><span style="mso-bidi-font-style: italic; mso-fareast-font-family: 'Times New Roman';"><strong style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px;">I. PRESERVAÇÃO DA INFORMAÇÃO<br /><br /></strong></span></span></p>
+<ol>
+<li style="font-weight: 400;">Preservação da Informação: evolução e conceitos na Era Digital</li>
+<li style="font-weight: 400;">Preservação e a Gestão da Informação: estratégia e operacionalização</li>
+</ol>
+<ul>
+<ul>
+<li>Dos modelos empíricos aos novos modelos de preservação (visão sistémica e meio digital)</li>
+<li>A orientação a serviços</li>
+</ul>
+</ul>
+<p><strong>II. PLATAFORMAS DIGITAIS E SUPORTE MATERIAIS DE REGISTO</strong></p>
+<ol>
+<li>O meio digital </li>
+<li>Suportes de registo: materiais e processos de produção</li>
+</ol>
+<p style="font-weight: 400;"><strong>III. POLÍTICAS, PLANEAMENTO E GESTÃO<br /></strong></p>
+<ol>
+<li>A politica de preservação e segurança</li>
+<li>O plano de preservação e segurança </li>
+<li>O plano de emergência</li>
+<li>Avaliação e gestão do risco</li>
+</ol>
+<p style="font-weight: 400;"><strong>IV. OPERACIONALIZAÇÃO DA PRESERVAÇÃO </strong></p>
+<ol>
+<li>Modelos conceptuais e de requisitos, meta-informação e instrumentos normativos</li>
+<li>Estratégias de preservação</li>
+<li>Ferramentas, serviços e plataformas digitais</li>
+<li>A gestão da preservação</li>
+<li>Transferência / substituição de suporte e desmaterialização de processos</li>
+<li>Auditoria e certificação de repositórios digitais</li>
+</ol>
+
+## Bibliografia obrigatória
+Angela Dappert; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008950720108801" title="Digital preservation metadata for practitioners (Abre numa nova janela)" target="_blank" >Digital preservation metadata for practitioners</a>. ISBN: 978-3-319-82905-0<br>
+BUCHANAN, Sally A.; Prevenção contra desastres: instruções para formação em planeamento e recuperação, BAD, 2002<br>
+CONSELHO INTERNACIONAL DE ARQUIVOS; Directrizes para o controlo e preservação de desastres em arquivos, Biblioteca Nacional, 1999<br>
+DEEGAN, Marilyn; TANNER, Simon; Digital Preservation, Facet Publishing, 2006. ISBN: 978-1-85604-485-1 ((Digital futures séries))<br>
+David Giaretta; Advanced Digital Preservation, Springer, 2011<br>
+Digital Curation Centre; DCC - Curation Reference Manual, Digital Curation Centre (http://www.dcc.ac.uk/resources/curation-reference-manual/completed-chapters)<br>
+DIGITAL PRESERVATION COALITION ; Digital Preservation Handbook, revised 2nd edition, Digital Preservation Coalition, 2015 (https://www.dpconline.org/handbook)<br>
+DUREAU, J.M.; CLEMENS D. W. G.; Princípios para a preservação e conservação de espécies bibliográficas, Biblioteca Nacional, 1992. ISBN: 972&#8211;565&#8211;155-3<br>
+FLIEDER, Françoise; DUCHEIN, Michel; Livros e documentos de arquivo : preservação e conservação, BAD, 1993. ISBN: 972-9067-16-3<br>
+IFLA; Directrizes da IFLA para a conservação e o manuseamento de documentos de biblioteca , Biblioteca Nacional, 2004. ISBN: 972-565-306-8 ((Publicações Técnicas sobre P&C))<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007973880108801" title="ISO/TR 13028 (Abre numa nova janela)" target="_blank" >ISO/TR 13028</a> (Information and documentation - implementation guidelines for digitization of recordsInformation et documentation - mise en oeuvre des lignes directrices pour la numérisation des enregistrements )<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007536960108801" title="ISO 14721 (Abre numa nova janela)" target="_blank" >ISO 14721</a> (OAIS : Reference Model for an Open Archival Information System (2003) Ver tb alterações de 2012))<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008030240108801" title="ISO 16363 (Abre numa nova janela)" target="_blank" >ISO 16363</a> ( : Space data and information transfer systems &#8212; Audit and certification of trustworthy digital repositories )<br>
+ULL; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007868280108801" title="ISO/TR 18492:2005 (Abre numa nova janela)" target="_blank" >ISO/TR 18492:2005</a> (Long-term preservation of electronic document-based information)<br>
+ISO; 27001:2005 : Information technology : Security techniques : Information security management systems, ISO, 2005<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007990110108801" title="ISO 30300 (Abre numa nova janela)" target="_blank" >ISO 30300</a> (Information and documentation - management systems for records - fundamentals and vocabularyInformation et documentation - systèmes de gestion des documents d&#8217;activité - principes essentiels et vocabulaire )<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007990120108801" title="ISO 30301 (Abre numa nova janela)" target="_blank" >ISO 30301</a> (Information and documentation - management systems for records - requirementsInformation et documentation - systèmes de gestion des documents d&#8217;activité - exigences )<br>
+PAVÃO, Luís; Conservação de colecções de fotografia, Dinalivro, 1997. ISBN: 972-576-130-8<br>
+PAVÃO, Luís; Preservação de fotografia na era do digital, 2002. ISBN: 0873-5670 (. Páginas a&b : arquivos & bibliotecas. Lisboa. ISSN 0873-5670. 10 (2002) 7-19)<br>
+Pinto, Maria Manuela; Da flexibilização organizacional à centralidade dos Fluxos Infocomunicacionais: transições que estão inexoravelmente a acontecer, Fundación Olga Gallego., 2019 (URI: 	https://hdl.handle.net/10216/130437)<br>
+PINTO, Maria Manuela; Da Preservação de Documentos à Preservação da Informação, EDUFBA - Editora da Universidade Federal da Bahia , 2014. ISBN: ISBN: 978-85-232-1240-7 (https://repositorio-aberto.up.pt/handle/10216/70843)<br>
+PINTO, Maria Manuela Gomes de Azevedo ; PRESERVMAP : Um roteiro da preservação na era digital, Edições Afrontamento; CETAC.MEDIA, 2009. ISBN: 978-972-36-1070-3<br>
+REAL, Manuel Luís; A gestão do Arquivo Municipal do Porto, 2006. ISBN: 0873-5670 (Páginas a&b: arquivos & bibliotecas. Lisboa: ISSN 0873-5670. 18 (2006) 7-70)<br>
+Schumacher, Jaime Thomas, Lynne M. VandeCreek, Drew Erdman, Stacey Hancks, Jeff Haykal, Aaisha Miner, Meg Prud'homme, Patrice-Andre Spalenka, Danielle; From Theory to Action: Good Enough Digital Preservation for Under-Resourced Cultural Heritage Institutions, 2014 (URI http://commons.lib.niu.edu/handle/10843/13610 )<br>
+THIBODEAU, Kenneth; Overview of Technological Approaches to Digital Preservation and Challenges in Coming Years, 2002 ([Em linha]. [Consult. 15 Ago 2007]. Disponível em www:<url:http://www.clir.org/PUBS/reports/pub107/thibodeau.html>)<br>
+UNESCO; Charter on the Preservation of the Digital Heritage, 2003 ([Em linha] [Consult. 22 Ago. 2007].  Disponível em www:<url:http://portal.unesco.org/ci/en/file_download.php/09f4ffcbdaddeeb0ecdd3ac1a0662398Charter_en.pdf>)<br>
+UNESCO - Bureau of Strategic Planning; Risk Management Handbook, UNESCO, 2010 (https://unesdoc.unesco.org/ark:/48223/pf0000190604)<br>
+Susan S Lazinger; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007071830108801" title="Digital preservation and metadata (Abre numa nova janela)" target="_blank" >Digital preservation and metadata</a><br>
+
+## Bibliografia complementar
+CABRAL, Maria Luísa; Amanhã é sempre longe demais : crónicas de preservação & conservação, Gabinete de Estudos a&b, 2002. ISBN: 972-98827-1-1<br>
+LYNCH, Clifford; Authenticity and integrity in the digital environment : an exploratory analysis of the central role of trust, 2002. ISBN: 0873-5670 (Páginas a&b : arquivos & bibliotecas. Lisboa. ISSN 0873-5670. 10 (2002) 89-111)<br>
+UNESCO; Guidelines for the preservation of digital heritage , 2003 ([Em linha] [Consult. 22 Ago. 2007].  Disponível em www:<url:http://unesdoc.unesco.org/images/0013/001300/130071e.pdf>)<br>
+ZEIER, Franz; Books, boxes and portfolios : binding, construction and design step-by-step, Design Press, 1990. ISBN: 0-8306-3483-5<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007971440108801" title="[ISO 15489-1] (Abre numa nova janela)" target="_blank" >[ISO 15489-1]</a> (Information and documentation - Records management)<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007961080108801" title="ISO/TR 15489-2 (Abre numa nova janela)" target="_blank" >ISO/TR 15489-2</a> (Information and documentation : Records management : Part 2: Guidelines)<br>
+ISO; ISO/TR 22957:2009 - Document management : Analysis, selection and implementation of electronic document management systems (EDMS), ISO, 2009 (Ver tb. AIIM 22957)<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007578810108801" title="ISO 18921 (Abre numa nova janela)" target="_blank" >ISO 18921</a> (Imaging materials-compact discs (cd-rom)-methods for estimating the life expectancy based on the effects of temperature and relative humidity )<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007578820108801" title="ISO 18926 (Abre numa nova janela)" target="_blank" >ISO 18926</a> (Imaging materials-information stored on magneto-optical (MO) discs-methods for estimating the life expectancy based on the effects of temperature and relative humidity )<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007578800108801" title="ISO 18927 (Abre numa nova janela)" target="_blank" >ISO 18927</a> ( Imaging materials-recordable compact disc systems - methods for estimating the life expectancy based on the effects of temperature and relative humidity )<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007574620108801" title="ISO 19005-1 (Abre numa nova janela)" target="_blank" >ISO 19005-1</a> (Document managemet - electronic document file format for long-term preservation. part 1. use of PDF 1.4 (PDF/A-1) )<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007574610108801" title="ISO 23950 (Abre numa nova janela)" target="_blank" >ISO 23950</a> (Information and documentation - information retrieval (Z39.50) - application service definition and protocol specification )<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007745370108801" title="ISO 24517-1 (Abre numa nova janela)" target="_blank" >ISO 24517-1</a> (document management - engineering document format using PDFgestion de documents - format de documents d&#8217;ingéniere utilisant le PDF)<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008029850108801" title="ISO 26324 (Abre numa nova janela)" target="_blank" >ISO 26324</a> (Information and documentation - Digital object identifier system )<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008029860108801" title="ISO 27729 (Abre numa nova janela)" target="_blank" >ISO 27729</a> (ISO 27729 [recurso eletrónico] : Information and documentation - International standard name identifier (ISNI) )<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008029870108801" title="ISO 27730 (Abre numa nova janela)" target="_blank" >ISO 27730</a> ( Information and documentation - International standard collection identifier (ISCI) )<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007533280108801" title="ISO/IEC 17799 (Abre numa nova janela)" target="_blank" >ISO/IEC 17799</a> (International standard : information technology - security techniques - code of practice for information security management = technologies de l'information - techniques de sécurité - code de pratique pour la gestion de sécurité d'information)<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007990130108801" title="ISO/IEC 24751-1 (Abre numa nova janela)" target="_blank" >ISO/IEC 24751-1</a> (Information technology - individualized adaptability and accessibility in e-learning, education and trainingTechnologies de l&#8217;information - adaptabilité et accessibilité individualisées en e-apprentissage, en éducation et en formation )<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007990140108801" title="ISO/IEC 24751-2 (Abre numa nova janela)" target="_blank" >ISO/IEC 24751-2</a> ( Information technology - individualized adaptability and accessibility in e-learning, education and trainingTechnologies de l&#8217;information - adaptabilité et accessibilité individualisées en e-apprentissage, en éducation et en formation )<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007990150108801" title="ISO/IEC 24751-3 (Abre numa nova janela)" target="_blank" >ISO/IEC 24751-3</a> (Information technology - individualized adaptability and accessibility in e-learning, education and trainingTechnologies de l&#8217;information - adaptabilité et accessibilité individualisées en e-apprentissage, en éducation et en formation )<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007574640108801" title="ISO/TR 15801 (Abre numa nova janela)" target="_blank" >ISO/TR 15801</a> (electronic imaging - information stored electronically - recommendations for trustworthiness and reliability )<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007971470108801" title="ISO/TS 23081-1 (Abre numa nova janela)" target="_blank" >ISO/TS 23081-1</a> ( Information and documentation - records management processes - metadata for records. part 1. principles )<br>
+ISO; ISO/TS 23081-2:2007 : Information and documentation : Records management processes : Metadata for records &#8212; Part 2: Conceptual and implementation issues, ISO, 2007<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007972720108801" title="ISO/TR 23081-3 (Abre numa nova janela)" target="_blank" >ISO/TR 23081-3</a> (information and documentation - managing metadata for recordsinformation et documentation - gestion des métadonnées pour l&#8217;information et les documents)<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007578770108801" title="ISO 12142:2001(E) (Abre numa nova janela)" target="_blank" >ISO 12142:2001(E)</a> (Electronic imaging - media error monitoring and reporting techniques for verification of stored data on optical digital data disks)<br>
+ISO; ISO/IEC PRF 26300:2006 : Information technology : Open Document Format for Office Applications (OpenDocument) v1.0 , ISO, 2006<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007574630108801" title="ISO 15836 (Abre numa nova janela)" target="_blank" >ISO 15836</a> ( Information and documentation - the Dublin Core metadata element set )<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007973810108801" title="ISO 16175-1 (Abre numa nova janela)" target="_blank" >ISO 16175-1</a> (: Information and documentation - principles and functional requirements for records in electronic office environmentsInformation et documentation - principes et exigences fonctionelles pour les enregistrements dans environnements électroniques)<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007973840108801" title="ISO 16175-2 (Abre numa nova janela)" target="_blank" >ISO 16175-2</a> ( : Information and documentation - principles and functional requirements for records in electronic office environmentsInformation et documentation - principes et exigences fonctionelles pour les enregistrements dans les environnements électroniques )<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007973850108801" title="ISO 16175-3 (Abre numa nova janela)" target="_blank" >ISO 16175-3</a> (: Information and documentation - principles and functional requirements for records in electronic office environmentsInformation et documentation - principes et exigences fonctionelles pour les enregistrements dans environnements électroniques )<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teóricas e práticas.</p>
+<div style="text-align: justify;">As aulas teóricas basear-se-ão numa exposição dos conteúdos acompanhada por apresentação multimédia.<br /><br /></div>
+<div style="text-align: justify;">Realizar-se-ão aulas práticas/sessões tutoriais, assim como serão apresentados casos de estudo, projetos, atividades e realizadas visitas de estudo.<br /><br /></div>
+<div style="text-align: justify;">Sempre que oportuno, será explorado o uso e manipulação de recursos, ferramentas e aplicações informáticas direcionadas à preservação (ao longo das apresentações de casos e projetos).<br /><br /></div>
+<div style="text-align: justify;">Está previsto um exame final (50% - prova sem consulta, com a duração de 1h30m) e trabalho prático obrigatório, objeto de relatório escrito, com enquadramento teórico e levantamento do estado da arte na temática selecionada, e de apresentação oral em espaço de aula (50% - 70% relatório escrito + 30% apresentação oral).</div>
+
+## Software
+MS Office <br>
+Archivematica<br>
+Libsafe<br>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 51.0 horas
+- Frequência das aulas: 41.0 horas
+- Trabalho de investigação: 50.0 horas
+- Apresentação/discussão de um trabalho científico: 20.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p> </p>
+<p><em>1) Avaliação Individual (AI) - 30% Relatório escrito de duas visitas de estudo</em></p>
+<p><em>2) Avaliação de grupo (AG) - 50% Trabalho prático escrito + 20% apresentação oral</em></p>
+<p><em>Nota Final = AI (30%) + AG (70%)</em><br /><br />A docente reserva-se o direito de diferenciar a classificação dos estudantes de um mesmo grupo, em função da percepção factual do esforço desenvolvido por cada elemento, bem como participação e discussão nas apresentações orais.</p>
+
+## Obtenção de frequência
+<p>Presença obrigatória em 75% das aulas.</p>
+<p>Presença obrigatória em todas as apresentações orais do projeto de grupo calendarizadas.</p>
+<p>Necessária nota mínima de 40% em qualquer das componentes de avaliação.</p>
+
+## Exames ou Trabalhos Especiais
+<p>Nada a indicar.</p>
+
+## Melhoria de classificação
+<p>A melhoria de classificação pode ser obtida pela realização de um exame final na época de recurso.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Information Preservation
+
+## Curso responsável
+Bachelor of Arts in Information Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+2
+
+## Objetivos
+<p style="font-weight: 400;">1- Understand and place preservation and its management in a systemic approach, as part of the organizational information system (OIS) management and throughout the infocommunicational flow (theoretical, organizational, strategic and operational perspectives)</p>
+<p style="font-weight: 400;">2- Acquire basic knowledge/skills to provide long term information preservation and continuous access (models, requirements, strategies, processes, techniques, tools, services), considering the nature of information, layers to be preserved, flow / management cycle phase, production / acquisition / capture, processing, selection, organization, representation, communication, retrieval, use and storage options/ methodologies, and technological platform / medium on which it is recorded.</p>
+<p style="font-weight: 400;">3- Acquire the ability to collaborate in the planning and implementation of a preservation policy, strategic plan and operational/preventive and security plan; a digitization project and creation, management and certification of digital repositories (either in digital or hybrid information systems).</p>
+
+## Resultados de aprendizagem e competências
+<p style="text-align: justify;"><span style="line-height: 150%; font-family: arial,helvetica,sans-serif; mso-bidi-font-style: italic; mso-bidi-font-weight: bold; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN;">Acquire basic knowledge/skills to provide long term information preservation and continuous access (models, requirements, strategies, processes, techniques, tools, services), considering the nature of information, layers to be preserved, flow / management cycle phase, production / acquisition / capture, processing, selection, organization, representation, communication, retrieval, use and storage options/methodologies, and technological platform/medium on which it is recorded.<br /></span><span style="line-height: 150%; font-family: arial,helvetica,sans-serif; mso-bidi-font-style: italic; mso-bidi-font-weight: bold; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN;"><br />Acquire the ability to collaborate in the planning / implementation of a preservation strategic plan and operational/preventive and security plan; a digitization project and creation, management and certification of digital repositories, either in digital or hybrid information systems.</span></p>
+
+## Pré-requisitos e co-requisitos
+Information Management
+
+## Programa
+<p><strong>I. INFORMATION PRESERVATION</strong><br />1. Information Preservation: evolution and concepts in the Digital Era<br />2. Preservation and Information Management: operationalizing the strategy</p>
+<ul style="list-style-type: circle;">
+<li>From the empirical models to new preservation models (systemic view and digital medium)</li>
+<li> A service-oriented approach</li>
+</ul>
+<p><strong><br />II. MEDIA MATERIALS AND TECHNOLOGICAL PLATFORMS</strong><br />1. Digital media: complexity, dependence on technology and obsolescence<br />2. Traditional media: materials and production processes<br /><br /><strong>III. POLICIES, PLANNING AND MANAGEMENT<br /></strong>1. Preservation and security policy<br />2. Preservation and security plan<br />3. Emergency plan<br />4. Assessment and risk management<br /><br /><strong>IV. PRESERVATION OPERACIONALIZATION</strong><br /><br />1. Conceptual and requirements models, metadata and standards<br />2. Preservation strategies<br />3. Preservation tools, services and digital platforms <br />4. Preservation management<br />5. Media transfer / replacement and processes dematerialization<br />5. Audit and certification of digital repositories</p>
+
+## Bibliografia obrigatória
+Angela Dappert; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008950720108801" title="Digital preservation metadata for practitioners (Opens in a new window)" target="_blank" >Digital preservation metadata for practitioners</a>. ISBN: 978-3-319-82905-0<br>
+BUCHANAN, Sally A.; Prevenção contra desastres: instruções para formação em planeamento e recuperação, BAD, 2002<br>
+CONSELHO INTERNACIONAL DE ARQUIVOS; Directrizes para o controlo e preservação de desastres em arquivos, Biblioteca Nacional, 1999<br>
+DEEGAN, Marilyn; TANNER, Simon; Digital Preservation, Facet Publishing, 2006. ISBN: 978-1-85604-485-1<br>
+David Giaretta; Advanced Digital Preservation, Springer, 2011<br>
+Digital Curation Centre; DCC - Curation Reference Manual, Digital Curation Centre<br>
+DIGITAL PRESERVATION COALITION ; Digital Preservation Handbook, revised 2nd edition, Digital Preservation Coalition, 2015<br>
+DUREAU, J.M.; CLEMENS D. W. G.; Princípios para a preservação e conservação de espécies bibliográficas, Biblioteca Nacional, 1992. ISBN: 972&#8211;565&#8211;155-3<br>
+FLIEDER, Françoise; DUCHEIN, Michel; Livros e documentos de arquivo : preservação e conservação, BAD, 1993. ISBN: 972-9067-16-3<br>
+IFLA; Directrizes da IFLA para a conservação e o manuseamento de documentos de biblioteca , Biblioteca Nacional, 2004. ISBN: 972-565-306-8<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007973880108801" title="ISO/TR 13028 (Opens in a new window)" target="_blank" >ISO/TR 13028</a><br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007536960108801" title="ISO 14721 (Opens in a new window)" target="_blank" >ISO 14721</a><br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008030240108801" title="ISO 16363 (Opens in a new window)" target="_blank" >ISO 16363</a><br>
+ULL; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007868280108801" title="ISO/TR 18492:2005 (Opens in a new window)" target="_blank" >ISO/TR 18492:2005</a><br>
+ISO; 27001:2005 : Information technology : Security techniques : Information security management systems, ISO, 2005<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007990110108801" title="ISO 30300 (Opens in a new window)" target="_blank" >ISO 30300</a><br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007990120108801" title="ISO 30301 (Opens in a new window)" target="_blank" >ISO 30301</a><br>
+PAVÃO, Luís; Conservação de colecções de fotografia, Dinalivro, 1997. ISBN: 972-576-130-8<br>
+PAVÃO, Luís; Preservação de fotografia na era do digital, 2002. ISBN: 0873-5670<br>
+Pinto, Maria Manuela; Da flexibilização organizacional à centralidade dos Fluxos Infocomunicacionais: transições que estão inexoravelmente a acontecer, Fundación Olga Gallego., 2019<br>
+PINTO, Maria Manuela; Da Preservação de Documentos à Preservação da Informação, EDUFBA - Editora da Universidade Federal da Bahia , 2014. ISBN: ISBN: 978-85-232-1240-7 (https://repositorio-aberto.up.pt/handle/10216/70843)<br>
+PINTO, Maria Manuela Gomes de Azevedo ; PRESERVMAP : Um roteiro da preservação na era digital, Edições Afrontamento; CETAC.MEDIA, 2009. ISBN: 978-972-36-1070-3<br>
+REAL, Manuel Luís; A gestão do Arquivo Municipal do Porto, 2006. ISBN: 0873-5670<br>
+Schumacher, Jaime Thomas, Lynne M. VandeCreek, Drew Erdman, Stacey Hancks, Jeff Haykal, Aaisha Miner, Meg Prud'homme, Patrice-Andre Spalenka, Danielle; From Theory to Action: Good Enough Digital Preservation for Under-Resourced Cultural Heritage Institutions, 2014<br>
+THIBODEAU, Kenneth; Overview of Technological Approaches to Digital Preservation and Challenges in Coming Years, 2002<br>
+UNESCO; Charter on the Preservation of the Digital Heritage, 2003<br>
+UNESCO - Bureau of Strategic Planning; Risk Management Handbook, UNESCO, 2010<br>
+Susan S Lazinger; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007071830108801" title="Digital preservation and metadata (Opens in a new window)" target="_blank" >Digital preservation and metadata</a><br>
+
+## Bibliografia complementar
+CABRAL, Maria Luísa; Amanhã é sempre longe demais : crónicas de preservação & conservação, Gabinete de Estudos a&b, 2002. ISBN: 972-98827-1-1<br>
+LYNCH, Clifford; Authenticity and integrity in the digital environment : an exploratory analysis of the central role of trust, 2002. ISBN: 0873-5670<br>
+UNESCO; Guidelines for the preservation of digital heritage , 2003<br>
+ZEIER, Franz; Books, boxes and portfolios : binding, construction and design step-by-step, Design Press, 1990. ISBN: 0-8306-3483-5<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007971440108801" title="[ISO 15489-1] (Opens in a new window)" target="_blank" >[ISO 15489-1]</a><br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007961080108801" title="ISO/TR 15489-2 (Opens in a new window)" target="_blank" >ISO/TR 15489-2</a><br>
+ISO; ISO/TR 22957:2009 - Document management : Analysis, selection and implementation of electronic document management systems (EDMS), ISO, 2009<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007578810108801" title="ISO 18921 (Opens in a new window)" target="_blank" >ISO 18921</a><br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007578820108801" title="ISO 18926 (Opens in a new window)" target="_blank" >ISO 18926</a><br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007578800108801" title="ISO 18927 (Opens in a new window)" target="_blank" >ISO 18927</a><br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007574620108801" title="ISO 19005-1 (Opens in a new window)" target="_blank" >ISO 19005-1</a><br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007574610108801" title="ISO 23950 (Opens in a new window)" target="_blank" >ISO 23950</a><br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007745370108801" title="ISO 24517-1 (Opens in a new window)" target="_blank" >ISO 24517-1</a><br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008029850108801" title="ISO 26324 (Opens in a new window)" target="_blank" >ISO 26324</a><br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008029860108801" title="ISO 27729 (Opens in a new window)" target="_blank" >ISO 27729</a><br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008029870108801" title="ISO 27730 (Opens in a new window)" target="_blank" >ISO 27730</a><br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007533280108801" title="ISO/IEC 17799 (Opens in a new window)" target="_blank" >ISO/IEC 17799</a><br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007990130108801" title="ISO/IEC 24751-1 (Opens in a new window)" target="_blank" >ISO/IEC 24751-1</a><br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007990140108801" title="ISO/IEC 24751-2 (Opens in a new window)" target="_blank" >ISO/IEC 24751-2</a><br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007990150108801" title="ISO/IEC 24751-3 (Opens in a new window)" target="_blank" >ISO/IEC 24751-3</a><br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007574640108801" title="ISO/TR 15801 (Opens in a new window)" target="_blank" >ISO/TR 15801</a><br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007971470108801" title="ISO/TS 23081-1 (Opens in a new window)" target="_blank" >ISO/TS 23081-1</a><br>
+ISO; ISO/TS 23081-2:2007 : Information and documentation : Records management processes : Metadata for records &#8212; Part 2: Conceptual and implementation issues, ISO, 2007<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007972720108801" title="ISO/TR 23081-3 (Opens in a new window)" target="_blank" >ISO/TR 23081-3</a><br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007578770108801" title="ISO 12142:2001(E) (Opens in a new window)" target="_blank" >ISO 12142:2001(E)</a><br>
+ISO; ISO/IEC PRF 26300:2006 : Information technology : Open Document Format for Office Applications (OpenDocument) v1.0 , ISO, 2006<br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007574630108801" title="ISO 15836 (Opens in a new window)" target="_blank" >ISO 15836</a><br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007973810108801" title="ISO 16175-1 (Opens in a new window)" target="_blank" >ISO 16175-1</a><br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007973840108801" title="ISO 16175-2 (Opens in a new window)" target="_blank" >ISO 16175-2</a><br>
+ISO. International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007973850108801" title="ISO 16175-3 (Opens in a new window)" target="_blank" >ISO 16175-3</a><br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span lang="EN-GB" style="line-height: 150%; font-family: arial,helvetica,sans-serif; mso-bidi-font-style: italic; mso-bidi-font-weight: bold; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: EN-GB;">Theoretical and practical lectures with discussion and students active participation.<br /> <br />Presentation of case studies, projects, relevant activities and study visits.<br /><br />Where appropriate, it will be explored the use and manipulation of resources, tools and applications specifically related to information preservation (following case studies and project&#8217;s presentations).<br /><br />Distributed assessment with final exam: 1h30 exam without consultation (50%) + Research work, individual or in a group (50% - including (70%) a written report + (30%) oral presentation in the classroom).<br /></span></p>
+
+## Software
+MS Office <br>
+Archivematica<br>
+Libsafe<br>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 51.0 hours
+- Frequência das aulas: 41.0 hours
+- Trabalho de investigação: 50.0 hours
+- Apresentação/discussão de um trabalho científico: 20.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>1) Individual Assessment (IA) - 30% Written report of two study visits<br /><br />2) Group assessment (GA) - 50% Practical written work + 20% oral presentation<br /><br />Final grade = IA (30%) + GA (70%)<br /><br />The teacher reserves the right to differentiate the grading of students in the same group, depending on the factual perception of the effort made by each element, as well as participation and discussion in the oral presentations.<br /><br /></p>
+
+## Obtenção de frequência
+<p>Mandatory attendance at 75% of classes.<br /><br />Mandatory attendance at all scheduled oral presentations of the group project.<br /><br />A minimum grade of 40% is required in any of the assessment components.</p>
+
+## Exames ou Trabalhos Especiais
+<p>Not applicable.</p>
+
+## Melhoria de classificação
+<p>Students can improve their grade by taking a final exam in the appeal period.</p>
+

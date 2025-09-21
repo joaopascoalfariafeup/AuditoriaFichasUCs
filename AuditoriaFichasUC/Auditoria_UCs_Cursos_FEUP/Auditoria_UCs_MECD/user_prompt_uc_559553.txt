@@ -1,0 +1,139 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Laboratório de Ciência e Engenharia de Dados
+
+## Curso responsável
+Mestrado em Engenharia e Ciência de Dados
+
+## Créditos ECTS
+12
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>O objetivo é consolidar as competências adquiridas nas UC do 1º ano do mestrado. Este objetivo será atingido através do desenvolvimento, em grupo, de num projeto, no âmbito de uma organização real, e desenvolvido em contacto com colaboradores dessa organização.</p>
+
+## Resultados de aprendizagem e competências
+<p>No final da Unidade Curricular os estudantes deverão ser capazes de:</p>
+<ul>
+<li>Identificar problemas de Engenharia e Ciência dos Dados (ECD) num contexto real.</li>
+<li>Discutir e explicar algoritmos de ECD.</li>
+<li>Configurar e utilizar tecnologias de ECD na resolução de problemas realistas.</li>
+<li>Tratar de forma estatisticamente correta os resultados.</li>
+<li>Interpretar os resultados na perspetiva do domínio de aplicação.</li>
+<li>Aplicar, ajustando às especificidades do problema, uma metodologia de ECD.</li>
+<li>Desenvolver um projeto de ECD no âmbito de um problema real de uma organização.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>O estudante deve ter concluído com sucesso todas as UC relevantes para o projeto que irá desenvolver. Especificamente, o estudante deve ter concluído pelo menos 4 das 5 UC do 1º semestre no mestrado.</p>
+
+## Programa
+<ol><br /><li>GESTÃO DE PROJETOS</li><br /></ol><br /><p>CP1.1. Arranque do projeto;</p><br /><p>CP1.2. Planeamento do projeto: levantamento de requisitos, estimação de esforços, definição de tarefas, afetação de recursos, calendarização, documentação;</p><br /><p>CP1.3. Monitorização e controlo do projeto: medição do progresso do projeto, reporte periódico, replaneamento;</p><br /><p>CP1.4. Fecho do projeto: relatório de fecho, lições aprendidas.</p><br /><ol start=&quot;2&quot;><br /><li>TRABALHO EM EQUIPA E COM O CLIENTE</li><br /></ol><br /><p>CP2. Grupo de trabalho, equipa, estilos de gestão e organização de equipas, liderança e <em>coaching</em>, comunicação pessoal, gestão de reuniões, negociação e gestão de conflitos.</p><br /><ol start=&quot;3&quot;><br /><li>METODOLOGIAS E FERRAMENTAS</li><br /></ol><br /><p>CP3.1. Metodologias para gestão de projetos e organização de equipas de ciência e engenharia de dados;</p><br /><p>CP3.2. Ferramentas para gestão de projetos e trabalho em equipa.</p><br /><ol start=&quot;4&quot;><br /><li>REALIZAÇÃO DE PROJETOS</li><br /></ol><br /><p>CP4.1. Discussão de casos de estudo reais, com apoio de peritos da indústria;</p><br /><p>CP4.2. Desenvolvimento de projeto concreto, realizado por equipa de média dimensão, usando os métodos, técnicas e formas de trabalho apresentados nesta e noutras U.C.</p>
+
+## Bibliografia obrigatória
+Foster Provost; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005708460108801" title="Data science for business (Abre numa nova janela)" target="_blank" >Data science for business</a>. ISBN: 978-1-449-36132-7<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A metodologia predominante é a orientação tutorial e baseia-se na combinação de:</p>
+<ul>
+<li>Exposição de conteúdos pelos docentes nas aulas.</li>
+<li>Acompanhamento semanal dos vários projectos em desenvolvimento.</li>
+<li>Seminários de colaboradores de organizações externas nas aulas.</li>
+<li>Apresentação final dos projetos.</li>
+</ul>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Elaboração de projeto: 100.0 horas
+- Frequência das aulas: 78.0 horas
+- Apresentação/discussão de um trabalho científico: 6.0 horas
+- Total:: 184.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Relatório final: 55%<br />Apresentação final: 15%<br />Apresentações intermédias: 20% (5% cada)<br />Quizz relativos aos seminários: 10% (média dos melhores n-1)<br /><br />A classificação de cada estudante terá como base a classificação global do grupo, podendo variar de acordo com a avaliação dos pares e com os resultados do acompanhamento feito pelos docentes.</p>
+
+## Obtenção de frequência
+<p style="text-align: left;">Presença nas aulas de acordo com as "Normas Gerais de Avaliação" do Conselho Pedagógico da FEUP.</p>
+
+## Melhoria de classificação
+Não é possível por se tratar de uma UC baseada na execução de um projeto.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Data science & engineering lab
+
+## Curso responsável
+Master in Data Science and Engineering
+
+## Créditos ECTS
+12
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>The objective is to consolidate the skills acquired in the curricular units of 1st year of the master's degree. This objective will be achieved through the development, in groups, of a project, within the scope of a real organization, and developed in contact with employees of that organization.</p>
+
+## Resultados de aprendizagem e competências
+<p>In the end of this course, students should be able to:</p>
+<ul>
+<li>Identify problems of Data Science and Engineering (DSE) in a realistic context.</li>
+<li>Discuss and explain DSE algorithms.</li>
+<li>Configure and use DSE technologies to solve realistic problems.</li>
+<li>Analyse results in a statistically correct way.</li>
+<li>Interpret the results from the perspective of the application domain.</li>
+<li>Apply a DSE methodology, adapting it to the specificities of the problem at hand.</li>
+<li>Develop an DSE project for a real problem of an organization.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p>The student must have successfully completed all relevant courses for the project that will be developed. Specifically, the student must have completed at least 4 out of the 5 UC offered in the 1st semester of the MSc.</p>
+
+## Programa
+<ol><br /><li><em> PROJECT MANAGEMENT</em></li><br /></ol><br /><p><em>CP1.1. Project kick-off;</em></p><br /><p><em>CP1.2. Project planning: requirement analysis, estimation of effort, task definition, allocation of resources, scheduling, documentation;</em></p><br /><p><em>CP1.3. Project monitoring and control: measuring project progress, periodic reporting, replanning;</em></p><br /><p><em>CP1.4. Project closing: closing report, lessons learned.</em></p><br /><p><em> </em></p><br /><ol start=&quot;2&quot;><br /><li><em> TEAM AND CUSTOMER WORK</em></li><br /></ol><br /><p><em>CP2. Group work, team, management styles and team organization, leadership and coaching, personal communication, management of meetings, negotiation and conflict management.</em></p><br /><p><em> </em></p><br /><ol start=&quot;3&quot;><br /><li><em> METHODOLOGIES AND TOOLS</em></li><br /></ol><br /><p><em>CP3.1. Methodologies for project management and organization of data science and engineering teams;</em></p><br /><p><em>CP3.2. Tools for project management and teamwork.</em></p><br /><p><em> </em></p><br /><ol start=&quot;4&quot;><br /><li><em> PROJECT ACHIEVEMENT</em></li><br /></ol><br /><p><em>CP4.1. Discussion of true case studies, supported by industry experts;</em></p><br /><p><em>CP4.2. Development of a concrete project carried out by a medium-sized team, using the methods, techniques and work methods presented in this and other U.C.</em></p>
+
+## Bibliografia obrigatória
+Foster Provost; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005708460108801" title="Data science for business (Opens in a new window)" target="_blank" >Data science for business</a>. ISBN: 978-1-449-36132-7<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The main teaching methodology is tutorial orientation and is based on a combination of:</p>
+<ul>
+<li>Exposition of relevant concepts by the professors</li>
+<li>Weekly follow-up of ongoing projects.</li>
+<li>Seminars by employees of external organizations</li>
+<li>Final presentation of the projects</li>
+</ul>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Elaboração de projeto: 100.0 hours
+- Frequência das aulas: 78.0 hours
+- Apresentação/discussão de um trabalho científico: 6.0 hours
+- Total:: 184.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Final report: 55%<br />Final presentation: 15%<br />Intermediate presentations: 20% (5% each)<br />Seminar-related quizzes: 10% (average of the best n-1)</p>
+<p>The classification of each student will be based on the global classification of the group, which may vary according to the peer evaluation and the results of the monitoring carried out by the teachers.</p>
+
+## Obtenção de frequência
+<p>Students have to attend classes according to the "General Evaluation Rules" of FEUP Pedagogical Council.</p>
+
+## Melhoria de classificação
+Not foreseen, as this is a project-based curricular unit.
+

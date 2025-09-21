@@ -1,0 +1,122 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Biointerfaces Moleculares
+
+## Curso responsável
+Licenciatura em Bioengenharia
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p style="font-weight: 400;">Fornecer os conceitos fundamentais relativos às diversas interações que ocorrem nas interfaces biológicas envolvendo a matriz extracelular, biomateriais, células, proteínas, bactérias e sangue. Compreender de que forma as propriedades das superfícies dos biomateriais, nomeadamente a composição química, topografia e propriedades mecânicas, influenciam a adsorção de proteínas e a resposta celular. Entender a importância da modificação e caracterização das propriedades de superfície de biomateriais para controlar a sua interação com proteínas e células.</p>
+
+## Resultados de aprendizagem e competências
+1. Discutir de que forma as propriedades de superfície dos biomateriais (composição química, topografia e propriedades mecânicas) influenciam a adsorção de proteínas e a resposta celular.<br /><br />2. Selecionar estratégias de modificação de superfície para controlar a interação com proteínas, células, sangue e bactérias.<br /><br />3. Relacionar as técnicas de caracterização de superfícies com a informação e aplicação pretendidas.<br /><span style=&quot;font-weight: 400;&quot;><br />4. Discutir o desenho, modificação e caracterização de superfícies de biomateriais para aplicações específicas.</span>
+
+## Programa
+1. Introdução às biointerfaces.<br /><br />2. Propriedades físico-químicas de superfícies.<br /><br />3. Aspetos fundamentais da interação entre biomaterial / matriz extracelular com proteínas, células e sangue.<br /><br />4. Engenharia de superfícies: estratégias de modificação e caracterização.<br /><br />5. Biointerfaces para modulação celular: interações célula&#8211;substrato.<br /><br />6. Biointerfaces para controlar interações com proteínas, sangue e bactérias.<br /><br />7. Biointerfaces para modulação celular: interações corpo humano-biomaterial.<br /><span style=&quot;font-weight: 400;&quot;> <br />8. Aplicações e casos de estudo.</span>
+
+## Bibliografia obrigatória
+Hans-Jürgen Butt, Karlheinz Graf, Michael Kappl; Physics and chemistry of interfaces (Third Edition), Wiley, 2013. ISBN: 9783527412167<br>
+William R. Wagner, Shelly E. Sakiyama-Elbert, Guigen Zhang, Michael J. Yaszemski.; Biomaterials Science: An Introduction to Materials in Medicine (Fourth Edition), Academic Press, 2020. ISBN: 9780128161371<br>
+Mauli Agrawal, Joo L. Ong, Mark R. Appleford, Gopinath Mani; Introduction to Biomaterials Basic Theory with Engineering Applications, Cambridge University Press, 2014. ISBN: 9780521116909<br>
+Martins MCL, Sousa SR, Antunes JC, Barbosa MA; Protein Adsorption Characterization, In Methods in Molecular Biology, &#8220;Nanotechnology in Regenerative Medicine: Methods and Protocols&#8221; edited by Josep A. Planell and Melba Navarro., Springer Science, 2012. ISBN: 9781617793882<br>
+Felgueiras HP, Antunes JC, Martins MCL, Barbosa MA; Fundamentals of protein and cell interactions in biomaterials, In &#8220;Peptides and Proteins as Biomaterials for Tissue Regeneration and Repair&#8221; edited by Martins MCL, Barbosa MA., Elsevier, 2017. ISBN: 9780081008034<br>
+
+## Bibliografia complementar
+Gerald H. Pollack. ; Cells, Gels and the Engines of Life, Ehbner and Sons Publishers, 2001. ISBN: 9780962689529<br>
+Kay C. Dee, David A. Puleo, Rena Bizios;  An Introduction to Tissue-Biomaterial Interactions, John Wiley & Sons, 2002. ISBN: 9780471270591<br>
+David A. Puleo, Rena Bizios; Biological Interactions on Materials Surfaces. Understanding and controlling protein, cell and tissue response, Springer Science, 2009. ISBN: 9780387981611<br>
+Paul Ducheyne; Comprehensive Biomaterials, Elsevier, 2011. ISBN: 9780080552941<br>
+
+## Métodos de ensino e atividades de aprendizagem
+1. Aulas de exposição e discussão de conceitos fundamentais de cada tópico pelos docentes.<br /><br />2. Apresentação e discussão de artigos de investigação por parte dos estudantes.<br /><br />3. Componente laboratorial envolvendo a realização de experiências relevantes sobre os tópicos discutidos pelos docentes.
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 10.0 horas
+- Estudo autónomo: 87.0 horas
+- Frequência das aulas: 39.0 horas
+- Trabalho laboratorial: 26.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p style="font-weight: 400;">Exame Final (65%) + Aulas Laboratoriais (25%) + Apresentação de artigo científico (10%) </p>
+
+## Obtenção de frequência
+<p style="font-weight: 400;">Cumprimento da presença no mínimo legal de aulas previsto, segundo as normas legais aplicáveis.</p>
+<p style="font-weight: 400;">Frequência de aulas PL (&#8805; 75%).</p>
+<p style="font-weight: 400;">Classificação da componente PL &#8805; 9,5.<br /><br />Classificação mínima de exame para obtenção de aprovação à UC &#8805; 9,5.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Molecular BioInterfaces
+
+## Curso responsável
+Bachelor in Bioengineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p style="font-weight: 400;">Provide the fundamental concepts underlying the interactions at biological interfaces involving the extracellular matrix, biomaterials, cells, proteins, bacteria and blood. Understand how the surface properties of biomaterials, including the chemical composition, topography and mechanical properties, dictate protein adsorption and cellular response. Recognize the importance of the modification and characterization of biomaterial surface properties in order to control its interaction with proteins and cells.</p>
+
+## Resultados de aprendizagem e competências
+1. Discuss how the surface properties of biomaterials (chemical composition, topography, and mechanical properties) influence protein adsorption and cellular response.<br /><br />2. Select surface modification strategies to control interactions with proteins, cells, blood, and bacteria.<br /><br />3. Correlate surface characterization techniques to the information obtained and the intended application.<br /><span style=&quot;font-weight: 400;&quot;><br />4. Discuss the design, modification, and characterization of biomaterial surfaces for specific applications.</span>
+
+## Programa
+1. Introduction to biointerfaces.<br /><br />2. Physicochemical properties of surfaces.<br /><br />3. Fundamental aspects of biomaterial/extracellular matrix interactions with proteins, cells and blood.<br /><br />4. Surface engineering: modification and characterization strategies.<br /><br />5. Biointerfaces for cellular modulation: cell&#8211;substrate interactions.<br /><br />6. Biointerfaces to control interactions with proteins, blood, and bacteria.<br /><br />7.Biointerfaces for cellular modulation: human body&#8211;biomaterial interactions.<br /><br />8. Applications and case studies.
+
+## Bibliografia obrigatória
+Hans-Jürgen Butt, Karlheinz Graf, Michael Kappl; Physics and chemistry of interfaces (Third Edition), Wiley, 2013. ISBN: 9783527412167<br>
+William R. Wagner, Shelly E. Sakiyama-Elbert, Guigen Zhang, Michael J. Yaszemski.; Biomaterials Science: An Introduction to Materials in Medicine (Fourth Edition), Academic Press, 2020. ISBN: 9780128161371<br>
+Mauli Agrawal, Joo L. Ong, Mark R. Appleford, Gopinath Mani; Introduction to Biomaterials Basic Theory with Engineering Applications, Cambridge University Press, 2014. ISBN: 9780521116909<br>
+Martins MCL, Sousa SR, Antunes JC, Barbosa MA; Protein Adsorption Characterization, In Methods in Molecular Biology, &#8220;Nanotechnology in Regenerative Medicine: Methods and Protocols&#8221; edited by Josep A. Planell and Melba Navarro., Springer Science, 2012. ISBN: 9781617793882<br>
+Felgueiras HP, Antunes JC, Martins MCL, Barbosa MA; Fundamentals of protein and cell interactions in biomaterials, In &#8220;Peptides and Proteins as Biomaterials for Tissue Regeneration and Repair&#8221; edited by Martins MCL, Barbosa MA., Elsevier, 2017. ISBN: 9780081008034<br>
+
+## Bibliografia complementar
+Gerald H. Pollack. ; Cells, Gels and the Engines of Life, Ehbner and Sons Publishers, 2001. ISBN: 9780962689529<br>
+Kay C. Dee, David A. Puleo, Rena Bizios;  An Introduction to Tissue-Biomaterial Interactions, John Wiley & Sons, 2002. ISBN: 9780471270591<br>
+David A. Puleo, Rena Bizios; Biological Interactions on Materials Surfaces. Understanding and controlling protein, cell and tissue response, Springer Science, 2009. ISBN: 9780387981611<br>
+Paul Ducheyne; Comprehensive Biomaterials, Elsevier, 2011. ISBN: 9780080552941<br>
+
+## Métodos de ensino e atividades de aprendizagem
+1. Classes covering the fundamental concepts of each topic by the teachers and discussion with the students.<br /><br />2. Presentation and discussion of research papers by the students.<br /><br />3. Laboratory classes comprising relevant experiments covering the topics discussed by the teachers.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 10.0 hours
+- Estudo autónomo: 87.0 hours
+- Frequência das aulas: 39.0 hours
+- Trabalho laboratorial: 26.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p style="font-weight: 400;">Final Exam (65%) + Laboratorial Classes (25%) + Presentation of scientific paper (10%)</p>
+
+## Obtenção de frequência
+<p style="font-weight: 400;">According to the current regulations.</p>
+<p style="font-weight: 400;">Attendance to PL classes (&#8805; 75%).</p>
+<p style="font-weight: 400;">Classification in PL classes &#8805; 9.5.<br /><br />Minimum classification of &#8805; 9.5 in the exam is required for approval.</p>
+

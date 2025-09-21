@@ -1,0 +1,133 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Séries Temporais e Previsão
+
+## Curso responsável
+Mestrado em Inteligência Artificial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Introduzir os conceitos e metodologias adequados à análise de séries temporais.
+
+## Resultados de aprendizagem e competências
+<p>No final do semestre o estudante deve ser capaz de:</p>
+<p>1. definir os conceitos principais dos métodos de análise de séries temporais;</p>
+<p>2. selecionar e aplicar os modelos apropriados para dados de séries temporais;</p>
+<p>3. utilizar o software indicado;</p>
+<p>4. sintetizar os resultados de uma análise de séries temporais.</p>
+
+## Pré-requisitos e co-requisitos
+Conceitos básicos de probabilidades e estatística.
+
+## Programa
+<p>Noção de série temporal. Padrões de dados temporais. Medidas de correlação e correlação cruzada e sua estimação. Estacionaridade. Uso do R para análise de séries temporais.<br /><br />Análise exploratória. Estimação e extração das componentes de uma série temporal: tendência, ciclo e sazonalidade: Loess, STL e decompçosição &#8220;Bureau of the Census&#8221;.</p>
+<p>Modelos probabilísticos para séries temporais. Modelos ARMA. Estimação e previsão. Modelos ARIMA para séries não estacionárias. Modelos sazonais. Modelos SARIMA. </p>
+<p>Metodologia Box-Jenkins para a modelação &#8211; identificação, estimação e controlo do diagnóstico. Selecção de modelos. Testes de raízes unitárias. </p>
+<p>Previsão: modelos SARIMA e métodos de amaciamento exponencial.<br /><br />Análise e previsão na presença de muitas séries temporais. Formas de representação dos dados de séries temporais. Sumário das características mais relevantes. Selecção automática de modelos. Previsão automática.  </p>
+
+## Bibliografia obrigatória
+Cryer, Jonathan D.; Time series analysis : with applications in R, Adison-Wesley, 2009. ISBN: 0-321-32216-9<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Exposição da matéria. <br />Resolução de exercícios. <br />Tratamento de casos práticos com recurso a software apropriado.
+
+## Software
+Python<br>
+R<br>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 80.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho escrito: 40.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<ul><br /><li>Componente Escrita (CE) - 1 Teste (20%)+ 1 Exame (80%)</li><br /><li>Componente Projecto (CP) - Mini-relatório de análise descritiva (20%) + Relatório e apresentação da análise de uma série temporal (80%). </li><br /></ul><br />As componente CE e CP devem ter ambas classificação mínima de 8 valores.<br /><br />Classificação final= 0.5 CE + 0.5 CP<br /><br /><br />Na época de recurso os estudantes podem obter aprovação mediante <strong>um </strong>exame escrito com ponderação de 50% e um trabalho prático  com relatório e apresentação, com poderação de 50%.
+
+## Obtenção de frequência
+Não aplicável.
+
+## Exames ou Trabalhos Especiais
+NA
+
+## Melhoria de classificação
+A melhoria de classificação pode ser feita em qualquer das componentes da avaliação: a componente CE através de exame e a componente CP através de entrega de relatório e apresnetação oral da análise de uma série temporal.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Time Series and Forecasting
+
+## Curso responsável
+Master in Artificial Intelligence
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+The aim of this course is to introduce the students to time series analysis methods.
+
+## Resultados de aprendizagem e competências
+<p>By the end of the course, the student should be able to:</p>
+<p>1.define basic time series concepts and terminology;<br />2. select time series methods appropriate to forecast;<br />3. use apropriate software;<br />4. concisely summarize results of a time series analysis.</p>
+
+## Pré-requisitos e co-requisitos
+Probability and Statistics at introductory level.
+
+## Programa
+<p>Introduction. Time series data and their characteristics. Measures of dependence: autocorrelation and cross-correlation. Stationary time series. Estimation of correlation. Use of R for time series analysis.</p>
+<p>Exploratory data analysis. Estimation of trend, cycle and seasonal components. Loess, STL and &#8220;Bureau of the Census&#8221; decompositions. <br /><br />Time series models. ARMA models. Estimation and forecasting. Integrated ARIMA models for nonstationary data. Multiplicative Seasonal ARIMA models. Forecasting.</p>
+<p>Box-Jenkins methodology: building SARIMA models- identification, estimation and diagnostic. Model selection. Unit root tests. <br /><br />Forecasting: SARIMA models and exponential smoothing methods.</p>
+<p>Visualizing and forecasting big time series data. Representation of many time series. Summarization of main characteristics. Automatic model selection. Automatic forecasting.</p>
+
+## Bibliografia obrigatória
+Cryer, Jonathan D.; Time series analysis : with applications in R, Adison-Wesley, 2009. ISBN: 0-321-32216-9<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Classes; example classes and laboratory classes.
+
+## Software
+Python<br>
+R<br>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 80.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho escrito: 40.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<ul><br /><li>Written component (CE) - 1 Test (20%)+ 1 Exam (80%)</li><br /><li> Project (CP) - min report with exploratory data analysis (20%) + Report with presentation (80%). </li><br /></ul><br />Both componentes require a minimum of 8/20<br /><br />Final mark= 0.5 CE + 0.5 CP
+
+## Obtenção de frequência
+Not applicable.
+
+## Exames ou Trabalhos Especiais
+NA
+
+## Melhoria de classificação
+The student must take a written exam and resubmit a project.
+

@@ -1,0 +1,178 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Metainformação Descritiva
+
+## Curso responsável
+Licenciatura em Ciência da Informação
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Pretende-se que os estudantes apreendam as técnicas de análise e representação da informação e adquiram competências para aplicar técnicas, normas e outros instrumentos inerentes à organização e representação da informação, na construção de instrumentos de acesso à informação. Os estudantes deverão, também, compreender o papel fundamental da tecnologia na partilha da informação armazenada em bases de dados.</p>
+
+## Resultados de aprendizagem e competências
+<p>Conhecer os princípios teóricos e metodológicos para a organização e representação da informação.</p>
+<p>Compreender a estrutura e o funcionamento dos instrumentos de recuperação da informação.</p>
+<p>Adquirir a capacidade para usar e aplicar normas de descrição bibliográfica e descrição arquivística.</p>
+<p>Compreender a estrutura dos esquemas de metadados mais usados em bibliotecas e arquivos e saber utilizá-los.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Nada a indicar</p>
+
+## Programa
+<ol><br /><li>Organizar e representar informação: contextualização nos pólos técnico e morfológico do método quadripolar.</li><br /><li>Conceitos básicos de metainformação descritiva<br /><ul><br /><li>Importância da metainformação na organização e recuperação de informações</li><br /><li>História e evolução dos padrões de metadados</li><br /></ul><br /></li><br /><li>Metadados: características, tipologia e funções.</li><br /><li>Princípios e normas de aplicação de metadados para a organização de recursos informacionais relacionados, a sua representação, recuperação e interoperabilidade.<br /><ul><br /><li>Normas para a elaboração de instrumentos de acesso à informação bibliográfica, arquivística e museológica: a ISBD (consolidada) e a ISAD(G) e o CIDOC-CRM</li><br /></ul><br /></li><br /><li>Padrões e Formatos de Metadados<br /><ul><br /><li>Principais padrões de metadados (Dublin Core, MARC, EAD, PREMIS, METS. etc.)</li><br /><li>Formatos de metadados para diferentes tipos de recursos (textos, imagens, vídeos, dados, etc.)</li><br /><li>Interoperabilidade e harmonização de metadados</li><br /></ul><br /></li><br /></ol>
+
+## Bibliografia obrigatória
+Birger Hjørland; Description: Its meaning, epistemology, and use with emphasis on information science, J Assoc Inf Sci Technol. , 2023. ISBN: ISSN 2330-1643<br>
+CONSELHO INTERNACIONAL DE ARQUIVOS ; ISAD(G) : norma geral internacional de descrição arquivística: adoptada pelo Comité de Normas de Descrição, Estocolmo, Suécia, 19-22 de Setembro de 1999 , IAN/TT, 2004. ISBN: 972-8107-69-2 (Também disponível em WWW: http://www.iantt.pt/downloads/ISADG.pdf)<br>
+CONSELHO INTERNACIONAL DE ARQUIVOS. Comité das Normas de Descrição. Sub-Comité sobre os Instrumentos de Descrição; Orientações para a preparação e apresentação de instrumentos de descrição : relatório do Sub-Comité sobre os Instrumentos de Descrição. Tradução portuguesa, 2001 (Disponível em WWW: http://www.iantt.pt/downloads/Guidelines_IDDS.pdf)<br>
+DIRECÇÃO GERAL DE ARQUIVOS. Programa de Normalização da Descrição em Arquivo. Grupo de Trabalho de Normalização da Descrição em Arquivo; Orientações para a descrição arquivística, DGARQ, 2007. ISBN: 978-972-8107-91-8  (Disponível em WWW: http://www.iantt.pt/downloads/ODA1-2-3.pdf)<br>
+Gonçalves, Maria da Conceição Osório Dias 730; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007050000108801" title="Princípios para a aplicação das ISBDs à descrição das partes componentes (Abre numa nova janela)" target="_blank" >Princípios para a aplicação das ISBDs à descrição das partes componentes</a><br>
+IFLA. Study Group on the Functional Requirements for Bibliographic Records ; Functional Requirements for Bibliographic Records : final report, Saur, 1998. ISBN: 978-3-598-11382-6. (Também disponível em WWW: http://www.ifla.org/VII/s13/frbr/frbr_2008.pdf)<br>
+IFLA. Cataloguing Section ; Statement of International Cataloguing Principles. Draft version, IFLA, 2008 (Disponível em http://www.ifla.org/VII/s13/icc/imeicc-statement_of_principles-2008.pdf)<br>
+INTERNATIONAL CONFERENCE ON CATALOGUING PRINCIPLES, Paris, 1961 ; Report, IFLA, 1981. ISBN: ISBN 0-903043-33-5<br>
+INTERNATIONAL COUNCIL OF MUSEUMS. International Committee for Documentation ; Definition of the CIDOC Conceptual Reference Model, CIDOC, 2010<br>
+RIBEIRO, Fernanda ; O Acesso à informação nos arquivos, Fundação Calouste Gulbenkian; Fundação para a Ciência e a Tecnologia, Ministério da Ciência e do Ensino Superior, 2002. ISBN: ISBN 972-31-1017-2<br>
+Oliver, Chris; Introducing RDA : a guide to the basics , Facet Publishing, 2010. ISBN:  978-1-85604-732-6<br>
+Marcia Lei Zeng; Jian Qin; Metadata, American Library Association., 2020. ISBN: 978-1783305889<br>
+Seth van Hooland; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008239840108801" title="Linked data for libraries, archives and museums (Abre numa nova janela)" target="_blank" >Linked data for libraries, archives and museums</a>. ISBN: 978-1-85604-964-1<br>
+Steve Krug; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007633750108801" title="Don.t make me think! (Abre numa nova janela)" target="_blank" >Don.t make me think!</a>. ISBN: 0-321-34475-8<br>
+Sottomayor, José Carlos 340; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007782310108801" title="Regras de catalogação (Abre numa nova janela)" target="_blank" >Regras de catalogação</a>. ISBN: 978-972-9067-38-9<br>
+Taylor, Arlene G.; Daniel N. Joudrey; The organization of information, Pearson Education, 2016. ISBN: 1-56308-498-8<br>
+Welsh, Anne; Batley, Sue; Practical cataloguing : AACR, RDA and MARC21, Facet Publishing, 2012. ISBN: 978-1-85604-695-4<br>
+
+## Bibliografia complementar
+Comitê Internacional de Documentação (CIDOC); Conselho Internacional de Museus (ICOM); Declaração dos princípios de documentação em museus e Diretrizes internacionais de informação sobre objetos: categorias de informação do CIDOC , Secretaria de Estado de Cultura de São Paulo; Associação de Amigos do Museu do Café; Pinacoteca do Estado de São Paulo, 2014. ISBN: ISBN: 978-85-8256-029-7<br>
+Weber, Mary Beth; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007966110108801" title="Describing electronic, digital, and other media using AACR2 and RDA (Abre numa nova janela)" target="_blank" >Describing electronic, digital, and other media using AACR2 and RDA</a>. ISBN: 978-1-85604-684-8<br>
+Anglo-American cataloguing rules. 2nd ed.,2002 rev., American Library Association, 2004. ISBN: 978-0-8389-3546-0<br>
+Galvão, Rosa Maria, and Maria Inês Cordeiro; Novos princípios, modelos e normas para o futuro dos serviços de informação bibliográfica., BAD, 2010 (In: Congresso Dos Bibliotecários Arquivistas E Documentalistas, 10o, Porto. 2010.)<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A metodologia será ativa e participativa. As aulas serão dedicadas à exposição do conteúdo, à análise e à discussão dos problemas relacionados à organização e representação da informação. Haverá práticas voltadas para a realização de exercícios utilizando normas internacionais e uso de aplicações informáticas.</p>
+
+## Software
+X-Arq<br>
+mindPrisma<br>
+Bibliobase<br>
+Archeevo<br>
+EndNote X9<br>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 61.0 horas
+- Frequência das aulas: 41.0 horas
+- Trabalho escrito: 60.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação é a combinação de um teste (20%), um trabalho de grupo (20%) e um exame final (60%)</p>
+
+## Obtenção de frequência
+<p>Frequência de 75% das aulas, exceto nos casos previstos por lei.</p>
+
+## Exames ou Trabalhos Especiais
+<p>Não se aplica</p>
+
+## Melhoria de classificação
+A melhoria de classificação só pode ser obtida pela repetição do exame final.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Descriptive Metadata
+
+## Curso responsável
+Bachelor of Arts in Information Science
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>This course teaches students the principles and techniques of information representation and will help them to demonstrate the ability and competence in applying techniques, standards and other instruments for organizing and representing information and database construction. Students should also understand the fundamental role of technology in sharing information stored in databases.</p>
+
+## Resultados de aprendizagem e competências
+<p> Understand the theoretical and methodological principles for the organization and representation of information.</p>
+<p>Understand the structure of information retrieval tools.</p>
+<p>Acquire the ability to use and apply standards of bibliographic and archival description.</p>
+<p>Understand the structure of the metadata schemes commonly used in libraries and archives and know how to use them.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Not applicable</p>
+
+## Programa
+<ol><br /><li>Organizing and describing information: contextualization in the technical and morphological poles of the quadripolar method.</li><br /><li>Basic concepts of descriptive metadata<br /><ul><br /><li>Importance of metadata in the organization and retrieval of information</li><br /><li>History and evolution of metadata standards</li><br /></ul><br /></li><br /><li>Metadata: characteristics, typology, and functions.</li><br /><li>Principles and standards for metadata application for the organization of related informational resources, their representation, retrieval, and interoperability.<br /><ul><br /><li>Standards for developing instruments for accessing bibliographic, archival, and museological information: ISBD (consolidated), ISAD (G), and CIDOC-CRM.</li><br /></ul><br /></li><br /><li>Metadata Standards and Formats<br /><ul><br /><li>Major metadata standards (Dublin Core, MARC, EAD, PREMIS, METS, etc.)</li><br /><li>Metadata formats for different types of resources (texts, images, videos, data, etc.)</li><br /><li>Interoperability and Harmonization of metadata.</li><br /></ul><br /></li><br /></ol>
+
+## Bibliografia obrigatória
+Birger Hjørland; Description: Its meaning, epistemology, and use with emphasis on information science, J Assoc Inf Sci Technol. , 2023. ISBN: ISSN 2330-1643<br>
+CONSELHO INTERNACIONAL DE ARQUIVOS ; ISAD(G) : norma geral internacional de descrição arquivística: adoptada pelo Comité de Normas de Descrição, Estocolmo, Suécia, 19-22 de Setembro de 1999 , IAN/TT, 2004. ISBN: 972-8107-69-2<br>
+CONSELHO INTERNACIONAL DE ARQUIVOS. Comité das Normas de Descrição. Sub-Comité sobre os Instrumentos de Descrição; Orientações para a preparação e apresentação de instrumentos de descrição : relatório do Sub-Comité sobre os Instrumentos de Descrição. Tradução portuguesa, 2001<br>
+DIRECÇÃO GERAL DE ARQUIVOS. Programa de Normalização da Descrição em Arquivo. Grupo de Trabalho de Normalização da Descrição em Arquivo; Orientações para a descrição arquivística, DGARQ, 2007. ISBN: 978-972-8107-91-8 <br>
+Gonçalves, Maria da Conceição Osório Dias 730; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007050000108801" title="Princípios para a aplicação das ISBDs à descrição das partes componentes (Opens in a new window)" target="_blank" >Princípios para a aplicação das ISBDs à descrição das partes componentes</a><br>
+IFLA. Study Group on the Functional Requirements for Bibliographic Records ; Functional Requirements for Bibliographic Records : final report, Saur, 1998. ISBN: 978-3-598-11382-6.<br>
+IFLA. Cataloguing Section ; Statement of International Cataloguing Principles. Draft version, IFLA, 2008<br>
+INTERNATIONAL CONFERENCE ON CATALOGUING PRINCIPLES, Paris, 1961 ; Report, IFLA, 1981. ISBN: ISBN 0-903043-33-5<br>
+INTERNATIONAL COUNCIL OF MUSEUMS. International Committee for Documentation ; Definition of the CIDOC Conceptual Reference Model, CIDOC, 2010<br>
+RIBEIRO, Fernanda ; O Acesso à informação nos arquivos, Fundação Calouste Gulbenkian; Fundação para a Ciência e a Tecnologia, Ministério da Ciência e do Ensino Superior, 2002. ISBN: ISBN 972-31-1017-2<br>
+Oliver, Chris; Introducing RDA : a guide to the basics , Facet Publishing, 2010. ISBN:  978-1-85604-732-6<br>
+Marcia Lei Zeng; Jian Qin; Metadata, American Library Association., 2020. ISBN: 978-1783305889<br>
+Seth van Hooland; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008239840108801" title="Linked data for libraries, archives and museums (Opens in a new window)" target="_blank" >Linked data for libraries, archives and museums</a>. ISBN: 978-1-85604-964-1<br>
+Steve Krug; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007633750108801" title="Don.t make me think! (Opens in a new window)" target="_blank" >Don.t make me think!</a>. ISBN: 0-321-34475-8<br>
+Sottomayor, José Carlos 340; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007782310108801" title="Regras de catalogação (Opens in a new window)" target="_blank" >Regras de catalogação</a>. ISBN: 978-972-9067-38-9<br>
+Taylor, Arlene G.; Daniel N. Joudrey; The organization of information, Pearson Education, 2016. ISBN: 1-56308-498-8<br>
+Welsh, Anne; Batley, Sue; Practical cataloguing : AACR, RDA and MARC21, Facet Publishing, 2012. ISBN: 978-1-85604-695-4<br>
+
+## Bibliografia complementar
+Comitê Internacional de Documentação (CIDOC); Conselho Internacional de Museus (ICOM); Declaração dos princípios de documentação em museus e Diretrizes internacionais de informação sobre objetos: categorias de informação do CIDOC , Secretaria de Estado de Cultura de São Paulo; Associação de Amigos do Museu do Café; Pinacoteca do Estado de São Paulo, 2014. ISBN: ISBN: 978-85-8256-029-7<br>
+Weber, Mary Beth; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007966110108801" title="Describing electronic, digital, and other media using AACR2 and RDA (Opens in a new window)" target="_blank" >Describing electronic, digital, and other media using AACR2 and RDA</a>. ISBN: 978-1-85604-684-8<br>
+Anglo-American cataloguing rules. 2nd ed.,2002 rev., American Library Association, 2004. ISBN: 978-0-8389-3546-0<br>
+Galvão, Rosa Maria, and Maria Inês Cordeiro; Novos princípios, modelos e normas para o futuro dos serviços de informação bibliográfica., BAD, 2010<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The methodology will be active and participatory. Classes will be devoted to presenting the theoretical content and analyzing and discussing issues inherent to descriptive metadata in information organization. There will be practical sessions aimed at conducting exercises using international standards and computer applications.</p>
+
+## Software
+X-Arq<br>
+mindPrisma<br>
+Bibliobase<br>
+Archeevo<br>
+EndNote X9<br>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 61.0 hours
+- Frequência das aulas: 41.0 hours
+- Trabalho escrito: 60.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final evaluation will combine a test (20%) a group assignment (20%), and a final exam (60%).</p>
+
+## Obtenção de frequência
+<p>The attendance at 75% of the classes is required, except as required by regulation.</p>
+
+## Exames ou Trabalhos Especiais
+<p>Not applicable</p>
+
+## Melhoria de classificação
+Classification improvement can be obtained by repeating the final exam.
+

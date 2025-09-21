@@ -1,0 +1,123 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Introdução à Ciência de Dados
+
+## Curso responsável
+Mestrado em Inteligência Artificial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Esta disciplina tem como objetivos principais fazer uma introdução às principais metodologias de data science, e também fornecer conhecimentos sobre programação e sistemas utilizados para o processamento e a análise de dados, tais como a linguagem Python.</p>
+
+## Resultados de aprendizagem e competências
+<p>Pretende-se que os(as) alunos(as): <br />1. adquiram competências teóricas sobre metodologias de data science, <br />2. adquiram competências de desenvolvimento de software para tarefas de data science, <br />3. adquiram competências sobre a aplicação de metodologias de data science a problemas concretos.</p>
+
+## Programa
+<p>1. Introdução à Ciência de Dados<br />&#8226; A metodologia CRISP-DM <br />&#8226; Dados, modelos e padrões <br />&#8226; Tarefas de data mining <br /><br />2. Técnicas de Pré-processamento de dados<br />&#8226; Importação de dados<br />&#8226; Limpeza de dados <br />&#8226; Transformação e criação de novas variáveis<br />&#8226; Redução de dimensionalidade<br /><br />3. Exploração e visualização de dados <br />&#8226; Sumariação de dados <br />&#8226; Visualização de dados <br /><br />4. Modelos descritivos <br />&#8226; Métodos de agrupamento: métodos de partições, métodos hierárquicos<br />&#8226; Métodos de associação: regras<br /><br />5. Modelos de previsão <br />&#8226; Problemas de classificação e regressão <br />&#8226; Métricas de avaliação <br />&#8226; Modelos matemáticos: regressão linear, Naive Bayes, k vizinhos mais próximos <br />&#8226; Árvores de decisão: árvores de classificação, árvores de regressão, métodos de pruning <br />&#8226; Redes neuronais e deep learning<br />&#8226; Máquinas de suporte vectorial <br />&#8226; Ensembles: Bagging, Random Forests, Boosting, AdaBoost, Xgboost <br /><br />6. Metodologias de avaliação / comparação de modelos <br />&#8226; Medidas de avaliação <br />&#8226; Métodos de obtenção de estimativas <br />&#8226; Métodos de comparação / testes de significância <br /><br /><br /></p>
+
+## Bibliografia obrigatória
+Pang-Ning Tan; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009900960108801" title="Introduction to data mining (Abre numa nova janela)" target="_blank" >Introduction to data mining</a>. ISBN: 9780321420527<br>
+Charu C. Aggarwal; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008553330108801" title="Data mining (Abre numa nova janela)" target="_blank" >Data mining</a>. ISBN: 978-3-319-14142-8<br>
+Jiawei Han; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002965920108801" title="Data mining (Abre numa nova janela)" target="_blank" >Data mining</a>. ISBN: 978-0-12-381479-1 <br>
+
+## Bibliografia complementar
+Peter Flach; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005673090108801" title="Machine learning (Abre numa nova janela)" target="_blank" >Machine learning</a>. ISBN: 978-1-107-42222-3 <br>
+Andriy Burkov; The Hundred-Page Machine Learning Book, 2019. ISBN: 978-1999579500<br>
+Torgo Luís; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002932170108801" title="Data mining with R (Abre numa nova janela)" target="_blank" >Data mining with R</a>. ISBN: 978-1-4398-1018-7 <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Nas aulas é usado o método expositivo, sendo apresentada uma visão organizada dos temas do programa, bem como exemplos práticos de aplicação dos mesmos. <br /><br /></p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 84.0 horas
+- Apresentação/discussão de um trabalho científico: 36.0 horas
+- Frequência das aulas: 42.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação da disciplina é composta por um exame final e um trabalho prático no final do semestre. O trabalho será avaliado através de apresentação oral.<br /> <br />O cálculo da classificação final é feito pela média pesada das notas práticas e teóricas através da fórmula: <br /> <br />NF = 0.7 * Exame + 0.3 * Trabalho<br /><br /><br /></p>
+
+## Obtenção de frequência
+<p><br /><br /><br /><br /></p>
+
+## Exames ou Trabalhos Especiais
+<p>O trabalho prático será anunciado no início do semestre e deverá ser entregue no final do mesmo. <br /><br /></p>
+
+## Melhoria de classificação
+<p>A avaliação do trabalhos prático não é passível de melhoria.<br /><br />O estudante pode melhorar a nota teórica submetendo-se ao exame da época de recurso.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Introduction do Data Science
+
+## Curso responsável
+Master in Artificial Intelligence
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>This unit has as main objectives to provide an introduction to the main data science methodologies and also to convey knowledge on programming and tools for data processing and analysis, such as the Python language.</p>
+
+## Resultados de aprendizagem e competências
+<p>This unit should provide the students with: <br />1. theoretical competences on several basic methodologies of data science. <br />2. competences for developing software for data science tasks. <br />3. practical competences on applying data science techniques to specific problems. </p>
+
+## Programa
+<p> <br />1. Introduction to Data Science:<br />&#8226; the CRISP-DM model<br />&#8226; data, models and patterns<br />&#8226; data science tasks<br /><br />2. Data Pre-Processing: <br />&#8226; importing data<br />&#8226; cleaning data <br />&#8226; transforming and creating variables<br />&#8226; dimensionality reduction techniques</p>
+<p>3. Exploring and Visualizing Data<br />&#8226; data summarization<br />&#8226; data visualization <br /><br />4. Descriptive Models<br />&#8226;  clustering methods: partitional methods, hierarchical methods <br />&#8226;  rule association<br /><br />5. Predictive Models <br />&#8226; classification and regression tasks<br />&#8226; evaluation  metrics<br />&#8226; linear regression, naive Bayes, k-nearest neighbours<br />&#8226; tree-based models: classification and regression trees, pruning methods <br />&#8226; neural networks and deep learning<br />&#8226; support vector machines<br />&#8226; ensembles: bagging, random forests, boosting, AdaBoost, Xgboost <br /><br />6. Methodologies for Evaluating and Comparing Models<br />&#8226; evaluation measures<br />&#8226; estimation methods<br />&#8226; significance tests <br /><br /><br /></p>
+
+## Bibliografia obrigatória
+Pang-Ning Tan; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009900960108801" title="Introduction to data mining (Opens in a new window)" target="_blank" >Introduction to data mining</a>. ISBN: 9780321420527<br>
+Charu C. Aggarwal; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008553330108801" title="Data mining (Opens in a new window)" target="_blank" >Data mining</a>. ISBN: 978-3-319-14142-8<br>
+Jiawei Han; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002965920108801" title="Data mining (Opens in a new window)" target="_blank" >Data mining</a>. ISBN: 978-0-12-381479-1 <br>
+
+## Bibliografia complementar
+Peter Flach; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005673090108801" title="Machine learning (Opens in a new window)" target="_blank" >Machine learning</a>. ISBN: 978-1-107-42222-3 <br>
+Andriy Burkov; The Hundred-Page Machine Learning Book, 2019. ISBN: 978-1999579500<br>
+Torgo Luís; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002932170108801" title="Data mining with R (Opens in a new window)" target="_blank" >Data mining with R</a>. ISBN: 978-1-4398-1018-7 <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The lectures are based on the oral exposition of the topics that are part of the syllabus, as well as illustrations with concrete data mining case studies. </p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 84.0 hours
+- Apresentação/discussão de um trabalho científico: 36.0 hours
+- Frequência das aulas: 42.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The course evaluation consists of a final exam and a practical assignment at the end of the semester. The assignment will be evaluated through an oral presentation.<br /><br />The final grade is calculated by averaging the practical and theoretical grades using the formula:<br /><br />NF = 0.7 * Exam + 0.3 * Assignment</p>
+
+## Obtenção de frequência
+<p><br /><br /></p>
+
+## Exames ou Trabalhos Especiais
+<p>The practical assignment will be announced in the beginning of the semester and should be completed by the end of the semester.</p>
+
+## Melhoria de classificação
+<p>The evaluation of the practical assignment is not subject to improvement. <br /><br />The student can improve in the theoretical grade by taking the appeal (recurso) exam.</p>
+

@@ -1,0 +1,120 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Métodos de Decisão e de Otimização em Processos Químicos
+
+## Curso responsável
+Mestrado em Engenharia Química
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Os estudantes, ao concluir a unidade curricular, deverão ser capazes de:<br />1. Aplicar métodos de decisão e de otimização no desenvolvimento e operação de processos químicos industriais.<br />2. Aplicar ferramentas de simulação e de otimização, o que constitui hoje uma inegável vantagem para melhoria do projeto e operação de equipamentos e processos.<br />3. Aplicar conhecimentos avançados de engenharia a nível das técnicas computacionais e aplicações informáticas de resolução de problemas de decisão e otimização.<br />4. Identificar e formular problemas de decisão e de otimização de processos, sua modelação e solução, e ainda utilizar permanentemente pensamento crítico.<br />5. Ter aptidões a nível de trabalho de equipa, aprendizagem de formação de grupo de trabalho, divisão de tarefas e reconhecimento de liderança.<br />6. Ter competências para formular e resolver problemas da indústria de processos químicos que necessitem de ser otimizados e estender este conhecimento a outros domínios da engenharia.</p>
+
+## Resultados de aprendizagem e competências
+<p>Competência para formular e resolver problemas da indústria de processos químicos que necessitem de ser otimizados. Capacidade de extensão a outros domínios da engenharia.</p>
+
+## Programa
+<p>Métodos de decisão: Teoria da decisão, Programação linear, Problemas de transportes e de afetação, Gestão de filas de espera, Problemas de escalonamento de produção.<br />Métodos de otimização: Decomposição de sistemas e graus de liberdade locais. Diagramas de informação e de processamento de matéria. Graus de liberdade. Algoritmos para escolha de variáveis de decisão. Manipulação de reciclos. Otimização uni/multivariável de processos químicos sem e com restrições. Métodos de solução de problemas de programação não-linear.</p>
+
+## Bibliografia obrigatória
+Thomas F. Edgar, David M. Himmelblau, Leon S. Lasdon; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004653630108801" title="Optimization of chemical processes (Abre numa nova janela)" target="_blank" >Optimization of chemical processes</a>. ISBN: 0-07-039359-1<br>
+Frederick S. Hillier, Gerald J. Lieberman; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004563340108801" title="Introduction to Operations Research (Abre numa nova janela)" target="_blank" >Introduction to Operations Research</a>, Mc-Graw Hill, 2001. ISBN: 0-07-232169-5 (7ª edição)<br>
+Hamdy A. Taha; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008430450108801" title="Operations Research - An introduction (Abre numa nova janela)" target="_blank" >Operations Research - An introduction</a>, 10, 2016. ISBN: 9780134444017<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teórico-práticas com exemplos e problemas sobre toda a matéria. Aprendizagem com resolução de exercícios em computador, através das aplicações Excel, GAMS e/ou outras (aulas laboratoriais).</p>
+
+## Software
+GAMS<br>
+Excel+Solver<br>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 86.0 horas
+- Frequência das aulas: 58.5 horas
+- Trabalho de investigação: 17.5 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+Avaliação dos dois trabalhos realizados em computador (50% cada) englobando todas as componentes da matéria.
+
+## Obtenção de frequência
+Frequência das aulas de acordo com a legislação atual.
+
+## Exames ou Trabalhos Especiais
+<p>Dois trabalhos em computador em grupos de 2 elementos com duração total de 4 horas (Excel/GAMS).</p>
+
+## Melhoria de classificação
+Melhoria através de dois trabalhos em computador em modo individual com duração total de 4 horas (Excel/GAMS).
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Decision and Optimization Methods in Chemical Processes
+
+## Curso responsável
+Master in Chemical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>By completing the curricular unit, the students should be able to:<br />1. Apply decision and optimization methods in the development and operation of industrial chemical processes.<br />2. Apply simulation and optimization tools, which is nowadays an undeniable advantage for the improvement of equipment and process design and operation.<br />3. Apply advanced engineering knowledge at the level of computational techniques and software tools for solving decision and optimization problems.<br />4. Identify and formulate process decision and optimization problems, their modelling and solution, and permanently use critical thinking.<br />5. Have skills related to teamwork, workgroup training learning, task sharing, and leadership recognition.<br />6. Have competence to formulate and solve problems in the chemical process industry that need to be optimized and extend this knowledge to other engineering domains.</p>
+
+## Resultados de aprendizagem e competências
+<p>Competence to formulate and solve problems in the chemical process industry that need to be optimized. Ability to extend this knowledge to other engineering domains.</p>
+
+## Programa
+<p>Decision methods: Decision theory, Linear programming, Transport and affectation problems, Queue management, Production scheduling problems.<br />Optimization methods: Systems decomposition and local degrees of freedom. Information and matter processing diagrams. Degrees of freedom. Algorithms for choice of decision variables. Handling of recycles. Univariate/multivariate optimization of chemical processes without and with constraints. Methods for solution of nonlinear programming problems.</p>
+
+## Bibliografia obrigatória
+Thomas F. Edgar, David M. Himmelblau, Leon S. Lasdon; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004653630108801" title="Optimization of chemical processes (Opens in a new window)" target="_blank" >Optimization of chemical processes</a>. ISBN: 0-07-039359-1<br>
+Frederick S. Hillier, Gerald J. Lieberman; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004563340108801" title="Introduction to Operations Research (Opens in a new window)" target="_blank" >Introduction to Operations Research</a>, Mc-Graw Hill, 2001. ISBN: 0-07-232169-5 (7th edition)<br>
+Hamdy A. Taha; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008430450108801" title="Operations Research - An introduction (Opens in a new window)" target="_blank" >Operations Research - An introduction</a>, 10, 2016. ISBN: 9780134444017<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical-practical classes based on examples and problems related to the course contents. Learning by solving exercises using the computer, with applications Excel, GAMS and/or others (laboratory classes).</p>
+
+## Software
+GAMS<br>
+Excel+Solver<br>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 86.0 hours
+- Frequência das aulas: 58.5 hours
+- Trabalho de investigação: 17.5 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Evaluation of the two works done on the computer (50% each) including all components of the contents.</p>
+
+## Obtenção de frequência
+Attendance to classes according to current legislation.
+
+## Exames ou Trabalhos Especiais
+Two computer works in groups of 2 elements with the total duration of 4 hours (Excel/GAMS).
+
+## Melhoria de classificação
+<p>Improvement through two computer works on an individual basis with the total duration of 4 hours (Excel/GAMS).</p>
+

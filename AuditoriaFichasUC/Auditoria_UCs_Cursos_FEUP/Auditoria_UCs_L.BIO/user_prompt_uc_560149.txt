@@ -1,0 +1,126 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Microbiologia Geral
+
+## Curso responsável
+Licenciatura em Bioengenharia
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Através da aprendizagem integrada da morfologia, fisiologia, metabolismo e ecologia dos grandes grupos de microrganismos, o estudante deve adquirir com a necessária proficiência: 1. Conhecimentos de Microbiologia e ser capaz de os utilizar na formulação, resolução e discussão de problemas; 2. Capacidades e atitudes pessoais e profissionais, nomeadamente: raciocínio e resolução de problemas (identificação e resolução de problemas, estimação e análise qualitativa) e descoberta do conhecimento (formulação de hipóteses, pesquisa de literatura), pensamento sistémico, capacidades e atitudes pessoais (perseverança e flexibilidade, pensamento criativo e crítico, consciência do próprio conhecimento, gestão do tempo e dos recursos), capacidades e atitudes profissionais (ética, comportamento, integridade e responsabilidade profissionais).</p>
+
+## Resultados de aprendizagem e competências
+<p>Esta unidade curricular (UC) apresenta aspetos fundamentais e aplicados de Microbiologia. Fornece-se uma explicação abrangente sobre os vários aspetos dos microrganismos, desde a sua morfologia, metabolismo e ecologia, alertando para o seu impacto na atividade humana. Promove-se a visão crítica sobre os benefícios e prejuízos que os microrganismos podem trazer a diferentes aspetos ligados ao Homem. Promove-se também a realização de trabalhos laboratoriais relacionados com a identificação de microrganismos por métodos dependentes de cultura e de biologia molecular. Esta UC aborda conceitos fundamentais para várias outras UCs ao longo do Ciclo de Estudos, nomeadamente as que lidam mais diretamente com a utilização de microrganismos.</p>
+
+## Programa
+TEÓRICA: Os microrganismos e o seu impacto nas atividades humanas &#8211; as grandes áreas da Microbiologia. Características gerais dos microrganismos que promovem o seu estudo/utilização/controlo: diversidade de microrganismos (procariotas, eucariotas, vírus); crescimento microbiano e fatores que controlam o seu desenvolvimento; variabilidade genética (mutações e transferência horizontal de genes); relação microrganismo-hospedeiro, fatores de patogenicidade, reservatórios e vias de transmissão, defesas específicas do hospedeiro. Os grandes grupos metabólicos microbianos: Vias metabólicas de organo-heterotróficos; lito-autotróficos; foto-autotróficos com fotossíntese anoxigénica ou oxigénica. Aplicação de microrganismos em processos biotecnológicos. <br />PRÁTICA: Métodos para a enumeração, isolamento, controlo do desenvolvimento, identificação e caracterização de microrganismos: Dependentes de cultura: enumeração de células viáveis, isolamento em meios seletivos; microscopia ótica- colorações; difusão em agar; métodos bioquímicos de caracterização fenotípica. Independentes de cultura: extração DNA, amplificação de genes por PCR e análise da sequência, e microscopia fluorescência-FISH).
+
+## Bibliografia obrigatória
+Madigan, Michael T; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004648840108801" title="Brock biology of microorganisms (Abre numa nova janela)" target="_blank" >Brock biology of microorganisms</a>. ISBN: 0-13-049147-0<br>
+
+## Bibliografia complementar
+Pelczar, Jr., Michael Joseph; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004648220108801" title="Microbiologia (Abre numa nova janela)" target="_blank" >Microbiologia</a>. ISBN: 85-346-0196-8 (vol.1)<br>
+C. Manaia; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005365760108801" title="Micróbios: pequenos seres com poderes de gigantes. (Abre numa nova janela)" target="_blank" >Micróbios: pequenos seres com poderes de gigantes.</a>, Universidade Católica Editora Unipessoal, Lda, 2006<br>
+L. M. Prescott, J. P. Harley, D. A. Klein; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005374110108801" title="Microbiology (Abre numa nova janela)" target="_blank" >Microbiology</a>, McGraw-Hill, 2005<br>
+Stryer, Lubert; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004566910108801" title="Biochemistry (Abre numa nova janela)" target="_blank" >Biochemistry</a>. ISBN: 0-7167-2009-4 <br>
+W. F. Canas Ferreira, J. C. F. de Sousa, N. Lima; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990001364220108801" title="Microbiologia (Abre numa nova janela)" target="_blank" >Microbiologia</a>, Lidel, 2010. ISBN: 978-972-757-515-2<br>
+Ehrlich HL, Newman DK ; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009380250108801" title="Geomicrobiology (Abre numa nova janela)" target="_blank" >Geomicrobiology</a>, CRC Press, Taylor & Francis Group, 2015<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teóricas de 1,5 h, duas vezes por semana. Exposição oral da matéria com auxílio do quadro e meios audiovisuais. Motivação ao raciocínio dedutivo e à participação dos estudantes. Aulas práticas laboratoriais de 2 h, uma vez por semana. Tipo de Avaliação: Avaliação distribuída com exame final</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 90.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho laboratorial: 28.0 horas
+- Total:: 160.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Fórmula de avaliação:</p>
+<p>Nota teórica: Nt = NE ou Nt = (0,5 1ª frequência) + (0,5 2ª frequência)</p>
+<p>Nota prática: Np = (0,6 x TE) + (0,4 x EXL)</p>
+<p>Nota final: NF = (0,7 x Nt) + (0,3 x Np) onde, NE=Nt = Nota de Exame (normal ou de recurso), TE- Teste escrito; EXL &#8211; Exame laboratorial;</p>
+
+## Obtenção de frequência
+<p>Tipo de Avaliação: Avaliação distribuída com exame final.</p>
+<p>Condições de Frequência: - As aulas laboratoriais são obrigatórias para todos os estudantes, incluindo os que estão ao abrigo do artigo 4ª, alíneas a) e b). Para obter aprovação final à Unidade curricular o estudante tem que cumprir os requisitos seguintes: a) A nota mínima de cada componente da avaliação (exame teórico (ou 1ª frequência, 2º frequência), teste prático escrito, exame laboratorial) é 10. b) A aprovação à Unidade Curricular é obtida quando a classificação final da média ponderada de cada componente é &#8805; 10 valores.</p>
+
+## Exames ou Trabalhos Especiais
+<p>Não aplicável</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+General Microbiology
+
+## Curso responsável
+Bachelor in Bioengineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p>Through integrated learning of the morphology, physiology, metabolism and ecology of the major groups of microorganisms, the student should acquire with the necessary proficiency: 1. Knowledge of Microbiology and be able to use it in the formulation, resolution and discussion of problems; 2. Personal and professional skills and attitudes, namely: reasoning and problem-solving (identification and resolution of problems, estimation and qualitative analysis) and knowledge discovery (formulation of hypotheses, research of the literature, personal and professional thinking). Personal and professional skills and attitudes, namely: reasoning and problem-solving (problem identification and resolution, estimation and qualitative analysis) and knowledge discovery (hypothesis formulation, literature research), systems thinking, personal skills and attitudes (perseverance and flexibility, creative and critical thinking, awareness of one's own knowledge, time and resource management), professional skills and attitudes (professional ethics, behaviour, integrity and responsibility).</p>
+
+## Resultados de aprendizagem e competências
+<p>This curricular unit (CU) presents fundamental and applied aspects of Microbiology. It provides a comprehensive explanation of the various aspects of microorganisms, from their morphology, metabolism and ecology, highlighting their impact on human activity. A critical view of the benefits and harms that microorganisms can bring to different aspects of human activity is promoted. It also promotes laboratory work related to the identification of microorganisms using methods dependent on culture and molecular biology. This course covers fundamental concepts for various other courses throughout the course, particularly those that deal more directly with the use of microorganisms.</p>
+
+## Programa
+THEORETICAL: Microorganisms and their impact on human activities - the major areas of Microbiology. General characteristics of microorganisms that promote their study/use/control: diversity of microorganisms (prokaryotes, eukaryotes, viruses); microbial growth and factors that control its development; genetic variability (mutations and horizontal gene transfer); microorganism-host relationship, pathogenicity factors, reservoirs and transmission routes, specific host defences. The major microbial metabolic groups: metabolic pathways of organo-heterotrophs; litho-autotrophs; photo-autotrophs with anoxygenic or oxygenic photosynthesis. Application of microorganisms in biotechnological processes. PRACTICE: Methods for the enumeration, isolation, development control, identification and characterisation of microorganisms: Culture-dependent: enumeration of viable cells, isolation on selective media; optical microscopy - staining; agar diffusion; biochemical methods for phenotypic characterisation. Culture-independent: DNA extraction, gene amplification by PCR and sequence analysis, and fluorescence microscopy (FISH).
+
+## Bibliografia obrigatória
+Madigan, Michael T; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004648840108801" title="Brock biology of microorganisms (Opens in a new window)" target="_blank" >Brock biology of microorganisms</a>. ISBN: 0-13-049147-0<br>
+
+## Bibliografia complementar
+Pelczar, Jr., Michael Joseph; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004648220108801" title="Microbiologia (Opens in a new window)" target="_blank" >Microbiologia</a>. ISBN: 85-346-0196-8 (vol.1)<br>
+C. Manaia; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005365760108801" title="Micróbios: pequenos seres com poderes de gigantes. (Opens in a new window)" target="_blank" >Micróbios: pequenos seres com poderes de gigantes.</a>, Universidade Católica Editora Unipessoal, Lda, 2006<br>
+L. M. Prescott, J. P. Harley, D. A. Klein; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005374110108801" title="Microbiology (Opens in a new window)" target="_blank" >Microbiology</a>, McGraw-Hill, 2005<br>
+Stryer, Lubert; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004566910108801" title="Biochemistry (Opens in a new window)" target="_blank" >Biochemistry</a>. ISBN: 0-7167-2009-4 <br>
+W. F. Canas Ferreira, J. C. F. de Sousa, N. Lima; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990001364220108801" title="Microbiologia (Opens in a new window)" target="_blank" >Microbiologia</a>, Lidel, 2010. ISBN: 978-972-757-515-2<br>
+Ehrlich HL, Newman DK ; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009380250108801" title="Geomicrobiology (Opens in a new window)" target="_blank" >Geomicrobiology</a>, CRC Press, Taylor & Francis Group, 2015<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical classes (twice a week, 1.5. each). Oral presentation of the program supported by the board and audiovisual equipment. Students will be asked to participate in classes and to use a deductive reasoning. Laboratorial classes of 2 h, once a week.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 90.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho laboratorial: 28.0 hours
+- Total:: 160.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Assessment formula:</p>
+<p>Theoretical grade: Nt = NEor  Nt = (0.5 1ª written test) + (0.5 2ª written test)</p>
+<p>Practical grade: Np = (0.6 x TE) + (0.4 x EXL)</p>
+<p>Final grade: NF = (0.7 x Nt) + (0.3 x Np) where, NE=Nt - Exam grade (normal or appeal), TE- Written test; EXL - Laboratory exam;</p>
+
+## Obtenção de frequência
+<p>Type of assessment: Distributed assessment with final exam</p>
+<p>Attendance requirements: - Laboratory classes are compulsory for all students, including those under Article 4(a) and (b). To obtain final approval for the course unit, the student must fulfil the following requirements: a) The minimum mark for each assessment component (written exam (or written test 1, test 2), written practical test, laboratorial exam) is 10. b) Approval for the curricular unit is obtained when the final grade of the weighted average of each component is &#8805; 10.</p>
+
+## Exames ou Trabalhos Especiais
+<p>Not applicable</p>
+

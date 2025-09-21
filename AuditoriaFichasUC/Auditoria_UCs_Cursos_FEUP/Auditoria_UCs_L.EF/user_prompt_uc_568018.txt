@@ -1,0 +1,131 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Eletrónica
+
+## Curso responsável
+Licenciatura em Engenharia Física
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p style="text-align: justify;">São objetivos específicos:</p>
+<ul>
+<li>Desenvolver competências essenciais, teóricas e práticas, em circuitos eléctricos e electrónicos</li>
+<li>Enquadrar o domínio da electrónica digital</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p style="text-align: justify;">O desenvolvimento de competências em eletrónica e circuitos elétricos é basilar na utilização, aplicação e desenvolvimento de instrumentação, básica e avançada. Em particular, como resultado da aprendizagem, o estudante deverá: </p>
+<ul>
+<li>Conhecer e compreender os blocos funcionais de electrónica analógica e a sua implementação prática</li>
+<li>Dominar técnicas básicas de análise temporal e espectral de sinais eléctricos.</li>
+</ul>
+<p style="text-align: justify;">As competências e conhecimentos desenvolvidos serão posteriormente aplicados em prática laboratorial na UC de Laboratório de Física II.</p>
+
+## Pré-requisitos e co-requisitos
+Aqueles que decorrem da sequência de lecionação do curso.
+
+## Programa
+1. CIRCUITOS DC Resistivos<br /><br /><ul><br /><li>Elementos principais</li><br /><li>Leis de Ohm, de Joule e  Leis de Kirchhoff</li><br /><li>Equivalentes de Thevenin e de Norton</li><br /></ul><br />2. BOBINAS E CONDENSADORES<br /><br /><ul><br /><li>Princípios físicos de funcionamento</li><br /><li>Resposta de Circuitos RL, RC  e RLC</li><br /></ul><br />3. CIRCUITOS AC<br /><br /><ul><br /><li>Sinais/Tensões Variáveis, fasores e representação complexa de sinais harmónicos</li><br /><li>Impedância e admitância</li><br /><li>Lei de Ohm generalizada; Leis de Kirchhoff no domínio fasorial</li><br /></ul><br />4. POTÊNCIA ELÉCTRICA<br /><br /><ul><br /><li>Potência em circuitos puramente resistivos, indutivos e capacitivos</li><br /><li>Potência dissipada, potência reactiva e potência aparente</li><br /><li>Factor de potência</li><br /></ul><br />5. DÍODOS<br /><br /><ul><br /><li>Semicondutores e Junção p-n</li><br /><li>Díodos Zener, LED e fotodíodos</li><br /><li>Circuitos mais comuns</li><br /></ul><br />6. TRANSÍSTORES<br /><br /><ul><br /><li>Amplificação; conceitos gerais</li><br /><li>Regimes de operação do transístor.</li><br /><li>Transístor Bipolar e de Efeito de Campo</li><br /></ul><br />7. AMPLIFICADORES OPERACIONAIS<br /><br /><ul><br /><li>Conceitos gerais de amplificação;</li><br /><li>Amplificadores operacionais</li><br /><li>Circuitos mais comuns e suas aplicações</li><br /></ul><br />8. INTRODUÇÃO AOS SISTEMAS DIGITAIS
+
+## Bibliografia obrigatória
+Bélanger , P. R.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990001910180108801" title="Introduction to circuits with electronics : an integrated approach (Abre numa nova janela)" target="_blank" >Introduction to circuits with electronics : an integrated approach</a>. ISBN: 0-03-064008-3<br>
+
+## Bibliografia complementar
+Sedra , Adel S.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990001962820108801" title="Microelectronic circuits (Abre numa nova janela)" target="_blank" >Microelectronic circuits</a>. ISBN: 0-03-007328-6<br>
+Horowitz , Paul; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004141570108801" title="The art of electronics (Abre numa nova janela)" target="_blank" >The art of electronics</a>. ISBN: 0-521-37095-7<br>
+Pedro Guedes de Oliveira, Dinis Magalhães Santos; Eletrónica - Uma Visão de Projeto, U. PORTO EDIÇÕES, 2018. ISBN: 978-989-746-164-4<br>
+Nilsson James W.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990001993350108801" title="Electric circuits (Abre numa nova janela)" target="_blank" >Electric circuits</a>. ISBN: 0-13-032120-6 <br>
+Wilson J. A.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990001958740108801" title="Basic electronics (Abre numa nova janela)" target="_blank" >Basic electronics</a>. ISBN: 0-07-070670-0 <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<div style=&quot;text-align: justify;&quot;><br /><p>Aulas teóricas de exposição e discussão dos temas abordados, apresentando exemplos para a compreensão dos conceitos, leis e técnicas de cálculo.</p><br /><p>Aulas teórico-práticas de resolução e discussão de exercícios e problemas.</p><br />Recursos computacionais para o cálculo e visualização de dados são estimulados e utilizados ao longo da aprendizagem, bem como a introdução sempre que relevante de técnicas e ferramentas computacionais de processamento de sinais e de simulação de circuitos elétricos/eletrónicos.</div>
+
+## Tipo de avaliação
+Avaliação por exame final
+
+## Componentes de Ocupação
+- Frequência das aulas: 56.0 horas
+- Estudo autónomo: 106.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+Avaliação por exame final
+
+## Obtenção de frequência
+De acordo com o Regulamento de Avaliação Discente da FCUP
+
+## Exames ou Trabalhos Especiais
+<div style=&quot;text-align: justify;&quot;> </div>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Electronics
+
+## Curso responsável
+Bachelor in Engineering Physics
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<div style=&quot;text-align: justify;&quot;><br /><p>The specific objectives are:  </p><br /><ul><br /><li>to develop essential theoretical and practical skills in electrical and electronic circuits</li><br /><li>to provide an overview on digital electronics</li><br /></ul><br /></div>
+
+## Resultados de aprendizagem e competências
+<p>The development of skills in electronics and electrical circuits is fundamental for the use, application and development of basic and advanced instrumentation. In particular, as a learning outcome, the student should be able to:  </p>
+<ul>
+<li>understand the functional blocks of analog electronics and their practical implementation</li>
+<li>master basic techniques for time and frequency domain analysis of electrical signals</li>
+</ul>
+The skills and knowledge developed will later be applied in laboratory practice at the UC of Physics Laboratory II.
+
+## Pré-requisitos e co-requisitos
+Those that follow from the course teaching sequence.
+
+## Programa
+1. DC Resistive Circuits<br /><br /><ul><br /><li>Main components</li><br /><li>Ohm&#8217;s Law, Joule&#8217;s Law, and Kirchhoff&#8217;s Laws</li><br /><li>Thevenin and Norton equivalents</li><br /></ul><br />2. Inductors and Capacitors<br /><br /><ul><br /><li>Physical principles of operation</li><br /><li>Response of RL, RC, and RLC circuits</li><br /></ul><br />3. AC Circuits<br /><br /><ul><br /><li>Time-varying signals/voltages, phasors, and complex representation of harmonic signals</li><br /><li>Impedance and admittance</li><br /><li>Generalized Ohm&#8217;s Law; Kirchhoff&#8217;s Laws in the phasor domain</li><br /></ul><br />4. Electrical Power<br /><br /><ul><br /><li>Power in purely resistive, inductive, and capacitive circuits</li><br /><li>Dissipated power, reactive power, and apparent power</li><br /><li>Power factor</li><br /></ul><br />5. Diodes<br /><br /><ul><br /><li>Semiconductors and p-n junction</li><br /><li>Zener diodes, LEDs, and photodiodes</li><br /><li>Common circuits</li><br /></ul><br />6. Transistors<br /><br /><ul><br /><li>Amplification; general concepts</li><br /><li>Transistor operating modes</li><br /><li>Bipolar Junction Transistors (BJT) and Field-Effect Transistors (FET)</li><br /></ul><br />7. Operational Amplifiers<br /><br /><ul><br /><li>General concepts of amplification</li><br /><li>Operational amplifiers</li><br /><li>Common circuits and their applications</li><br /></ul><br />8. Introduction to Digital Systems
+
+## Bibliografia obrigatória
+Bélanger , P. R.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990001910180108801" title="Introduction to circuits with electronics : an integrated approach (Opens in a new window)" target="_blank" >Introduction to circuits with electronics : an integrated approach</a>. ISBN: 0-03-064008-3<br>
+
+## Bibliografia complementar
+Sedra , Adel S.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990001962820108801" title="Microelectronic circuits (Opens in a new window)" target="_blank" >Microelectronic circuits</a>. ISBN: 0-03-007328-6<br>
+Horowitz , Paul; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004141570108801" title="The art of electronics (Opens in a new window)" target="_blank" >The art of electronics</a>. ISBN: 0-521-37095-7<br>
+Pedro Guedes de Oliveira, Dinis Magalhães Santos; Eletrónica - Uma Visão de Projeto, U. PORTO EDIÇÕES, 2018. ISBN: 978-989-746-164-4<br>
+Nilsson James W.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990001993350108801" title="Electric circuits (Opens in a new window)" target="_blank" >Electric circuits</a>. ISBN: 0-13-032120-6 <br>
+Wilson J. A.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990001958740108801" title="Basic electronics (Opens in a new window)" target="_blank" >Basic electronics</a>. ISBN: 0-07-070670-0 <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<div style=&quot;text-align: justify;&quot;><br /><p>Theoretical classes of exposition and discussion of the topics covered, presenting examples for the understanding of the concepts, laws and analysis techniques.</p><br />Theoretical-practical classes of resolution and discussion of exercises and problems. <br /><br />Computational resources for data calculation and visualization are stimulated and used throughout learning, as well as the introduction, whenever relevant, of computational techniques and tools for signal processing and simulation of electrical/electronic circuits.</div>
+
+## Tipo de avaliação
+Evaluation with final exam
+
+## Componentes de Ocupação
+- Frequência das aulas: 56.0 hours
+- Estudo autónomo: 106.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+Assessment by final exam
+
+## Obtenção de frequência
+<p>De acordo com o Regulamento de Avaliação Discente da FCUP</p>
+

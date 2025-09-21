@@ -1,0 +1,127 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Análise e Processamento Digital de Sinal
+
+## Curso responsável
+Licenciatura em Matemática
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>A Unidade Curricular (UC) apresenta os conceitos básicos e técnicas de Análise e Processamento de Sinal, do ponto de vista determinístico e estocástico, incidindo sobretudo na análise no domínio da frequência. <br /><br />A orientação da UC privilegia a compreensão dos conceitos e métodos, e a sua utilização efectiva na análise de dados simulados e experimentais. É feita uma utilização intensiva de meios computacionais avançados (MATLAB).</p>
+
+## Resultados de aprendizagem e competências
+<p>A orientação da disciplina privilegia a compreensão dos conceitos e métodos e a sua utilização efectiva na análise de dados simulados e experimentais.<br />No final do semestre os estudantes devem conhecer os fundamentos de Processamento Digital de Sinal, em particular na análise no domínio da frequência, e serem capazes de:<br />1. Manipular com à vontade os fundamentos de sinais e sistemas.<br />2. Conhecer as propriedades e aplicar as diferentes transformadas estudadas.<br />3. Descrever as propriedades de um sinal ou de um sistema linear (domínios do tempo e frequência).<br />4. Descrever e analisar o efeito de amostragem de um sinal e inferir as suas implicações quando aplicado a sinais reais.<br />5. Implementar filtros FIR e IIR e analisar o seu efeito de forma crítica.<br />6. Aplicar o Matlab na análise de sinais e sistemas.</p>
+<p> </p>
+
+## Programa
+1. Introdução ao Processamendo Digital de Sinal e ao software MATLAB<br />2. Sinais e sistemas em tempo discreto<br />3. Série de Fourier, Transformada de Fourier em tempo contínuo e tempo discreto<br />4. Análise de sinais e sistemas nos domínios tempo e frequência.<br />5. Amostragem de sinais em tempo contínuo, Transformada Discreta de Fourier (DFT)<br />6. Transformada Z<br />7. Filtros Digitais de Resposta Impulsional Finita (FIR) e Infinita (IIR)<br />8. Análise Espectral.
+
+## Bibliografia obrigatória
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002793630108801" title="<i>000091830</i> (Abre numa nova janela)" target="_blank" ><i>000091830</i></a>. ISBN: 007-124467-0 (S.K. Mitra. Digital Signal Processing: A Computer-Based Approach, McGraw- Hill, 2006.)<br>
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002273160108801" title="<i>000039783</i> (Abre numa nova janela)" target="_blank" ><i>000039783</i></a>. ISBN: 0-13-373762-4 (hardcover) (J.G. Proakis, D.G. Manolakis,  Digital Signal Processing: Principles, AIgorithms and Applications, Prentice Hall, 2006.)<br>
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002271400108801" title="<i>000039607</i> (Abre numa nova janela)" target="_blank" ><i>000039607</i></a>. ISBN: 0-13-216771-9 (Oppenheim, A. V., Schaffer, R. W., Discrete-Time Signal Processing, Prentice Hall.)<br>
+
+## Bibliografia complementar
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002266570108801" title="<i>000039124</i> (Abre numa nova janela)" target="_blank" ><i>000039124</i></a>. ISBN: 0-02-318010-2 (Foundations of digital signal processing and data analysis / James A. Cadzow, McMillan 1987, cota 	TK5102.5 CADj F 1987 E2   	TK5102.5 CADj F 1987 )<br>
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002044200108801" title="<i>000016887</i> (Abre numa nova janela)" target="_blank" ><i>000016887</i></a> (( Hwei P. Hsu, Análise de Fourier, livros Tecnicos e Científicos, 1973, cotas QA403.5 HSUh A 1973 42-XX HSUh A 1973 ) )<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas são todas do tipo Teórico-Prática (TP). Algumas aulas são usadas para apresentação de matéria teórica, ilustrada com exemplos variados, e outras aulas são dedicadas à resolução de problemas e realização de pequenos projectos com o software MATLAB, usando dados reais e simulados.</p>
+
+## Software
+matlab<br>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 48.0 horas
+- Trabalho laboratorial: 54.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>São propostos trabalhos práticos (funções / scripts / relatórios) que deverão ser entregues dentro dos prazos fixados. A realização dos exercicios básicos dá origem a uma classificação prática (TPB), e se forem realizados os exercicios de valorização (de carácter exploratório) dá origem a uma segunda classificação prática (TPE). A avaliação destes trabalhos é realizada durante as aulas práticas. <br /><br />A classificação final (CF) será determinada com base no desempenho na componente prática (TPB,TPE) e no exame final (CE), de acordo com a seguinte formula:<br /><br />CF = max { CE, 0.7*CE+0.3*TPB, 0.4*CE+0.6*TPE }</p>
+
+## Obtenção de frequência
+<p>Não há restrições, apesar da participação nas aulas práticas ser recomendada, assim como a realização dos trabalhos práticos propostos.</p>
+
+## Exames ou Trabalhos Especiais
+<p>n.a.</p>
+
+## Melhoria de classificação
+<p>A classificação da componente prática não é susceptível de melhoria de nota.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Digital Signal Processing and Analysis
+
+## Curso responsável
+Bachelor in Mathematics
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>The course (UC) presents the main concepts and techniques of Signal Processing and Analysis, both from deterministic and stochastic point of views, with a special emphasis in the frequency domain.<br /><br />The course focus on the understanding of concepts and methods, and its effective use in synthetic and experimental data analysis. The course makes an intensive use of advance computational tools (MATLAB).</p>
+
+## Resultados de aprendizagem e competências
+<p>The course orientation emphasis is the understanding of the main concepts and methods, together with an effective use of the methods in synthetic and experimental data analysis. At the end of the semester, the students should be familiar with the fundamentals of  Digital Signal Processing, particularly the analysis in the frequency domain, and being able to:<br />1. Manipulate with ease the fundaments fundamentals of  signals and systems.<br />2. Know the properties and how to use the various transforms studied.<br />3. Describe the properties of a signal and a linear system  (in the time and frequency domain).<br />4. Describe and analyse the effect of sampling a signal, and the consequent implication in what regards real signals.<br />5. Implement FIR and IIR filters and analyse their effects in a critical way.<br />6. Use Matlab for the analysis of signals and systems.<br /><br /></p>
+
+## Programa
+1. Introduction to Digital Signal Processing and to the MATLAB software<br />2. Discrete time signals and systems<br />3. Fourier Series, Fourier Transform in continuos time and in discrete time<br />4. Signal and system analysis in the time and frequency domains.<br />5. Continuous time signals sampling, Discrete Fourier Transform (DFT)<br />6. Z Transform<br />7. Digital filters with Finite Impulse Response (FIR) and Infinite Impulse Response (IIR)<br />8. Spectral Analysis
+
+## Bibliografia obrigatória
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002793630108801" title="<i>000091830</i> (Opens in a new window)" target="_blank" ><i>000091830</i></a>. ISBN: 007-124467-0<br>
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002273160108801" title="<i>000039783</i> (Opens in a new window)" target="_blank" ><i>000039783</i></a>. ISBN: 0-13-373762-4 (hardcover)<br>
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002271400108801" title="<i>000039607</i> (Opens in a new window)" target="_blank" ><i>000039607</i></a>. ISBN: 0-13-216771-9<br>
+
+## Bibliografia complementar
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002266570108801" title="<i>000039124</i> (Opens in a new window)" target="_blank" ><i>000039124</i></a>. ISBN: 0-02-318010-2<br>
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002044200108801" title="<i>000016887</i> (Opens in a new window)" target="_blank" ><i>000016887</i></a><br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The classes are all of type TP (Theory / Practical). Some classes are used to present concepts and methods, illustrated with a variety of examples, and other classes are used to for the resolution of problems and the execution of small projects with MATLAB software, using real and simulated data.</p>
+
+## Software
+matlab<br>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 48.0 hours
+- Trabalho laboratorial: 54.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Practical assignments (functions, scripts, and reports) are proposed and must be submitted within the established deadlines. Completing the basic exercises results in a practical grade (TPB), and completing the exploratory exercises results in a second practical grade (TPE). The assignments are assessed during practical classes.<br /><br />The final grade (CF) will be determined based on performance in the practical component (TPB, TPE) and the final exam (CE), according to the following formula:<br /><br />CF = max { CE, 0.7*CE+0.3*TPB, 0.4*CE+0.6*TPE }</p>
+
+## Obtenção de frequência
+<p>There are no restrictions, although participation in practical classes is recommended, as well as the execution of the practical assignments.</p>
+
+## Exames ou Trabalhos Especiais
+<p>n.a.</p>
+
+## Melhoria de classificação
+<p>The practical component is not eligible for classification improvement.</p>
+

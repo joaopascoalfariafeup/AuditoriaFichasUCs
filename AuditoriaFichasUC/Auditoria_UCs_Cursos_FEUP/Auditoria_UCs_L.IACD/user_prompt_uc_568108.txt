@@ -1,0 +1,123 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Modelação e Otimização
+
+## Curso responsável
+Licenciatura em Inteligência Artificial e Ciência de Dados
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+1. Aprender a formular matematicamente um problema de otimização;<br /> 2. Estudar os principais problemas de otimização relevantes;<br /> 3. Ganhar sensibilidade para a dificuldade teórica e prática (computacional) da resolução desses problemas;<br /> 4. Estudo de modelos de otimização subjacentes ao funcionamento de métodos de aprendizagem automática.
+
+## Resultados de aprendizagem e competências
+Conhecimento dos modelos de otimização subjacentes aos principais métodos aprendizagem automática.
+
+## Pré-requisitos e co-requisitos
+Pré-requisitos: apenas os conhecimentos fornecidos pelas unidades curriculares dos dois primeiros anos.<br /> Co-requisitos: nenhum.
+
+## Programa
+1. Otimização: formalização.<br /> 2. Otimização linear. Dualidade.<br /> 3. Otimização não linear.<br /> 4. Métodos de gradiente, &quot;backpropagation&quot;.<br /> 5. Probabilidades. Otimização em modelos estatísticos. Regressão linear, regressão logística.<br /> 6. Aprendizagem estatística, minimização empírica do risco.<br /> 7. Modelos formais de otimização para aprendizagem.<br /> 8. Métodos de &quot;ensemble&quot;.<br /> 9. Métodos de &quot;kernel&quot;.<br /> 10. Modelos e métodos avançados: aprendizagem profunda e por reforço.
+
+## Bibliografia obrigatória
+Shai Shalev-Shwartz and Shai Ben-David; Understanding Machine Learning: From Theory to Algorithms, Cambridge University Press, 2014. ISBN: 978-1-107-05713-5 (Diponível em http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)<br>
+J. Matoušek and B. Gärtner; Understanding and using linear programming. , Springer., 2007 (https://link.springer.com/book/10.1007/978-3-540-30717-4)<br>
+M. Han Veiga and F. Gaston Ged; The Mathematics of Machine Learning: Lectures on Supervised Methods and Beyond, De Gruyter, 2024 (https://doi.org/10.1515/9783111288994)<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Exposição teórica com discussão da aplicação em aprendizagem automática. <br />Resolução de exercícios.
+
+## Software
+python<br>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 horas
+- Frequência das aulas: 56.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+Classificação final = T1 + T2<br />T1 = nota do 1.º teste (cotação máxima: 10 valores)<br />T2 = nota do 2.º teste (cotação máxima: 10 valores)<br /> <br />Notas:<br /><br />(i) O T1 é realizado a meio do semestre e abrange a primeira parte do programa da disciplina.<br /><br />(ii) O T2 é realizado na época de exames e corresponde à segunda parte do programa da disciplina.<br /><br />(iii) Qualquer estudante pode optar por não realizar T1 ou T2 e obter a sua nota final realizando o exame de recurso.<br /><br />(iv) Os estudantes podem realizar o exame de recurso tanto para passar à disciplina como para melhorar a classificação. O exame de recurso consiste em duas partes independentes: a Parte I corresponde ao primeiro teste, e a Parte II ao segundo. Os estudantes que pretendam aprovação podem optar por realizar ambas as partes ou apenas uma, mantendo a classificação da outra parte.
+
+## Obtenção de frequência
+<div id=&quot;v1replybody1&quot;><br /><p>Frequência obrigatória às aulas, de acordo com o regulamento da U.P.</p><br /></div>
+
+## Exames ou Trabalhos Especiais
+n/a
+
+## Melhoria de classificação
+Os estudantes que pretendam melhorar a sua classificação devem realizar ambas as partes do exame de recurso.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Modelling and Optimization
+
+## Curso responsável
+Bachelor in Artificial Intelligence and Data Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+1. Learn to formulate an optimization problem mathematically;<br /> 2. Study the main relevant optimization problems;<br /> 3. Gain sensitivity to the theoretical and practical (computational) difficulty in solving these problems;<br /> 4. Study of optimization models underlying the operation of machine learning methods.
+
+## Resultados de aprendizagem e competências
+Knowledge of the optimization models underlying the main machine learning methods.
+
+## Pré-requisitos e co-requisitos
+Prerequisites: only the knowledge provided by the curricular units of the first two years.<br /> Corequisites: none.
+
+## Programa
+<span id=&quot;result_box&quot; class=&quot;&quot; lang=&quot;en&quot;>1. Optimization: formalization.<br /> 2. Linear optimization. Duality.<br /> 3. Non-linear optimization.<br /> 4. Gradient methods, backpropagation.<br /> 5. Probabilities. Optimization in statistical models. Linear regression, logistic regression.<br /> 6. Statistical learning, empirical risk minimization.<br /> 7. Formal optimization models for learning.<br /> 8. Ensemble methods.<br /> 9. Kernel methods.<br /> 10. Advanced models and methods: deep learning and reinforcement learning. <br /></span>
+
+## Bibliografia obrigatória
+Shai Shalev-Shwartz and Shai Ben-David; Understanding Machine Learning: From Theory to Algorithms, Cambridge University Press, 2014. ISBN: 978-1-107-05713-5 (Available in http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning)<br>
+J. Matoušek and B. Gärtner; Understanding and using linear programming. , Springer., 2007<br>
+M. Han Veiga and F. Gaston Ged; The Mathematics of Machine Learning: Lectures on Supervised Methods and Beyond, De Gruyter, 2024<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Lectures: presentation of the program topics and discussion of aplications in machine learning. <br />Labs: problem solving.
+
+## Software
+python<br>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 106.0 hours
+- Frequência das aulas: 56.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p data-start="68" data-end="95">Final Grade = T1 + T2<br />T1 &#8211; Grade of the first test (maximum score: 10 points)<br />T2 &#8211; Grade of the second test (maximum score: 10 points)</p>
+<p data-start="224" data-end="235">Notes:<br /><br />(i) T1 is administered midway through the semester and covers the first part of the course syllabus.<br /><br />(ii) T2 is administered during the exam period and covers the second part of the course syllabus.<br /><br />(iii) Any student may choose not to participate in the continuous assessment and obtain their final grade by taking the exam during the Resit Period.<br /><br />(iv) Students can take the Resit Period exam either to pass the course or to improve their grade. The Resit Period exam consists of two independent sections: Part I corresponds to the first test, and Part II to the second. Students aiming for approval may choose to take both parts or only one, while keeping the score of the other part.</p>
+
+## Obtenção de frequência
+<p>Mandatory attendance at classes, in accordance with U.P. rules.</p>
+
+## Exames ou Trabalhos Especiais
+n/a
+
+## Melhoria de classificação
+Students aiming to improve their grade must take both parts of the resit exam.
+

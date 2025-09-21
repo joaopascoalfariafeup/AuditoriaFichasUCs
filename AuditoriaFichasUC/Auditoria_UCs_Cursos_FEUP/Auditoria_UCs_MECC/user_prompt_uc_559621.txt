@@ -1,0 +1,178 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Semiótica da Comunicação
+
+## Curso responsável
+Mestrado em Ciências da Comunicação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>A disciplina de Semiótica da Comunicação tem como objectivo principal fornecer aos estudantes as bases teóricas do modelo semiótico do processo de comunicação.<br />Serão apresentdas de modo aprofundado as principais teorias do signo.<br /> Acompanhando tendendências recentes neste campo de estudos, recuperaremos alguma da tradição da Retórica na análise do discurso, abrindo ainda o campo para as lições que possam ser retiradas da Cultura Visual no que diz respeito à produção de significado. Este enquadramento permitirá uma abordagem analítica a estudos de caso que serão examinados ao longo do semestre, com ênfase na oratória e na imagem.</p>
+
+## Resultados de aprendizagem e competências
+<p> No fim do semestre os estudantes terão adquirido competências passivas e activas no que diz respeito à leitura e produção de significado com recurso à palavra e à imagem.</p>
+<p>Estas competências traduzem-se numa maior capacidade analítica no momento em que se torna necessária a interpretação de qualquer signo ou acto comunicativo complexo.</p>
+
+## Programa
+<p>Introdução à Semiótica</p>
+<p> 1. A teoria semiótica de Charles S. Peirce</p>
+<p> 2. O modelo linguístico de Ferdinand de Saussure <br /><br /> 3 . Desenvolvimentos do modelo de Saussure<br /><br /> 4. A origem do simbólico e a teoria de René Girard<br /><br />Aplicações à Comunicação<br /><br />1. Semiótica e publicidade<br /><br />2. Semiótica e marcas<br /><br /></p>
+<p>Semiótica e Palavra: Retórica</p>
+<p>1. Aristóteles: modalidades do discurso oratório. <em>Ethos, pathos, logos.</em><em><br /><br /></em>2. Retórica e semiótica: estudos de caso. <br /><br /></p>
+<p>Semiótica e Imagem: Cultura Visual</p>
+<p>1. Walter Benjamin: a obra de arte na era da reprodutibilidade técnica.<br /><br />2. André Bazin: a imagem fotográfica. Indexicalidade.<br /><br />3. Laura Mulvey: o olhar masculino e a imagem cinematográfica.<br /><br />4. Jasper Juul: ludologia e narratologia nos videojogos.</p>
+
+## Bibliografia obrigatória
+Roland Barthes; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007170560108801" title="Elementos de semiologia (Abre numa nova janela)" target="_blank" >Elementos de semiologia</a><br>
+Émile Benveniste; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005897650108801" title="O homem na linguagem (Abre numa nova janela)" target="_blank" >O homem na linguagem</a><br>
+Teun Adrianus van Dijk; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007531750108801" title="Discurso, notícia e ideologia (Abre numa nova janela)" target="_blank" >Discurso, notícia e ideologia</a>. ISBN: 989-625-000-6<br>
+Umberto Eco; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990006019480108801" title="A^estrutura ausente (Abre numa nova janela)" target="_blank" >A^estrutura ausente</a><br>
+Anabela Gradim; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008475170108801" title="Framing, o enquadramento das notícias (Abre numa nova janela)" target="_blank" >Framing, o enquadramento das notícias</a>. ISBN: 978-972-24-1828-7<br>
+Algirdas Julien Greimas; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005925850108801" title="Sémiotique des passions (Abre numa nova janela)" target="_blank" >Sémiotique des passions</a>. ISBN: 2-02-012898-5<br>
+Algirdas Julien Greimas; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005889830108801" title="Sémantique structurale (Abre numa nova janela)" target="_blank" >Sémantique structurale</a>. ISBN: 2-03-070314-1<br>
+Martine Joly; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007827870108801" title="Introdução à análise da imagem (Abre numa nova janela)" target="_blank" >Introdução à análise da imagem</a>. ISBN: 978-972-44-1389-1<br>
+Michiko Kakutani; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008856600108801" title="A^morte da verdade (Abre numa nova janela)" target="_blank" >A^morte da verdade</a>. ISBN: 978-972-23-6289-4<br>
+John Keane; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007060900108801" title="A^democracia e os media (Abre numa nova janela)" target="_blank" >A^democracia e os media</a>. ISBN: 972-759-291-0<br>
+Julia Kristeva; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990000134540108801" title="História da linguagem (Abre numa nova janela)" target="_blank" >História da linguagem</a><br>
+Dominique Maingueneau; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007099250108801" title="Genéses du discours (Abre numa nova janela)" target="_blank" >Genéses du discours</a>. ISBN: 2-87009-197-4<br>
+Landowski, Eric; «Pour une Sémiotique du Goût», Actes Sémiotiques, N.º 122, 2019. Em linha: https://www.unilim.fr/actes-semiotiques/6237 <br>
+Adriano Duarte Rodrigues; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007029700108801" title="A^partitura invisível (Abre numa nova janela)" target="_blank" >A^partitura invisível</a>. ISBN: 972-772-263-6<br>
+Adriano Duarte Rodrigues; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007630120108801" title="Introdução à semiótica (Abre numa nova janela)" target="_blank" >Introdução à semiótica</a>. ISBN: 972-23-1397-5<br>
+António Machuco Rosa; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008993060108801" title="Imitação e desejo (Abre numa nova janela)" target="_blank" >Imitação e desejo</a>. ISBN: 978-989-8969-02-6<br>
+António Machuco Rosa; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008174520108801" title="Semiótica, consumo e publicidade (Abre numa nova janela)" target="_blank" >Semiótica, consumo e publicidade</a>. ISBN: 978-989-7290-88-6<br>
+Ugo Volli; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007835270108801" title="Semiótica da publicidade (Abre numa nova janela)" target="_blank" >Semiótica da publicidade</a>. ISBN: 972-44-1204-0<br>
+David E. Wellbery; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007532440108801" title="Lessing.s Laocoon (Abre numa nova janela)" target="_blank" >Lessing.s Laocoon</a>. ISBN: 978-0-521-10939-0<br>
+Dominique Wolton; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007013690108801" title="Pensar a comunicação (Abre numa nova janela)" target="_blank" >Pensar a comunicação</a>. ISBN: 972-29-0448-5<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Aulas teórico-práticas, com recurso aos métodos dedutivo e indutivo, em que a exposição teórica dos conteúdos programáticos será acompanhada por análise prática de casos com a participação ativa dos alunos. Sessões de orientação tutorial dirigida ao acompanhamento personalizado do trabalho de investigação individual.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho de investigação: 70.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação consiste na elaboração de um trabalho escrito (100%), cuja preparação será acompanhada ao longo do semestre em regime de tutoria individual com o docente. Os alunos deverão enviar versões prévias do trablaho, sujeitas a discussão, correcção e reelaboração, até ao prazo de entrega final, como se de uma pequena dissertação de mestrado se tratasse. </p>
+
+## Obtenção de frequência
+<p>Obrigatório frequentar pelo menos 75% das aulas.</p>
+
+## Exames ou Trabalhos Especiais
+<p>Não aplicável.</p>
+
+## Melhoria de classificação
+A melhoria de classificação será por frequência, nos termos do Regulamento de Avaliuação da FLUP.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Communication Semiotics
+
+## Curso responsável
+Master in Communication Sciences
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>The Semiotics and Communication course aims to provide students with the theoretical basis of the semiotic model of the communication process. Following recent trends in this field of studies, we will revisit some of the topics covered in the tradition of Rhetoric in what concerns discourse analysis. We will also open the field to the lessons that can be drawn from Visual Culture with regard to the production of meaning. This framework will allow an analytical approach to case studies that will be examined throughout the semester, with an emphasis on oratory and the image.</p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of the semester, students will have acquired passive and active skills in terms of reading and producing meaning using words and images.</p>
+<p> These skills translate into a greater analytical capacity when it becomes necessary to interpret any sign or complex communicative act.</p>
+
+## Programa
+<p>Introduction to Semiotics</p>
+<p>      1.Ferdinand de Saussure: semiotics and linguistics. The binary model.</p>
+<ol start="2">
+<li>C.S. Peirce: triple structure of meaning. Icon, index, symbol</li>
+</ol>
+<ol start="3">
+<li>Roman Jakobson: the sender-message-receiver communication model.</li>
+<li>Roland Barthes and Umberto Eco: intertextuality, mythologies, open work.</li>
+</ol>
+<p> <br />Semiotics and the Word: Rhetoric<br /><br />       1. Aristotle: modalities of oratory speech. Ethos, pathos, logos.<br /><br />       2. Rhetoric and semiotics: case studies.</p>
+<p><br />Semiotics and Image: Visual Culture</p>
+<p> </p>
+<ol>
+<li>Walter Benjamin: the work of art in the age of mechanical reproduction.</li>
+</ol>
+<ol start="2">
+<li>André Bazin: the photographic image. Indexicality.</li>
+</ol>
+<ol start="3">
+<li>Laura Mulvey: the male gaze and the cinematographic image.</li>
+</ol>
+<ol start="4">
+<li>Jasper Juul: ludology and narratology in video games.</li>
+</ol>
+
+## Bibliografia obrigatória
+Roland Barthes; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007170560108801" title="Elementos de semiologia (Opens in a new window)" target="_blank" >Elementos de semiologia</a><br>
+Émile Benveniste; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005897650108801" title="O homem na linguagem (Opens in a new window)" target="_blank" >O homem na linguagem</a><br>
+Teun Adrianus van Dijk; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007531750108801" title="Discurso, notícia e ideologia (Opens in a new window)" target="_blank" >Discurso, notícia e ideologia</a>. ISBN: 989-625-000-6<br>
+Umberto Eco; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990006019480108801" title="A^estrutura ausente (Opens in a new window)" target="_blank" >A^estrutura ausente</a><br>
+Anabela Gradim; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008475170108801" title="Framing, o enquadramento das notícias (Opens in a new window)" target="_blank" >Framing, o enquadramento das notícias</a>. ISBN: 978-972-24-1828-7<br>
+Algirdas Julien Greimas; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005925850108801" title="Sémiotique des passions (Opens in a new window)" target="_blank" >Sémiotique des passions</a>. ISBN: 2-02-012898-5<br>
+Algirdas Julien Greimas; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005889830108801" title="Sémantique structurale (Opens in a new window)" target="_blank" >Sémantique structurale</a>. ISBN: 2-03-070314-1<br>
+Martine Joly; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007827870108801" title="Introdução à análise da imagem (Opens in a new window)" target="_blank" >Introdução à análise da imagem</a>. ISBN: 978-972-44-1389-1<br>
+Michiko Kakutani; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008856600108801" title="A^morte da verdade (Opens in a new window)" target="_blank" >A^morte da verdade</a>. ISBN: 978-972-23-6289-4<br>
+John Keane; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007060900108801" title="A^democracia e os media (Opens in a new window)" target="_blank" >A^democracia e os media</a>. ISBN: 972-759-291-0<br>
+Julia Kristeva; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990000134540108801" title="História da linguagem (Opens in a new window)" target="_blank" >História da linguagem</a><br>
+Dominique Maingueneau; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007099250108801" title="Genéses du discours (Opens in a new window)" target="_blank" >Genéses du discours</a>. ISBN: 2-87009-197-4<br>
+Landowski, Eric; «Pour une Sémiotique du Goût», Actes Sémiotiques, N.º 122, 2019. Em linha: https://www.unilim.fr/actes-semiotiques/6237 <br>
+Adriano Duarte Rodrigues; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007029700108801" title="A^partitura invisível (Opens in a new window)" target="_blank" >A^partitura invisível</a>. ISBN: 972-772-263-6<br>
+Adriano Duarte Rodrigues; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007630120108801" title="Introdução à semiótica (Opens in a new window)" target="_blank" >Introdução à semiótica</a>. ISBN: 972-23-1397-5<br>
+António Machuco Rosa; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008993060108801" title="Imitação e desejo (Opens in a new window)" target="_blank" >Imitação e desejo</a>. ISBN: 978-989-8969-02-6<br>
+António Machuco Rosa; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008174520108801" title="Semiótica, consumo e publicidade (Opens in a new window)" target="_blank" >Semiótica, consumo e publicidade</a>. ISBN: 978-989-7290-88-6<br>
+Ugo Volli; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007835270108801" title="Semiótica da publicidade (Opens in a new window)" target="_blank" >Semiótica da publicidade</a>. ISBN: 972-44-1204-0<br>
+David E. Wellbery; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007532440108801" title="Lessing.s Laocoon (Opens in a new window)" target="_blank" >Lessing.s Laocoon</a>. ISBN: 978-0-521-10939-0<br>
+Dominique Wolton; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007013690108801" title="Pensar a comunicação (Opens in a new window)" target="_blank" >Pensar a comunicação</a>. ISBN: 972-29-0448-5<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Theoretical-practical classes, using deductive and inductive methods, in which the theoretical exposition of the syllabus will be accompanied by practical analysis of cases with the active participation of students. Tutorial guidance sessions aimed at personalized monitoring of individual research work.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho de investigação: 70.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Assessment consists of the preparation of a written research assignment (100%), which will be accompanied throughout the semester in one-to-one tutorial sessions with the lecturer. Students must submit preliminary versions of the work, subject to discussion, correction, and revision, until the final deadline, as if it were a small master's dissertation.</p>
+
+## Obtenção de frequência
+<p>Students must attend at least 75% of classes.</p>
+
+## Exames ou Trabalhos Especiais
+<p>Not applicable.</p>
+
+## Melhoria de classificação
+<p>Exam.</p>
+<span style="color: #333333; font-family: NoticiaText, serif; font-size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;"><br /><br /></span>
+

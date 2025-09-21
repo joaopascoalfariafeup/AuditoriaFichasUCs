@@ -1,0 +1,232 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Educação Multimédia
+
+## Curso responsável
+Mestrado em Multimédia
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Educação Multimédia é uma unidade curricular obrigatória para os estudantes da especialização em Educação. Assim, e atendendo aos objetivos orientadores do Mestrado em Multimédia, a unidade curricular pretende capacitar os estudantes para:</p>
+<ul>
+<li>Compreender os desenvolvimentos históricos e epistemológicos do multimédia e tecnologias educativas.</li>
+<li>Interpretar os debates contemporâneos sobre a articulação entre meios digitais e educação, nas diferentes perspetivas teóricas, críticas e técnicas.</li>
+<li>Conhecer os pontos de vista relevantes para promover a literacia digital na sociedade atual, assim como para a integração do multimédia em projetos educativos formais e informais.</li>
+<li>Analisar e integrar dados da investigação mais recente nos momentos de conceção e avaliação de produtos, processos e serviços na área da educação.</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p><strong>Conhecimento epistemológico, histórico e social</strong></p>
+<ul>
+<li>Conhecer o desenvolvimento histórico do multimédia e tecnologias em contexto educativo.</li>
+<li>Interpretar os pressupostos epistemológicos subjacentes à integração educativa do multimédia (tais como determinismo e reducionismo tecnológico).</li>
+<li>Caracterizar as principais expectativas e representações sociais acerca da educação multimédia.</li>
+<li>Relacionar a educação multimédia com as novas literacias mediáticas.</li>
+</ul>
+<p><strong>Conhecimento teórico</strong></p>
+<ul>
+<li>Definir conceitos-chave da educação multimédia.</li>
+<li>Distinguir contextos para a educação multimédia, desde o ensino formal às aprendizagens informais, passando pela formação profissional e a aprendizagem ao longo da vida.</li>
+<li>Compreender a Teoria da Aprendizagem Multimédia.</li>
+<li>Conhecer e distinguir os conceitos de aplicação transformativa, simulação, jogo sério, e ludificação; e identificar contextos de aplicação.</li>
+</ul>
+<p><strong>Análise e planeamento de cenários de educação multimédia</strong></p>
+<ul>
+<li>Conhecer os panoramas nacional e internacional da integração do multimédia em diferentes contextos educativos.</li>
+<li>Avaliar os benefícios e limitações de projetos educativos de integração do multimédia.</li>
+<li>Propor cenários de integração educativa do multimédia com forte sustentação teórica e empírica.</li>
+</ul>
+<p><strong>Reflexividade e espírito crítico</strong></p>
+<ul>
+<li>Comparar as perspetivas teóricas e dados empíricos sobre a integração educativa do multimédia.</li>
+<li>Avaliar os contributos de artigos científicos teóricos e empíricos sobre temas de educação multimédia.</li>
+<li>Elaborar uma revisão de literatura sobre trabalhos teóricos e empíricos acerca de um determinado tema de educação multimédia a partir de um ponto de vista crítico.</li>
+<li>Debater o lugar da educação multimédia enquanto área de investigação multidisciplinar.</li>
+</ul>
+
+## Programa
+<p><strong>Passado e presente do multimédia e / na educação:</strong></p>
+<ul>
+<li>História da convergência dos meios e tecnologias digitais nos contextos educativos;</li>
+<li>Desenvolvimentos metodológicos;</li>
+<li>Representações sociais das tecnologias e do multimédia educativo;</li>
+<li>Novas literacias mediáticas e o mito dos nativos digitais;</li>
+<li>Panoramas internacional e nacional da educação multimédia.</li>
+</ul>
+<p><strong>Práticas de educação multimédia:</strong></p>
+<ul>
+<li>A Teoria da Aprendizagem Multimédia: fundamentos e aplicações educativas;</li>
+<li>Modelos de integração multimédia em contextos de educação formal;</li>
+<li>Ludificação, jogos, e aplicações transformativas no ensino;</li>
+<li>Comunicação de ciência e outros contextos não-formais para a educação multimédia;</li>
+<li>A participação parental na aprendizagem com multimédia: um caso de conciliação entre educação formal e não-formal.</li>
+</ul>
+<p><strong>Direções futuras para a educação multimédia.</strong></p>
+
+## Bibliografia obrigatória
+Huang, R., Spector, J. M., & Yang, J.; Educational Technology - A Primer for the 21st Century, 2019. ISBN: 978-981-13-6642-0<br>
+Banerji, A., & Ghosh, A.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005657290108801" title="Multimedia Technologies (Abre numa nova janela)" target="_blank" >Multimedia Technologies</a>, New Delhi: Tata McGraw Hill, 2010<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><strong>Exposição teórica</strong> dos conteúdos relativos a conceitos e ao desenvolvimento histórico da educação multimédia;<br /><strong>Leituras autónomas</strong> sobre os demais conteúdos e sua discussão em &#8216;mesa redonda&#8217;;<br /><strong>Exploração e debate</strong> de casos de estudo e de cenários educativos de multimédia;<br /><strong>Desenvolvimento e apresentação de trabalhos</strong> individuais e em grupo.</p>
+<p>Todos os textos, simulações e materiais associados à disciplina são disponibilizados aos alunos na plataforma Moodle associada. Esta área virtual irá &#8216;estender&#8217; a sala de aula, no espaço e no tempo: além da partilha de textos a ler em antecipação das aulas, será também o local para a continuação das discussões (em fórum) e para a partilha posterior de materiais trazidos tanto pelos docentes como pelos alunos para as sessões.</p>
+<p>Será facultada uma bibliografia aos estudantes, que será de carácter indicativo. Uma das principais tarefas a desempenhar, coletivamente nas aulas e individualmente em trabalho autónomo, será a produção de revisões de literatura sobre tópicos de educação multimédia do interesse específico de cada estudante. Estes textos serão submetidos na plataforma digital da disciplina e também apresentados oralmente em sessão a agendar.</p>
+<p>Em paralelo, os estudantes deverão, ao longo de todo o semestre, produzir um e-portfolio que documente o estudo e a pesquisa com materiais relevantes &#8211; &#8216;clippings&#8217; noticiosos, artigos científicos, fichas de leitura, vídeos, podcasts, etc.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Elaboração de projeto: 80.0 horas
+- Estudo autónomo: 46.0 horas
+- Frequência das aulas: 36.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação terá componentes formativas e contínuas. Os docentes da disciplina farão exercícios de arbitragem, moderação e garantia de bom senso e transparência. Em todos os casos, as atividades dos alunos são tipicamente balizadas por quatro critérios:</p>
+<ol style="list-style-type: lower-alpha;">
+<li>Rigor científico.</li>
+<li>Criatividade/originalidade.</li>
+<li>Clareza.</li>
+<li>Empenho/apresentação.</li>
+</ol>
+<p>Numa escala de 0 a 20, a nota final terá o seguinte perfil: </p>
+<ol style="list-style-type: upper-alpha;">
+<li>(25%) Participação e empenho nas sessões, com particular relevo para as discussões em &#8216;mesa redonda&#8217; sobre as leituras propostas;</li>
+<li>(50%) Artigo individual de revisão de literatura, incluindo apresentação formal;</li>
+<li>(25%) Manutenção, ao longo de um semestre, de um blogue ou &#8216;caderno online&#8217; individual com &#8216;clippings&#8217;, fichas de leitura, reflexões, e outros conteúdos sobre educação multimédia.</li>
+</ol>
+<p>A nota final de cada aluno resultará da seguinte fórmula: A*0,25+B*0,50+C*0,25</p>
+
+## Obtenção de frequência
+<p data-select-link-text="1">É requirida a presença em pelo menos 2/3 das sessões. Os estudantes com estatutos especiais (TE, NEE, etc.) podem compensar algumas das faltas através de formas de participação virtuais, num plano a definir previamente com o docente.</p>
+
+## Melhoria de classificação
+Sem exame final. A nota apenas pode ser melhorada por frequência num novo ano letivo.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Multimedia Education
+
+## Curso responsável
+Master in Multimedia
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Multimedia Education is a mandatory curricular unit for students in the Education specialization. Hence, and in accordance with the guiding objectives of the Master in Multimedia, the curricular unit intends to enable students:</p>
+<ul>
+<li>To understand the historical and epistemological developments in educational multimedia and technologies.</li>
+<li>To understand contemporary debates about the articulation of digital media and education, in their different theoretical, critical, and technical perspectives.</li>
+<li>To know the relevant perspectives to promote digital literacy in contemporary society, as well as for the integration of multimedia into formal and informal educational projects.</li>
+<li>To analyse and integrate latest research data in the conception and evaluation of products, processes, and services in the educational domain.</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p><strong>Epistemological, historical, and social knowledge</strong></p>
+<ul>
+<li>To know the historical development of multimedia and technologies in the educational context.</li>
+<li>To analyse the epistemological assumptions underlying educational multimedia integration (such as technological determinism and reductionism).</li>
+<li>To characterize the main expectations and social representations about multimedia education.</li>
+<li>To relate multimedia education with new media literacies.</li>
+</ul>
+<p><strong>Theoretical knowledge</strong></p>
+<ul>
+<li>To define key concepts of multimedia education.</li>
+<li>To distinguish multimedia educational contexts, from formal schooling to informal learning, from professional training to lifelong education.</li>
+<li>To understand the Multimedia Learning Theory.</li>
+<li>To know and distinguish concepts of transformative application, simulation, serious game, gamification; and to identify implementation contexts.</li>
+</ul>
+<p><strong>Analysis and planning of multimedia education scenarios</strong></p>
+<ul>
+<li>To know national and international panoramas of multimedia integration in educational contexts.</li>
+<li>To assess the benefits and limitations of educational multimedia integration projects.</li>
+<li>To propose innovative educational multimedia integration scenarios with strong theoretical and empirical support.</li>
+</ul>
+<p><strong>Reflexivity and critical thinking</strong></p>
+<ul>
+<li>To compare theoretical perspectives and empirical data on the educational integration of multimedia</li>
+<li>To evaluate the contributions of theoretical and empirical scholarship on multimedia education topics.</li>
+<li>To write a literature review on theoretical and empirical work on a given subject of multimedia education from a critical point of view.</li>
+<li>To discuss the place of multimedia education as a multidisciplinary research area.</li>
+</ul>
+
+## Programa
+<p><strong>Past and present of multimedia in / and education:</strong></p>
+<ul>
+<li>History of the convergence of media and technologies into educational contexts;</li>
+<li>Methodological developments;</li>
+<li>Social representations of technology and multimedia education;</li>
+<li>New media literacies and the myth of the digital native;</li>
+<li>Panoramas of national and international multimedia education experiences.</li>
+</ul>
+<p><strong>Multimedia education practices:</strong></p>
+<ul>
+<li>Multimedia Learning Theory: foundational bases and educational affordances;</li>
+<li>Models of multimedia integration in formal education contexts;</li>
+<li>Gamification, games, and transformative applications in education;</li>
+<li>Science communication and other non-formal contexts for multimedia education;</li>
+<li>Parental participation in learning with multimedia: bridging formal and non-formal education.</li>
+</ul>
+<p><strong>Future directions for multimedia education.</strong></p>
+
+## Bibliografia obrigatória
+Huang, R., Spector, J. M., & Yang, J.; Educational Technology - A Primer for the 21st Century, 2019. ISBN: 978-981-13-6642-0<br>
+Banerji, A., & Ghosh, A.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005657290108801" title="Multimedia Technologies (Opens in a new window)" target="_blank" >Multimedia Technologies</a>, New Delhi: Tata McGraw Hill, 2010<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><strong>Lectures</strong> concerning the foundational concepts and historical development of multimedia education;<br /><strong>Autonomous readings</strong> concerning the remaining contents and their roundtable discussion;<br /><strong>Exploration and debate</strong> of case studies and multimedia educational scenarios;<br /><strong>Development and presentation</strong> of individual and group work.</p>
+<p>All texts, simulations and associated materials to the discipline are available to students in the associated Moodle platform. This virtual area will extend the classroom in space and time: apart from hosting the texts to be read in anticipation of classes, it will also host the continuation of discussions (in forums) and the materials brought by either professors or students to the sessions.</p>
+<p>Students will be provided with a bibliography, which will be indicative. One of the main tasks, to be undertaken collectively during sessions and individually in the home, will be the production of literature reviews about multimedia education topics suited to the specific interests of each student. These texts will be submitted via Moodle and presented orally in a session to be scheduled.</p>
+<p>In parallel, students shall build, throughout the semester, an e-portfolio that documents their study and research with relevant materials &#8211; e.g., news clippings, scientific articles, reading notes, videos, podcasts, etc.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Elaboração de projeto: 80.0 hours
+- Estudo autónomo: 46.0 hours
+- Frequência das aulas: 36.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Evaluation will comprehend formative and continuous components. The professors will arbitrate, moderate, and guarantee good judgement and transparency. In every case, the students&#8217; activities are typically marked by four criteria:</p>
+<ol style="list-style-type: lower-alpha;">
+<li>Scientific accuracy.</li>
+<li>Creativity/originality.</li>
+<li>Clarity.</li>
+<li>Commitment/presentation.</li>
+</ol>
+<p>On a scale of 0 to 20, the final grade will have the following profile:</p>
+<ol style="list-style-type: upper-alpha;">
+<li>(25%) Participation and commitment during session, with particular emphasis on the roundtable discussions of the proposed readings;</li>
+<li>(50%) Individual literature review article, including its formal presentation;</li>
+<li>(25%) Semester-long maintenance of an individual weblog (or another type of &#8216;online notebook&#8217;) with news clippings, reading notes, reflections, and other contents about multimedia education.</li>
+</ol>
+<p>The final score for each student will be: A*0,25+B*0,50+C*0,25</p>
+
+## Obtenção de frequência
+Attendance in at least two-thirds of the sessions is required. Students with special statutes (workers, special needs, etc.) may compensate their absences through virtual participations, which should be requested and planned with the professor.
+
+## Melhoria de classificação
+Without a final examination. The final mark can only be improved by re-enrolling in the course in a following year.
+

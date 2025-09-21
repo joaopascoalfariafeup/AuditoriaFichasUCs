@@ -1,0 +1,122 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Computação Paralela
+
+## Curso responsável
+Mestrado em Inteligência Artificial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Dotar os estudantes do conhecimento teórico e prático dos modelos de computação orientados para arquiteturas paralelas e distribuídas. Será dada ênfase ao desenvolvimento de competências de programação para memória distribuída com o MPI, e de programação em memória partilhada com processos, threads e OpenMP.</p>
+
+## Resultados de aprendizagem e competências
+<p>Ao completarem esta unidade curricular, os estudantes deverão ser capazes de:</p>
+<ul>
+<li>conhecer os principais modelos, paradigmas, ambientes e ferramentas de programação paralela</li>
+<li>entender e aferir conceitos relativos à estrutura, funcionamento e desempenho de programas paralelos</li>
+<li>formular soluções nos principais paradigmas de programação paralela, nomeadamente MPI, Pthreads e OpenMP</li>
+</ul>
+
+## Programa
+Fundamentos:<br />Programação paralela, concorrência e paralelismo. Taxonomia de Flynn. Metodologia de Foster. Medidas de speedup e eficiência. Lei de Amdahl. Lei de Gustafson-Barsis. Métrica de Karp-Flatt.<br /><br />Programação em Memória Distribuída:<br />A especificação MPI, troca explícita de mensagens, protocolos de comunicação, tipos derivados, empacotamento de dados, comunicações coletivas, comunicadores, topologias.<br /><br />Programação em Memória Partilhada:<br />Processos, segmentos de memória partilhada, mapeamento de ficheiros em memória partilhada, spinlocks, semáforos. Processos multithreaded com o Pthreads, mutexs, variáveis de condição, chaves, implementações do Pthreads. A especificação OpenMP, diretivas de compilação, construtores de work-sharing e de sincronização, funções básicas, variáveis de ambiente, remoção de dependências nos dados, desempenho, combinando o OpenMP com o MPI.<br /><br />Algoritmos:<br />Paralelização de algoritmos. Estratégias de escalonamento e balanceamento de carga.
+
+## Bibliografia obrigatória
+P. Pacheco.; Parallel Programming with MPI, Morgan Kaufmann<br>
+Michael J. Quinn; Parallel Programming in C with MPI and OPenMP, McGraw-Hill.<br>
+M. Mitchell, J. Oldham and A. Samuel; Advanced Linux Programming, New Riders<br>
+B. Nichols, D. Buttlar and J.P. Farrell; Pthreads Programming, O'Reilly<br>
+ R. Chandra, L. Dagum, D. Kohr, D. Maydan, J. McDonald and R. Menon; Parallel Programming in OpenMP, Morgan Kaufmann<br>
+B. Wilkinson, M. Allen.; Parallel Programming: Techniques and Applications Using Networked Workstations and Parallel Computers , Prentice Hall. <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Exposição e discussão dos conceitos sobre modelos de programação paralela e distribuída; resolução de exercícios e apoio no desenvolvimento de trabalhos práticos de programação ilustrativos dos vários modelos de programação paralela.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 70.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho laboratorial: 50.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação dos alunos faz-se por realização de 2 trabalhos práticos e de um exame final escrito. Cada trabalho prático terá um peso total de 3 em 20 valores na classificação final da unidade curricular e o exame final escrito terá um peso de 14 em 20 valores na classificação final da unidade curricular. A classificação mínima no exame é de 40%.</p>
+
+## Obtenção de frequência
+N/A
+
+## Melhoria de classificação
+<p>A melhoria de classificação incide apenas sobre o exame final.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Parallel Computing
+
+## Curso responsável
+Master in Artificial Intelligence
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>Introduce the students to advanced concepts on the theory and practice of computational models for parallel and distributed memory architectures. Hands-on experience on programming distributed memory architectures with MPI, and programming shared memory architectures using processes, threads and OpenMP.</p>
+
+## Resultados de aprendizagem e competências
+<p>On completing this course, the students must be able to:</p>
+<ul>
+<li>be aware of the main models, paradigms, environments and tools for parallel programming</li>
+<li>understand and assess the concepts related to the structure, operation and performance of parallel programs</li>
+<li>formulate solutions in the main parallel programming paradigms, namely MPI, Pthreads and OpenMP</li>
+</ul>
+
+## Programa
+Foundations:<br />Parallel programming, concurrency and parallelism. Flynn taxonomy. Foster's programming methodology. Speedup and efficiency. Amdahl law. Gustafson-Barsis law. Karp-Flatt metrics.<br /><br />Programming for Distributed Memory Architectures:<br />MPI specification, explicit message passing, communication protocols, derived types, data packing, collective communications, communicators, topologies.<br /><br />Programming for Shared Memory Architectures:<br />Processes, shared memory segments, shared memory through file mapping, spinlocks, semaphores. Multithreading processes with Pthreads, mutexs, conditional variables, keys, implementations of Pthreads. OpenMP specification, compilation directives, work-sharing constructors, basic constructors, synchronisation constructors, basic functions, environment variables, removing data dependencies, performance, combining OpenMP with MPI.<br /><br />Algorithms:<br />Parallel algorithms. Scheduling and load balancing strategies.
+
+## Bibliografia obrigatória
+P. Pacheco.; Parallel Programming with MPI, Morgan Kaufmann<br>
+Michael J. Quinn; Parallel Programming in C with MPI and OPenMP, McGraw-Hill.<br>
+M. Mitchell, J. Oldham and A. Samuel; Advanced Linux Programming, New Riders<br>
+B. Nichols, D. Buttlar and J.P. Farrell; Pthreads Programming, O'Reilly<br>
+ R. Chandra, L. Dagum, D. Kohr, D. Maydan, J. McDonald and R. Menon; Parallel Programming in OpenMP, Morgan Kaufmann<br>
+B. Wilkinson, M. Allen.; Parallel Programming: Techniques and Applications Using Networked Workstations and Parallel Computers , Prentice Hall. <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Lecture classes to introduce the concepts and practical assignements to motivate students on experiencing parallel programming in more than one paradigm.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 70.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho laboratorial: 50.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Students are assessed by their performance in the following components: (a) two practical assignments worth 3 points each out of 20; (b) a written exam in the final of the semester worth 14 points out of 20. The minimum classification in the written exam is 40%.</p>
+
+## Obtenção de frequência
+N/A
+
+## Melhoria de classificação
+<p>Improvement can only be made to the written exam.</p>
+

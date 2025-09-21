@@ -1,0 +1,121 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Radiação natural em materiais de origem geológica
+
+## Curso responsável
+Radiação natural em materiais de origem geológica
+
+## Créditos ECTS
+1,5
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<div style=&quot;text-align: justify;&quot;>O objetivo geral desta CT é a capacitação e consciencialização dos estudantes para a integração e quantificação da radiação natural em avaliações ambientais e ocupacionais.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot;>Esta formação, pela natureza emergente do tema e pela sua abordagem holística , pode ser frequentada por qualquer estudante independentemente das áreas de tecnologia, ciências exatas e engenharia.</div>
+
+## Resultados de aprendizagem e competências
+<p>No final desta CT, os estudantes deverão ser capazes de:</p>
+<ul>
+<li>Identificar as fontes de radiação natural,</li>
+<li>Quantificar a radiação nos materiais de origem geológica,</li>
+<li>Estabelecer e caraterizar as vias de exposição,</li>
+<li>Avaliar os efeitos na saúde e no ambiente, através do cálculo das doses,</li>
+<li>Enquadrar e interpretar os resultados obtidos no âmbito da legislação aplicável,</li>
+<li>Apresentar e comunicar de forma adequada os resultados da quantificação da radiação.</li>
+</ul>
+
+## Programa
+<ul><br /><li>Introdução à radioatividade e radiação natural,</li><br /><li>Conceitos básicos sobre radiações ionizantes,</li><br /><li>Descrição física &#8211; decaimento radioativo, semivida, constante de decaimento,</li><br /><li>Deteção e equipamento e medição,</li><br /><li>Fundo radioativo natural e radioatividade dos materiais de origem geológica,</li><br /><li>Fontes de exposição e formas de exposição,</li><br /><li>Legislação e relevante em vigor e normas,</li><br /><li>Avaliação dos efeitos na saúde e no ambiente: cálculo de doses e efeitos biológicos,</li><br /><li>Medidas de proteção e de controlo,</li><br /><li>Formas de apresentação e comunicação de resultados.</li><br /></ul>
+
+## Bibliografia obrigatória
+IAEA; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009544160108801" title="Protection against Exposure Due to Radon Indoors and Gamma Radiation from Construction Materials &#8212; Methods of Prevention and Mitigation, IAEA-TECDOC-1951, IAEAL 21-01397  (Abre numa nova janela)" target="_blank" >Protection against Exposure Due to Radon Indoors and Gamma Radiation from Construction Materials &#8212; Methods of Prevention and Mitigation, IAEA-TECDOC-1951, IAEAL 21-01397 </a>, IAEA, 2021. ISBN: 978-92-0-105521-7<br>
+Direção-Geral da Saúde; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009544030108801" title="Vigilância da saúde dos trabalhadores expostos a radiação ionizante &#8211; Guia Técnico n.º 1 / Programa Nacional de Saúde Ocupacional: 2.º Ciclo &#8211; 2013/2017. (Abre numa nova janela)" target="_blank" >Vigilância da saúde dos trabalhadores expostos a radiação ionizante &#8211; Guia Técnico n.º 1 / Programa Nacional de Saúde Ocupacional: 2.º Ciclo &#8211; 2013/2017.</a>, Direção-Geral da Saúde, 2016<br>
+IAEA; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009544040108801" title="General Safety Requirements, GSR Part 3 Radiation Protection and Safety of Radiation Sources (Abre numa nova janela)" target="_blank" >General Safety Requirements, GSR Part 3 Radiation Protection and Safety of Radiation Sources</a>, IAEA, 2014. ISBN: ISBN 978&#8211;92 &#8211;0&#8211;135310&#8211;8<br>
+IAEA; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009544200108801" title="Assessing the Need for the Radiation Protection Measures in Work Involving Minerals and Raw Materials, Safety Reports Series No. 49, ISSN 1020&#8211;6450 (Abre numa nova janela)" target="_blank" >Assessing the Need for the Radiation Protection Measures in Work Involving Minerals and Raw Materials, Safety Reports Series No. 49, ISSN 1020&#8211;6450</a>, IAEA, 2006. ISBN: 92&#8211;0&#8211;107406&#8211;9<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p style="text-align: justify;">De acordo com o programa, as aulas compreendem a tipologia teórico-prática, consistindo em palestras para exposição dos assuntos a tratar, com ilustração de conceitos, acompanhadas de exemplos e apresentação de casos de estudo. Os estudantes terão a possibilidade de aplicar e testar os conhecimentos adquiridos com a realização de trabalhos quinzenais em ambiente fora de aula.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 28.5 horas
+- Frequência das aulas: 12.0 horas
+- Total:: 40.5 horas
+
+## Fórmula de cálculo da classificação final
+<p>Serão consideradas duas components:<br /><br /></p>
+<ul>
+<li>T: trabalhos quinzenais realizados em ambiente fora de aula, com apresentação oral (40%).</li>
+</ul>
+<ul>
+<li>TF: trabalho final com apresentação pública e entrega de relatório (60%).</li>
+</ul>
+Fórmula de cálculo da classificação final (NF):<br /><br />NF = 40% T + 60% TF<br /><br />De acordo com o GR 02/11/2020, Cap II, art 13º, ponto 1, a classificação final será expressa numa escala numérica inteira de 0 a 20 valores.
+
+## Obtenção de frequência
+Presença em pelo menos 75% das aulas (com participação obrigatória nos momentos de avaliação).
+
+## Melhoria de classificação
+Está prevista a melhoria de classificação para os estudantes que o requeiram.<br /> Nestes casos, a avaliação será realizada na época de recurso, via exame em que o mesmo terá a ponderação de 100%.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Natural radiation from geological materials
+
+## Curso responsável
+Natural radiation from geological materials
+
+## Créditos ECTS
+1,5
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<div style=&quot;text-align: justify;&quot;>The overall objective of this course is to train and raise the awareness of students to integrate and quantify natural radiation in environmental and occupational assessments.</div><br /><div style=&quot;text-align: justify;&quot;><br />Due to the emerging nature of the subject and its holistic approach, this training can be attended by any student regardless of the areas of technology, exact sciences and engineering.</div>
+
+## Resultados de aprendizagem e competências
+By the end of this CT, students should be able to:<br /><br /><br /><ul><br /><li>Identify the sources of natural radiation,</li><br /><li>Quantify the radiation in materials of geological origin,</li><br /><li>Establish and characterize the exposure pathways,</li><br /><li>Assess the effects on health and the environment, by calculating doses,</li><br /><li>Framing and interpreting the results obtained in the framework of the applicable legislation,</li><br /><li>Present and communicate in an appropriate way the results of radiation quantification.</li><br /></ul>
+
+## Programa
+<br /><br /><ul><br /><li>Introduction to radioactivity and natural radiation,</li><br /><li>Basic concepts about ionizing radiation,</li><br /><li>Physical description - radioactive decay, half-life, decay constant,</li><br /><li>Detection and equipment and measurement,</li><br /><li>Natural radioactive background and radioactivity of materials of geological origin,</li><br /><li>Exposure sources and forms of exposure,</li><br /><li>Current and relevant legislation and standards,</li><br /><li>Evaluation of health and environmental effects: dose calculation and biological effects,</li><br /><li>Protection and control measures,</li><br /><li>Forms of presentation and communication of results.</li><br /></ul>
+
+## Bibliografia obrigatória
+IAEA; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009544160108801" title="Protection against Exposure Due to Radon Indoors and Gamma Radiation from Construction Materials &#8212; Methods of Prevention and Mitigation, IAEA-TECDOC-1951, IAEAL 21-01397  (Opens in a new window)" target="_blank" >Protection against Exposure Due to Radon Indoors and Gamma Radiation from Construction Materials &#8212; Methods of Prevention and Mitigation, IAEA-TECDOC-1951, IAEAL 21-01397 </a>, IAEA, 2021. ISBN: 978-92-0-105521-7<br>
+Direção-Geral da Saúde; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009544030108801" title="Vigilância da saúde dos trabalhadores expostos a radiação ionizante &#8211; Guia Técnico n.º 1 / Programa Nacional de Saúde Ocupacional: 2.º Ciclo &#8211; 2013/2017. (Opens in a new window)" target="_blank" >Vigilância da saúde dos trabalhadores expostos a radiação ionizante &#8211; Guia Técnico n.º 1 / Programa Nacional de Saúde Ocupacional: 2.º Ciclo &#8211; 2013/2017.</a>, Direção-Geral da Saúde, 2016<br>
+IAEA; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009544040108801" title="General Safety Requirements, GSR Part 3 Radiation Protection and Safety of Radiation Sources (Opens in a new window)" target="_blank" >General Safety Requirements, GSR Part 3 Radiation Protection and Safety of Radiation Sources</a>, IAEA, 2014. ISBN: ISBN 978&#8211;92 &#8211;0&#8211;135310&#8211;8<br>
+IAEA; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009544200108801" title="Assessing the Need for the Radiation Protection Measures in Work Involving Minerals and Raw Materials, Safety Reports Series No. 49, ISSN 1020&#8211;6450 (Opens in a new window)" target="_blank" >Assessing the Need for the Radiation Protection Measures in Work Involving Minerals and Raw Materials, Safety Reports Series No. 49, ISSN 1020&#8211;6450</a>, IAEA, 2006. ISBN: 92&#8211;0&#8211;107406&#8211;9<br>
+
+## Métodos de ensino e atividades de aprendizagem
+According to the program, classes are of a theoretical-practical nature, consisting of lectures to expose the issues to be addressed, with illustration of concepts, accompanied by examples and presentation of case studies. Students will have the opportunity to apply and test the knowledge acquired by carrying out biweekly assignments in an out-of-class environment.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 28.5 hours
+- Frequência das aulas: 12.0 hours
+- Total:: 40.5 hours
+
+## Fórmula de cálculo da classificação final
+Two components will be considered:<br /><br /><br /><ul><br /><li>T: biweekly work to be done out of the class environment with oral presentation (40%).</li><br /></ul><br /><ul><br /><li>TF: final work with public presentation and report (60%).</li><br /></ul><br /><br />Formula for calculating the final grade (NF):<br /><br />NF = 40% T + 60% TF<br /><br />According to the GR 02/11/2020, Cap II, art 13, point 1, the final classification will be expressed on an integer numerical scale from 0 to 20 values.
+
+## Obtenção de frequência
+Attendance at least 75% of classes (with mandatory participation in evaluation moments).
+
+## Melhoria de classificação
+The classification improvement is planned for students who require it.<br />In these cases, the evaluation will be carried out in a special appeal season via examination in which it will have a weighting of 100%.
+

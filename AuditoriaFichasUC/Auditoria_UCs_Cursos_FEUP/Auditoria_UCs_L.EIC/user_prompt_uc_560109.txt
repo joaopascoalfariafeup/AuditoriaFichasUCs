@@ -1,0 +1,177 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Programação Funcional e em Lógica
+
+## Curso responsável
+Licenciatura em Engenharia Informática e Computação
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p><span style="font-weight: 400;">Os paradigmas de Programação Funcional e de Programação em Lógica apresentam abordagens de programação declarativa que permitem maior abstração e facilitam a construção de programas como objetos matemáticos.</span></p>
+<p><span style="font-weight: 400;">Esta UC introduz os paradigmas da programação funcional e lógica usando as linguagens Haskell e Prolog como veículos para os demonstrar e aplicar para a resolução de problemas de programação.</span></p>
+<p><span style="font-weight: 400;">Objetivos: Adquirir familiaridade com os paradigmas da Programação Funcional e da Programação em Lógica. Desenvolver as capacidades de raciocínio abstracto e de resolução de problemas de forma declarativa.</span></p>
+
+## Resultados de aprendizagem e competências
+<p><span style="font-weight: 400;">No final da UC, os estudantes deverão ser capazes de:</span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Definir funções para fazer transformação de estruturas de dados algébricas (listas, pares, árvores) como funções em Haskell</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Definir e ler anotações de tipos com polimorfismo e restrições de classes para funções em Haskell </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Ser capaz de escrever parsers para linguagens simples (e.g. expressões) usando combinadores </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Exprimir testes de correção de funções simples usando propriedades em QuickCheck</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Representar factos e relações como programas em Prolog</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Compreender o modelo de execução de programas em Prolog</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Modelar problemas de pesquisa como programas lógicos e </span><em><span style="font-weight: 400;">queries</span></em><span style="font-weight: 400;"> em Prolog</span></li>
+</ol>
+
+## Programa
+<ol><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Programação Funcional (7 semanas)</span></li><br /><ol><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Expressões, avaliação e valores. Tipos pré-definidos. Definições de funções usando equações.</span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Polimorfismo paramétrico e com restrições de classes. Classes de tipos fundamentais.</span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Expressões lambda. Aplicação parcial e &#8220;currying&#8221;. Funções de ordem superior do prelúdio-padrão.</span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Definição de tipos algébricos; encaixe de padrões e definições recursivas. </span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Programação com I/O.</span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Construção de &quot;parsers&quot; usando combinadores</span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Exprimir testes baseados em propriedades com a biblioteca QuickCheck  </span></li><br /></ol><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Programação em Lógica (6 semanas)</span></li><br /><ol><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Lógica proposicional e de predicados. Cláusulas de Horn. Factos e regras. Termos de Herbrand. Unificação.</span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Linguagem Prolog. Modelo de execução. Resolução SLD. Negação por falha. </span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Bases de factos e relações. Programação com recursão e estruturas.</span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Aritmética. Predicados extra-lógicos e de controlo.</span></li><br /><li style=&quot;font-weight: 400;&quot;><span style=&quot;font-weight: 400;&quot;>Exemplos de programação: procura, jogos, manipulação simbólica.</span></li><br /></ol><br /></ol>
+
+## Bibliografia obrigatória
+Graham Hutton; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009577980108801" title="Programming in Haskell (Abre numa nova janela)" target="_blank" >Programming in Haskell</a>, Cambridge University Press, 2016. ISBN: 978-1316626221<br>
+Leon Sterling; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004558900108801" title="The Art of Prolog (Abre numa nova janela)" target="_blank" >The Art of Prolog</a>. ISBN: 0-262-69163-9 <br>
+
+## Bibliografia complementar
+Bird , Richard; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002159250108801" title="Introduction to functional programming using Haskell (Abre numa nova janela)" target="_blank" >Introduction to functional programming using Haskell</a>. ISBN: 978-0-13-484346-9<br>
+Richard Bird; Thinking functionally with Haskell, Cambridge University Press, 2015. ISBN: 978-1-107-45264-0<br>
+Ivan Bratko; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004555330108801" title="Prolog programming for artificial intelligence (Abre numa nova janela)" target="_blank" >Prolog programming for artificial intelligence</a>. ISBN: 0-201-40375-7<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><span style="font-weight: 400;">As aulas teóricas são usadas para exposição de fundamentos, acompanhada da apresentação e discussão de exemplos ilustrativos. As aulas teórico-práticas permitem a sistematização de conhecimentos por meio da resolução de exercícios de programação e acompanhamento da realização dos trabalhos práticos.</span></p>
+
+## Software
+GHC<br>
+SICStus Prolog<br>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Elaboração de projeto: 26.0 horas
+- Estudo autónomo: 84.0 horas
+- Frequência das aulas: 52.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>(CF = Classificação Final, P = Componente Prática, T = Componente Teórica, ER = Exame de Recurso)</p>
+<p>(TP1, TP2 = Trabalho Prático 1 e 2, respetivamente)</p>
+<p>(MT1, MT2 = Mini-Teste 1 e 2, respetivamente)</p>
+<br />
+<p>P = 50% * TP1 + 50% * TP2</p>
+<p>T = 50% * MT1 + 50% * MT2</p>
+<br />
+<p>Em Época Normal:  </p>
+<p>CF = 30% * P + 70% * T</p>
+<br />
+<p>Em Época de Recurso:</p>
+<p>CF = 30% * P + 70% * ER</p>
+<p><br /><br /></p>
+
+## Obtenção de frequência
+Os estudantes devem ter presença em pelo menos 75% das aulas TP lecionadas
+
+## Exames ou Trabalhos Especiais
+<p>Não há provas ou trabalhos especiais.</p>
+
+## Melhoria de classificação
+<p>A componente prática não pode ser melhorada em época de recurso nem em épocas especiais.</p>
+<p>A componente teórica (MT1 e MT2) podem ser melhorados em exame a realizar em época de recurso. Os estudantes podem optar por melhorar ambas as componentes ou apenas uma destas.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Functional and Logic Programming
+
+## Curso responsável
+Bachelor in Informatics and Computing Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>The paradigms of Functional Programming and Logic Programming present declarative programming approaches that allow for greater abstraction and facilitate the construction of programs as mathematical objects.</p>
+<p>This course introduces the paradigms of functional and logic programming using the Haskell and Prolog languages as vehicles to demonstrate and apply them to solving programming problems.</p>
+<p>Objectives: To become familiar with the paradigms of Functional Programming and Logic Programming. To develop abstract reasoning and problem-solving skills in a declarative manner.</p>
+
+## Resultados de aprendizagem e competências
+<p>At the end of the course, students should be able to:</p>
+<ol>
+<li>Define functions to transform algebraic data structures (lists, pairs, trees) as functions in Haskell</li>
+<li>Define and read type annotations with polymorphism and class constraints for functions in Haskell</li>
+<li>Be able to write parsers for simple languages (e.g., expressions) using combinators</li>
+<li>Express correctness tests for simple functions using properties in QuickCheck</li>
+<li>Represent facts and relations as programs in Prolog</li>
+<li>Understand the program execution model in Prolog</li>
+<li>Model search problems as logic programs and queries in Prolog</li>
+</ol>
+<br />
+<p> </p>
+
+## Programa
+<ol><br /><li>Functional Programming (7 weeks)<br /><br /><ol><br /><li>Expressions, reductions, and values. Built-in types. Definitions using equations.</li><br /><li>Parametric polymorphism and type classes. Fundamental type classes.</li><br /><li>Lambda expressions. Currying and partial application. Higher-order functions of the standard prelude.</li><br /><li>Defining algebraic data types; pattern matching and recursive definitions</li><br /><li>Programming with I/O.</li><br /><li>Building parsers using combinators.</li><br /><li>Expressing tests using properties with the QuickCheck library.</li><br /></ol><br /></li><br /><li>Logic Programming (6 weeks)<br /><br /><ol><br /><li>Propositional and predicate logic. Horn clauses. Facts and rules. Herbrand terms. Unification.</li><br /><li>The Prolog language. Execution model. SLD resolution. Negation by failure.</li><br /><li>Databases of facts and relations. Programming with recursive structures.</li><br /><li>Arithmetic. Extra-logic and control predicates.</li><br /><li>Examples of logic programs: search, games, symbolic manipulation.</li><br /></ol><br /></li><br /></ol>
+
+## Bibliografia obrigatória
+Graham Hutton; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009577980108801" title="Programming in Haskell (Opens in a new window)" target="_blank" >Programming in Haskell</a>, Cambridge University Press, 2016. ISBN: 978-1316626221<br>
+Leon Sterling; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004558900108801" title="The Art of Prolog (Opens in a new window)" target="_blank" >The Art of Prolog</a>. ISBN: 0-262-69163-9 <br>
+
+## Bibliografia complementar
+Bird , Richard; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002159250108801" title="Introduction to functional programming using Haskell (Opens in a new window)" target="_blank" >Introduction to functional programming using Haskell</a>. ISBN: 978-0-13-484346-9<br>
+Richard Bird; Thinking functionally with Haskell, Cambridge University Press, 2015. ISBN: 978-1-107-45264-0<br>
+Ivan Bratko; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004555330108801" title="Prolog programming for artificial intelligence (Opens in a new window)" target="_blank" >Prolog programming for artificial intelligence</a>. ISBN: 0-201-40375-7<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Theoretical lectures are used to explain fundamentals, accompanied by the presentation and discussion of illustrative examples. Theoretical-practical (TP) classes allow for the systematization of knowledge through the resolution of programming exercises and monitoring of progress in student&#8217;s assignments.
+
+## Software
+GHC<br>
+SICStus Prolog<br>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Elaboração de projeto: 26.0 hours
+- Estudo autónomo: 84.0 hours
+- Frequência das aulas: 52.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>(CF = Final Classification, P = Practical Component, T = Theoretical Component, ER = Appeal Exam)</p>
+<p>(TP1, TP2 = Practical Assignment 1 and 2, respectively)</p>
+<p>(MT1, MT2 = Mini-Test 1 and 2, respectively)</p>
+<br />
+<p>P = 50% * TP1 + 50% * TP2</p>
+<p>T = 50% * MT1 + 50% * MT2<br /><br /></p>
+<p>In Regular Exam Season:  </p>
+<p>CF = 30% * P + 70% * T</p>
+<br />
+<p>In Appeal Exam Season:</p>
+<p>CF = 30% * P + 70% * ER</p>
+<p><br /><br /></p>
+
+## Obtenção de frequência
+Students should attend at least 75% of the taught laboratory classes
+
+## Exames ou Trabalhos Especiais
+<p>There are no special tests or assignments.</p>
+
+## Melhoria de classificação
+<p>The practical component cannot be improved in appeal nor in special exam seasons.</p>
+<p>The theoretical component (MT1 and MT2) can be improved in an exam during the appeal exam season. Students may opt to improve the grade in either or both of the components.</p>
+

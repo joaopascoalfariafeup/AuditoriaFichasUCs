@@ -1,0 +1,155 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Servomecanismos
+
+## Curso responsável
+Mestrado em Engenharia Mecânica
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+1. Identificar os principais elementos tecnológicos de servomecanismos alimentados eletricamente e por fluidos sob pressão;<br />2. Elaborar modelos matemáticos de servomecanismos;<br />3. Conceber e dimensionar servomecanismos;<br />4. Elaborar e ajustar controladores para servomecanismos;<br />5. Utilizar ferramentas de <em>Computer-Aided Control System Design</em> no projeto, simulação e análise de servomecanismos.
+
+## Resultados de aprendizagem e competências
+<p><strong>Aprendizagens Fundamentais</strong><br /><br />Pretende-se que os estudantes adquiram um conjunto de conhecimentos nucleares e estruturantes em servomecanismos, designadamente electro-hidráulicos e eletromecânicos, que lhes permitam conceber, modelar, dimensionar, simular e elaborar as necessárias soluções de controlo utilizando ferramentas de <em>Computer-Aided Control System Design</em>.</p>
+<p><strong>Competências Computacionais</strong></p>
+<p>Simulação e Análise de servomecanismos usando o software Matlab/Simulink.<br />Projeto de controladores usando o software Matlab.</p>
+<p><strong>Competências Transversais</strong></p>
+Trabalho em grupo; Elaboração de relatório.
+
+## Pré-requisitos e co-requisitos
+<p>Sistemas Hidráulicos e Pneumáticos.<br />Sistemas de Controlo.<br />Sistemas Eletromecânicos.</p>
+
+## Programa
+<p><strong>1. REVISÃO DE CONCEITOS DE SISTEMAS DE CONTROLO</strong></p>
+<p>Terminologia, fundamentos, características estáticas e dinâmicas.<br />Arquitetura de um servomecanismo.<br /><br /><strong>2. TECNOLOGIAS DE ATUAÇÃO PRINCIPAIS</strong></p>
+<p>Atuadores Elétricos: Eletromecânicos; Solenoides; Bobina móvel; Piezoelétrico.<br />Atuadores Hidrostáticos e Pneumáticos.<br />Gamas Operacionais.<br />Comparação entre atuadores.</p>
+<p><strong>3. HIDRÁULICA PROPORCIONAL E SERVO-HIDRÁULICA</strong></p>
+<p>Elementos de controlo electro-hidráulicos.<br />Características de elementos de controlo proporcionais e servo-hidráulicos.<br />Modelação matemática de sistemas hidráulicos.<br />Conceção e dimensionamento de servomecanismos hidráulicos.<br /><br /><strong>4. SERVOMECANISMOS ELETROMECÂNICOS</strong></p>
+<p>Servomotores e Drivers.<br />Transmissões mecânicas para servomecanismos; comportamentos não-lineares.<br />Modelação, conceção e dimensionamento.<br /><br /><strong>5. CONTROLO DE SERVOMECANISMOS<br /></strong><br />Arquitetura do controlador; Controladores em cascata; Ações de controlo diretas; Filtros.<br />Transdutores; Impacto da resolução e da frequência de amostragem.<br />Conceção e ajuste de controladores.</p>
+
+## Bibliografia obrigatória
+John Watton; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005517640108801" title="Fundamentals of fluid power control (Abre numa nova janela)" target="_blank" >Fundamentals of fluid power control</a>. ISBN: 978-0-521-76250-2 <br>
+Peter Beater; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005391900108801" title="Pneumatic drives (Abre numa nova janela)" target="_blank" >Pneumatic drives</a>. ISBN: 978-3-540-69470-0 <br>
+Frederick G. Moritz; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009387270108801" title="Electromechanical motion systems : design and simulation (Abre numa nova janela)" target="_blank" >Electromechanical motion systems : design and simulation</a>, John Wiley & Sons, Ltd, 2014. ISBN: 978-1-119-99274-5<br>
+George Ellis; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009436020108801" title="Control System Design Guide: Using Your Computer to Understand and Diagnose Feedback Controllers (Abre numa nova janela)" target="_blank" >Control System Design Guide: Using Your Computer to Understand and Diagnose Feedback Controllers</a>, Elsevier, 2012. ISBN: 978-0-12-385920-4<br>
+
+## Bibliografia complementar
+Mohieddine Jelali and Andreas Kroll; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009427780108801" title="Hydraulic servo-systems : modelling, identification and control (Abre numa nova janela)" target="_blank" >Hydraulic servo-systems : modelling, identification and control</a>, Springer-Verlag, 2004. ISBN: 978-1-4471-1123-8<br>
+Herbert E. Merritt; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004107250108801" title="Hydraulic control systems (Abre numa nova janela)" target="_blank" >Hydraulic control systems</a><br>
+Richard Crowder; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009388520108801" title="Electric Drives and Electromechanical Systems (Abre numa nova janela)" target="_blank" >Electric Drives and Electromechanical Systems</a>, Elsevier, 2006. ISBN: 978-0-7506-6740-1<br>
+Masatoshi Nakamura, Satoru Goto and Nobuhiro Kyura; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009439170108801" title="Mechatronic Servo System Control: Problems in Industries and their Theoretical Solutions (Abre numa nova janela)" target="_blank" >Mechatronic Servo System Control: Problems in Industries and their Theoretical Solutions</a>, Springer-Verlag, 2004. ISBN: 978-3-540-21096-2<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Aulas Teório-Práticas de exposição e exploração dos conteúdos.<br />Trabalho computacional de modelação e simulação de um servomecanismo, elaborado em grupo, permitindo a aplicação das aprendizagens a um caso prático verosímil.<br /><br /><p>Carga horária semanal - 3h TP<br />Frequência das aulas &#8211; 39h<br />Estudo autónomo &#8211; 39h<br />Modelação e Simulação com Matlab/Simulink &#8211; 32h<br />Elaboração de relatório &#8211; 12h<br />Preparação para o exame &#8211; 40h<br />Atendimento aos alunos.<br /><br /></p>
+
+## Software
+Matlab<br>
+Simulink<br>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Elaboração de relatório/dissertação/tese: 44.0 horas
+- Estudo autónomo: 79.0 horas
+- Frequência das aulas: 39.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Avaliação Distribuída: Classificação atribuída ao Relatório Escrito sobre um trabalho computacional de controlo e simulação em Matlab/Simulink de um servomecanismo (AD); <br />Classificação no Exame: CE; <br />Classificação Final: CF. <br />CF=0,3 AD + 0,7 CE.</p>
+
+## Obtenção de frequência
+Não exceder o nº limite de faltas e obter uma classificação de mínima de 8,0 valores na Avaliação Distribuída: Relatório Escrito sobre um trabalho computacional de modelação e simulação em Matlab/Simulink de um servomecanismo.
+
+## Exames ou Trabalhos Especiais
+Relatório Escrito sobre um trabalho computacional de controlo e simulação em Matlab/Simulink de um servomecanismo.
+
+## Melhoria de classificação
+O estudante poderá escolher entre a melhoria da classificação da componente distribuída, caso em que terá de elaborar novo relatório, da componente correspondente ao exame final, caso em que terá de realizar novo exame final, ou das duas componentes, caso em que terá de elaborar novo relatório e realizar novo exame final.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Servomechanisms
+
+## Curso responsável
+Master in Mechanical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+1. To identify the main technological elements of electric and fluid powered servomechanisms;<br />2. To elaborate mathematical models of servomechanisms;<br />3. To design and size servomechanisms;<br />4. To develop and tune controllers for servomechanisms;<br />5. To use Computer-Aided Control System Design tools in the design, simulation and analysis of servomechanisms.
+
+## Resultados de aprendizagem e competências
+<p><strong>Learning Outcomes</strong></p>
+<p>It is intended that students acquire a set of core and structuring knowledge on servomechanisms, as electro-hydraulic and electromechanical ones, enabling them to design, model, size, simulate and elaborate the necessary control solutions using Computer-Aided Control System Design tools.</p>
+<p><strong>Computer Skills</strong></p>
+<p>Simulation and Analysis of servomechanisms using Matlab / Simulink software.<br />Design of controllers using Matlab software.</p>
+<p><strong>Transversal Skills</strong></p>
+<p>Group work; Report writing.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Hydraulic and Pneumatic Systems.<br />Control Systems.<br />Electromechanical Systems.</p>
+
+## Programa
+<p><strong>1. REVIEW OF CONTROL SYSTEMS CONCEPTS<br /><br /></strong>Terminology, fundamentals, static and dynamic characteristics.<br />Architecture of a servomechanism.<br /><br /><strong>2. MAIN ACTUATION TECHNOLOGIES<br /></strong><br />Electric Powered: Electromechanical; Solenoid; Moving Coil; Piezoelectric.<br />Fluid Powered: Hydrostatic and Pneumatic.<br />Operational Ranges.<br />Comparison between actuators.</p>
+<p><strong>3. PROPORTIONAL AND SERVO HYDRAULICS<br /><br /></strong>Electro-hydraulic control elements.<br />Characteristics of proportional and servo-hydraulic control elements.<br />Mathematical modelling of hydraulic systems.<br />Design and sizing of hydraulic servomechanisms.<br /><br /><strong>4. ELECTROMECHANICAL SERVOMECANISMS<br /><br /></strong>Servomotors and Drivers.<br />Mechanical transmissions for servomechanisms; nonlinear behaviours.<br />Modelling, design and dimensioning.<br /><br /><strong>5. CONTROL OF SERVOMECANISMS<br /><br /></strong>Controller architecture; Cascade controllers; Feedforward control actions; Filters.<br />Transducers; Impact of resolution and sampling frequency.<br />Controllers design and tuning.</p>
+
+## Bibliografia obrigatória
+John Watton; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005517640108801" title="Fundamentals of fluid power control (Opens in a new window)" target="_blank" >Fundamentals of fluid power control</a>. ISBN: 978-0-521-76250-2 <br>
+Peter Beater; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005391900108801" title="Pneumatic drives (Opens in a new window)" target="_blank" >Pneumatic drives</a>. ISBN: 978-3-540-69470-0 <br>
+Frederick G. Moritz; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009387270108801" title="Electromechanical motion systems : design and simulation (Opens in a new window)" target="_blank" >Electromechanical motion systems : design and simulation</a>, John Wiley & Sons, Ltd, 2014. ISBN: 978-1-119-99274-5<br>
+George Ellis; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009436020108801" title="Control System Design Guide: Using Your Computer to Understand and Diagnose Feedback Controllers (Opens in a new window)" target="_blank" >Control System Design Guide: Using Your Computer to Understand and Diagnose Feedback Controllers</a>, Elsevier, 2012. ISBN: 978-0-12-385920-4<br>
+
+## Bibliografia complementar
+Mohieddine Jelali and Andreas Kroll; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009427780108801" title="Hydraulic servo-systems : modelling, identification and control (Opens in a new window)" target="_blank" >Hydraulic servo-systems : modelling, identification and control</a>, Springer-Verlag, 2004. ISBN: 978-1-4471-1123-8<br>
+Herbert E. Merritt; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004107250108801" title="Hydraulic control systems (Opens in a new window)" target="_blank" >Hydraulic control systems</a><br>
+Richard Crowder; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009388520108801" title="Electric Drives and Electromechanical Systems (Opens in a new window)" target="_blank" >Electric Drives and Electromechanical Systems</a>, Elsevier, 2006. ISBN: 978-0-7506-6740-1<br>
+Masatoshi Nakamura, Satoru Goto and Nobuhiro Kyura; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009439170108801" title="Mechatronic Servo System Control: Problems in Industries and their Theoretical Solutions (Opens in a new window)" target="_blank" >Mechatronic Servo System Control: Problems in Industries and their Theoretical Solutions</a>, Springer-Verlag, 2004. ISBN: 978-3-540-21096-2<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b ChMk0b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;0&quot;>Theoretical-practical classes for exposition and exploration of contents.</span> <span class=&quot;JLqJ4b ChMk0b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;2&quot;>Computational group work on modeling and simulation of a servomechanism, allowing the application of the learning outcomes to a credible practical case.</span></span> <br /><br />Weekly workload &#8211; 3h TP<br />Classes attendance &#8211; 39h<br />Autonomous study &#8211; 39h<br />Modelling and simulation with Matlab/Simulink &#8211; 32h<br />Report elaboration &#8211; 12h<br />Exam preparation &#8211; 40h<br />Attendance to students.
+
+## Software
+Matlab<br>
+Simulink<br>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Elaboração de relatório/dissertação/tese: 44.0 hours
+- Estudo autónomo: 79.0 hours
+- Frequência das aulas: 39.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+Distributed Evaluation: Classification of a Written Report on a computational work of modeling and simulation in Matlab/Simulink of a servomechanism (DE);<br />Written Exam Classification: EC;<br />Final Classification: FC.<br />FC=0.3 DE + 0,7 EC.
+
+## Obtenção de frequência
+<p>Not to exceed the maximum allowable number of class nonattendances and obtain a minimum mark of 8.0 in 20 in the Distributed Evaluation: Written Report on a computational work of modeling and simulation in Matlab/Simulink of a servomechanism.</p>
+
+## Exames ou Trabalhos Especiais
+Written Report on a computational work of modeling and simulation in Matlab/Simulink of a servomechanism.
+
+## Melhoria de classificação
+<span class=&quot;VIiyi&quot; lang=&quot;en&quot;><span class=&quot;JLqJ4b ChMk0b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;0&quot;>The student can choose between improving the classification of the distributed component, in which case he will have to prepare a new report, the component corresponding to the final exam, in which case he will have to take a new final exam, or both components, in which case he will have to prepare</span></span><span class=&quot;VIiyi&quot; lang=&quot;en&quot;> <span class=&quot;JLqJ4b ChMk0b&quot; data-language-for-alternatives=&quot;en&quot; data-language-to-translate-into=&quot;pt&quot; data-phrase-index=&quot;1&quot;>new report and perform a new final exam.</span></span>
+

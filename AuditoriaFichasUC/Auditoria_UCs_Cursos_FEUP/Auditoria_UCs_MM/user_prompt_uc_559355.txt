@@ -1,0 +1,145 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Seminário Multimédia
+
+## Curso responsável
+Mestrado em Multimédia
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p style="font-weight: 400;">O principal objetivo desta disciplina é explorar o conceito de transmedia storytelling. Para alcançar este propósito, foram selecionados conteúdos programáticos que visam os conceitos fundamentais e as metodologias mais relevantes para o tema.</p>
+
+## Resultados de aprendizagem e competências
+<p style="font-weight: 400;">No final desta UC, os estudantes deverão ser capazes de:</p>
+<ul>
+<li>Identificar os principais elementos do transmedia storytelling</li>
+<li>Compreender a importância da tecnologia e criatividade no transmedia storytelling</li>
+<li>Criar um projeto transmedia storytelling</li>
+</ul>
+
+## Programa
+<p>1) Transmedia storytelling:<br />  &#8226; História<br />    o Personagens<br />    o Mundo narrativo<br />    o Estrutura narrativa<br />  &#8226; Audiência<br />  &#8226; Plataformas <br /><br />2) Criatividade e tecnologia (incluindo):<br />  &#8226; Inteligência artificial<br />  &#8226; Web3<br />  &#8226; Metaverso<br />  &#8226; Realidade estendida (realidade virtual, realidade mista, realidade aumentada)<br /> </p>
+
+## Bibliografia obrigatória
+Dowd, T.; Fry, M.; Niederman, M.; Steiff, J.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009078050108801" title="Storytelling Across Worlds (Abre numa nova janela)" target="_blank" >Storytelling Across Worlds</a>, Focal Press, 2013<br>
+Carolyn Handler Miller; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005796760108801" title="Digital Storytelling 4e: A creator's guide to interactive entertainment (Abre numa nova janela)" target="_blank" >Digital Storytelling 4e: A creator's guide to interactive entertainment</a>, CRC Press, 2019. ISBN: 978-1138341609<br>
+ QuHarrison Terry, Scott Keeney; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009681700108801" title="The Metaverse Handbook: Innovating for the Interne t&#8242;s Next Tectonic Shift (Abre numa nova janela)" target="_blank" >The Metaverse Handbook: Innovating for the Interne t&#8242;s Next Tectonic Shift</a>, Wiley, 2022. ISBN: 978-1119892526<br>
+
+## Bibliografia complementar
+Robert Pratten; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005801720108801" title="Getting Started in Transmedia Storytelling: A Practical Guide for Beginners 2nd Edition (Abre numa nova janela)" target="_blank" >Getting Started in Transmedia Storytelling: A Practical Guide for Beginners 2nd Edition</a>, CreateSpace Independent Publishing Platform, 2015. ISBN: 1515339165<br>
+Andrea Phillips; A creator's guide to transmedia storytelling: How to captivate and engage audiences across multiple platforms, McGraw Hill Professional, 2012. ISBN: 0071791523<br>
+ Frank Rose; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009777700108801" title="The Sea We Swim In: How Stories Work in a Data-Driven World (Abre numa nova janela)" target="_blank" >The Sea We Swim In: How Stories Work in a Data-Driven World</a>, W. W. Norton & Company, 2021. ISBN: 1324003138<br>
+Edited by Matthew Freeman, Renira Rampazzo Gambarato; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009379600108801" title="The Routledge Companion to Transmedia Studies (Abre numa nova janela)" target="_blank" >The Routledge Companion to Transmedia Studies</a>, Routledge, 2018. ISBN: 978-1138483439<br>
+Kelly McErlean ; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009379640108801" title="Interactive Narratives and Transmedia Storytelling (Abre numa nova janela)" target="_blank" >Interactive Narratives and Transmedia Storytelling</a>, Routledge, 2018. ISBN: 978-1138638822<br>
+Robert McKee; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005675080108801" title="Story (Abre numa nova janela)" target="_blank" >Story</a>. ISBN: 978-0-413-71560-9 <br>
+Christopher Vogler; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005675260108801" title="The Writer's Journey: Mythic Structure for Writers. 25th Anniversary Edition (Abre numa nova janela)" target="_blank" >The Writer's Journey: Mythic Structure for Writers. 25th Anniversary Edition</a>, Michael Wiese Productions, 2020. ISBN: 978-1615933150<br>
+Matthew Ball; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009777720108801" title="The Metaverse: And How it Will Revolutionize Everything (Abre numa nova janela)" target="_blank" >The Metaverse: And How it Will Revolutionize Everything</a>, WW Norton & Co, 2022. ISBN: 978-1324092032<br>
+Ed Catmull; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005801700108801" title="Creativity, Inc: overcoming the unseen forces that stand in the way of true inspiration (Abre numa nova janela)" target="_blank" >Creativity, Inc: overcoming the unseen forces that stand in the way of true inspiration</a>, Bantam Press, 2014. ISBN: 0593070097<br>
+Kevin Ashton; How To Fly A Horse: The Secret History of Creation, Invention, and Discovery, William Heinemann, 2015. ISBN: 043402290X<br>
+Walter Isaacson; The Innovators: How a Group of Inventors, Hackers, Geniuses and Geeks Created the Digital Revolution, Simon and Schuster, 2014. ISBN: 1471138798<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Esta unidade curricular, de caráter teórico-prático, oferece uma introdução abrangente ao transmedia storytelling, proporcionando aos estudantes a oportunidade de aprofundar a sua compreensão e domínio da linguagem associada a este tipo de projeto. Os alunos irão, individualmente, realizar a análise de um caso de estudo e, em grupo, colaborar na criação de uma bíblia transmedia.</p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Elaboração de relatório/dissertação/tese: 0.0 horas
+- Estudo autónomo: 60.0 horas
+- Frequência das aulas: 42.0 horas
+- Trabalho de investigação: 60.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação distribuída inclui um trabalho individual e um trabalho em grupo:<br /><br />Classificação final = Relatório Individual * 40% + Trabalho em Grupo * 60%</p>
+
+## Obtenção de frequência
+Em cada uma das componentes de avaliação, o estudante deverá obter uma classificação igual ou superior a 10 valores.
+
+## Melhoria de classificação
+A nota final pode ser melhorada apenas numa nova edição da disciplina.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Multimedia Seminar
+
+## Curso responsável
+Master in Multimedia
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p style="font-weight: 400;">The main objective of the course is to explore transmedia storytelling. To enhance this goal, content and theoretical methodologies relevant to this topic were selected.</p>
+
+## Resultados de aprendizagem e competências
+<p style="font-weight: 400;">At the end of this course, students will be able to:</p>
+<ul>
+<li>Identify the main elements of transmedia storytelling</li>
+<li>Comprehend the importance of technology and creativity in transmedia storytelling</li>
+<li>Create a transmedia storytelling project</li>
+</ul>
+
+## Programa
+<p>1) Transmedia storytelling:<br />  &#8226; Story<br />    o Characters<br />    o Story world<br />    o Story structure<br />  &#8226; Audience<br />  &#8226; Platforms <br /><br />2) Creativity and technology (including):<br />  &#8226; Artificial Intelligence<br />  &#8226; Web3<br />  &#8226; Metaverse<br />  &#8226; Extended reality (virtual reality, mixed reality, augmented reality)<br /> </p>
+<p><br /><br /><br /><br /></p>
+
+## Bibliografia obrigatória
+Dowd, T.; Fry, M.; Niederman, M.; Steiff, J.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009078050108801" title="Storytelling Across Worlds (Opens in a new window)" target="_blank" >Storytelling Across Worlds</a>, Focal Press, 2013<br>
+Carolyn Handler Miller; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005796760108801" title="Digital Storytelling 4e: A creator's guide to interactive entertainment (Opens in a new window)" target="_blank" >Digital Storytelling 4e: A creator's guide to interactive entertainment</a>, CRC Press, 2019. ISBN: 978-1138341609<br>
+ QuHarrison Terry, Scott Keeney; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009681700108801" title="The Metaverse Handbook: Innovating for the Interne t&#8242;s Next Tectonic Shift (Opens in a new window)" target="_blank" >The Metaverse Handbook: Innovating for the Interne t&#8242;s Next Tectonic Shift</a>, Wiley, 2022. ISBN: 978-1119892526<br>
+
+## Bibliografia complementar
+Robert Pratten; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005801720108801" title="Getting Started in Transmedia Storytelling: A Practical Guide for Beginners 2nd Edition (Opens in a new window)" target="_blank" >Getting Started in Transmedia Storytelling: A Practical Guide for Beginners 2nd Edition</a>, CreateSpace Independent Publishing Platform, 2015. ISBN: 1515339165<br>
+Andrea Phillips; A creator's guide to transmedia storytelling: How to captivate and engage audiences across multiple platforms, McGraw Hill Professional, 2012. ISBN: 0071791523<br>
+ Frank Rose; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009777700108801" title="The Sea We Swim In: How Stories Work in a Data-Driven World (Opens in a new window)" target="_blank" >The Sea We Swim In: How Stories Work in a Data-Driven World</a>, W. W. Norton & Company, 2021. ISBN: 1324003138<br>
+Edited by Matthew Freeman, Renira Rampazzo Gambarato; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009379600108801" title="The Routledge Companion to Transmedia Studies (Opens in a new window)" target="_blank" >The Routledge Companion to Transmedia Studies</a>, Routledge, 2018. ISBN: 978-1138483439<br>
+Kelly McErlean ; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009379640108801" title="Interactive Narratives and Transmedia Storytelling (Opens in a new window)" target="_blank" >Interactive Narratives and Transmedia Storytelling</a>, Routledge, 2018. ISBN: 978-1138638822<br>
+Robert McKee; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005675080108801" title="Story (Opens in a new window)" target="_blank" >Story</a>. ISBN: 978-0-413-71560-9 <br>
+Christopher Vogler; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005675260108801" title="The Writer's Journey: Mythic Structure for Writers. 25th Anniversary Edition (Opens in a new window)" target="_blank" >The Writer's Journey: Mythic Structure for Writers. 25th Anniversary Edition</a>, Michael Wiese Productions, 2020. ISBN: 978-1615933150<br>
+Matthew Ball; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009777720108801" title="The Metaverse: And How it Will Revolutionize Everything (Opens in a new window)" target="_blank" >The Metaverse: And How it Will Revolutionize Everything</a>, WW Norton & Co, 2022. ISBN: 978-1324092032<br>
+Ed Catmull; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005801700108801" title="Creativity, Inc: overcoming the unseen forces that stand in the way of true inspiration (Opens in a new window)" target="_blank" >Creativity, Inc: overcoming the unseen forces that stand in the way of true inspiration</a>, Bantam Press, 2014. ISBN: 0593070097<br>
+Kevin Ashton; How To Fly A Horse: The Secret History of Creation, Invention, and Discovery, William Heinemann, 2015. ISBN: 043402290X<br>
+Walter Isaacson; The Innovators: How a Group of Inventors, Hackers, Geniuses and Geeks Created the Digital Revolution, Simon and Schuster, 2014. ISBN: 1471138798<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>This theoretical-practical curricular unit offers a comprehensive introduction to transmedia storytelling, providing students with the opportunity to deepen their understanding and mastery of the language associated with this type of project. Students will, individually, carry out the analysis of a case study and, as a group, collaborate in the creation of a transmedia bible.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Elaboração de relatório/dissertação/tese: 0.0 hours
+- Estudo autónomo: 60.0 hours
+- Frequência das aulas: 42.0 hours
+- Trabalho de investigação: 60.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The distributed evaluation includes a practical individual project and a group project:<br /><br />Final evaluation = Individual Report * 40% + Project in Group * 60%<br /><br /></p>
+
+## Obtenção de frequência
+In each evaluation topic, the student should obtain a grade equal ou higher than 10.
+
+## Melhoria de classificação
+<p>Students may only improve their grades in the following academic year.</p>
+

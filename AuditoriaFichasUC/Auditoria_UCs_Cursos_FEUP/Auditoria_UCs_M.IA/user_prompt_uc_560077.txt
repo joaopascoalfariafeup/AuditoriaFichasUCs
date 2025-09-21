@@ -1,0 +1,270 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Processamento e Recuperação de Informação
+
+## Curso responsável
+Mestrado em Inteligência Artificial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>A unidade curricular de PRI tem como objetivo preparar os estudantes para conhecer, compreender, desenhar e desenvolver soluções eficazes para o processamento e recuperação de informação.</p>
+<p>Os objetivos específicos são:</p>
+<ol>
+<li>Sensibilizar os estudantes para os principais desafios associados ao desenvolvimento de sistemas de pesquisa de informação;</li>
+<li>Familiarizar os estudantes com os conceitos fundamentais e as técnicas centrais do processamento e recuperação de informação;</li>
+<li>Capacitar os estudantes para conceber, implementar e avaliar sistemas de pesquisa de informação aplicados a diferentes tipos de coleções de documentos.</li>
+</ol>
+
+## Resultados de aprendizagem e competências
+<p>Ao completar esta unidade curricular, o estudante deverá ser capaz de conceber e implementar um sistema de processamento e recuperação de informação.</p>
+<p>Em particular, o estudante deve ser capaz de:</p>
+<ul>
+<li>Identificar e descrever as principais tarefas associadas ao processamento e recuperação de informação;</li>
+<li>Explicar a arquitectura e o funcionamento de um sistema de pesquisa de informação;</li>
+<li>Descrever as tarefas associadas às fases de processamento de uma coleção e de processamento de interrogações;</li>
+<li>Distinguir os diferentes modelos de recuperação de informação, identificando os seus princípios, os modelos de representação de documentos, e as medidas de semelhança;</li>
+<li>Descrever e implementar diferentes técnicas para a indexação de informação;</li>
+<li>Descrever e implementar diferentes técnicas para a recuperação e ordenação de resultados.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p><strong>Programação</strong>: conhecimento e prática em linguagens de programação para o desenvolvimento de aplicações.</p>
+<p><strong>Bases de Dados</strong>: conhecimento e prática de modelação de dados em UML.</p>
+
+## Programa
+<p><strong>Processamento de Informação</strong></p>
+<ul>
+<li>Conceitos fundamentais em sistemas baseados no uso intensivo de dados;</li>
+<li>Recolha, ingestão, preparação e integração de dados;</li>
+<li>Técnicas de NLP para pré-processamento e enriquecimento;</li>
+<li>Padrões e ferramentas para pipelines de dados;</li>
+<li>Escalabilidade, distribuição e operação em ambientes modernos.</li>
+</ul>
+<p><strong>Fundamentos de Recuperação de Informação</strong></p>
+<ul>
+<li>Recuperação de informação versus recuperação de dados;</li>
+<li>Evolução e desenvolvimento da área;</li>
+<li>Principais tarefas e processos de recuperação.</li>
+</ul>
+<p><strong>Arquitetura de Sistemas de Recuperação</strong></p>
+<ul>
+<li>Componentes de um sistema de pesquisa;</li>
+<li>Aquisição e preparação de informação para indexação;</li>
+<li>Processamento de texto: análise lexical, normalização morfológica, compressão;</li>
+<li>Indexação: índices invertidos, construção e acesso;</li>
+<li>Processamento das interrogações, interação, ordenação e avaliação dos resultados.</li>
+</ul>
+<p><strong>Modelos de Recuperação</strong></p>
+<ul>
+<li>Modelos clássicos: booleano, vetorial, probabilístico;</li>
+<li>Modelos densos e neuronais: <em>embeddings</em>, representações contextuais;</li>
+<li>Recuperação híbrida (esparsa + densa);</li>
+<li>Algoritmos de ordenação e <em>learning to rank</em>.</li>
+</ul>
+<p><strong>Recuperação em Ambientes Modernos</strong></p>
+<ul>
+<li>Motores de pesquisa na Web: PageRank e HITS;</li>
+<li>Recuperação em ambientes distribuídos e escaláveis;</li>
+<li>Recuperação multimodal (texto, imagem, áudio, vídeo);</li>
+<li>Integração com grandes modelos de linguagem (<em>retrieval-augmented generation</em>).</li>
+</ul>
+<p><strong>Avaliação de Sistemas de Recuperação de Informação</strong></p>
+<ul>
+<li>Coleções de teste, tópicos e avaliações de relevância;</li>
+<li>Métricas de avaliação: precisão, taxa de recuperação, MAP, nDCG;</li>
+<li>Avaliação baseada em interações de utilizadores (logs de cliques, feedback implícito);</li>
+<li>Questões de robustez, justiça (fairness) e ética.</li>
+</ul>
+
+## Bibliografia obrigatória
+Christopher D. Manning, Prabhakar Raghavan, Hinrich Schütze; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005378930108801" title="Introduction to Information Retrieval (Abre numa nova janela)" target="_blank" >Introduction to Information Retrieval</a>, Cambridge University Press, 2008. ISBN: 0521865719<br>
+W. Bruce Croft; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005673570108801" title="Search engines (Abre numa nova janela)" target="_blank" >Search engines</a>. ISBN: 978-0-13-136489-9 <br>
+Ricardo Baeza-Yates; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005578640108801" title="Modern information retrieval (Abre numa nova janela)" target="_blank" >Modern information retrieval</a>. ISBN: 978-0321416919<br>
+Marti Hearst; Search User Interfaces, Cambridge University Press, 2009<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>Os tópicos do programa são abordados em sessões teórico-práticas, que combinam exposição de conceitos e trabalho laboratorial. Cada grupo de estudantes define e desenvolve um projeto ao longo do semestre, com parte do desenvolvimento, acompanhamento e avaliação a decorrer em aula.</p>
+<p><strong>Projeto</strong>: concepção e implementação de um sistema de processamento e recuperação de informação, desenvolvido em grupos de estudantes. O projeto está estruturado em entregas e apresentações parciais, correspondentes às diferentes fases de desenvolvimento.</p>
+<p>O desenvolvimento do projeto é acompanhado nas aulas teórico-práticas e avaliado com base no acompanhamento contínuo, nos relatórios submetidos e nas apresentações realizadas.</p>
+<p>Os conhecimentos teóricos são avaliados através de um exame final, constituído por perguntas de escolha múltipla e perguntas de resposta aberta.</p>
+
+## Software
+OpenRefine<br>
+Apache Lucene<br>
+Apache Solr<br>
+Docker<br>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Elaboração de projeto: 70.0 horas
+- Estudo autónomo: 50.0 horas
+- Frequência das aulas: 42.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A nota final é calculada de acordo com a seguinte fórmula:</p>
+<p><strong>NF = 60% Projeto + 40% Exame</strong></p>
+<p>A aprovação no projeto requer a participação de cada estudante em todas as fases de desenvolvimento, nomeadamente na seleção das fontes de dados, na escolha das tecnologias, na identificação e caracterização do problema, no desenho e implementação da solução, na redação dos relatórios e nas apresentações do projeto.</p>
+<p>A classificação individual final do projeto pode variar entre os elementos do mesmo grupo, em mais ou menos 3 valores, com base na avaliação dos docentes, bem como na autoavaliação e heteroavaliação realizadas no seio do grupo.</p>
+<p>A aprovação na unidade curricular está ainda condicionada à obtenção de uma classificação mínima de 40% no exame.</p>
+
+## Obtenção de frequência
+<p>As condições para obtenção de frequência são as seguintes:</p>
+<ol>
+<li>Não exceder o número limite de faltas às aulas práticas (25% do número de aulas práticas do semestre);</li>
+<li>Realizar a inscrição num grupo de trabalho dentro do período definido;</li>
+<li>Participar em todas as fases de desenvolvimento do projeto;</li>
+<li>Participar na apresentação e defesa final do projeto.</li>
+</ol>
+<p>A participação no desenvolvimento do projeto (ponto 3) é avaliada com base nas evidências produzidas pelo estudante (código e documentação), da avaliação dos docentes durante as aulas práticas, e da autoavaliação e heteroavaliação realizada no contexto do grupo.</p>
+
+## Melhoria de classificação
+<p>Apenas a componente individual (exame) pode ser melhorada.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Information Processing and Retrieval
+
+## Curso responsável
+Master in Artificial Intelligence
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+<p>The course Information Processing and Retrieval (PRI) aims to prepare students to understand, design, and develop effective solutions for information processing and retrieval.</p>
+<p>The specific objectives are:</p>
+<ol>
+<li>To raise students&#8217; awareness of the main challenges involved in building information retrieval systems;</li>
+<li>To familiarize students with the key concepts and techniques of information processing and retrieval;</li>
+<li>To enable students to design, implement, and evaluate information retrieval systems applied to different types of document collections.</li>
+</ol>
+
+## Resultados de aprendizagem e competências
+<p>Upon completing this course unit, students should be able to design and implement an information processing and retrieval system.</p>
+<p>In particular, students should be able to:</p>
+<ul>
+<li>Identify and describe the main tasks associated with information processing and retrieval;</li>
+<li>Explain the architecture and functioning of an information retrieval system;</li>
+<li>Describe the tasks involved in the processing of a collection and in the processing of queries;</li>
+<li>Distinguish between different information retrieval models, identifying their principles, document representation models, and similarity measures;</li>
+<li>Describe and implement different techniques for information indexing;</li>
+<li>Describe and implement different techniques for information retrieval and ranking of results.</li>
+</ul>
+
+## Pré-requisitos e co-requisitos
+<p><strong>Programming</strong>: knowledge and practice with programming languages &#8203;&#8203;for application development.</p>
+<p><strong>Databases</strong>: knowledge and practice of data modeling using UML.</p>
+
+## Programa
+<p><strong>Information Processing</strong></p>
+<ul>
+<li>Fundamental concepts in data-intensive systems;</li>
+<li>Data collection, ingestion, preparation, and integration;</li>
+<li>NLP techniques for preprocessing and enrichment;</li>
+<li>Patterns and tools for data pipelines;</li>
+<li>Scalability, distribution, and operation in modern environments.</li>
+</ul>
+<p><strong>Fundamentals of Information Retrieval</strong></p>
+<ul>
+<li>Information retrieval versus data retrieval;</li>
+<li>Evolution and development of the field;</li>
+<li>Main retrieval tasks and processes.</li>
+</ul>
+<p><strong>Architecture of Retrieval Systems</strong></p>
+<ul>
+<li>Components of a search system;</li>
+<li>Acquisition and preparation of information for indexing;</li>
+<li>Text processing: lexical analysis, morphological normalization, compression;</li>
+<li>Indexing: inverted indexes, construction, and access;</li>
+<li>Query processing, interaction, ranking, and evaluation of results.</li>
+</ul>
+<p><strong>Retrieval Models</strong></p>
+<ul>
+<li>Classical models: Boolean, vector space, probabilistic;</li>
+<li>Dense and neural models: <em>embeddings</em>, contextual representations;</li>
+<li>Hybrid retrieval (sparse + dense);</li>
+<li>Ranking algorithms and <em>learning to rank</em>.</li>
+</ul>
+<p><strong>Retrieval in Modern Environments</strong></p>
+<ul>
+<li>Web search engines: PageRank and HITS;</li>
+<li>Retrieval in distributed and scalable environments;</li>
+<li>Multimodal retrieval (text, image, audio, video);</li>
+<li>Integration with large language models (<em>retrieval-augmented generation</em>).</li>
+</ul>
+<p><strong>Evaluation of Information Retrieval Systems</strong></p>
+<ul>
+<li>Test collections, topics, and relevance assessments;</li>
+<li>Evaluation metrics: precision, recall, MAP, nDCG;</li>
+<li>Evaluation based on user interactions (click logs, implicit feedback);</li>
+<li>Issues of robustness, fairness, and ethics.</li>
+</ul>
+
+## Bibliografia obrigatória
+Christopher D. Manning, Prabhakar Raghavan, Hinrich Schütze; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005378930108801" title="Introduction to Information Retrieval (Opens in a new window)" target="_blank" >Introduction to Information Retrieval</a>, Cambridge University Press, 2008. ISBN: 0521865719<br>
+W. Bruce Croft; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005673570108801" title="Search engines (Opens in a new window)" target="_blank" >Search engines</a>. ISBN: 978-0-13-136489-9 <br>
+Ricardo Baeza-Yates; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005578640108801" title="Modern information retrieval (Opens in a new window)" target="_blank" >Modern information retrieval</a>. ISBN: 978-0321416919<br>
+Marti Hearst; Search User Interfaces, Cambridge University Press, 2009<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The program topics are addressed in lecture-practical sessions, combining theoretical exposition and laboratory work. Each student group defines and develops a project throughout the semester, with part of the development, supervision, and assessment taking place during class.</p>
+<p><strong>Project</strong>: design and implementation of an information processing and retrieval system, developed in student groups. The project is structured into partial deliverables and presentations, corresponding to the different phases of development.</p>
+<p>The project development is supervised during the lecture-practical sessions and assessed based on continuous monitoring, submitted reports, and presentations.</p>
+<p>Theoretical knowledge is assessed through a final exam, consisting of multiple-choice and open-ended questions.</p>
+
+## Software
+OpenRefine<br>
+Apache Lucene<br>
+Apache Solr<br>
+Docker<br>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Elaboração de projeto: 70.0 hours
+- Estudo autónomo: 50.0 hours
+- Frequência das aulas: 42.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final grade is calculated according to the following formula:</p>
+<p><strong>NF = 60% Project + 40% Exam</strong></p>
+<p>Approval in the project requires the participation of each student in all phases of development, namely in the selection of data sources, the choice of technologies, the identification and characterization of the problem, the design and implementation of the solution, the writing of the reports, and the project presentations.</p>
+<p>The individual final grade for the project may vary among members of the same group, by up to 3 points higher or lower, based on the instructors&#8217; evaluation as well as on the self-assessment and peer assessment carried out within the group.</p>
+<p>Approval in the course unit also requires obtaining a minimum individual score of 40% in the exam.</p>
+
+## Obtenção de frequência
+<p>The conditions for obtaining attendance are as follows:</p>
+<ol>
+<li>Not exceeding the maximum number of absences from practical classes (25% of the total number of practical sessions in the semester);</li>
+<li>Registering in a project group within the defined period;</li>
+<li>Participating in all phases of project development;</li>
+<li>Participating in the final presentation and defense of the project.</li>
+</ol>
+<p>Participation in the project development (point 3) is assessed based on the evidence produced by the student (code and documentation), the instructors&#8217; evaluation during practical classes, and the self-assessment and peer assessment carried out within the group.</p>
+
+## Melhoria de classificação
+<p>Only the individual component (exam) can be improved.</p>
+

@@ -1,0 +1,177 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Interfaces Multimodais
+
+## Curso responsável
+Mestrado em Multimédia
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p><span id="docs-internal-guid-98668028-bdc9-8b01-d707-65e9f105c871">A unidade curricular de Interfaces Multimodais dedica-se ao estudo dos sistemas computacionais e do design da interação com estes.</span></p>
+
+## Resultados de aprendizagem e competências
+<p>São estudadas práticas de projeto para o design da interação, dedicando particular atenção ao design centrado no utilizador e aos padrões de design utilizados como ferramentas no estudo e na análise crítica de sistemas interativos.</p>
+
+## Programa
+<p dir="ltr">A unidade curricular é desenvolvida em módulos sequenciais, sendo dedicado espaço de exposição, reflexão, discussão e desenvolvimento do projecto em cada módulo:<br />* Sistemas de padrões para o design da interação;<br />* Utilização de sistemas interativos;<br />* Design centrado no utilizador;<br />* Organização do conteúdo: arquitetura da informação;<br />* Framework de design;<br />* Navegação;<br />* Multimodalidade;<br />* Composição, layout e visualização de informação;<br />* Avaliação de usabilidade;<br />* Metodologias de projeto de design de interação.</p>
+
+## Bibliografia obrigatória
+Brown, Daniel M.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005675120108801" title="Communicating Design. Developing Web Site Documentation for Design and Planning (Abre numa nova janela)" target="_blank" >Communicating Design. Developing Web Site Documentation for Design and Planning</a>, New Riders, 2007. ISBN: 978-0-321-39235-0<br>
+Caddick, Richard; Cable, Steve; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005675320108801" title="Communicating the User Experience (Abre numa nova janela)" target="_blank" >Communicating the User Experience</a>, Wiley, 2011. ISBN: 978-1-119-97110-8<br>
+Clark, Josh; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005848270108801" title="Designing for Touch (Abre numa nova janela)" target="_blank" >Designing for Touch</a>, A Book Apart, 2015. ISBN: 978-1-9375572-9-4<br>
+Cooper, Alan; Robert Reimann; David Cronin; Christopher Noessel; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005762050108801" title="About Face: the Essentials of Interaction Design, Fourth Edition (Abre numa nova janela)" target="_blank" >About Face: the Essentials of Interaction Design, Fourth Edition</a>, John Wiley & Sons, 2014. ISBN: 978-1-118-76657-6<br>
+Jenifer Tidwell; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005530870108801" title="Designing interfaces (Abre numa nova janela)" target="_blank" >Designing interfaces</a>. ISBN: 978-1-449-37970-4 <br>
+
+## Bibliografia complementar
+Donald A. Norman; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004616260108801" title="The design of everyday things (Abre numa nova janela)" target="_blank" >The design of everyday things</a>. ISBN: 0-262-64037-6 <br>
+Donald A. Norman; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004649110108801" title="The Invisible computer (Abre numa nova janela)" target="_blank" >The Invisible computer</a>. ISBN: 0-262-64041-4 <br>
+Donald A. Norman; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004202070108801" title="The psychology of everyday things (Abre numa nova janela)" target="_blank" >The psychology of everyday things</a>. ISBN: 0-465-06709-3<br>
+Donald A. Norman; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004729950108801" title="Emotional design (Abre numa nova janela)" target="_blank" >Emotional design</a>. ISBN: 0-465-05135-9 <br>
+Donald A. Norman; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005511710108801" title="Living with complexity (Abre numa nova janela)" target="_blank" >Living with complexity</a>. ISBN: 978-0-262-01486-1 <br>
+Donald A. Norman; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005500770108801" title="The design of future things (Abre numa nova janela)" target="_blank" >The design of future things</a>. ISBN: 978-0-465-00227-6 <br>
+Yvonne Rogers, Helen Sharp, Jennifer Preece; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005612810108801" title="Interaction design (Abre numa nova janela)" target="_blank" >Interaction design</a>. ISBN: 978-0-470-66576-3 <br>
+Alan Dix...[et al.]; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005612790108801" title="Human-computer interaction (Abre numa nova janela)" target="_blank" >Human-computer interaction</a>. ISBN: 978-0-13-046109-4<br>
+Alexander, Christopher; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008414560108801" title="Notes on The Synthesis of Form (Abre numa nova janela)" target="_blank" >Notes on The Synthesis of Form</a>, Harvard University Press, 1964. ISBN: 0-674-62751-2<br>
+Alexander, Christopher; The Timeless Way of Building, Oxford University Press, 1979. ISBN: 0-19-502402-8<br>
+Alexander, Christopher; Ishikawa, Sara; Silverstein, Murray; Jacobson, Max; Fiksdahl-King, Ingrid; Angel, Shlomo; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005621670108801" title="A Pattern Language: Towns, Buildings, Construction (Abre numa nova janela)" target="_blank" >A Pattern Language: Towns, Buildings, Construction</a>, Oxford University Press, 1977. ISBN: 0-19-501919-9<br>
+Buurman, Gerhard M.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005622940108801" title="Total Interaction: Theory and Practice of a New Paradigm for the Design Disciplines (Abre numa nova janela)" target="_blank" >Total Interaction: Theory and Practice of a New Paradigm for the Design Disciplines</a>, Birkhäuser, 2005. ISBN: 978-3-7643-7076-3<br>
+Crumlish, Christian; Malone, Erin; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005547090108801" title="Designing Social Interfaces (Abre numa nova janela)" target="_blank" >Designing Social Interfaces</a>, O'Reilly, 2009. ISBN: 978-0-596-15492-9<br>
+Disabato, Nick; Cadence & Slang, Sheridan Books, 2010. ISBN: 978-0-615-34171-2<br>
+Hallnäs, Lars; Redström, Johan; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005723110108801" title="Interaction Design: Foundations, Experiments (Abre numa nova janela)" target="_blank" >Interaction Design: Foundations, Experiments</a>, Chalmers, 2006. ISBN: 91-631-8554-7<br>
+Jehl, Scott; Responsible Responsive Design, A Book Apart, 2014. ISBN: 978-1-9375571-6-4<br>
+Krug, Steve; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004616240108801" title="Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (Abre numa nova janela)" target="_blank" >Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability</a>, New Riders, 2014. ISBN: 978-0-321-96551-6<br>
+Löwgren, Jonas; Stolterman, Erik; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009071310108801" title="Thoughtful Interaction Design: A Design Perspective on Information Technology (Abre numa nova janela)" target="_blank" >Thoughtful Interaction Design: A Design Perspective on Information Technology</a>, The MIT Press, 2004. ISBN: 0-262-12271-5<br>
+MacKenzie, I. Scott; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008859080108801" title="Human-Computer Interaction: An Empirical Research Perspective (Abre numa nova janela)" target="_blank" >Human-Computer Interaction: An Empirical Research Perspective</a>, Morgan Kaufmann, 2013. ISBN: 978-0-12-405865-1<br>
+Marcotte, Ethan; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008413650108801" title="Responsive Web Design (Abre numa nova janela)" target="_blank" >Responsive Web Design</a>, A Book Apart, 2011. ISBN: 978-0-9844425-7-7<br>
+Marcotte, Ethan; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008413760108801" title="Responsive Design: Patterns & Principles (Abre numa nova janela)" target="_blank" >Responsive Design: Patterns & Principles</a>, A Book Apart, 2015. ISBN: 978-1-9375573-4-8<br>
+Mathis, Lukas; Designed for Use: Usable Interfaces for Applications and the Web, The Pragmatic Bookshelf, 2011. ISBN: 978-1-93435-675-3<br>
+McGrane, Karen; Going Responsive, A Book Apart, 2015. ISBN: 978-1-9375573-1-7<br>
+Moggridge, Bill; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002790520108801" title="Designing Interactions (Abre numa nova janela)" target="_blank" >Designing Interactions</a>, The MIT Press, 2007. ISBN: 978-0-262-13474-3<br>
+Nielsen, Jakob; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004566950108801" title="Designing Web Usability (Abre numa nova janela)" target="_blank" >Designing Web Usability</a>, New Riders, 2000. ISBN: 1-56205-810-X<br>
+Nielsen, Jakob; Loranger, Hoa; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004823050108801" title="Prioritizing Web Usability (Abre numa nova janela)" target="_blank" >Prioritizing Web Usability</a>, New Riders, 2006. ISBN: 0-321-35031-6<br>
+Norman, Donald A.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007609940108801" title="Things That Make Us Smart: Defending Human Attributes in the Age of the Machine. (Abre numa nova janela)" target="_blank" >Things That Make Us Smart: Defending Human Attributes in the Age of the Machine.</a>, Basic Books, 1993. ISBN: 0-201-62695-0<br>
+Pickering, Heydon; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008465560108801" title="Inclusive Design Patterns: Coding Accessibility into Web Design (Abre numa nova janela)" target="_blank" >Inclusive Design Patterns: Coding Accessibility into Web Design</a>, Smashing Magazine, 2016. ISBN: 978-3-945749-45-6<br>
+Raskin, Jef; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007478120108801" title="The Humane Interface: New Directions for Designing Interactive Systems (Abre numa nova janela)" target="_blank" >The Humane Interface: New Directions for Designing Interactive Systems</a>, ACM Press, 2000. ISBN: 0-2-1-37937-6<br>
+Sterling, Bruce; Shaping Things, The MIT Press, 2005. ISBN: 0-262-69326-7<br>
+Thackara, John; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005406420108801" title="In The Bubble: Designing in a Complex World (Abre numa nova janela)" target="_blank" >In The Bubble: Designing in a Complex World</a>, The MIT Press, 2005. ISBN: 0-262-70115-4<br>
+Wardrip-Fruin, Noah; Montfort, Nick; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005461370108801" title="The New Media Reader (Abre numa nova janela)" target="_blank" >The New Media Reader</a>, The MIT Press, 2003. ISBN: 0-262-23227-8<br>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Elaboração de projeto: 80.0 horas
+- Estudo autónomo: 40.0 horas
+- Frequência das aulas: 42.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p><span style="font-weight: 400;"><strong>CF</strong> = <strong>P1</strong> * 25% + <strong>P2</strong> * 25% + <strong>P3</strong> * 25% + <strong>AF</strong> * 10% + <strong>EF</strong> * 10% + <strong>AD</strong> * 5%</span></p>
+<p><span style="font-weight: 400;">* <strong>CF</strong> - Classificação final<br /></span><span style="font-weight: 400;">* <strong>P1</strong>, <strong>P2</strong>, <strong>P3</strong> - Fases do projeto<br /></span><span style="font-weight: 400;">* <strong>AF</strong> - Apresentação final<br /></span><span style="font-weight: 400;">* <strong>EF</strong> - Entrega final<br /></span><span style="font-weight: 400;">* <strong>AD</strong> - Avaliação distribuída (presença e participação dos estudantes nas aulas)</span></p>
+
+## Obtenção de frequência
+<p>Não exceder o número limite de faltas e participar ativamente na elaboração dos projetos. Os trabalhadores estudantes e equivalentes são dispensados das aulas mas devem, com periodicidade a combinar com os docentes, apresentar a evolução dos seus trabalhos, assim como devem fazer a apresentação destes, simultaneamente com os alunos ordinários.</p>
+
+## Melhoria de classificação
+<p>A melhoria da classificação final será realizada em momento único com a entrega e apresentação de um projeto de melhoria. O estudante deverá contactar o docente, oportunamente, para a especificação do projeto, sendo também necessário apresentar a evolução do seu trabalho ao docente, com periodicidade a combinar com este.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Multimodal Interfaces
+
+## Curso responsável
+Master in Multimedia
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p dir="ltr">This course is dedicated to the study of computational systems and the design of the interaction with them. </p>
+
+## Resultados de aprendizagem e competências
+<p dir="ltr">The course studies project practices for interaction design, focusing particularly on user-centered design and on design patterns used as tools for the study and critical analysis of interactive systems.</p>
+
+## Programa
+<p dir="ltr">This course is developed in sequential modules, dedicating time for exposition, reflection, discussion, and the development of the project associated with each module:<br />* Systems of patterns for interaction design;<br />* Usage of interactive systems;<br />* User-centered design;<br />* Content organization: information architecture;<br />* Design framework;<br />* Navigation;<br />* Multimodality;<br />* Composition: layout and information visualization;<br />* Usability evaluation;<br />* Methodologies for the interaction design project.</p>
+
+## Bibliografia obrigatória
+Brown, Daniel M.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005675120108801" title="Communicating Design. Developing Web Site Documentation for Design and Planning (Opens in a new window)" target="_blank" >Communicating Design. Developing Web Site Documentation for Design and Planning</a>, New Riders, 2007. ISBN: 978-0-321-39235-0<br>
+Caddick, Richard; Cable, Steve; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005675320108801" title="Communicating the User Experience (Opens in a new window)" target="_blank" >Communicating the User Experience</a>, Wiley, 2011. ISBN: 978-1-119-97110-8<br>
+Clark, Josh; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005848270108801" title="Designing for Touch (Opens in a new window)" target="_blank" >Designing for Touch</a>, A Book Apart, 2015. ISBN: 978-1-9375572-9-4<br>
+Cooper, Alan; Robert Reimann; David Cronin; Christopher Noessel; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005762050108801" title="About Face: the Essentials of Interaction Design, Fourth Edition (Opens in a new window)" target="_blank" >About Face: the Essentials of Interaction Design, Fourth Edition</a>, John Wiley & Sons, 2014. ISBN: 978-1-118-76657-6<br>
+Jenifer Tidwell; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005530870108801" title="Designing interfaces (Opens in a new window)" target="_blank" >Designing interfaces</a>. ISBN: 978-1-449-37970-4 <br>
+
+## Bibliografia complementar
+Donald A. Norman; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004616260108801" title="The design of everyday things (Opens in a new window)" target="_blank" >The design of everyday things</a>. ISBN: 0-262-64037-6 <br>
+Donald A. Norman; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004649110108801" title="The Invisible computer (Opens in a new window)" target="_blank" >The Invisible computer</a>. ISBN: 0-262-64041-4 <br>
+Donald A. Norman; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004202070108801" title="The psychology of everyday things (Opens in a new window)" target="_blank" >The psychology of everyday things</a>. ISBN: 0-465-06709-3<br>
+Donald A. Norman; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004729950108801" title="Emotional design (Opens in a new window)" target="_blank" >Emotional design</a>. ISBN: 0-465-05135-9 <br>
+Donald A. Norman; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005511710108801" title="Living with complexity (Opens in a new window)" target="_blank" >Living with complexity</a>. ISBN: 978-0-262-01486-1 <br>
+Donald A. Norman; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005500770108801" title="The design of future things (Opens in a new window)" target="_blank" >The design of future things</a>. ISBN: 978-0-465-00227-6 <br>
+Yvonne Rogers, Helen Sharp, Jennifer Preece; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005612810108801" title="Interaction design (Opens in a new window)" target="_blank" >Interaction design</a>. ISBN: 978-0-470-66576-3 <br>
+Alan Dix...[et al.]; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005612790108801" title="Human-computer interaction (Opens in a new window)" target="_blank" >Human-computer interaction</a>. ISBN: 978-0-13-046109-4<br>
+Alexander, Christopher; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008414560108801" title="Notes on The Synthesis of Form (Opens in a new window)" target="_blank" >Notes on The Synthesis of Form</a>, Harvard University Press, 1964. ISBN: 0-674-62751-2<br>
+Alexander, Christopher; The Timeless Way of Building, Oxford University Press, 1979. ISBN: 0-19-502402-8<br>
+Alexander, Christopher; Ishikawa, Sara; Silverstein, Murray; Jacobson, Max; Fiksdahl-King, Ingrid; Angel, Shlomo; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005621670108801" title="A Pattern Language: Towns, Buildings, Construction (Opens in a new window)" target="_blank" >A Pattern Language: Towns, Buildings, Construction</a>, Oxford University Press, 1977. ISBN: 0-19-501919-9<br>
+Buurman, Gerhard M.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005622940108801" title="Total Interaction: Theory and Practice of a New Paradigm for the Design Disciplines (Opens in a new window)" target="_blank" >Total Interaction: Theory and Practice of a New Paradigm for the Design Disciplines</a>, Birkhäuser, 2005. ISBN: 978-3-7643-7076-3<br>
+Crumlish, Christian; Malone, Erin; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005547090108801" title="Designing Social Interfaces (Opens in a new window)" target="_blank" >Designing Social Interfaces</a>, O'Reilly, 2009. ISBN: 978-0-596-15492-9<br>
+Disabato, Nick; Cadence & Slang, Sheridan Books, 2010. ISBN: 978-0-615-34171-2<br>
+Hallnäs, Lars; Redström, Johan; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005723110108801" title="Interaction Design: Foundations, Experiments (Opens in a new window)" target="_blank" >Interaction Design: Foundations, Experiments</a>, Chalmers, 2006. ISBN: 91-631-8554-7<br>
+Jehl, Scott; Responsible Responsive Design, A Book Apart, 2014. ISBN: 978-1-9375571-6-4<br>
+Krug, Steve; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004616240108801" title="Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (Opens in a new window)" target="_blank" >Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability</a>, New Riders, 2014. ISBN: 978-0-321-96551-6<br>
+Löwgren, Jonas; Stolterman, Erik; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009071310108801" title="Thoughtful Interaction Design: A Design Perspective on Information Technology (Opens in a new window)" target="_blank" >Thoughtful Interaction Design: A Design Perspective on Information Technology</a>, The MIT Press, 2004. ISBN: 0-262-12271-5<br>
+MacKenzie, I. Scott; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008859080108801" title="Human-Computer Interaction: An Empirical Research Perspective (Opens in a new window)" target="_blank" >Human-Computer Interaction: An Empirical Research Perspective</a>, Morgan Kaufmann, 2013. ISBN: 978-0-12-405865-1<br>
+Marcotte, Ethan; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008413650108801" title="Responsive Web Design (Opens in a new window)" target="_blank" >Responsive Web Design</a>, A Book Apart, 2011. ISBN: 978-0-9844425-7-7<br>
+Marcotte, Ethan; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008413760108801" title="Responsive Design: Patterns & Principles (Opens in a new window)" target="_blank" >Responsive Design: Patterns & Principles</a>, A Book Apart, 2015. ISBN: 978-1-9375573-4-8<br>
+Mathis, Lukas; Designed for Use: Usable Interfaces for Applications and the Web, The Pragmatic Bookshelf, 2011. ISBN: 978-1-93435-675-3<br>
+McGrane, Karen; Going Responsive, A Book Apart, 2015. ISBN: 978-1-9375573-1-7<br>
+Moggridge, Bill; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002790520108801" title="Designing Interactions (Opens in a new window)" target="_blank" >Designing Interactions</a>, The MIT Press, 2007. ISBN: 978-0-262-13474-3<br>
+Nielsen, Jakob; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004566950108801" title="Designing Web Usability (Opens in a new window)" target="_blank" >Designing Web Usability</a>, New Riders, 2000. ISBN: 1-56205-810-X<br>
+Nielsen, Jakob; Loranger, Hoa; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004823050108801" title="Prioritizing Web Usability (Opens in a new window)" target="_blank" >Prioritizing Web Usability</a>, New Riders, 2006. ISBN: 0-321-35031-6<br>
+Norman, Donald A.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007609940108801" title="Things That Make Us Smart: Defending Human Attributes in the Age of the Machine. (Opens in a new window)" target="_blank" >Things That Make Us Smart: Defending Human Attributes in the Age of the Machine.</a>, Basic Books, 1993. ISBN: 0-201-62695-0<br>
+Pickering, Heydon; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008465560108801" title="Inclusive Design Patterns: Coding Accessibility into Web Design (Opens in a new window)" target="_blank" >Inclusive Design Patterns: Coding Accessibility into Web Design</a>, Smashing Magazine, 2016. ISBN: 978-3-945749-45-6<br>
+Raskin, Jef; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007478120108801" title="The Humane Interface: New Directions for Designing Interactive Systems (Opens in a new window)" target="_blank" >The Humane Interface: New Directions for Designing Interactive Systems</a>, ACM Press, 2000. ISBN: 0-2-1-37937-6<br>
+Sterling, Bruce; Shaping Things, The MIT Press, 2005. ISBN: 0-262-69326-7<br>
+Thackara, John; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005406420108801" title="In The Bubble: Designing in a Complex World (Opens in a new window)" target="_blank" >In The Bubble: Designing in a Complex World</a>, The MIT Press, 2005. ISBN: 0-262-70115-4<br>
+Wardrip-Fruin, Noah; Montfort, Nick; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005461370108801" title="The New Media Reader (Opens in a new window)" target="_blank" >The New Media Reader</a>, The MIT Press, 2003. ISBN: 0-262-23227-8<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p dir="ltr">This course unit alternates lectures with the development of a project in three sequential stages. This includes contextual inquiry, field work, the preparation and production of prototypes, the preparation of deliverables, the assessment of usability, and the presentation and discussion of the results of each stage of the project. Grading is distributed, calculated from an average of the grades of the works developed and submitted, and including the students' presence and active participation in classes.</p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Elaboração de projeto: 80.0 hours
+- Estudo autónomo: 40.0 hours
+- Frequência das aulas: 42.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p><span style="font-weight: 400;"><strong>FG</strong> = <strong>P1</strong> * 25% + <strong>P2</strong> * 25% + <strong>P3</strong> * 25% + <strong>FP</strong> * 10% + <strong>FD</strong> * 10% + <strong>CE</strong> * 5%</span></p>
+<p><span style="font-weight: 400;">* <strong>FG</strong> - Final grade<br /></span><span style="font-weight: 400;">* <strong>P1</strong>, <strong>P2</strong>, <strong>P3</strong> - Project phases<br /></span><span style="font-weight: 400;">* <strong>FP</strong> - Final presentation<br /></span><span style="font-weight: 400;">* <strong>FD</strong> - Final delivery<br /></span><span style="font-weight: 400;">* <strong>CE</strong> - Continuous evaluation (students' presence and active engagement in the classes)</span></p>
+
+## Obtenção de frequência
+<p>Do not exceed the maximum number of absences and participate actively in the development of the proposed assignments. Students with worker statute or equivalent are exempted from classes but must present the progress of their work and should make their presentation together with ordinary students.</p>
+
+## Melhoria de classificação
+<p>Classification Improvement will be held in a single moment with the delivery and presentation of a computer game project. The student should contact the teacher staff for the project specification. It is also necessary to present the evolution of the work at regular intervals.</p>
+

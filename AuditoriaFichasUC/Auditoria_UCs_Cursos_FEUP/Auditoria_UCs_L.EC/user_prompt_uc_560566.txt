@@ -1,0 +1,114 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Análise Matemática 2
+
+## Curso responsável
+Licenciatura em Engenharia Civil
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>Esta disciplina tem como objetivo principal a aquisição de conhecimentos teóricos e práticos, em cálculo diferencial e integral de funções reais e vetoriais de uma ou várias variáveis, e algumas das suas aplicações à Física.<br /><br /><br /></p>
+
+## Resultados de aprendizagem e competências
+O estudante que obtenha aprovação à unidade curricular deverá ser capaz de reconhecer a utilidade dos conceitos e resultados matemáticos lecionados em diferentes áreas da Física, com especial relevo na Mecânica de Fluídos.<br />O cálculo diferencial e integral multivariado lecionado permitirá ao estudante uma aprendizagem mais bem fundada de matérias lecionadas noutras unidades curriculares.
+
+## Pré-requisitos e co-requisitos
+São considerados essenciais para a frequência desta unidade curricular os conhecimentos relativos ao cálculo diferencial e integral adquiridos na unidade curricular de Análise Matemática 1 e os relativos à Álgebra Linear adquiridos na unidade curricular Álgebra, ambas leccionadas no 1º Ano, 1º Semestre da LEC.
+
+## Programa
+1. Cálculo Diferencial<br />1.1 Derivadas Parciais<br />1.2 Derivação implícita<br />1.3 Extremos<br />1.4 Matriz Derivada de funções vetoriais<br />1.5 Operador Gradiente<br /><br />2. Cálculo Integral<br />2.1 Integrais duplos<br />2.2 Integrais triplos<br />2.3 Teorema da mudança de variável<br /><br />3. Geometria Diferencial<br />3.1 Curvas <br />3.2 Superfícies<br /><br />3. Cálculo Integral Vetorial<br />3.1 Integração de campos de vetores em curvas e teorema de Green<br />3.2 Integração de campos de vetores em superfícies e teorema de Stokes<br />3.3 Integração de campos de vetores em superfícies e Teorema de Gauss
+
+## Bibliografia obrigatória
+Jerrold E. Marsden, Anthony J. Tromba; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004141100108801" title="Vector calculus (Abre numa nova janela)" target="_blank" >Vector calculus</a>. ISBN: 0-7167-1856-1 <br>
+
+## Bibliografia complementar
+Jerrold E. Marsden, Anthony J. Tromba; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004156680108801" title="Study Guide for Vector Calculus (Abre numa nova janela)" target="_blank" >Study Guide for Vector Calculus</a>. ISBN: 0-7167-1980-0 <br>
+Acilina Azenha, Maria Amélia Jerónimo; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004575960108801" title="Elementos de cálculo diferencial e integral em IR e IRn (Abre numa nova janela)" target="_blank" >Elementos de cálculo diferencial e integral em IR e IRn</a>. ISBN: 972-8298-03-X <br>
+
+## Métodos de ensino e atividades de aprendizagem
+Nas aulas teóricas serão ensinados conceitos e resultados matemáticos sempre complementados com exemplos. Quando possível, serão dadas interpretações físicas dos conceitos e aplicações práticas dos resultados.<br />Serão utilizados recursos tecnológicos para auxiliar a visualização geométrica (especialmente no caso tridimensional) e efetuar cálculos.<br /><br />As aulas práticas servirão para o estudante explorar a resolução de problemas e exercícios com o apoio de um membro da equipa docente. A lista de exercícios será disponibilizada para cada aula.
+
+## Software
+Wx-maxima<br>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 horas
+- Frequência das aulas: 52.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação consiste em duas provas escritas: T1 e T2, ambas cotadas para 20 valores. A não comparência a um momento de avaliação implica a classificação de zero ao respetivo momento.<br /><br />Cálculo da classificação no exame da época normal (N):<br /><br />N = 0.5*T1 + 0.5*T2 .<br /><br />O exame da época de recurso será dividido em duas partes, R1 e R2, (ambas cotadas para 20 valores) permitindo aos estudantes melhorar as classificações nos momentos T1 e/ou T2 da seguinte forma:<br /><br />(A) Se o estudante desejar melhorar apenas uma das partes deverá entregar a sua prova e abandonar a sala ao fim de 1h (e nunca antes) e a sua classificação final é dada por:<br /><br />CF = max{0.5*T1 ; 0.5*R1} + 0.5*T2 (caso entregue R1),<br />ou <br />CF = 0.5*T1 + max{0.5*T2 ; 0.5*R2}  (caso entregue R2) ;<br /><br />(B) Se o estudante desejar melhorar as duas partes deverá realizar, R1 e R2, e a sua classificação final é dada por:<br /><br />CF = max{N ; 0.5*R1 + 0.5*R2} .</p>
+
+## Obtenção de frequência
+<p>A aprovação à unidade curricular implica o cumprimento da condição de frequência, considerando-se que um estudante cumpre essa condição se, tendo estado regularmente inscrito, não exceder o número limite de faltas correspondente a 25% das aulas presenciais previstas para cada tipologia. Além dos casos previstos estatutariamente nas regras em vigor na FEUP, estão dispensados da condição de frequência à unidade curricular os estudantes que tenham obtido no ano letivo imediatamente anterior uma nota final na UC igual ou superior a 6 valores.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Mathematical Analysis 2
+
+## Curso responsável
+Bachelor in Civil Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<p>The main objective of this course is to acquire theoretical and practical knowledge in differential and integral calculus of real and vector functions of one or more variables, and some of their applications to physics.</p>
+
+## Resultados de aprendizagem e competências
+Students who pass the course should be able to recognize the usefulness of the mathematical concepts and results taught in different areas of Physics, with special emphasis on Fluid Mechanics.<br />The multivariate differential and integral calculus taught will allow the student to learn better the subjects taught in other curricular units.
+
+## Pré-requisitos e co-requisitos
+The knowledge of differential and integral calculus acquired in the Mathematical Analysis 1 course and the knowledge of linear algebra acquired in the Algebra course, both taught in the 1st Year, 1st Semester of the LEC, are considered essential for attending this course.
+
+## Programa
+1. Differential Calculus<br />1.1 Partial Derivatives<br />1.2 Implicit Differentiation<br />1.3 Extremes<br />1.4 Derivative Matrix of Vector Functions<br />1.5 Gradient Operator<br /><br />2. Integral Calculus<br />2.1 Double Integrals<br />2.2 Triple Integrals<br />2.3 Change of Variables Theorem<br /><br />3. Differential Geometry<br />3.1 Curves<br />3.2 Surfaces<br /><br />3. Vector Integral Calculus<br />3.1 Integration of vector fields on curves and Green's theorem<br />3.2 Integration of vector fields on surfaces and Stokes' theorem<br />3.3 Integration of vector fields on surfaces and Gauss' theorem<br />
+
+## Bibliografia obrigatória
+Jerrold E. Marsden, Anthony J. Tromba; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004141100108801" title="Vector calculus (Opens in a new window)" target="_blank" >Vector calculus</a>. ISBN: 0-7167-1856-1 <br>
+
+## Bibliografia complementar
+Jerrold E. Marsden, Anthony J. Tromba; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004156680108801" title="Study Guide for Vector Calculus (Opens in a new window)" target="_blank" >Study Guide for Vector Calculus</a>. ISBN: 0-7167-1980-0 <br>
+Acilina Azenha, Maria Amélia Jerónimo; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004575960108801" title="Elementos de cálculo diferencial e integral em IR e IRn (Opens in a new window)" target="_blank" >Elementos de cálculo diferencial e integral em IR e IRn</a>. ISBN: 972-8298-03-X <br>
+
+## Métodos de ensino e atividades de aprendizagem
+Theoretical classes will teach mathematical concepts and results, always complemented by examples. When possible, physical interpretations of concepts and practical applications of results will be given.<br />Technological resources will be used to aid geometric visualization (especially in the three-dimensional case) and perform calculations.<br /><br />Practical classes will allow students to explore problem-solving and exercises with the support of a member of teaching staff. The list of exercises will be made available for each class.
+
+## Software
+Wx-maxima<br>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 110.0 hours
+- Frequência das aulas: 52.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+Assessment consists of two written tests: T1 and T2, both marked out of 20. Failure to attend an exam will result in a mark of zero for that exam.<br /><br />Calculation of the grade in the regular exam (N):<br /><br />N = 0.5*T1 + 0.5*T2 .<br /><br />The exam in the appeal period will be divided into two parts, R1 and R2, (both marked out of 20) allowing students to improve their marks in T1 and/or T2 as follows:<br /><br />(A) If the student wishes to improve only one of the parts, he/she must hand in the exam paper and leave the room after 1 hour (and not before) and their final mark is given by:<br /><br />CF = max{0.5*T1 ; 0.5*R1} + 0.5*T2 (if you hand in R1),<br />or <br />CF = 0.5*T1 + max{0.5*T2 ; 0.5*R2} (if R2 is submitted);<br /><br />(B) If the student wishes to improve both parts, he/she must hand in  R1 and R2, and their final mark is given by:<br /><br />CF = max{N ; 0.5*R1 + 0.5*R2} .
+
+## Obtenção de frequência
+Approval of the course unit implies compliance with the attendance requirement, considering that a student complies with this requirement if, having been regularly enrolled, they do not exceed the limit of absences corresponding to 25% of the classes scheduled for each type. In addition to the cases provided for in the FEUP rules in force, students who have obtained a final grade of 6 or higher in the course in the immediately preceding academic year are exempt from the attendance requirement.
+

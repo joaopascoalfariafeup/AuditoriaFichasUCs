@@ -1,0 +1,129 @@
+# Curso a analisar
+Mestrado em Engenharia de Transportes
+
+## Descrição
+None
+
+# Unidade curricular: Engenharia de Tráfego
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: <p>Na Unidade Curricular Engenharia de Tráfego pretende-se transmitir aos estudantes o conjunto de conceitos essenciais para a análise das condições de circulação das diferentes componentes da infraestrutura viária, fornecendo os elementos necessários para a avaliação do desempenho do sistema viária, capacitando os estudantes na deteção de anomalias e estudo de medidas corretivas ou de minimização dos impactos na circulação viária, tendo presente a segurança viária.</p>
+<p style="text-align: justify;"> </p>
+
+## Resultados de aprendizagem: <p>Genericamente, pretende-se que os estudantes fiquem com as competências necessárias para identificar as diferentes soluções geométricas, tendo presente todos os utilizadores de um sistema viário, com eficiência funcional, económica e ambiental, desenvolvendo as seguintes competências específicas:</p>
+<ul>
+<li>Identificar e diferenciar as principais componentes da infraestrutura rodoviária;</li>
+<li>Selecionar informação relevante, aplicar e desenvolver metodologias e técnicas ajustadas a cada componente;</li>
+<li>Analisar e avaliar as soluções com recurso a indicadores de desempenho e pela aplicação de técnicas de modelação;</li>
+<li>Conceber soluções eficientes para problemas reais.</li>
+</ul>
+
+# Unidade curricular: Projetos Rodoviários
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: 
+
+## Resultados de aprendizagem: 
+
+# Unidade curricular: Planeamento de Transportes e Mobilidade
+
+## Ano: 2
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <div style=&quot;text-align: justify;&quot;>Os transportes são uma área do conhecimento com especificidades próprias e as decisões têm de se basear em abordagens abrangentes. As soluções para a mobilidade das pessoas e as operações de logística condicionam o equilíbrio ambiental, a ocupação do território, a coesão social e o desenvolvimento económico das comunidades.<br /><br />A disciplina providencia conhecimento fundamental dos conceitos relevantes na engenharia, economia, planeamento e políticas de transportes usando casos do dia-a-dia como modelo exploratório, e enquadrando as discussões sobre  futuro na possibilidade de aplicar os conceitos na mitigação dos problemas.<br /><br />Os estudantes têm de apreender os conceitos e as problemáticas importantes nos sistemas de transportes. </div>
+
+## Resultados de aprendizagem: <strong>Conhecimento:</strong> Os conceitos importantes para entender os transportes serão transmitidos sempre com referência ao enquadramento histórico, as soluções tecnológicas, as formas de organização e a regulação de cada modo de transporte. <br /><br /><div style=&quot;text-align: justify;&quot;><br /><strong>Compreensão:</strong> O aluno com a conclusão da disciplina deverá ser capaz de conseguir entender as soluções inerentes à resolução dos problemas de mobilidade das pessoas, entendendo o que é que é determinado pelo mercado, o que pode ser condicionado a nível regulatório e o que deve ser o resultado de políticas de investimento no sentido de maximizar o valor social das mesmas. <br /><br /><strong>Aplicação:</strong> O aluno deverá ser capaz de formalizar um processo de decisão de um projeto de transportes. <br /><br /><strong>Análise:</strong> O aluno deverá conseguir entender a abrangência do processo de análise neste domínio do conhecimento. <br /><br /><strong>Síntese:</strong> O aluno deverá conseguir formular um problema de transportes. <br /><br /><strong>Avaliação:</strong> O aluno deverá conseguir gerar ideias concretas, avaliar o resultado de decisões e propor soluções em relação a problemas de mobilidade de pessoas e deslocação de mercadorias.</div>
+
+# Unidade curricular: Sistemas Ferroviários
+
+## Ano: 2
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p>JUSTIFICAÇÃO: <br />Sendo o transporte ferroviário energeticamente mais eficiente e menos poluente que o rodoviário, o aumento da procura, que começa já a manifestar-se, tem justificado nas últimas décadas o significativo aumento de investimento na sua modernização e consequente avanço tecnológico. Assim, entende-se que a UC de Sistemas Ferroviários deve ser considerada na sua essência como uma unidade curricular nuclear e transversal na formação do Engenheiro Civil com especialização em Transportes e Vias de Comunicação. Por esta razão o programa da unidade curricular que agora se apresenta tem carácter abrangente, privilegiando a formação de profissionais de tipo generalista com amplo leque de intervenção. De uma forma geral procura-se que o conteúdo programático, se corretamente apreendido, permita a formação de técnicos capazes de elaborarem parte significativa e de coordenarem um projeto de trasporte ferroviário. <br /><br />OBJETIVOS: <br />Transmitir um conhecimento abrangente do universo ferroviário; - Testar conhecimentos adquiridos em enquadramentos diversos dos habituais; - Demonstrar a importância de fatores não exclusivamente normativos na elaboração de um projeto de via-férrea; - Enquadrar as especificações normativas relativas ao projeto, construção e manutenção da via-férrea; - Definir critérios de apreciação da qualidade e funcionamento do material de via e de processos construtivos alternativos; - Ser crítico em relação ao seu trabalho e aplicar noções de bom senso.</p>
+
+## Resultados de aprendizagem: <p>COMPETÊNCIAS E RESULTADOS DE APRENDIZAGEM: <br />Conhecimento: Descrever os principais conceitos dos sistemas e normas ferroviárias e identificar os domínios em que podem ser aplicadas nas áreas específicas de projeto, fiscalização e produção de obras de construção. <br />Compreensão: Interpretar e manipular os elementos escritos e desenhados que fazem parte de projetos de ferroviários. Identificar as características de elementos de construção e associá-las a parâmetros indicadores do seu desempenho em termos de eficiência funcional e económica. Desenvolver capacidade de compreensão que permitam e constituam a base de desenvolvimento e/ou aplicações originais, em muitos casos em contexto de investigação. <br /><br /></p>
+<p>Com a metodologia proposta, espera-se que o estudante obtenha uma formação em ferrovia que o permita:</p>
+<p>- Estabelecer processos de hierarquização de diversas soluções conceptuais e construtivas de modo a identificar as mais eficientes segundo os pontos de vista pretendidos;</p>
+<p>- Saber aplicar os seus conhecimentos na resolução de problemas em situações novas e não familiares, em contextos alargados e multidisciplinares;</p>
+<p>- Integrar conhecimentos para lidar com questões complexas, desenvolver soluções ou emitir juízos em situações de informação limitada ou incompleta, incluindo reflexões sobre as implicações e as responsabilidades éticas e sociais relacionadas com cada decisão possível.</p>
+<p>- Criticar as metodologias e conceitos utilizados e antever as linhas de evolução que os mesmos poderão seguir.</p>
+<p>- Lidar com elementos reais de projeto e procurar desenvolver soluções mais eficientes.</p>
+<p>- Lidar com informação disponibilizada por empresas e refletir sobre o seu significado na perspetiva da sustentabilidade futura, tanto no âmbito nacional como internacional.</p>
+
+# Unidade curricular: Infraestruturas de Transportes
+
+## Ano: 2
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p>JUSTIFICAÇÃO<br /><br />Na Unidade Curricular de Infraestruturas de Transportes pretende-se complementar o conhecimento adquirido pelos estudantes na Unidade Curricular de Vias de Comunicação no âmbito de nós, rotundas, interseções e pavimentos. Serão também abordados conceitos de infraestruturas aeroportuárias.</p>
+<p><br /> OBJETIVOS</p>
+<p><br /> Conhecimento:<br />- conhecer os materiais utilizados no domínio das infraestruturas de transportes e a respectiva legislação aplicável.</p>
+<p>- projetar qualquer obra rodoviária.</p>
+<p><br /> Compreensão</p>
+<p>- compreender interpretar e manipular os elementos desenhados que fazem parte de projetos rodoviários. Identificar as características de elementos rodoviários e associá-las a parâmetros indicadores do seu desempenho em termos de eficiência funcional e económica.  </p>
+<p><br />  Aplicação</p>
+<p>- aplicar os conhecimentos ministrados de uma forma integrada. Formular propostas de alteração de procedimentos ou estratégias rodoviárias<br />- projetar e dimensionar pavimentos rodoviários ou aeroportuários.</p>
+<p> <br />  Síntese:<br /><br />- desenvolver soluções e análise critica no âmbito do comportamento estrutural e composição dos pavimentos.<br />- definir materiais e equipamentos a utilizar na realização de uma obra rodoviária ou aeroportuária. Propor novas soluções técnicas e económicas.</p>
+
+## Resultados de aprendizagem: <p>COMPETÊNCIAS E RESULTADOS DE APRENDIZAGEM: <br /> - Possuir conhecimentos e capacidade de compreensão a um nível que permita e constitua a base de desenvolvimentos e/ou aplicações originais; <br /> - Saber aplicar os seus conhecimentos e a sua capacidade de compreensão e de resolução de problemas em situações novas e não familiares, em contextos alargados e multidisciplinares; <br /> - Capacidade para integrar conhecimentos, lidar com questões complexas, desenvolver soluções ou emitir juízos em situações de informação limitada ou incompleta, incluindo reflexões sobre as implicações e responsabilidades éticas e sociais que resultem ou condicionem essas soluções e esses juízos; <br /> - Ser capaz de comunicar conclusões, conhecimentos e os raciocínios a eles subjacentes, quer a especialistas, quer a não especialistas, de uma forma clara e sem ambiguidades.</p>
+
+## Pré-requisitos e co-requisitos: Vias de Comunicação<br />Engenharia do Território e  dos Transportes<br />Engenharia de Tráfego
+
+# Unidade curricular: Laboratório de Simulação de Tráfego
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: 
+
+## Resultados de aprendizagem: 
+
+# Unidade curricular: Fundamentos de Análise de Projetos de Investimento
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: 
+
+## Resultados de aprendizagem: 
+
+# Unidade curricular: Sistemas de Apoio à Decisão
+
+## Ano: 1
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: 
+
+## Resultados de aprendizagem: 
+
+# Unidade curricular: Portos e Aeroportos
+
+## Ano: 1
+## Semestre: 2
+## ECTS: 6.0
+## Objetivos: 
+
+## Resultados de aprendizagem: 
+
+# Unidade curricular: Modelação de Transportes
+
+## Ano: 2
+## Semestre: 1
+## ECTS: 6.0
+## Objetivos: <p>O objetivo principal desta UC é dotar os estudantes de conhecimento cientifico, técnico e prático para análise de dados no âmbito dos transportes, com base na modelação, para apoio à decisão e resolução de problemas em transportes. Este objetivo traduz-se nos seguintes objetivos de aprendizagem:</p>
+<ul>
+<li>Elaborar o problema e respetivo método de abordagem com base nos dados disponíveis para a análise pretendida.</li>
+<li>Identificar conceitos e técnicas de recolha, processamento, descrição e apresentação de informação quantitativa.</li>
+<li>Aplicar ferramentas matemáticas de análise e modelação de dados bem como utilizar softwares de modelação de dados.</li>
+<li>Adquirir pensamento crítico das diferentes abordagens e identificação do método a desenvolver e/ou aplicar.</li>
+<li>Identificar e aplicar métodos e práticas de apoio à decisão e implementação de medidas de transporte.</li>
+</ul>
+
+## Resultados de aprendizagem: O estudante adquire conhecimento dos conceitos fundamentais em transportes bem como conceitos de análise estatística que são a base de conhecimento necessário para desenvolver estudos em transportes com recurso a bases de dados.<br /><br /> A partir desta base fundamental, o estudante adquire competências para explorar diferentes abordagens de tratamento e análise de dados que respondam ao problema de transportes identificado. <br /><br />Através da aplicação de ferramentas matemáticas (modelação, simulação e otimização), com recurso a softwares, a casos de estudo o estudante será capaz de quantificar o problema e identificar soluções. Assim, o estudante adquire competências práticas das ferramentas bem como de análise crítica que serão suporte para a sua vida profissional em particular, na identificação das melhores práticas e como tal de apoio à decisão.
+
+## Pré-requisitos e co-requisitos: Conhecimentos gerais de estatística
+

@@ -1,0 +1,129 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Serviços de Arquivo, Biblioteca e Museu
+
+## Curso responsável
+Licenciatura em Ciência da Informação
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<p>Pretende-se que os estudantes:<br />- compreendam a função, nos tempos atuais, dos Serviços Arquivo, Biblioteca e Museu, dotando-os de uma adequada adaptabilidade ao contexto em que se inserem;<br />- identifiquem diferenças e semelhanças entre estes Serviços quanto ao ciclo de tarefas que cumprem regularmente e quanto ao modo como interagem com a sociedade e respetivos &#8220;públicos&#8221;;&#8232;<br />- articulem conhecimentos teóricos e técnicos obtidos noutras UC com a funcionalidade dos serviços de arquivo, biblioteca e museu.</p>
+
+## Resultados de aprendizagem e competências
+<p>No final da UC, o estudante deve ser capaz de:&#8232;</p>
+<p>- conhecer e descrever adequadamente o ciclo de trabalho em serviços de arquivo, biblioteca e museu&#8232;</p>
+<p>- articular a teoria e a prática no que respeita às operações técnicas e procedimentos de difusão da informação tendo em vista o público-alvo de cada tipo de serviço.</p>
+
+## Pré-requisitos e co-requisitos
+Não aplicável
+
+## Programa
+1. Arquivos, Bibliotecas e Museus: de &#8220;Lugares de Memória&#8221; a Serviços de Informação em geral e Serviços Culturais em particular<br />2. A responsabilidade social dos Serviços Culturais<br />3. O Serviço Arquivo: práticas internas e externas regulares&#8232;<br /><div style=&quot;padding-left: 30px;&quot;>3.1. Missão, objetivos e funções <br />3.2. Tipos de arquivos</div><br /><div style=&quot;padding-left: 30px;&quot;>3.3. As estratégias próprias de difusão específica e geral; tipos de instrumentos de acesso à informação</div><br />4. O Serviço Biblioteca: práticas internas e externas regulares<br /><div style=&quot;padding-left: 30px;&quot;>4.1.&#8232;A Biblioteca: missão, objetivos e funções<br />4.2. Tipos de bibliotecas</div><br /><div style=&quot;padding-left: 30px;&quot;>4.3. Análise da atividade infocomunicacional desde a constituição das &#8220;coleções&#8221;, análise e descrição, até à sua utilização e difusão</div><br /><div style=&quot;padding-left: 30px;&quot;>4.4. As estratégias próprias de difusão específica e geral</div><br />5. O Serviço Museu: práticas internas e externas regulares<br /><div style=&quot;padding-left: 30px;&quot;>5.1 O Museu: missão, objetivos e funções<br />5.2. Tipos de museus</div><br /><div style=&quot;padding-left: 30px;&quot;>5.3. Políticas, normas e procedimentos para acesso às coleções</div><br /><div style=&quot;padding-left: 30px;&quot;>5.4. Estratégias de mediação em museus</div><br /><div style=&quot;padding-left: 30px;&quot;>5.5. Públicos de museus</div><br />6. Avaliação da qualidade dos serviços e do fluxo da informação&#8232;<br /><div style=&quot;padding-left: 30px;&quot;> </div>
+
+## Bibliografia obrigatória
+Abadal Falgueras, Ernest; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007184490108801" title="Sistemas y servicios de información digital (Abre numa nova janela)" target="_blank" >Sistemas y servicios de información digital</a>. ISBN: 84-95178-98-2<br>
+Anderson, Gail 340; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007557400108801" title="Reinventing the museum (Abre numa nova janela)" target="_blank" >Reinventing the museum</a>. ISBN: 0-7591-0170-1<br>
+Armando Malheiro da Silva; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007854700108801" title="Recursos de informação (Abre numa nova janela)" target="_blank" >Recursos de informação</a>. ISBN: 978-972-674-672-0<br>
+Gill, Philip 340; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007250040108801" title="Os^serviços da biblioteca pública (Abre numa nova janela)" target="_blank" >Os^serviços da biblioteca pública</a>. ISBN: 972-21-1567-7<br>
+Silva, Armando Barreiros Malheiro da 070; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990006827840108801" title="Arquivística (Abre numa nova janela)" target="_blank" >Arquivística</a>. ISBN: 972-36-0483-3<br>
+Taylor, Arlene G; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990006840800108801" title="The^organization of information (Abre numa nova janela)" target="_blank" >The^organization of information</a>. ISBN: 1-56308-498-8<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As aulas conciliam a exposição teórica, com a projeção de slides e vídeos, a discussão de grupo e visitas de estudo. Os trabalhos elaborados pelos estudantes devem ser o resultado de uma reflexão sobre as leituras propostas pelos docentes e as visitas efetuadas e a sua apresentação oral deverá permitir o debate e a análise crítica em conjunto na aula.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 61.0 horas
+- Frequência das aulas: 41.0 horas
+- Trabalho escrito: 60.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>A avaliação final desta unidade curricular é a média ponderada da avaliação do trabalho individual (40%) e do exame final (60%).</p>
+
+## Obtenção de frequência
+<p>Não aplicável</p>
+<p> </p>
+
+## Exames ou Trabalhos Especiais
+<p>Não aplicável</p>
+
+## Melhoria de classificação
+<p>A melhoria da classificação poderá ser obtida mediante a repetição do exame final e/ou a reformulação do trabalho.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Archive, Library and Museum Services
+
+## Curso responsável
+Bachelor of Arts in Information Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+It is intended that students:<br />- understand the function, in current times, of Archive, Library and Museum Services, providing them with adequate adaptability to the context in which they operate;<br />- identify differences and similarities between these Services in terms of the cycle of tasks they regularly perform and the way they interact with society and their respective &#8220;publics&#8221;;<br />- articulate theoretical and technical knowledge obtained in other UCs with the functionality of archive, library and museum services.
+
+## Resultados de aprendizagem e competências
+<p>At the end of this curricular unit, the student must be able to:&#8232;</p>
+<p>-know and describe correctly the work cycle in an archive, library and museum services&#8232;</p>
+<p>-articulate theory and practice in what concerns the technical operations and the information diffusion procedures, in accordance with the target public of each kind of service.</p>
+
+## Pré-requisitos e co-requisitos
+Not applicable
+
+## Programa
+1. Archives, Libraries and Museums: from &#8220;places of memory&#8221; to Information Services in general and Cultural Services in particular<br />2. The social responsibility of cultural services<br />3. The Archives Service: internal and external regular practices<br /><div style=&quot;padding-left: 30px;&quot;>3.1. Mission, objectives and functions</div><br /><div style=&quot;padding-left: 30px;&quot;>3.2. Types of archives<br />3.3. Specific and general diffusion strategies; types of information access tools</div><br />4. The Library Service: internal and external regular practices<br /><div style=&quot;padding-left: 30px;&quot;>4.1 The Library: mission, objectives and functions</div><br /><div style=&quot;padding-left: 30px;&quot;>4.2 Types of libraries<br />4.3. Analysis of the infocommunicational activity from the constitution of &#8220;collections&#8221;, analysis and description, to their use and diffusion</div><br /><div style=&quot;padding-left: 30px;&quot;>4.4. Specific and general diffusion strategies</div><br />5. The Museum Service: internal and external regular practices<br /><div style=&quot;padding-left: 30px;&quot;>5.1 The museum: mission, objectives and functions</div><br /><div style=&quot;padding-left: 30px;&quot;>5.2. Types of museums<br />5.3. Policies, standards and procedures for collections access</div><br /><div style=&quot;padding-left: 30px;&quot;>5.4. Museum mediation strategies</div><br /><div style=&quot;padding-left: 30px;&quot;>5.5. Museum visitors</div><br />6. Evaluation of services quality and information flow<br /><div style=&quot;padding-left: 30px;&quot;> </div>
+
+## Bibliografia obrigatória
+Abadal Falgueras, Ernest; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007184490108801" title="Sistemas y servicios de información digital (Opens in a new window)" target="_blank" >Sistemas y servicios de información digital</a>. ISBN: 84-95178-98-2<br>
+Anderson, Gail 340; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007557400108801" title="Reinventing the museum (Opens in a new window)" target="_blank" >Reinventing the museum</a>. ISBN: 0-7591-0170-1<br>
+Armando Malheiro da Silva; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007854700108801" title="Recursos de informação (Opens in a new window)" target="_blank" >Recursos de informação</a>. ISBN: 978-972-674-672-0<br>
+Gill, Philip 340; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990007250040108801" title="Os^serviços da biblioteca pública (Opens in a new window)" target="_blank" >Os^serviços da biblioteca pública</a>. ISBN: 972-21-1567-7<br>
+Silva, Armando Barreiros Malheiro da 070; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990006827840108801" title="Arquivística (Opens in a new window)" target="_blank" >Arquivística</a>. ISBN: 972-36-0483-3<br>
+Taylor, Arlene G; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990006840800108801" title="The^organization of information (Opens in a new window)" target="_blank" >The^organization of information</a>. ISBN: 1-56308-498-8<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The classes conciliate theoretical exposition, slides and videos presentation, group discussions and study visits. The assignments produced by the students should be the result of a reflection on the readings proposed by the teachers and the study visits and their oral presentation should allow the debate and critical analysis jointly in the classroom.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 61.0 hours
+- Frequência das aulas: 41.0 hours
+- Trabalho escrito: 60.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>The final evaluation of this curricular unit is the weighted average of the  individual assignment (40%) and the final exam (60%).</p>
+
+## Obtenção de frequência
+Not applicable
+
+## Exames ou Trabalhos Especiais
+Not applicable
+
+## Melhoria de classificação
+<p>The final classification can be improved by repeating the final exam and/or by reformulating the written assignment.</p>
+

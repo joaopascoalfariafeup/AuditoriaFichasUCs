@@ -1,0 +1,159 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Investigação Pré-Clínica e Ensaio Clínico
+
+## Curso responsável
+Mestrado em Bioengenharia
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+A UC foi desenhada para que os estudantes adquiram conhecimentos sobre os princípios de investigação pré-clinica e ensaios clínicos inerentes ao desenvolvimento de novos medicamentos e/ou dispositivos médicos. No final do curso, os estudantes deverão ter adquirido conhecimentos sobre os seguintes tópicos: (1) Desenho experimental e bases científicas (desde a investigação básica à aprovação de novos medicamentos /dispositivos médicos); (2) Considerações éticas, regulamentares e de segurança dos participantes; (3) Desenvolvimento pré-clinico e aspectos regulamentares; (4) Desenho e análise de ensaios clínicos (boas práticas clínicas); (5) Coordenaçãolocal e do estudo clínico; (6) Processamento de dados e informatização; (7) Liderança e profisionalismo; (8) Estratégias de comunicação e trabalho em equipa. Também deverão ter adquirido competências na utilização de animais de experiência e em modelos de doença para testar a eficácia e segurança de novos medicamentos/dispositivos médicos.
+
+## Resultados de aprendizagem e competências
+Esta UC deve preparar os futuros graduados em Bioengenharia (ramo de Biotecnologia Molecular) para seguir e integrar equipas de investigação responsáveis pelo desenho e realização de investigação pré-clínica e ensaios clínicos. A disciplina oferece um curriculum multidisciplinar abrangendo aspectos teóricos e práticos da metodologia de investigação, das questões éticas relacionadas com a experimentação humana e animal, da regulamentação sobre investigação pré-clínica e ensaios clínicos até a aprovação final de novos medicamentos e/ou dispositivos médicos. É oferecido aos estudantes sem conhecimentos prévios de farmacologia a possibilidade de seguir um curso introdutório sobre os princípios básicos da actuação dos medicamentos através de abordagens moleculares vs sistémicas. Os estudantes também serão alertados para os fundamentos do desenvolvimento de novos produtos para uso médico e para a regulamentação existente sobre a conduta a seguir na investigação / ensaios clínicos, nomeadamente sobre os patrocinadores, investigadores e comités de avaliação institucional. Grande êmfase será dada à ética na investigação biomédica, bem como à sua relevância no raciocínio crítico sobre as tomadas de decisão, regulamentação pública e legislação específica que controla os avanços na ciência e tecnologia biomédica e suas aplicações. No decurso da UC serão discutidos os princípios subjacentes à decisão de realizar um ensaio clínico desde a sua localização à sua conclusão na perspectiva do promotor e aos aspectos relacionados com o desenho das bases de dados, certificação e garantia de qualidade, e meios de divulgação. O desenho e a escolha dos métodos de investigação devem incluir ponderação sobre questões de quantificação, vieses e factores confundidores, critérios populacionais, avaliação críeriosa dos ensaios pré-clínicos e clínicos já realizados/publicados, bem como a possibilidade de criar novos e melhores protocolos de investigação
+
+## Programa
+<p>Investigação básica - alvos moleculares e farmacologia "in vitro" (com base no mecanismo ou no sistema); identificação da molécula-alvo, processamento farmaceutico e síntese em escala; concepção, desenho e testes-piloto de dispositivos médicos; ensaios em modelos de doença e animais de experiência (boas práticas laboratoriais).</p>
+<p>Desenvolvimento pré-clínico - farmacocinética; metabolismo e estabilidade metabólica; farmacogenética, mutagenicidade e segurança (in vitro e in vivo); esterilização, testes mecânicos, biocompatibilidade e armazenamento dos dispositivos médicos; validação e testes dos dispositivos médicos em animais (ética na investigação e conduta responsável).</p>
+<p>Ensaios clínicos - ética e assuntos regulamentares; desenho e garantia de qualidade dos ensaios de fase I, II e III; toxicidade crónica e sobre a reprodução; testes de flexibilidade e eficácia dos dispositivos médicos (boas práticas clínicas).</p>
+Aprovação oficial (e.g. EMA, FDA) - revisão e reavaliação regulamentar.
+
+## Bibliografia obrigatória
+Karlberg and Speers; Reviewing Clinical Trials: A Guide for the Ethics Committee, 2010. ISBN: 978-988-19041-1-9<br>
+Bert B et al; The animal experimentation quandary: stuck between legislation and scientific freedom. EMBO reports 17, 2016. ISBN: 10.15252/embr.201642354<br>
+Yong et al; Establishing a knowledge trail from molecular experiments to clinical trials. New Biotechnology 28 , 2011. ISBN: 10.1016/j.nbt.2011.03.016<br>
+de Vries et al; A protocol format for the preparation, registration and publication of systematic reviews of animal intervention studies. Evidence-based Preclinical Med 1, 2015. ISBN: 10.1002/ebm2.7<br>
+Guimarães S et al; Terapêutica medicamentosa e suas bases farmacológicas , 2014. ISBN: 972-0-06029-8<br>
+Katzung Bertram G. ed.; Basic & clinical pharmacology , 2014. ISBN: 007-121931-5<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>AULAS PRÁTICAS DE LABORATÓRIO (princípios de farmacocinética e exemplos sobre o mecanismo de acção de fármacos)</p>
+<p>Introdução às práticas laboratoriais - Modelos de doença e manipulação de animais de experiência - Absorção de fármacos (e.g. ácido salicílico) em meio ácido e alcalino - Biotransformação da zoxazolamina por microssomas hepáticos "in vitro" - Eliminação renal de fármacos (metabolitos da aspirina) no homem - Efeito dos anestésicos locais nas membranas biológicos (protecção da hemólise hipotónica) - Comparação do efeito anestésico local da procaína e da cocaína no olho do cobaio: efeito dos vasoconstritores - Acção dos antiepillépticos na condução nervosa - Relaxantes musculares (despolarizantes e não-despolarizantes) - Curvas de concentração-resposta: efeito contráctil da acetilcolina no íleo de cobaias - Farmacologia "in vivo" (e.g. efeito de um diurético de ansa e acção anticoagulante da heparina no coelho anestesiado) - "Pace-maker" eléctrico: efeito cronotrópico e inotrópico de fármacos nas aurículas isoladas de ratazana.</p>
+<p>TUTORIAIS (trabalho de grupo, apresentação e discussão)</p>
+<p>Coordenação da investigação clínica - Questões regulamentares (mecanismos de aprovação, comercialização e vigilância do medicamento/dispositivos médicos no espaço europeu) - Segurança farmacológica e dos dispositivos médicos - Farmacologia clínica - Questões regulamentares específicas dos dispositivos médicos - Terapêutica personalizada e farmacogenómica - Análise de risco e segurança farmacêutica.</p>
+O ensino teórico (e teórico-prático) é consolidado em aulas práticas laboratoriais ilustrativas de capítulos fundamentais sobre farmacocinética e mecanismos gerais da acção de fármacos (e.g. práticas de absorção, biotransformação e eliminação de fármacos; bases moleculares, eletrofisiológicas e terapêuticas de alguns grupos de medicamentos). Dentro de cada tópico lecionado será dada ênfase à discussão dos mecanismos moleculares de ação dos medicamentos, considerando sempre os protótipos de cada grupo em vez de oferecer uma descrição detalhada de cada fármaco individual. A seleção e profundidade de cada matéria a lecionar baseiam-se na experiência acumulada de vários anos de ensino e na ênfase dada pelas reuniões de consenso mundiais sobre determinado fármaco / dispositivo médico. Não obstante, serão discutidos nas aulas teórico-práticas a título exemplificativo novos fármacos em fase de ensaio clínico e/ou novas aplicações de fármacos já em uso, com o objetivo de incitar os estudantes a manter uma mente aberta, embora com sentido crítico, à inovação medicamentosa e à atualização constante das suas fontes bibliográficas.      
+<p> </p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 28.0 horas
+- Estudo autónomo: 50.0 horas
+- Frequência das aulas: 28.0 horas
+- Trabalho escrito: 28.0 horas
+- Trabalho laboratorial: 28.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Lições Teóricas:Expositivas -recurso a meios audiovisuais</p>
+<p>Lições Práticas(obrigatórias):Práticas experimentais. Discussão de Temas e elaboração de uma Monografia relacionada com Investigação Pré-Clínica e Ensaio (auto-aprendizagem).</p>
+<p>Tipo de Avaliação:Avaliação distribuída com exame final</p>
+<p>Avaliação Prática(frequência obrigatória e validade por 2 anos; 6 valores):</p>
+<p>- Em grupo (2-3 estudantes) - Discussão de Temas da actualidade. Monografia escrita sobre um tema relevante; exposição(~20 min) e discussão oral(~10 min)</p>
+<p>- Elaboração de relatórios experimentais</p>
+<p>Avaliação Teórica (teste escrito + prova oral, 14 valores):</p>
+<p>- Teste com perguntas de escolha múltipla + resposta escrita</p>
+<p>Admissão:&gt;75% presenças nas práticas e &gt;3.0/6.0 v. no curso prático</p>
+<p>- Prova oral: Dispensa se &gt;7.5/14.0 v. no teste escrito. Admissão se  &gt;6.0/14.0 valores no teste escrito</p>
+<p>Fórmula de avaliação:</p>
+<p>Classificação Final= 0.3*Nota prática + 0.7*Nota teórica</p>
+Nota prática = 0,2*Monografia/Tema + 0,1*Aulas laboratoriais
+<p> </p>
+<p> </p>
+
+## Obtenção de frequência
+&gt;75% presenças nas práticas e &gt;3.0/6.0 v. no curso prático
+
+## Melhoria de classificação
+Prova oral.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Preclinical Research and Clinical Trials
+
+## Curso responsável
+Master in Bioengineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+The course is designed to cover principles of applied clinical and preclinical research focusing in the development of new drugs and medical devices. On completion of the course, the students must have attained competencies in the following topics: (1) Scientific concepts and research design (from basic research to drug/medical device approval); (2) Ethical and participant safety considerations; (3) Preclinical development and regulation of new medicines (medical product); (4) Clinical trials design and operation (good clinical practices); (5) Study and site management; (6) Data management and informatics; (7) Leadership and professionalism; (8)  Communication and teamwork. Additional practical skills will be gained in laboratory animal science and disease models to test the efficacy and safety of new medicines (drugs or medical devices).
+
+## Resultados de aprendizagem e competências
+The Preclinical Research and Clinical Trials program prepares graduates in Bioengeneering (Molecular Biotechnology branch) to be able to follow and take part as research team members in research design and preclinical / clinical research trials.  The program offers a multidisciplinary curriculum, covering the theory and practice of research methods, the ethics of human subject and animal research, the science of drug targets and medical products safety and regulation, and the management and regulatory issues of preclinical development and clinical trials to final approval of medications and medical devices. Students without prior pharmacology coursework will be offered the opportunity to follow an introdutory course emphasising the principles of drug targeting using a systems- and a mechanism-based approach. The students will also be exposed to the fundaments of medical product development and regulations geverning the conduct of clinical research, including study sponsors, investigators, and institutional review boards. The broad intend of this course is to highlight the importance of ethics in biomedical research and to explore how critical ethical thinking can be used to analyze personal-decision making, public regulation, and the law concerning advanced biomedical sciences/technologies and their clinical applications. The course will highlight the principles of clinical research operations from study site selection to study closure from the perspective of sponsors and clinical research sites including an introduction to database design, management, quality assurance and report.  Research design and methods used in clinical and preclinical research include measurement issues, bias and confounding, statistical considerations, critical evaluation of published clinical and preclinical research designs, and protocols for development improvement.
+
+## Programa
+<p>Basic research - drug targets and in vitro pharmacology (mechanism-based vs system-based approach); identification of lead compounds, pharmaceutical processing and synthesis scale-up; conception, design and control tests of a medical device; tests is disease models and laboratory animals (good laboratory practices).</p>
+<p>Preclinical development - pharmacokinetic tests; metabolism and metabolic stability; pharmacogenomic, mutagenecity and toxicological safety (in vitro and in vivo); Sterilization, mechanical testing, biocompatibility and packaging of medical devices; validation development and animal testing of medical devices (biomedical research ethics and responsible conduct).</p>
+<p>Clinical trials - Ethics and regulatory review; Management and quality assurance of phases I, II and III clinical trials; long-term and reproductive toxicity; Flexibility and efficacy of medical devices (good clinical practices).</p>
+Oficial approval (e.g. EMA, FDA) - Regulator review and re-evaluation
+
+## Bibliografia obrigatória
+Karlberg and Speers; Reviewing Clinical Trials: A Guide for the Ethics Committee, 2010. ISBN: 978-988-19041-1-9<br>
+Bert B et al; The animal experimentation quandary: stuck between legislation and scientific freedom. EMBO reports 17, 2016. ISBN: 10.15252/embr.201642354<br>
+Yong et al; Establishing a knowledge trail from molecular experiments to clinical trials. New Biotechnology 28 , 2011. ISBN: 10.1016/j.nbt.2011.03.016<br>
+de Vries et al; A protocol format for the preparation, registration and publication of systematic reviews of animal intervention studies. Evidence-based Preclinical Med 1, 2015. ISBN: 10.1002/ebm2.7<br>
+Guimarães S et al; Terapêutica medicamentosa e suas bases farmacológicas , 2014. ISBN: 972-0-06029-8<br>
+Katzung Bertram G. ed.; Basic & clinical pharmacology , 2014. ISBN: 007-121931-5<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>LAB CLASSES (principles of pharmacokinetics and examples of drug targeting)</p>
+<p>Introduction to laboratory procedures. - Lab animal welfare and handling. - Salicylic acid uptake in an acidic and basic gastric environment in rat. - Biotransformation of zoxozolamine by hepatic microsomes &#8220;in vitro&#8221;. - Renal elimination of aspirin metabolites in humans. - The effects of local anaesthetics in hypotonic haemolysis of rat erythrocytes. - Comparison of the anaesthetic effect of procaine and cocaine in the cornea of guinea pig. The influence of vasoconstrictors in the duration of local anaesthesia. - Action of anti-epileptics in nervous conduction. - Relaxing muscle agents (depolarizing and non-depolarizing). - Concentration-response curves: contractile effect of acetylcholine in the guinea-pig ileum. - "In vivo" pharmacology (e.g. effect of a "loop diuretic" and anticoagulant effect of heparine in the anaesthetized rabbit). - Electrical pacing: chronotropic and inotropic effects of drugs in the rat atrium.</p>
+<p> TUTORIALS (team work, presentations and discussions)</p>
+<p>Clinical research management - Regulatory affairs (mechanisms of approval, trading and control of medications / medical devices in the european context) - Safety pharmacology - Clinical pharmacology - Special regulatory issues of medical devices. - Personalized therapeutics and pharmacogenomics. - Pharmaceutical safety and risk management.</p>
+Theoretical (and theoretical-practical) information is consolidated in laboratory classes, as these illustrate fundamental topics of drug actions such as drug absorption, biotransformation e elimination; molecular, electrophysiological and therapeutic basis of medications and its influence by medical devices. Within each chapter, emphasis is directed towards discussion of the molecular mechanisms of action of diverse drug groups and prototypes rather than offering repetitive detail about individual drugs. Selection of the subject matter and the order of its presentation are based on the accumulated experience of teaching for many years, which are also guided by the consensus meetings worldwide regarding any given drug / medical device group. Despite this, new drugs under clinical trials and/or old drugs used with off-label applications will also be discussed at theoretical-practical classes, in order to push the students to keep critical open minds regarding innovation in drug research and to urge them to maintain updated their bibliographic resources. 
+<p> </p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 28.0 hours
+- Estudo autónomo: 50.0 hours
+- Frequência das aulas: 28.0 hours
+- Trabalho escrito: 28.0 hours
+- Trabalho laboratorial: 28.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>- Theoretical classes: Video projection.</p>
+<p>- Practical lessons (compulsory): Lab work + Presentation and Discussion of Themes/Monographs related to Preclinical Development and Clinical Trials (autonomous work).</p>
+<p>Type of evaluation: Distributed evaluation with final examination.</p>
+<p>Practical Evaluation (mandatory, classification is valid for 2 years, 6 points):</p>
+<p>- Monograph and Theme Discussion (team work, 2-3 students) &#8211; Oral presentation (~20 min) and discussion of a written piece of work (monograph)</p>
+<p>- Experimental reports</p>
+<p>Theoretical Evaluation (Test + Oral examination, 14 points)</p>
+<p>- Multiple choice test + written short answers</p>
+<p>Admission: &gt;75% attendance to practical lessons and &gt;3.0/6.0 points in the practical course.</p>
+<p>-Oral examination: Waived if &gt;7.5/14.0 points in the test. Compulsory if &gt;6.0/14.0 points in the test</p>
+<p>Final Score = 0.3* practical score + 0.7* theoretical Score</p>
+Practical classes score = 0,2*monograph/theme + 0,1*Practical classes
+<p> </p>
+<p> </p>
+
+## Obtenção de frequência
+<p>&gt;75% attendance to practical lessons and &gt;3.0/6.0 points in the practical course.</p>
+
+## Melhoria de classificação
+Oral exam.
+

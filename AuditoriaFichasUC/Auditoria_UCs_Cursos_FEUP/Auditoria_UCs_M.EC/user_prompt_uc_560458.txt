@@ -1,0 +1,135 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Infraestruturas Rodo e Ferroviárias
+
+## Curso responsável
+Mestrado em Engenharia Civil
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+<ul><br /><li>Fornecer metodologias e ferramentas para:</li><br /></ul><br /><p>       - a caracterização dos materiais de aterros de pavimentos e de vias-férreas;</p><br /><p>       - a caracterização dos materiais de pavimentação;</p><br /><p>       - o dimensionamento de plataformas rodoviárias e ferroviárias;</p><br /><p>       - o dimensionamento de pavimentos rodoviários flexíveis e rígidos;</p><br /><p>       - o dimensionamento dos elementos constituintes de vias-férreas.</p><br /><ul><br /><li>Apresentar técnicas de inspeção e de monitorização de plataformas rodoviárias e ferroviárias, de pavimentos e de vias-férreas.</li><br /></ul>
+
+## Resultados de aprendizagem e competências
+<p><strong>Conhecimento: </strong>Conhecer os materiais a aplicar em aterros de pavimentos e de vias-férreas e os respetivos métodos de caracterização e classificação. Conhecer os materiais de pavimentos e os elementos constituintes das vias-férreas. Conhecer técnicas de inspeção e de monitorização de plataformas rodoviárias e ferroviárias, de pavimentos e de vias-férreas.</p>
+<p><strong>Compreensão</strong>: Compreender o comportamento estrutural dos pavimentos e das vias-férreas face às respetivas solicitações. Identificar as propriedades que caracterizam os materiais de infraestruturas rodoferroviárias. Reconhecer diferentes sistemas de via-férrea e seus  elementos constituintes.</p>
+<p><strong>Aplicação: </strong>Dimensionar plataformas rodoviárias e ferroviárias. Dimensionar pavimentos rodoviários. Dimensionar os elementos das vias-férreas.</p>
+<p><strong>Análise: </strong>Interpretar o comportamento de pavimentos rodoviários e de vias- férreas. Avaliar soluções.</p>
+<p><strong>Comunicação e trabalho em equipa:</strong> Produzir documentos escritos e apresentar oralmente trabalhos/casos de estudo.</p>
+
+## Programa
+<p>Plataformas de vias rodo e ferroviárias: exigências estruturais e funcionais de aterros de infraestruturas de transporte: leito de pavimento, leito de via e camadas de apoio da infraestrutura: materiais, dimensionamento, condições de colocação em obra e de compactação, caracterização de materiais e das camadas in situ, tratamento de solos, equipamentos.<br /><br /></p>
+<p>Pavimentos rodoviários flexíveis e rígidos: materiais, solicitação, critérios de ruína, cálculo e dimensionamento, técnicas de observação funcional e estrutural.</p>
+<p>Sistemas de via-férrea. Elementos constituintes da via. Modelos de via e de veículo. Solicitações sobre a via. Comportamento dinâmico da via-férrea. Dimensionamento dos elementos constituintes da via. Inspeção e avaliação da qualidade geométrica da via-férrea. Técnicas de manutenção.</p>
+<p> </p>
+
+## Bibliografia obrigatória
+SETRA- LCPC; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009485520108801" title=" Réalisation de remblais et des couches de forme. vol 1 e 2 (Abre numa nova janela)" target="_blank" > Réalisation de remblais et des couches de forme. vol 1 e 2</a>, 2000. ISBN:  <br>
+SETRA-LCPC ; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008861090108801" title="Traitement des sols à la chaux et/ou aux liants hydrauliques - Application à la réalisation des remblais et des couches de forme.  (Abre numa nova janela)" target="_blank" >Traitement des sols à la chaux et/ou aux liants hydrauliques - Application à la réalisation des remblais et des couches de forme. </a>, 2000. ISBN: ISBN: 2-7208-3810-1<br>
+Manuel António de Matos Fernandes; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009123840108801" title="Analysis and design of geotechnical structures (Abre numa nova janela)" target="_blank" >Analysis and design of geotechnical structures</a>. ISBN: 978-0-367-02663-9<br>
+Indraratna, B.; Salim, W; Rujikiatkamjorn, C.  ; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009752920108801" title="Advanced rail geotechnology &#8211; ballasted track. (Abre numa nova janela)" target="_blank" >Advanced rail geotechnology &#8211; ballasted track.</a>, 2011. ISBN:  97804156695573<br>
+Ernest T. Selig; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004701520108801" title="Track geotechnology and substructure management (Abre numa nova janela)" target="_blank" >Track geotechnology and substructure management</a>. ISBN: 0-7277-2013-9 <br>
+Cecília Maria Nogueira Alvarenga Santos do Vale; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004733140108801" title="Comportamento estrutural de pavimentos rodoviários flexíveis (Abre numa nova janela)" target="_blank" >Comportamento estrutural de pavimentos rodoviários flexíveis</a><br>
+Fernando E. Ferreira Branco; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004792040108801" title="Pavimentos rodoviários (Abre numa nova janela)" target="_blank" >Pavimentos rodoviários</a>. ISBN: 972-40-2648-5 <br>
+Dallas N. Little; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009204390108801" title="Modeling and design of flexible pavements and materials (Abre numa nova janela)" target="_blank" >Modeling and design of flexible pavements and materials</a>. ISBN: 978-3-319-58443-0<br>
+Eduardo Manuel Cabrita Fortunato; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005769180108801" title="Renovação de plataformas ferroviárias (Abre numa nova janela)" target="_blank" >Renovação de plataformas ferroviárias</a>. ISBN: 972-49-2056-9<br>
+Coenraad Esveld; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004632310108801" title="Modern railway track (Abre numa nova janela)" target="_blank" >Modern railway track</a>. ISBN: 90-800324-3-3 <br>
+Cecília Maria Nogueira Alvarenga Santos do Vale; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005606280108801" title="Influência da qualidade dos sistemas ferroviários no comportamento dinâmico e no planeamento da m (Abre numa nova janela)" target="_blank" >Influência da qualidade dos sistemas ferroviários no comportamento dinâmico e no planeamento da m</a><br>
+Li, D.; Hyslip, J.; Sussmann, T.; Chrismer, S; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009752960108801" title="Railway Geotechnics (Abre numa nova janela)" target="_blank" >Railway Geotechnics</a>, 2016. ISBN: ISBN: 13: 978-1-4822-8880-3<br>
+Indraratna, B.; Ngo, T.;  Ballast Railroad Design: SMART-UOW Approach., 2019. ISBN: 978-1-138-58703-8<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><strong>Metodologias de ensino</strong></p>
+<p>O ensino desta unidade curricular será feito por sessões expositivas/palestras, leituras orientadas, resolução de exercícios/trabalho prático.</p>
+<p> </p>
+<div><strong> Demonstração da coerência das metodologias de ensino com os objectivos de aprendizagem da unidade curricular</strong></div>
+<div>Os conhecimentos científicos e técnicos, previstos nos objetivos, serão desenvolvidos, no início de cada assunto a abordar, em sessões expositivas e palestras, onde será estabelecida a relação com outras matérias já tratadas em aulas anteriores ou noutras UCs. Nestas sessões, pretende-se desenvolver as competências dos estudantes e sensibilizá-los para a importância dos temas abordados no contexto real atual, para um melhor enquadramento e também maior facilidade na perceção dos objetivos. </div>
+<p>A realização de exercícios/trabalho prático constituem estratégias para atualização dos objetivos definidos para a UC, para a compreensão das temáticas em estudo. No caso do trabalho prático, a sua realização permite partilha de conhecimentos entre os estudantes, procura de informação externa e, portanto, contacto com a realidade. A sua posterior apresentação ao grupo e respetiva defesa reforça a capacidade de análise crítica.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 16.5 horas
+- Estudo autónomo: 75.0 horas
+- Frequência das aulas: 45.5 horas
+- Trabalho escrito: 25.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>Fórmula de avaliação: CF = 0,7 Ex + 0,3 TP</p>
+<p>CF = classificação final; Ex = classificação do exame; T = trabalho prático</p>
+
+## Obtenção de frequência
+<br /><br />O estudante tem frequência se a sua classificação final for igual ou superior a 9,5 valores.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Road and Rail Infrastructures
+
+## Curso responsável
+Master in Civil Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+2
+
+## Objetivos
+Provide methodologies and tools for:      <br /> - the characterization of the materials used in pavement and railway embankments;     <br /> - the characterization of the pavement materials;   <br />  - the design  of road and railway platforms;       <br />- the design of flexible and rigid road pavements;       <br />- the design of the elements that make up the railways.<br /><br />Present inspection and monitoring techniques for road and railway platforms, pavements and railways.
+
+## Resultados de aprendizagem e competências
+<strong>Knowledge</strong><br />The student knows the materials for the embankments of pavements and railways and the respective methods for its characterization and classification; knows the pavement materials and the elements of the railways tracks; knows inspection and monitoring techniques of road and railway platforms, pavements and railways.<br /><br /><br /><p><strong>Comprehension: </strong>The student understands the structural behavior of pavements and railways in view of the respective demands; identifies the properties that characterize road-rail infrastructure materials; recognizes different railway systems and their constituent elements.</p><br /><strong>Application:</strong> The student is able to desig road and railway platforms, design road pavements and the elements of the railways.<br /><br /><strong>Analysis:</strong> The student interprets the behavior of road and railway pavements and evaluates solutions.<br /><br /><strong>Communication and teamwork:</strong> The student produces written documents and orally presents work/case studies.
+
+## Programa
+Road and railway platforms: structural and functional requirements of landfills for transport infrastructure: pavement bed, track bed and infrastructure support layers: materials, design, conditions for placing on site and compaction, characterization of materials and in situ layers, soil treatment, equipment.<br /><br />Flexible and rigid road pavements: materials, traffic, damage criteria, design, functional and structural observation techniques.<br /><br />Railtrack systems:  elements of the track; track and vehicle models; dynamic behavior of the railway; design of the track elements; inspection and evaluation of the track geometric quality. maintenance techniques.
+
+## Bibliografia obrigatória
+SETRA- LCPC; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009485520108801" title=" Réalisation de remblais et des couches de forme. vol 1 e 2 (Opens in a new window)" target="_blank" > Réalisation de remblais et des couches de forme. vol 1 e 2</a>, 2000. ISBN:  <br>
+SETRA-LCPC ; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990008861090108801" title="Traitement des sols à la chaux et/ou aux liants hydrauliques - Application à la réalisation des remblais et des couches de forme.  (Opens in a new window)" target="_blank" >Traitement des sols à la chaux et/ou aux liants hydrauliques - Application à la réalisation des remblais et des couches de forme. </a>, 2000. ISBN: ISBN: 2-7208-3810-1<br>
+Manuel António de Matos Fernandes; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009123840108801" title="Analysis and design of geotechnical structures (Opens in a new window)" target="_blank" >Analysis and design of geotechnical structures</a>. ISBN: 978-0-367-02663-9<br>
+Indraratna, B.; Salim, W; Rujikiatkamjorn, C.  ; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009752920108801" title="Advanced rail geotechnology &#8211; ballasted track. (Opens in a new window)" target="_blank" >Advanced rail geotechnology &#8211; ballasted track.</a>, 2011. ISBN:  97804156695573<br>
+Ernest T. Selig; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004701520108801" title="Track geotechnology and substructure management (Opens in a new window)" target="_blank" >Track geotechnology and substructure management</a>. ISBN: 0-7277-2013-9 <br>
+Cecília Maria Nogueira Alvarenga Santos do Vale; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004733140108801" title="Comportamento estrutural de pavimentos rodoviários flexíveis (Opens in a new window)" target="_blank" >Comportamento estrutural de pavimentos rodoviários flexíveis</a><br>
+Fernando E. Ferreira Branco; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004792040108801" title="Pavimentos rodoviários (Opens in a new window)" target="_blank" >Pavimentos rodoviários</a>. ISBN: 972-40-2648-5 <br>
+Dallas N. Little; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009204390108801" title="Modeling and design of flexible pavements and materials (Opens in a new window)" target="_blank" >Modeling and design of flexible pavements and materials</a>. ISBN: 978-3-319-58443-0<br>
+Eduardo Manuel Cabrita Fortunato; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005769180108801" title="Renovação de plataformas ferroviárias (Opens in a new window)" target="_blank" >Renovação de plataformas ferroviárias</a>. ISBN: 972-49-2056-9<br>
+Coenraad Esveld; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004632310108801" title="Modern railway track (Opens in a new window)" target="_blank" >Modern railway track</a>. ISBN: 90-800324-3-3 <br>
+Cecília Maria Nogueira Alvarenga Santos do Vale; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005606280108801" title="Influência da qualidade dos sistemas ferroviários no comportamento dinâmico e no planeamento da m (Opens in a new window)" target="_blank" >Influência da qualidade dos sistemas ferroviários no comportamento dinâmico e no planeamento da m</a><br>
+Li, D.; Hyslip, J.; Sussmann, T.; Chrismer, S; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009752960108801" title="Railway Geotechnics (Opens in a new window)" target="_blank" >Railway Geotechnics</a>, 2016. ISBN: ISBN: 13: 978-1-4822-8880-3<br>
+Indraratna, B.; Ngo, T.;  Ballast Railroad Design: SMART-UOW Approach., 2019. ISBN: 978-1-138-58703-8<br>
+
+## Métodos de ensino e atividades de aprendizagem
+<strong>Teaching methodologies</strong><br /><br />The teaching of this curricular unit will be done by lectures, guided readings, resolution of exercises / practical work. <br /><br /><br /><p><strong>Demonstration of the coherence of the teaching methodologies with the learning objectives of the curricular unit</strong></p><br /><p> </p><br /><p>The scientific and technical knowledge will be developed, at the beginning of each subject to be addressed, in lectures. In these sessions, it is intended to develop students' competences and sensitize them to the importance of the themes in current real context.<br /><br />The accomplishment of exercises / practical work constitute strategies to update the objectives defined for the UC and to the understanding of the themes under study. The practical work allows the sharing of knowledge among students, the search for external information and, therefore, contact with reality. Their subsequent presentation to the group and their defense enhances the capacity for critical analysis.</p>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Apresentação/discussão de um trabalho científico: 16.5 hours
+- Estudo autónomo: 75.0 hours
+- Frequência das aulas: 45.5 hours
+- Trabalho escrito: 25.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+CF = 0.7 EX + 0.3 TP<br /><br />where: CF - final classification; TP - practical work; EX - final exam
+
+## Obtenção de frequência
+The student is approved if his final grade is equal to or higher than 9.5 out of 20.
+

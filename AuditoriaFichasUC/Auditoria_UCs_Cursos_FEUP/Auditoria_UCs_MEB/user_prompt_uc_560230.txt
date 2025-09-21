@@ -1,0 +1,129 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Complementos de Eletrónica
+
+## Curso responsável
+Mestrado em Bioengenharia
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Complementar os conhecimentos no domínio dos dispositivos semicondutores com o estudo da física e dos modelos de dispositivos eletrónicos ativos, de modo a melhor se conhecer as potencialidades e limitações das tecnologias com que um engenheiro tem de lidar no projeto de microssistemas biomédicos. Após revisão das características funcionais e das metodologias de análise e projeto de células fundamentais de circuitos analógicos e mistos, os estudantes adquirirão conhecimentos e as competências essenciais para analisarem e projetarem circuitos de captura, processamento, condicionamento e geração de sinais em sistemas para aplicações da eletrónica biomédica.
+
+## Resultados de aprendizagem e competências
+Tendo os estudantes adquirido previamente conhecimentos básicos em circuitos analógicos e digitais, e experiência na aquisição e processamento de sinais fisiológicos usando instrumentação e ferramentas computacionais dedicadas, os conteúdos desta unidade curricular permitem completar o conhecimento no âmbito do projeto de circuitos e sistemas eletrónicos para aplicações biomédicas. Sendo o tratamento destes conteúdos feito ao nível do transístor e sendo estudados processos de prototipagem de circuitos eletrónicos, são reunidas as condições para que o estudante possa assumir o projeto e a caracterização de microssistemas biomédicos a um nível mais avançado.
+
+## Pré-requisitos e co-requisitos
+Conhecimentos de análise de circuitos, teoria do sinal e dos sistemas. Frequência prévia de unidades curriculares introdutórias à teoria do sinal, eletrónica básica, e instrumentação biomédica.
+
+## Programa
+<p>- Revisão dos modelos para baixas e altas frequências de dispositivos semicondutores: díodo de junção PN; transístor de efeito de campo em tecnologia MOS; transístores bipolares.<br />- Fontes de alimentação &#8211; projeto e implementação de fontes de alimentação reguladas lineares e comutadas (elevadoras e redutoras de tensão)<br />- Transmissão de energia e sinal por acoplamento indutivo<br />- Sensorização eletroquímica &#8211; circuitos e sistemas para sensorização potenciostática e espectrografia de impedância <br />- Electroestimulação &#8211; circuitos de interface e amplificação para electroestimulação<br />- Ultrassonografia &#8211; circuitos de geração e aquisição de sinais em ultasonografia.</p>
+
+## Bibliografia obrigatória
+Robert B. Northrop; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005298170108801" title="Analysis and application of analog electronic circuits to biomedical instrumentation (Abre numa nova janela)" target="_blank" >Analysis and application of analog electronic circuits to biomedical instrumentation</a>, CRC Press, Taylor & Francis Group, 2012. ISBN: 13: 978-1439866696<br>
+
+## Bibliografia complementar
+Iniewski Krzysztof 340; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005491990108801" title="VLSI circuits for biomedical applications (Abre numa nova janela)" target="_blank" >VLSI circuits for biomedical applications</a>. ISBN: 978-1-59693-317-0 <br>
+Baker R. Jacob; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004550420108801" title="CMOS circuit design, layout, and simulation (Abre numa nova janela)" target="_blank" >CMOS circuit design, layout, and simulation</a>. ISBN: 0-7803-3416-7 <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>A sequência de abordagem dos conteúdos inicia-se com a revisão e aplicação de conhecimentos em que os estudantes já tenham alguma experiência, evoluindo para conceitos mais avançados, como a aplicação de circuitos com indutâncias e acoplamento indutivo, amplificação de potência, circuitos de modulação e desmodulação, e projeto de geradores de sinal não convencionais. Procura-se que sejam utilizados circuitos analógicos e digitais, transístores a operar em modo linear e em comutação, sistemas baseados em microcontroladores e sistemas de instrumentação virtual.</p>
+<p>Neste processo, é seguida uma metodologia de ensino e de aprendizagem baseada em projeto, de modo que cada um dos tópicos seja estudado no contexto da realização de um projeto. Nas aulas de TP, os conceitos teóricos fundamentais são inicialmente apresentados, seguindo-se a análise do trabalho a realizar e o dimensionamento/projeto de partes dos circuitos/sistemas a realizar posteriormente em contexto de laboratório, de modo a completar o ciclo especificação, projeto e análise funcional, implementação e verificação funcional dos circuitos.</p>
+<p>Os estudantes são incentivados a participar ativamente, sendo-lhes atribuída a tarefa de apresentar em aula, em cada semana, os dimensionamentos solicitados para o trabalho/projeto a realizar, seguida da realização em grupo dos trabalhos.</p>
+<p>Procura-se com esta metodologia que os estudantes façam um aprendizagem em que conceitos teóricos e práticos são abordados em contexto de aplicações mais próximas do mundo real, promovendo o pensamento crítico e analítico. Simultaneamente promove-se o desenvolvimento de competências essenciais como o trabalho de equipa, a comunicação, a investigação e a resolução de problemas.</p>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 horas
+- Frequência das aulas: 28.0 horas
+- Trabalho laboratorial: 28.0 horas
+- Trabalho de investigação: 28.0 horas
+- Trabalho escrito: 28.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+Nota Final = 60% *AD + 40% *Exame, com a condição de a nota de Exame ser igual ou superior a 8,0 valores, e a Nota Final ser igual ou superior a 9,5 valores. <br /><br />A Avaliação Distribuída (AD) compreende as avaliações da assiduidade e atitude pessoal no dimensionamento e realização dos trabalhos práticos (33%), e a da qualidade dos resultados e relatórios apresentados (67%).<br /><br />Os estudantes que tenham obtido 8 ou mais valores na componente AD em anos anteriores, podem manter essa avaliação sem necessitar de frequentar as aulas práticas. A nota final é calculada como indicado no ponto anterior.
+
+## Obtenção de frequência
+A componente de avaliação contínua baseia-se no contacto individual com os estudantes nas aulas laboratoriais e na avaliação dos trabalhos práticos realizados. A média ponderada da componente laboratorial está limitada inferiormente a 8,0/20 valores como condição para a obtenção de frequência, estando automaticamente vedado o acesso ao exame final se tal objetivo não for cumprido. As aulas laboratoriais são de frequência obrigatória estando sujeita à legislação no que toca ao número máximo de faltas admissível. <br />Todos os estudantes estão sujeitos a este procedimento, incluindo aqueles com estatuto especial (TE, DA,&#8230;). Situações de incompatibilidade serão analisadas e, caso se justifique, serão equacionadas soluções que minimizem a perturbação do processo aqui descrito.
+
+## Exames ou Trabalhos Especiais
+Todos os estudantes deverão cumprir, na íntegra e objetivamente, todos os requisitos da avaliação, não estando previstos, à priori, outros critérios para situações extraordinárias. No entanto, a surgirem, serão objeto de análise pontual.
+
+## Melhoria de classificação
+1. Classificação final: exame. <br />2. Classificação distribuída (em ano seguinte): a avaliar individualmente atendendo às componentes já realizadas.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Complements of Electronics
+
+## Curso responsável
+Master in Bioengineering
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+To complement the knowledge in the field of semiconductor devices with the study of the physics and models of active electronic devices, in order to gain a better understanding of the potential and limitations of the technologies that an engineer has to deal with when designing biomedical microsystems. After reviewing the functional characteristics and methodologies for analysing and designing fundamental cells of analogue and mixed-signal circuits, students will acquire the essential knowledge and skills to analyse and design circuits for capturing, processing, conditioning and generating signals in systems for biomedical electronics applications.
+
+## Resultados de aprendizagem e competências
+Once the students had previously acquired basic knowledge on analogue and mixed-signal circuits and acquired experience in the acquisition and processing of physiological signals using instrumentation and dedicated software tools, the contents of this curricular unit allow complementing the knowledge in the domain of design of biomedical circuits and systems. Being the treatment of these contents made at the transistor level and after knowing the prototyping processes of eletronic circuits and systems, conditions are met to allow students to assume the design and characterization of biomedical circuits and systems at a more advanced level.
+
+## Pré-requisitos e co-requisitos
+Knowledge of circuits analysis, systems and signal theory. Previous attendance of introdutory curricular units to signals theory, basic eletronics, and biomedical instrumentation.
+
+## Programa
+<p>- Review of low- and high- frequency models of semiconductor devices: PN junction diode, field effect transistor in MOS technology, and bipolar transistors.<br />- Active electronic devices - review of the characteristics and operating modes of diodes, bipolar transistors, and MOS field-effect transistors<br />- Power supplies - design and implementation of regulated linear and switching power supplies (voltage boosters and reducers)<br />- Power and signal transmission by inductive coupling<br />- Electrochemical sensing - circuits and systems for potentiostatic sensing and impedance spectroscopy <br />- Electrostimulation - interface and amplification circuits for electrostimulation<br />- Ultrasonography - signal generation and acquisition circuits for ultrasonography.</p>
+
+## Bibliografia obrigatória
+Robert B. Northrop; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005298170108801" title="Analysis and application of analog electronic circuits to biomedical instrumentation (Opens in a new window)" target="_blank" >Analysis and application of analog electronic circuits to biomedical instrumentation</a>, CRC Press, Taylor & Francis Group, 2012. ISBN: 13: 978-1439866696<br>
+
+## Bibliografia complementar
+Iniewski Krzysztof 340; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005491990108801" title="VLSI circuits for biomedical applications (Opens in a new window)" target="_blank" >VLSI circuits for biomedical applications</a>. ISBN: 978-1-59693-317-0 <br>
+Baker R. Jacob; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004550420108801" title="CMOS circuit design, layout, and simulation (Opens in a new window)" target="_blank" >CMOS circuit design, layout, and simulation</a>. ISBN: 0-7803-3416-7 <br>
+
+## Métodos de ensino e atividades de aprendizagem
+The sequence of approaching the curricular programme begins with a review and application of knowledge in which the students already have some experience, moving on to more advanced concepts, such as the application of circuits with inductance and inductive coupling, power amplification, modulation and demodulation, and the design of unconventional signal generators. The aim is to use analogue and digital circuits, transistors operating in linear and switching modes, microcontroller-based systems, and virtual instrumentation systems.<br /><br />In this process, a project-based teaching and learning methodology is followed, so that each topic is studied within the context of implementing a labwork project. In the TP classes, the fundamental theoretical concepts are initially presented, followed by the analysis of the work to be done and the dimensioning/design of parts of the circuits/systems to be carried out later in a laboratory context, to complete the cycle of specification, design and functional analysis, implementation and functional verification of the circuits.<br /><br />Students are encouraged to participate actively, being assigned the task of presenting in class, each week, the dimensions requested for the work/project to be carried out, followed by group work.<br /><br />This methodology seeks to enable students to learn theoretical and practical concepts in a context of applications that are closer to the real world, promoting critical and analytical thinking. At the same time, it promotes the development of essential skills such as teamwork, communication, research, and problem solving.
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 50.0 hours
+- Frequência das aulas: 28.0 hours
+- Trabalho laboratorial: 28.0 hours
+- Trabalho de investigação: 28.0 hours
+- Trabalho escrito: 28.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+Final Grade = 60%*DA + 40%*Exam- Students have to reach a minimum grade of 8 out of 20 in the exam and a minimum grade of 9.5 out of 20 in the final grade .<br /><br />The Distributed Assessment (DA) comprises the evaluations of the individual aptitude in the design and realization of the lab work (33%), and the quality of results and submitted reports (67%).<br /><br /> Students who attended this course in a previous year and reached a minimum grade of 8 in the DA component, do not need to attend lab classes. Final grade will be calculated as above.
+
+## Obtenção de frequência
+The continuous assessment component is based on the individual  interaction with students in the lab classes and in the assessment of the practical assignments. To be admitted to exams, students have to reach a minimum average grade of 8/20 in the continuous assessment component. Laboratorial classes are mandatory and students cannot miss them in a number higher than that allowed by the rules. <br />All students will be assessed with this procedure, even those with a special status (working students, students&#8217; association leaders&#8230;). Any situation, in which students cannot attend to classes will be analysed on a case by case basis in order to minimize drifting from this process.
+
+## Exames ou Trabalhos Especiais
+All students have to fully and objectively complete all assessment components, being not foreseen, in a first instance, other criteria for extraordinary situations. These will be subject to individual analysis.
+
+## Melhoria de classificação
+1. Final Grade: exam <br />2. Continuous Assessment (in a next year): subject to individual evaluation taking into consideration the accomplished components.
+

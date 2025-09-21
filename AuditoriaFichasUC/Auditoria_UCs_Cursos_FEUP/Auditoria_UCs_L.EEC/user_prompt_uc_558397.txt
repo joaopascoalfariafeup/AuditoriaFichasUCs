@@ -1,0 +1,169 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Eletromagnetismo
+
+## Curso responsável
+Licenciatura em Engenharia Eletrotécnica e de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+São objetivos desta unidade curricular que os estudantes:<br /><br />- adquiram conhecimentos fundamentais de eletromagnetismo, ciência base e estruturante da engenharia eletrotécnica;<br />- desenvolvam o raciocínio e adquiram competências na resolução autónoma e crítica de problemas;<br />- adquiram uma disciplina de trabalho continuado ao longo do semestre;<br />- tenham uma atitude respeitadora de valores éticos, tais como o respeito mútuo e a honestidade.<br />Em concreto, que adquiram as seguintes competências:<br />-Conhecer os fundamentos de fenómenos eletromagnéticos, incluindo como cargas produzem campos elétricos, e como<br />correntes são responsáveis por campos de indução magnética;<br />-Identificar grandezas fundamentais em Engenharia Eletrotécnica, designadamente Capacidade e Indutância com o fenómeno físico correspondente;<br />-Compreender propriedades e conceitos fundamentais da Eletrodinâmica, nomeadamente a lei de Faraday, corrente de<br />deslocamento, assim como a interdependência entre campo elétrico e campo magnético.<br />-Conhecimento sobre as propriedades magnéticas dos materiais magnéticos e análise quantitativa de circuitos magnéticos<br />eletroexcitados.
+
+## Resultados de aprendizagem e competências
+<p>No final desta unidade curricular, o estudante deve ser capaz de:</p>
+<p>- usar corretamente as leis que regem os fenómenos eletromagnéticos;</p>
+<p>- descrever o Eletromagnetismo como uma teoria unificadora dos vários fenómenos eletromagnéticos observados na Natureza e utilizados nas tecnologias;</p>
+<p>- usar vocabulário técnico apropriado para explicar os conceitos e os fenómenos eletromagnéticos;</p>
+<p>- descrever aplicações práticas de Eletromagnetismo, tais como, condensadores, resistências, bobinas, motores elétricos, geradores elétricos, transformadores elétricos e circuitos magnéticos;</p>
+<p>- ter uma atitude critica perante os resultados finais obtidos, recorrendo à análise dimensional (análise de unidades), a estimativas das ordens de grandeza esperadas, ao estudo da interdependência entre as grandezas envolvidas e ao estudo do comportamento da solução em casos-limite.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Admite-se que os estudantes têm:<br /><br />i) conhecimentos de mecânica newtoniana, isto é, que sabem enunciar as três leis de Newton e que são capazes de descrever as forças e os movimentos que produzem;</p>
+<p>ii) alguns conhecimentos elementares de estrutura atómica da matéria;</p>
+<p>iii) conhecimentos de circuitos elétricos, isto é, conhecem as leis de Ohm e de Kirchhoff e sabem como lidar com resistências, condensadores e bobinas;</p>
+<p>iv) alguns conhecimentos sobre vetores (por exemplo, que sabem somar vetores, escrever o raio vetor de posição de uma partícula no espaço tridimensional e calcular os produtos interno e externo de dois vetores) e cálculo elementar (isto é, que sabem derivar e integrar funções simples).</p>
+
+## Programa
+1) Lei de Coulomb: distribuições discretas e contínuas de carga elétrica.<br />2) Campo Elétrico; Lei de Gauss.<br />3) Potencial Eletrostático. As equações de Poisson e de Laplace. Energia eletrostática.<br />4) Eletrostática de Materiais Condutores: condutores em equilíbrio eletrostático.<br />5) Capacidade Elétrica e Condensadores.<br />6) Eletrostática de Materiais Dielétricos.<br />7) Corrente Elétrica: vetor densidade de corrente. Lei de Ohm. Equação de continuidade<br />8) Campo Magnético: o campo magnético B; lei de Biot-Savart; lei de Ampère. Equação de Lorentz. Coeficientes de auto-indução<br />e indução mútua.<br />9) Materiais Magnéticos: o campo magnético H; tipos de magnetismo. Circuitos Magnéticos.<br />10) Indução Eletromagnética: lei da indução de Faraday; lei de Lenz. Energia magnética.<br />11) Corrente de deslocamento; as equações de Maxwell no vácuo e na matéria.
+
+## Bibliografia obrigatória
+Umran S. Inan, Aziz S. Inan; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004464920108801" title="Engineering electromagnetics (Abre numa nova janela)" target="_blank" >Engineering electromagnetics</a>. ISBN: 0-8053-4423-3 <br>
+David J. Griffiths, Reed College; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004449350108801" title="Introduction to electrodynamics (Abre numa nova janela)" target="_blank" >Introduction to electrodynamics</a>. ISBN: 0-13-805326-X <br>
+
+## Bibliografia complementar
+H. Moysés Nussenzveig; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004493140108801" title="Curso de física básica (Abre numa nova janela)" target="_blank" >Curso de física básica</a>. ISBN: 85-212-0134-6 (vol. 3) <br>
+Daniel Fleisch; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005412140108801" title="A student.s guide to Maxwell.s Equations (Abre numa nova janela)" target="_blank" >A student.s guide to Maxwell.s Equations</a>. ISBN: 978-0-521-70147-1  (Livro "de cabeceira" para acompanhar toda a UC. No final do semestre, os estudantes deverão ter adquirido as competências necessárias para utilizar sem dificuldade este livro.)<br>
+Daniel Fleisch; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005633430108801" title="A Student's Guide to Vectors and Tensors (Abre numa nova janela)" target="_blank" >A Student's Guide to Vectors and Tensors</a>, Cambridge University Press, 2011. ISBN: 0521171903 (Livro "de cabeceira" para acompanhar toda a UC no respeitante à análise vetorial)<br>
+Edward M. Purcell,David J. Morin; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005802070108801" title="Electricity and Magnetism (Abre numa nova janela)" target="_blank" >Electricity and Magnetism</a>, Cambridge University Press, 2013. ISBN: 1107014026, 9781107014022<br>
+Richard Fitzpatrick; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005505630108801" title="Classical Electromagnetism (Abre numa nova janela)" target="_blank" >Classical Electromagnetism</a>, 1997 (Uma versão gratuita deste livro em PDF encontra-se no URL http://farside.ph.utexas.edu/teaching/em/em.html)<br>
+Jorge Loureiro; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009031840108801" title="Eletromagnetismo e Ótica (Abre numa nova janela)" target="_blank" >Eletromagnetismo e Ótica</a>, IST PRESS, 2019. ISBN: 978-989-8481-66-5<br>
+Jorge Loureiro; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009031850108801" title="Exercícios de Eletromagnetismo e Ótica (Abre numa nova janela)" target="_blank" >Exercícios de Eletromagnetismo e Ótica</a>, IST Press, 2018. ISBN: 978-989-8481-67-2<br>
+Alfredo Barbosa Henriques, Jorge Crispim Romão; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004838820108801" title="Electromagnetismo (Abre numa nova janela)" target="_blank" >Electromagnetismo</a>. ISBN: 972-8469-45-4 <br>
+Cheng David K.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004441940108801" title="Field and wave electromagnetics (Abre numa nova janela)" target="_blank" >Field and wave electromagnetics</a>. ISBN: 0-201-12819-5 <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><br /><br />As aulas TEORICAS (T) consistem na exposição da matéria a lecionar e na discussão e resolução pelo docente de exemplos de aplicação.<br /><br /> As aulas TEÓRICO-PRÁTICAS (TP) consistem na discussão e na resolução pelo docente e/ou pelos estudantes, sob supervisão do docente, de problemas propostos (retirados do &#8220;caderno de exercícios&#8221; da unidade curricular) ilustrativos dessa mesma matéria.<br /><br /><br /></p>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 116.5 horas
+- Frequência das aulas: 45.5 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<p>&#9658; CF = min(0.4*AD + 0.6*EX)</p>
+<p><br />onde:</p>
+<p>CF - Classificação Final (0-20 valores)</p>
+<p>EX - Exame Final (0-20 valores)</p>
+<p>AD &#8211; Classificação de avaliações durante as aulas TP (0-20 valores)</p>
+<br />
+<p>A componente de avaliação distribuída (AD) consistirá na realização de cinco avaliações com uma duração de 15 minutos que decorrerão nas aulas TP - questões de aula - ao longo do semestre.<br /><br /> Estas avaliações são realizadas para os estudantes inscritos numa dada turma TP.</p>
+<p>Cada avaliação vale dois valores. Contam as quatro melhores avaliações para um máximo de oito valores (em 20).<br /><br /> Faltas a avaliações são consideradas como zero.</p>
+
+## Obtenção de frequência
+<p style="text-align: justify;">&#9658; Assiduidade:<br /><br />- Para estudantes na 1ª inscrição:<br />Regime de faltas segundo o regulamento da UP<br /><br />- Para os restantes estudantes não há critério de assiduidade, isto é, não há marcação de faltas.<br /><br /><br />Para estudantes com mais do que uma inscrição:<br /><br />Com frequência no ano anterior:<br /><br /></p>
+<ul>
+<li>OU mantêm a classificação de avaliação distribuída do ano anterior (neste caso, não se inscrevem numa turma TP)</li>
+</ul>
+<p style="text-align: justify;"> </p>
+<ul>
+<li>OU podem, irreversivelmente, optar por se submeter à avaliação distribuída no presente ano letivo (tal como "estudantes de 1ª inscrição"), anulando a classificação de avaliação distribuída anterior. Nota importante: Devem estar para esse efeito inscritos numa turma TP.</li>
+</ul>
+<p style="text-align: justify;"><strong><u><br /></u></strong>Sem frequência no ano anterior:<br /><br />submetem-se à AD no presente ano letivo, devendo inscrever-se numa turma TP.</p>
+<p><br /><br /></p>
+
+## Melhoria de classificação
+<p>Melhoria de classificação (no exame de recurso):</p>
+<p>CF = EX</p>
+<p>CF - Classificação Final (0-20 valores)</p>
+<p>EX - Exame Final (0-20 valores)</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Electromagnetism
+
+## Curso responsável
+Bachelor in Electrical and Computer Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+At the end of this curricular unit course, student should be able to:<br /><br />- correctly use the laws governing electromagnetic phenomena;<br />- describe electromagnetism as a unifying theory of various electromagnetic phenomena observed in nature and used in<br />technologies;<br />- use appropriate technical vocabulary;<br />- describe practical applications of Electromagnetism;<br />- have a critical attitude of the obtained final results.<br />Specifically, students should:<br />-Have insight of basic electromagnetic phenomena, including how charge create electric fields, and how currents are at the<br />origin of magnetic fields;<br />-Identify key quantities in Electrical Engineering, such as Capacity and Inductance with the corresponding physical meaning;<br />-Understand fundamental properties of electrodynamics, namely the physical nature Faraday&#8217;s law, the displacement current,<br />and the interdependence between electric and magnetic fields;<br />-Be familiar with magnetic properties of materials, and be able to undertake a quantitative analysis of electro excited magnetic<br />circuits.
+
+## Resultados de aprendizagem e competências
+<p style="margin-bottom: 0in;">At the end of this unit course, student should be able to:</p>
+<p style="margin-bottom: 0in;">- correctly use the laws governing electromagnetic phenomena;</p>
+<p style="margin-bottom: 0in;">- describe electromagnetism as a unifying theory of various electromagnetic phenomena observed in nature and used in technologies;</p>
+<p style="margin-bottom: 0in;">- use appropriate technical vocabulary;</p>
+<p style="margin-bottom: 0in;">- describe practical applications of Electromagnetism;</p>
+<p style="margin-bottom: 0in;">- have a critical attitude of the obtained final results.</p>
+
+## Pré-requisitos e co-requisitos
+<p><span id="result_box" lang="en"><span class="hps">It is assumed</span> <span class="hps">that students have:</span></span></p>
+<p><span id="result_box" lang="en"> <span class="hps">i</span>) <span class="hps">knowledge</span> <span class="hps">of</span> <span class="hps">Newtonian mechanics</span>, <span class="hps">that is,</span> <span class="hps">they know</span><span id="result_box" class="hps" lang="en"> the</span> <span class="hps">three laws</span> <span class="hps">of</span> <span class="hps">Newton</span> <span class="hps">and are</span> <span class="hps">able to describe</span> <span class="hps">the forces and</span> <span class="hps">movements</span> <span class="hps">they produce</span> </span></p>
+<p><span id="result_box" lang="en"><span class="hps">ii</span>) <span class="hps">some</span> <span class="hps">basic knowledge</span> <span class="hps">of</span> the <span class="hps">atomic structure of matter</span>; </span></p>
+<p><span id="result_box" lang="en"><span class="hps">iii</span>) <span class="hps">knowledge</span> <span class="hps">of</span> <span class="hps">electrical circuits</span>, <span class="hps">i.e.,</span> to <span class="hps">know the laws</span> <span class="hps">of</span> <span class="hps">Ohm</span> <span class="hps">and</span> <span class="hps">Kirchhoff</span> <span class="hps">and know how to</span> <span class="hps">deal with</span> <span class="hps">resistors</span>, <span class="hps">capacitors and inductors.</span></span></p>
+<p><span id="result_box" lang="en">iv) <span class="hps">some knowledge</span> <span class="hps">about vectors</span> <span class="hps atn">(</span>for example, <span class="hps">add</span> <span class="hps">vectors</span>, <span class="hps">write the</span> <span id="result_box" lang="en"> <span class="hps">position</span>-</span><span class="hps">vector </span><span id="result_box" class="hps" lang="en">of a particle in</span> <span class="hps">three-dimensional space</span> <span class="hps">and</span> <span class="hps">compute the</span> <span class="hps">inner and outer</span> <span class="hps">product</span> <span class="hps">of two vectors</span>) <span class="hps">and</span> <span class="hps">elementary calculus</span> <span class="hps">(<span id="result_box" lang="en"><span class="hps">i.e.</span></span></span>,<span class="hps"> to derive</span> <span class="hps">and integrate</span> <span class="hps">simple functions</span>).</span></p>
+
+## Programa
+1) Coulomb's Law : discrete and continuous distributions of electric charge.<br />2 ) Electric Field. Gauss's Law.<br />3) Electrostatic Potential: The equations of Laplace and Poisson. Electrostatic energy.<br />4) Electrostatic of Conducting Materials : conductors in electrostatic equilibrium.<br />5) Capacity and Electric Capacitors.<br />6) Electrostatic of Dielectric Materials<br />7) Electric Current: current density vector. Ohm's law . Continuity equation.<br />8) Magnetic field : magnetic force between stationary electric currents ,magnetic field B , Biot - Savart law , Ampere's law.<br />Lorentz equation. Self-induction and mutual induction coefficients.<br />9) Magnetic Materials: the magnetic dipole; types of magnetism. Magnetic circuits.<br />10) Electromagnetic Induction : Faraday's law of induction , Lenz's law. Magnetic energy.<br />11) The displacement current , the induced magnetic field; Maxwell's equations in vacuum and in the presence of matter.
+
+## Bibliografia obrigatória
+Umran S. Inan, Aziz S. Inan; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004464920108801" title="Engineering electromagnetics (Opens in a new window)" target="_blank" >Engineering electromagnetics</a>. ISBN: 0-8053-4423-3 <br>
+David J. Griffiths, Reed College; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004449350108801" title="Introduction to electrodynamics (Opens in a new window)" target="_blank" >Introduction to electrodynamics</a>. ISBN: 0-13-805326-X <br>
+
+## Bibliografia complementar
+H. Moysés Nussenzveig; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004493140108801" title="Curso de física básica (Opens in a new window)" target="_blank" >Curso de física básica</a>. ISBN: 85-212-0134-6 (vol. 3) <br>
+Daniel Fleisch; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005412140108801" title="A student.s guide to Maxwell.s Equations (Opens in a new window)" target="_blank" >A student.s guide to Maxwell.s Equations</a>. ISBN: 978-0-521-70147-1 <br>
+Daniel Fleisch; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005633430108801" title="A Student's Guide to Vectors and Tensors (Opens in a new window)" target="_blank" >A Student's Guide to Vectors and Tensors</a>, Cambridge University Press, 2011. ISBN: 0521171903<br>
+Edward M. Purcell,David J. Morin; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005802070108801" title="Electricity and Magnetism (Opens in a new window)" target="_blank" >Electricity and Magnetism</a>, Cambridge University Press, 2013. ISBN: 1107014026, 9781107014022<br>
+Richard Fitzpatrick; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005505630108801" title="Classical Electromagnetism (Opens in a new window)" target="_blank" >Classical Electromagnetism</a>, 1997<br>
+Jorge Loureiro; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009031840108801" title="Eletromagnetismo e Ótica (Opens in a new window)" target="_blank" >Eletromagnetismo e Ótica</a>, IST PRESS, 2019. ISBN: 978-989-8481-66-5<br>
+Jorge Loureiro; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009031850108801" title="Exercícios de Eletromagnetismo e Ótica (Opens in a new window)" target="_blank" >Exercícios de Eletromagnetismo e Ótica</a>, IST Press, 2018. ISBN: 978-989-8481-67-2<br>
+Alfredo Barbosa Henriques, Jorge Crispim Romão; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004838820108801" title="Electromagnetismo (Opens in a new window)" target="_blank" >Electromagnetismo</a>. ISBN: 972-8469-45-4 <br>
+Cheng David K.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004441940108801" title="Field and wave electromagnetics (Opens in a new window)" target="_blank" >Field and wave electromagnetics</a>. ISBN: 0-201-12819-5 <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p><br /><br />Theoretical lectures (TEORICAS): complete discussion of the subjects and exercise solving of main basis cases.<br /><br />Exercise classes (TEÓRICO-PRÁTICAS): exercise solving under the supervision of the teacher of several exercises.</p>
+<p> </p>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 116.5 hours
+- Frequência das aulas: 45.5 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>&#9658; CF =(0.4*AD + 0.6*EX)<br /><br />where<br /> <br /> CF: final classification<br /> <br /> AD: Classification in the distributed assessment (five evaluations in TP classes)<br /><br />The distributed assessment component (DA) will consist of five assessments, each one with a duration of 15 minutes, that will be administered during the TP classes throughout the semester. <br /><br />These assessments are conducted for students enrolled in a specific TP class.<br /> <br /> Each evaluation is worth two points. The four best evaluations count for a maximum of eight points (out of 20). <br /><br />Absences from these evaluations are considered as zero.</p>
+
+## Obtenção de frequência
+<p>&#9658; Attendance:<br /><br />- For students enrolling for the first time:<br />Absence regime according to UP regulations<br /><br />- For all other students, there is no attendance criterion, i.e. no marking of absences.</p>
+
+## Melhoria de classificação
+<p>Classification can be improved by taking the "recurso" exam.</p>
+<p>CF = EX</p>
+<p>CF: final classification<br /> <br /> EX Final Exam (0-20):</p>
+

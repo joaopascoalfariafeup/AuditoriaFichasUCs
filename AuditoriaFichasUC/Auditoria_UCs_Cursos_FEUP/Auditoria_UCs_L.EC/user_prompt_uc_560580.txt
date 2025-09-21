@@ -1,0 +1,147 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Planeamento do Território
+
+## Curso responsável
+Licenciatura em Engenharia Civil
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p>JUSTIFICAÇÃO: <br />O território constitui uma área fundamental da intervenção profissional do engenheiro civil, quer como agente projetista (ou produtor) de estruturas edificadas, de infraestruturas e de equipamentos, quer como agente de instituições com responsabilidades no ordenamento e na administração do território, quer enquanto técnico ou gestor de entidades que se dedicam à gestão imobiliária. Por isso, a formação em planeamento do território torna-se fundamental para que a &#8216;utilização&#8217; e a 'produção' do espaço edificado se faça numa perspetiva de coerência com princípios de desenvolvimento equilibrado e sustentado, implicando soluções de compromisso entre a atividade construtiva e os seus impactos em termos de eficaz inserção espacial. <br /><br />OBJETIVOS: <br />- Introduzir os alunos à problemática do planeamento do território, dando enquadramento ao papel do engenheiro civil como agente transformador; <br />- Proporcionar um conjunto de conhecimentos estruturados acerca das condições de funcionamento e de organização espacial dos territórios, com destaque para os urbanizados; <br />- Enquadrar o papel do planeamento e da gestão urbanística, sistematizar os diferentes modos de intervenção no território (com destaque para o sistema formal de planeamento), e promover o conhecimento aprofundado de técnicas e de metodologias de regulação urbanística.</p>
+
+## Resultados de aprendizagem e competências
+<p>RESULTADOS DE APRENDIZAGEM: <br /><br />Conhecimento: Identificar as principais problemáticas associadas a tendências de ocupação e uso do território. Descrever os conceitos e elementos fundamentais que orientam as estratégias, as metodologias e os instrumentos de intervenção no território. Identificar tipologias de planos e a sua natureza. <br /><br />Compreensão: Avaliar e distinguir conflitos e necessidades de intervenção. Distinguir os principais conceitos e objetivos associados a diferentes tipos de planos. Interpretar e manipular os principais critérios e indicadores existentes, no quadro do sistema de planeamento em vigor em Portugal. <br /><br />Aplicação: Desenvolver critérios e estabelecer metodologias para a análise e interpretação de planos e de diversas soluções urbanísticas. Calcular indicadores e parâmetros urbanísticos. <br /><br />Análise: Desenvolver capacidades para analisar e comparar diferentes tipos de intervenção e metodologias de regulação urbanística. Discutir estratégias, processos e instrumentos de intervenção no território. <br /><br />Síntese: Propor soluções para incremento da capacidade de intervenção no território. <br /><br />Avaliação: Avaliar instrumentos existentes e metodologias, e recomendar condições de desenvolvimento futuro.</p>
+
+## Pré-requisitos e co-requisitos
+<p>Conhecimentos prévios: sendo uma unidade curricular de introdução ao planeamento do território, não existem condicionantes de conhecimentos prévios essenciais para uma adequada frequência da UC.</p>
+
+## Programa
+<p>Aulas teóricas:<br /><br /></p>
+<strong>1. Introdução. A engenharia civil e o planeamento do território</strong><br /><br /><strong>2. Dinâmicas de estruturação e transformação do território</strong><br /><br />2.1 Os processos de urbanização: descrição (escalas global, europeia e nacional)<br />2.2 Os processos de urbanização: explicações.<br />2.3. Os processos de urbanização: problemas.<br /><br /><strong>3. Modelos: o planeamento do território como resposta aos problemas da urbanização</strong><br /><br />3.1 Origens e desenvolvimento do planeamento moderno.<br />3.2 A apreciação crítica da experiência do planeamento e os atuais desafios sociais, económicos e ambientais.<br /><br /><strong>4. Instrumentos: suporte normativo do planeamento em Portugal</strong><br /><br />4.1 Evolução histórica do sistema de planeamento do território em Portugal.<br />4.2 Instrumentos de gestão territorial: objetivos, conteúdos e metodologia.<br />4.3 O Plano Diretor Municipal: documentos e conteúdos.<br />4.4 Modelo territorial, regime do uso do solo e sistemas estruturantes.<br /><br />
+<div style="padding-left: 30px;"> </div>
+<strong>5. Introdução à avaliação imobiliária</strong><br /><br />5.1 Complexidade dos mercados de habitação e de bens imobiliários.<br />5.2 Métodos de avaliação do imobiliário e condições da sua aplicação.<br />5.3 A avaliação imobiliária no Código das Expropriações e no Código do IMI.<br /><br /><br />Aulas teórico-práticas:<br /><br />1. Indicadores e parâmetros urbanísticos: trabalho semestral.<br />2. Exercícios de interpretação e aplicação de Regulamentos de Planos Diretores Municipais.<br />3. Exercícios de interpretação e aplicação do Código das Expropriações.
+<p><br /><br />DEMONSTRAÇÃO DA COERÊNCIA DOS CONTEÚDOS PROGRAMÁTICOS COM OS OBJETIVOS DA UNIDADE CURRICULAR:</p>
+<p>Depois da introdução geral, o programa parte do conhecimento das dinâmicas e problemas dos atuais processos de urbanização (capítulo 2), começando por enquadrá-los à escala global e salientando a especificidade do contexto europeu e do sistema urbano português. Apresentam-se chaves de leitura destes processos, nomeadamente associadas à economia urbana.<br />O capítulo 3 situa, neste contexto, a experiência do planeamento do território, identificando e comparando as diversas propostas de princípios e ideias sobre a &#8220;boa organização do território&#8221; e a sua aplicação em diversas cidades, terminando com a discussão do quadro normativa proposto pelas Nações Unidas.<br />O capítulo 4 discute o modo como o sistema de planeamento territorial procura concretizar esses princípios, centrando-se nos instrumentos de gestão territorial em Portugal, e privilegiando a compreensão dos instrumentos de âmbito municipal.<br />Finalmente, o capítulo 5 introduz a questão específica da avaliação imobiliária no planeamento.</p>
+
+## Bibliografia obrigatória
+Peter Hall; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004628350108801" title="Urban & regional planning (Abre numa nova janela)" target="_blank" >Urban & regional planning</a>. ISBN: 0-415-07624-2 <br>
+Peter Hall; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004558350108801" title="Cidades do amanhã (Abre numa nova janela)" target="_blank" >Cidades do amanhã</a><br>
+C Couch; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009091890108801" title="Urban Planning: An Introduction (Abre numa nova janela)" target="_blank" >Urban Planning: An Introduction</a>, Palgrave, 2016. ISBN: 9781137427564<br>
+Nuno Portas, Álvaro Domingues, João Cabral; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005616730108801" title="Politicas Urbanas II (Abre numa nova janela)" target="_blank" >Politicas Urbanas II</a>. ISBN: 978-972-31-1382-2 <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>As horas de contacto da unidade curricular distribuem-se por aulas teóricas e aulas teórico-práticas, que incluem a realização de um trabalho de campo.</p>
+<p>As aulas teóricas pretendem combinar a apresentação dos tópicos do programa, utilizando uma diversidade de materiais, e a discussão e análise crítica de estudos de caso. A escolha, em cada ano, de estudos de caso para discussão tem em conta, por um lado, casos de referência do debate teórico e, por outro lado, as oportunidades associadas ao contexto específico de Portugal e, sobretudo, da Área Metropolitana do Porto (por exemplo, a publicação de relatórios e documentos de planeamento ou a discussão em torno de alguns projetos urbanos).</p>
+<p>As aulas teórico-práticas estruturam-se em duas partes. Numa primeira parte, desenvolve-se um trabalho de grupo centrado no conhecimento de uma área específica da cidade do Porto, identificando e caracterizando diferentes morfotipologias e esboçando uma proposta preliminar de ocupação de um espaço vazio, apresentada e discutida em turma. Este trabalho, orientado para a construção de capacidades de trabalho em equipa, privilegia metodologias de trabalho de campo, de análise territorial com base em ferramentas SIG e de apresentação e discussão de propostas de planeamento.</p>
+<p>Numa segunda parte, desenvolvem-se diversos exercícios de interpretação e aplicação de Regulamentos de Planos Diretores Municipais, explorando em pormenor os diferentes parâmetros urbanísticos e, e de interpretação e aplicação do Código das Expropriações, como exemplo de um campo de aplicação de metodologias de avaliação<br /><br />DEMONSTRAÇÃO DA COERÊNCIA DAS METODOLOGIAS DE ENSINO COM OS OBJETIVOS DE APRENDIZAGEM DA UNIDADE CURRICULAR: <br />Os estudantes são incentivados a desenvolver critérios e estabelecer metodologias para a análise e interpretação de planos e de diversas soluções urbanísticas, calcular indicadores e parâmetros urbanísticos, desenvolver capacidades para analisar e comparar diferentes tipos de intervenção e metodologias de regulação urbanística, discutir estratégias, processos e instrumentos de intervenção no território, propor soluções para incremento da capacidade de intervenção no território, avaliar instrumentos existentes e metodologias, e recomendar condições de desenvolvimento futuro.</p>
+
+## Software
+AutoCAD<br>
+QGIS<br>
+
+## Tipo de avaliação
+Avaliação distribuída com exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 101.5 horas
+- Frequência das aulas: 45.5 horas
+- Trabalho de campo: 3.0 horas
+- Trabalho escrito: 12.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+<!-- [if gte mso 9]><xml><br /> <w:WordDocument><br />  <w:View>Normal</w:View><br />  <w:Zoom>0</w:Zoom><br />  <w:TrackMoves/><br />  <w:TrackFormatting/><br />  <w:PunctuationKerning/><br />  <w:ValidateAgainstSchemas/><br />  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid><br />  <w:IgnoreMixedContent>false</w:IgnoreMixedContent><br />  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText><br />  <w:DoNotPromoteQF/><br />  <w:LidThemeOther>EN-US</w:LidThemeOther><br />  <w:LidThemeAsian>X-NONE</w:LidThemeAsian><br />  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript><br />  <w:Compatibility><br />   <w:BreakWrappedTables/><br />   <w:SnapToGridInCell/><br />   <w:WrapTextWithPunct/><br />   <w:UseAsianBreakRules/><br />   <w:DontGrowAutofit/><br />   <w:SplitPgBreakAndParaMark/><br />   <w:DontVertAlignCellWithSp/><br />   <w:DontBreakConstrainedForcedTables/><br />   <w:DontVertAlignInTxbx/><br />   <w:Word11KerningPairs/><br />   <w:CachedColBalance/><br />  </w:Compatibility><br />  <m:mathPr><br />   <m:mathFont m:val=&quot;Cambria Math&quot;/><br />   <m:brkBin m:val=&quot;before&quot;/><br />   <m:brkBinSub m:val=&quot;--&quot;/><br />   <m:smallFrac m:val=&quot;off&quot;/><br />   <m:dispDef/><br />   <m:lMargin m:val=&quot;0&quot;/><br />   <m:rMargin m:val=&quot;0&quot;/><br />   <m:defJc m:val=&quot;centerGroup&quot;/><br />   <m:wrapIndent m:val=&quot;1440&quot;/><br />   <m:intLim m:val=&quot;subSup&quot;/><br />   <m:naryLim m:val=&quot;undOvr&quot;/><br />  </m:mathPr></w:WordDocument><br /></xml><![endif]--><br /><p>A avaliação é definida com base numa avaliação distribuída, que consiste num trabalho de grupo semestral com um peso de 25% na classificação, numa avaliação individual em Moodle, com o peso de 5%, e num exame final, com um peso de 70% na classificação.</p><br /><p><span lang=&quot;&quot;>A avaliação distribuída centra-se nas aptidões e competências de análise territorial, de utilização de ferramentas de apoio ao planeamento e de desenho, de trabalho em grupo e de apresentação e discussão de propostas simples de planeamento. O exame final centra-se nos objetivos de conhecimento e reflexão crítica sobre os conteúdos da unidade curricular e suas interligações. Centra-se ainda na capacidade de resolução de exercícios de interpretação e aplicação de regulamentos dos planos diretores municipais e do Código das Expropriações<br /><br /></span><span lang=&quot;&quot;>A classificação final, CF, resulta da seguinte fórmula de cálculo:<br /><br /></span><span lang=&quot;&quot;>CF = </span><span lang=&quot;&quot;>0,25 TP + 0,70 EF + 0,05 AI, sendo<br /><br /></span><span lang=&quot;&quot;>TP &#8211; classificação do trabalho de semestral (relatório escrito e apresentação oral)<br /></span><span lang=&quot;&quot;>EF &#8211; classificação do exame final a realizar nas Épocas Normal e/ou de Recurso.<br />AI - avaliação individual em Moodle<br /><br /></span><span lang=&quot;&quot;>Os estudantes que frequentaram a unidade curricular no ano letivo anterior poderão manter a classificação da componente distribuída de avaliação.<br /><br />Os estudantes com regimes especiais, que não obrigam ao cumprimento das regras de assiduidade, não estão isentos do cumprimento das regras de avaliação desta Unidade Curricular, nomeadamente, não estão dispensados da realização da componente de avaliação distribuída.<br /></span></p>
+
+## Obtenção de frequência
+<p><span lang="pt">A aprovação à unidade curricular implica o cumprimento da condição de frequência, considerando-se que um estudante cumpre essa condição se, tendo estado regularmente inscrito, n</span><span lang="pt">ã</span><span lang="pt">o exceder o n</span><span lang="pt">ú</span><span lang="pt">mero limite de faltas correspondente a 25% das aulas presenciais previstas para cada tipologia. <br /><br />Além dos casos previstos estatutariamente nas regras em vigor na FEUP, estão dispensados da condição de frequência à unidade curricular os estudantes que tenham obtido no ano letivo imediatamente anterior uma nota final na UC igual ou superior a 6 valores.</span></p>
+
+## Exames ou Trabalhos Especiais
+Épocas especiais e de conclusão de curso<br /><br />Nestas época é possível a recuperação da parte de avaliação distribuída, sob a forma de uma componente escrita e/ou oral.
+
+## Melhoria de classificação
+<p>A melhoria da classificação do exame final pode ser efetuada na Época de Recurso. A componente de avaliação distribuída não é passível de melhoria de classificação, mantendo-se a fórmula de cálculo da classificação final.</p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Territorial Planning
+
+## Curso responsável
+Bachelor in Civil Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+<p>Justification: <br />The territory is a key area of professional intervention of the civil engineer, as an agent (or producer) of built structures, infrastructure and equipment, as an agent of institutions with responsibilities in the organization and administration of the territory, or as technical manager or entities engaged in real estate management. Therefore, training in spatial planning is fundamental for the 'use' and 'production' of the built space with the principles of balanced and sustainable development. <br /><br />OBJECTIVES: <br />- Introduce students to the problems of spatial planning, providing the framework for the civil engineer's role as an agent of change; <br />- Provide a structured body of knowledge about the spatial organization of the territories, especially the urbanized; <br />- Framing the role of planning and urban management, to systematize the different modes of intervention in the territory (especially the formal planning), and promote in-depth knowledge of techniques and methodologies of urban regulation.</p>
+
+## Resultados de aprendizagem e competências
+<p>SKILLS AND LEARNING OUTCOMES: <br /><br />Knowledge: Identify the main problems associated with trends of occupation and land use. Describe the concepts that drive the strategies, methodologies and tools of intervention in the territory. Identify types of plans and their nature. <br /><br />Understanding: To evaluate and distinguish conflicts and intervention needs. Distinguish the main concepts and objectives associated with different types of plans. Interpret and manipulate the main criteria and indicators as part of the planning system in force in Portugal. <br /><br />Application: Develop criteria and establish methodologies for the analysis and interpretation of plans and different urban solutions. Calculate indicators and urban parameters. <br /><br />Analysis: Develop capabilities to analyze and compare different types of interventions and methodologies of urban regulation. Discuss strategies, processes and tools for intervention in the territory. <br /><br />Summary: To propose solutions to increase the capacity of intervention in the territory. <br /><br />Evaluation: Evaluate existing tools and methodologies, and recommend conditions for future development.</p>
+
+## Pré-requisitos e co-requisitos
+Prior knowledge: as this is an introductory course in spatial planning, there are no essential prerequisites for attending the course.
+
+## Programa
+Theoretical classes:<br /><br /><strong>1. Introduction. Civil engineering and spatial planning</strong><br /><br /><strong>2. Dynamics of spatial structuration and change</strong><br /><br />2.1 Urbanisation processes: description (global, European and national scales)<br />2.2 Urbanisation processes: explanations.<br /><br /><div style=&quot;padding-left: 30px;&quot;> </div><br />2.3. Urbanisation processes: problems.<br /><br /><strong>3. Models: spatial planning as a response to the urbanisation problems</strong><br /><br />3.1 Origins and development of modern planning.<br /><br /><div style=&quot;padding-left: 30px;&quot;> </div><br />3.2 A critical appraisal of the planning experience and current social, economic and environmental challenges.<br /><br /><strong>4. Instruments: the normative framework of spatial planning in Portugal.<br /></strong><br />4.1 Historical evolution of the spatial planning system in Portugal.<br />4.2 Spatial management instruments: objectives, contents and methodology.<br />4.3 The Municipal Master/Director Plan: documents and main contents.<br />4.4 Territorial model, land use regime and structuring systems.<br /><br /><div style=&quot;padding-left: 30px;&quot;> </div><br /><br /><strong>5. Introduction to real estate valuation</strong><br /><br />5.1 Complexity of the housing and real estate markets.<br />5.2 Valuation methods and conditions for their application.<br />5.3 Property valuation by public administration in Portugal.<br /><br /> <br />Theoretical-practical classes:<br /><br /> 1. Urban indicators and parameters: work group.<br />2. Interpretation and application of Municipal Director Plan Regulations.<br />3. Interpretation and application of the Code of Compulsory Purchase.<br /><br /><p><br />DEMONSTRATION OF THE SYLLABUS COHERENCE WITH THE CURRICULAR UNIT'S OBJECTIVES:<br />After the general introduction, the program begins with an understanding of the dynamics and problems of current urbanisation processes (Chapter 2), starting from the global scale and highlighting the specificity of the European context and the Portuguese urban system. Key perspectives for interpreting these processes are presented, particularly those related to the urban economy.<br />Chapter 3 places the experience of spatial planning within this context, identifying and comparing various proposals of principles and ideas regarding the &quot;good organization of territory&quot; and their application in different cities, ending with a discussion of the normative framework proposed by the United Nations.<br />Chapter 4 discusses how the spatial planning system seeks to implement these principles, focusing on territorial management instruments in Portugal, with an emphasis on understanding municipal-level instruments.<br />Finally, Chapter 5 introduces the specific issue of real estate appraisal in planning.<br /><br /></p>
+
+## Bibliografia obrigatória
+Peter Hall; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004628350108801" title="Urban & regional planning (Opens in a new window)" target="_blank" >Urban & regional planning</a>. ISBN: 0-415-07624-2 <br>
+Peter Hall; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004558350108801" title="Cidades do amanhã (Opens in a new window)" target="_blank" >Cidades do amanhã</a><br>
+C Couch; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009091890108801" title="Urban Planning: An Introduction (Opens in a new window)" target="_blank" >Urban Planning: An Introduction</a>, Palgrave, 2016. ISBN: 9781137427564<br>
+Nuno Portas, Álvaro Domingues, João Cabral; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005616730108801" title="Politicas Urbanas II (Opens in a new window)" target="_blank" >Politicas Urbanas II</a>. ISBN: 978-972-31-1382-2 <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<p>The contact hours of the course unit are divided between theoretical classes and theoretical-practical classes, which include the completion of a fieldwork assignment.</p>
+<p>The theoretical classes aim to combine the presentation of the course topics&#8212;using a variety of materials&#8212;with the discussion and critical analysis of case studies. The selection of case studies for discussion each year takes into account, on the one hand, reference cases from theoretical debates and, on the other hand, opportunities related to the specific context of Portugal and, especially, the Porto Metropolitan Area (for example, the publication of reports and planning documents or the discussion surrounding certain urban projects).</p>
+<p>The theoretical-practical classes are structured in two parts. In the first part, a group project is developed, focusing on the study of a specific area of the city of Porto. This involves identifying and characterizing different morphotypes and outlining a preliminary proposal for the occupation of a vacant space, which is then presented and discussed in class. This work, oriented towards building teamwork skills, prioritizes fieldwork methodologies, territorial analysis using GIS tools, and the presentation and discussion of planning proposals.</p>
+<p>In the second part, several exercises are carried out to interpret and apply Municipal Master Plan Regulations, exploring in detail various urban planning parameters, as well as to interpret and apply the Expropriation Code, as an example of a field of application for evaluation methodologies.<br /><br />DEMONSTRATION OF THE COHERENCE BETWEEN THE TEACHING METHODOLOGIES AND THE LEARNING OUTCOMES: <br />Students are encouraged to develop criteria and establish methodologies for the analysis and interpretation of plans and different urban solutions, calculate indicators and urban parameters, develop capabilities to analyze and compare different types of interventions and methodologies of urban regulation, discuss strategies, processes and tools for intervention in the territory, to propose solutions to increase the capacity of intervention in the territory, evaluate existing tools and methodologies, and recommend conditions for future development.</p>
+
+## Software
+AutoCAD<br>
+QGIS<br>
+
+## Tipo de avaliação
+Distributed evaluation with final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 101.5 hours
+- Frequência das aulas: 45.5 hours
+- Trabalho de campo: 3.0 hours
+- Trabalho escrito: 12.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<p>Assessment is defined on the basis of a distributed assessment, which consists of a group work accounting for 25% of the final grade, an individual assessment on Moodle, accounting for 5% of the final grade, and a final exam, which accounts for 75% of the final grade. The distributed assessment focuses on the skills and competences of territorial analysis, the use of planning and design support tools, group work and presentation and discussion of simple planning proposals. The final exam focuses learning objectives and critical reflection on the course content and its interconnections. It also focuses on the ability to solve exercises on interpreting and applying Municipal Director/Master Plan regulations and the Expropriations Code.</p>
+<p>The final mark, CF, results from the following calculation formula:</p>
+<p>CF = 0,25 TP + 0,75 EF + 0,05 AI,</p>
+<p>TP - classification of the assignment (written report and oral presentation)<br />EF - classification of the final exam<br />AI - individual assessment in Moodle</p>
+<p>Students who attended the course in the previous academic year will be able to keep the grade for the distributed assessment component.</p>
+<p>Students with special statuses, who are not enforced to attend all classes, are not exempt from complying with the evaluation rules of this Course, namely, they are not exempt from the component of the distributed evaluation.</p>
+<p><span style="font-size: 11.0pt; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"> </span></p>
+
+## Obtenção de frequência
+<span lang=&quot;EN-US&quot; style=&quot;color: black; line-height: 115%; font-family: 'Verdana','sans-serif'; font-size: 7.5pt; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;&quot;>Approval of the course unit implies compliance with the attendance requirement, considering that a student complies with this requirement if, having been regularly enrolled, they do not exceed the limit of 25% of absences from the face-to-face classes scheduled for each type.<br /> <br />In addition to the cases provided for in the FEUP rules in force, students who have obtained a final grade of 6 or higher in the course in the immediately preceding academic year are exempt from the attendance requirement.<br /></span>
+
+## Exames ou Trabalhos Especiais
+Special and end of course exams<br /><br />In these periods, it is possible to recover the distributed assessment part, in the form of a written and/or oral component.
+
+## Melhoria de classificação
+The final exam grade can be improved in the 2nd call exam (&quot;Época de Recurso&quot;). The distributed assessment component cannot be improved, and the formula for calculating the final grade is maintained.
+

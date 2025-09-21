@@ -1,0 +1,132 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Lógica
+
+## Curso responsável
+Licenciatura em Ciência da Informação
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+A lógica é o estudo sistemático da inferência válida. Nesta unidade curricular faz-se uma introdução a esse estudo, que inclui a lógica proposicional e a lógica de predicados. Pretende-se que os estudantes dominem alguns dos conceitos essenciais da lógica, bem como certos métodos formais para representar e avaliar argumentos e raciocínios, com vista à sua posterior aplicação na estruturação de linguagens de indexação, na análise de sistemas de informação e na recuperação de informação.
+
+## Resultados de aprendizagem e competências
+Após a conclusão bem-sucedida desta unidade curricular, os estudantes vão:<br />- Determinar a estrutura lógica dos argumentos em linguagem natural identificando premissas e conclusões.<br />- Entender conceitos básicos de lógica, tais como: argumento, premissa, conclusão, proposição, forma lógica, função de verdade, validade, correção/solidez, contraexemplo, tautologia, contradição, contingência, equivalência, consistência, dedução, indução, consequência lógica.<br />- Traduzir argumentos da linguagem natural para a linguagem da Lógica Proposicional e da Lógica de Predicados.<br />- Determinar a validade dos argumentos utilizando (i) tabelas de verdade, (ii) derivações/dedução natural, e/ou (iii) árvores.
+
+## Pré-requisitos e co-requisitos
+n/a
+
+## Programa
+1. Introdução à lógica<br />1.1 O que é a lógica?<br />1.2 Argumentos e proposições<br />1.3 Validade e correção/solidez<br />1.4 Dedução vs. indução<br /><br />2. Lógica proposicional (LP)<br />2.1 Linguagem da LP<br />2.2 Semântica da LP<br />2.3 Tabelas de verdade<br />2.4 Inferências válidas e derivações em LP<br />2.5 Método das árvores para LP<br /><br />3. Lógica de predicados (LPred)<br />3.1 Referência e predicação<br />3.2 Linguagem da LPred<br />3.3 Semântica da LPred<br />3.4 Métodos de decisão em LPred
+
+## Bibliografia obrigatória
+Guttenplan , Samuel; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990006546410108801" title="The languages of logic : an introduction to formal logic (Abre numa nova janela)" target="_blank" >The languages of logic : an introduction to formal logic</a>. ISBN: 1-55786-988-X<br>
+Newton-Smith , William Herbert; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990006735430108801" title="Lógica : um curso introdutório (Abre numa nova janela)" target="_blank" >Lógica : um curso introdutório</a>. ISBN: 972-662-609-9<br>
+Forbes , Graeme; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004649990108801" title="Modern Logic : a text in elementary symbolic logic (Abre numa nova janela)" target="_blank" >Modern Logic : a text in elementary symbolic logic</a>. ISBN: 0-19-508029-7<br>
+Nicholas Smith; Logic: The Laws of Truth, Princeton University Press, 2012<br>
+
+## Bibliografia complementar
+Murcho , Desidério; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009051120108801" title="Lógica elementar : raciocínio, linguagem e realidade (Abre numa nova janela)" target="_blank" >Lógica elementar : raciocínio, linguagem e realidade</a>. ISBN: 978-972-44-2106-3<br>
+Beall, Jc; Logic: the basics, Routledge, 2010<br>
+Peter Smith; An Introduction to Formal Logic, Cambridge University Press, 2020<br>
+Tim Button & P.D.Magnus; forall x: An Introduction to Formal Logic, https://forallx.openlogicproject.org/, 2021<br>
+Russell Marcus; Introduction to Formal Logic, Oxford University Press, 2018<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Aulas teórico-práticas. Aulas expositivas e discussão em turma de casos e exemplos especialmente relevantes; realização de exercícios com análise e/ou comparação dos resultados obtidos. A participação dos estudantes é requerida na discussão de exemplos e na resolução de exercícios.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 121.0 horas
+- Frequência das aulas: 41.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+Avaliação distribuída durante o semestre: <br />- Três testes escritos presenciais (20% + 40% + 40%).<br /><br />Avaliação de recurso: Os estudantes que não efetuarem a avaliação do semestre, ou que tenham nela uma classificação negativa, podem ainda realizar um exame de recurso.
+
+## Obtenção de frequência
+De acordo com as normas em vigor.
+
+## Exames ou Trabalhos Especiais
+Realização de testes/exame separados/com mais tempo/com suportes digitais, conforme necessidades da/o estudante.
+
+## Melhoria de classificação
+Melhoria de nota através da realização integral do exame na época de recurso.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Logic
+
+## Curso responsável
+Bachelor of Arts in Information Science
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Logic is the systematic study of valid inference. In this course, an introduction is given to this study, which includes propositional logic and predicate logic. It is intended that students acquire some of the essential concepts of logic, as well as certain formal methods to represent and evaluate arguments and reasoning, in order to subsequently apply it in the structuring of indexation languages, in the analysis of information systems and in information retrieval.
+
+## Resultados de aprendizagem e competências
+Upon successful completion of this course unit, students will:<br />- Determine the logical structure of natural language arguments, identifying premises and conclusions.<br />- Understand basic concepts of logic, such as: argument, premise, conclusion, proposition, logical form, truth function, validity, soundness, counterexample, tautology, contradiction, contingency, equivalence, consistency, deduction, induction, logical consequence.<br />- Translate arguments from natural language into the language of Propositional Logic and Predicate Logic.<br />- Determine the validity of arguments using (i) truth tables, (ii) derivations/natural deduction, and/or (iii) trees.
+
+## Pré-requisitos e co-requisitos
+n/a
+
+## Programa
+<div id=&quot;result_box&quot; class=&quot;&quot; lang=&quot;en&quot;><br /><div id=&quot;gt-src-p&quot;><br /><div id=&quot;gt-src-wrap&quot; class=&quot;&quot;><br /><div dir=&quot;ltr&quot;>1. Introduction to logic<br />1.1 What is logic?<br />1.2 Arguments and propositions<br />1.3 Validity and soundness<br />1.4 Deduction vs. induction<br /><br />2. Propositional Logic (PL)<br />2.1 The language of PL<br />2.2 The semantics of PL<br />2.3 Truth tables<br />2.4 Valid inferences and derivations in PL<br />2.5 Tree method for PL<br /><br />3. Predicate Logic (PredL)<br />3.1 Reference and predication<br />3.2 The language of PredL<br />3.3 The semantics of PredL<br />3.4 Decision procedures in PredL</div><br /></div><br /></div><br /></div>
+
+## Bibliografia obrigatória
+Guttenplan , Samuel; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990006546410108801" title="The languages of logic : an introduction to formal logic (Opens in a new window)" target="_blank" >The languages of logic : an introduction to formal logic</a>. ISBN: 1-55786-988-X<br>
+Newton-Smith , William Herbert; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990006735430108801" title="Lógica : um curso introdutório (Opens in a new window)" target="_blank" >Lógica : um curso introdutório</a>. ISBN: 972-662-609-9<br>
+Forbes , Graeme; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004649990108801" title="Modern Logic : a text in elementary symbolic logic (Opens in a new window)" target="_blank" >Modern Logic : a text in elementary symbolic logic</a>. ISBN: 0-19-508029-7<br>
+Nicholas Smith; Logic: The Laws of Truth, Princeton University Press, 2012<br>
+
+## Bibliografia complementar
+Murcho , Desidério; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990009051120108801" title="Lógica elementar : raciocínio, linguagem e realidade (Opens in a new window)" target="_blank" >Lógica elementar : raciocínio, linguagem e realidade</a>. ISBN: 978-972-44-2106-3<br>
+Beall, Jc; Logic: the basics, Routledge, 2010<br>
+Peter Smith; An Introduction to Formal Logic, Cambridge University Press, 2020<br>
+Tim Button & P.D.Magnus; forall x: An Introduction to Formal Logic, https://forallx.openlogicproject.org/, 2021<br>
+Russell Marcus; Introduction to Formal Logic, Oxford University Press, 2018<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Theoretical-practical classes. Lectures and class discussion of particularly relevant cases and examples; realization of exercises with analysis and/or comparison of the results obtained. The participation of students is required in the discussion of examples and in the resolution of exercises.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 121.0 hours
+- Frequência das aulas: 41.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+Semester grading: <br />- Three written tests (20% + 40% + 40%).<br /><br />Supplementary examination: Students who do not take the semester evaluation, or who have a negative classification in it, may still take a supplementary exam.
+
+## Obtenção de frequência
+According to FLUP regulation.
+
+## Exames ou Trabalhos Especiais
+Tests/exam are realized separatedly/with more time/with digital supports, according to student's necessities.
+
+## Melhoria de classificação
+Grade improvement possible by taking the written examination (entire exame) in the second evaluation period.
+

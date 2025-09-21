@@ -1,0 +1,108 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Cálculo I
+
+## Curso responsável
+Licenciatura em Ciência de Computadores
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+Compreensão e capacidade de utilização dos conceitos e resultados básicos relacionados com os assuntos constantes do programa.
+
+## Resultados de aprendizagem e competências
+Ao completar esta unidade curricular, o estudante deve saber, compreender e ser capaz de utilizar as noções e resultados básicos sobre funções, limites e continuidade, derivadas, primitivas e integrais, aproximações poilnomiais, sucessões e séries.
+
+## Programa
+1. Funções: injectividade, sobrejectividade, imagem e imagem recíproca de conjuntos, composição, função inversa, monotonia, máximos e mínimos; gráficos<br />2. Limites e Continuidade: definição e unicidade de limite de uma função num ponto, limites laterais e aritmética de limites; limites no infinito, limites infinitos e assímptotas. Funções contínuas; teoremas de Bolzano e Weierstrass<br />3. Derivadas: motivação geométrica e definição; cálculo de derivadas funções elementares e propriedades algébricas; derivada da função composta da função inversa; anulamento da derivada nos extremos locais; Teoremas de Rolle, Lagrange e Cauchy; aplicações à determinação de extremos de funções, intervalos de monotonia e ao esboço de gráficos; segunda derivada e concavidade; indeterminações, Regra de L'Hôpital<br />4. Primitivas e Integrais: primitivas de funções elementares; primitivação por partes e por substituição; conceito de área,  integral de uma função limitada num intervalo; propriedades básicas dos integrais; Teorema Fundamental do Cálculo e consequências, cálculo de integrais; integrais impróprios: caso das funções contínuas definidas em intervalos não limitados e caso das funções contínuas não limitadas num intervalo. <br />5. Aproximações poilnomiais: polinómio de Taylor, tangência de grau n de uma função ao seu polinómio de Taylor de ordem n num ponto fixado, resto, cálculo de valores aproximados de funções.<br />6. Sucessões e séries: limites de sucessões; Critérios de convergência de séries.
+
+## Bibliografia obrigatória
+Stewart , James; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002854380108801" title="Calculus : early transcendentals (Abre numa nova janela)" target="_blank" >Calculus : early transcendentals</a>. ISBN: 978-0-495-38273-7<br>
+Gabriela Chaves; Análise Real<br>
+
+## Bibliografia complementar
+Spivak , Michael; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002401570108801" title="Calculus (Abre numa nova janela)" target="_blank" >Calculus</a>. ISBN: 0-914098-89-6<br>
+
+## Métodos de ensino e atividades de aprendizagem
+As horas de contacto estão distribuídas em aulas teóricas e teórico-práticas. Nas primeiras são apresentados os conteúdos do programa, recorrendo-se a exemplos para ilustrar os conceitos tratados e orientar os estudantes. Nas aulas teórico-práticas são resolvidos exercícios e problemas. São disponibilizados materiais de apoio na página da disciplina. Para além das aulas, há períodos de atendimento semanais onde os estudantes têm oportunidade de esclarecer dúvidas.
+
+## Software
+Wolfram Player<br>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 114.0 horas
+- Frequência das aulas: 48.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+Serão realizados dois testes, um durante o semestre, o outro durante a época normal de exames; serão ambos cotados para 10 valores.<br /><br />A classificação final será a soma das classificações dos dois testes.<br /><br />Haverá um exame na época de recurso, acessível a qualquer aluno que não tenha obtido aprovação na época normal.
+
+## Obtenção de frequência
+Não é exigida nenhuma condição para obtenção de frequência.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Calculus I
+
+## Curso responsável
+Bachelor in Computer Science
+
+## Créditos ECTS
+6
+
+## Ano
+3
+
+## Semestre
+1
+
+## Objetivos
+<span id=&quot;&quot; class=&quot;&quot; lang=&quot;&quot;><span class=&quot;&quot;>Understanding and</span> ability to use the basic concepts and results <span class=&quot;&quot;>related to</span> the subjects of the syllabus.</span>
+
+## Resultados de aprendizagem e competências
+<span class=&quot;&quot; lang=&quot;&quot;>Upon completing this course, the student must know, understand and be able to use the basic notions and results about functions, graphs, limits and continuity, derivatives, primitives and integrals, polynomial approximations, sequences and series. </span>
+
+## Programa
+1. Functions: injectivity, surjectivity, image and reciprocal image of sets, composition, inverse function, monotonicity, maxima and minima; graphs<br />2. Limits and Continuity: definition and uniqueness of the limit of a function at a point, one-sided limits and limit arithmetic; limits at infinity, infinite limits, and asymptotes. Continuous functions; Bolzano and Weierstrass theorems<br />3. Derivatives: geometric motivation and definition; calculus of derivatives of elementary functions and algebraic properties; derivative of the composite function of the inverse function; cancellation of the derivative at local extrema; Rolle's, Lagrange's, and Cauchy's theorems; applications to determining function extrema, monotonic intervals, and graphing; second derivatives and concavity; indeterminacies; L'Hôpital's rule.<br />4. Antiderivatives and Integrals: antiderivatives of elementary functions; antiderivatives by parts and by substitution; the concept of area; integral of a function bounded over an interval; basic properties of integrals; the Fundamental Theorem of Calculus and its consequences; calculus of integrals; improper integrals: the case of continuous functions defined over unbounded intervals and the case of continuous functions unbounded over an interval.<br />5. Polynomial approximations: Taylor polynomial, tangency of degree n of a function to its Taylor polynomial of order n at a fixed point, remainder, calculation of approximated values &#8203;&#8203;of functions.<br />6. Sequences and series: limits of sequences; series convergence criteria.
+
+## Bibliografia obrigatória
+Stewart , James; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002854380108801" title="Calculus : early transcendentals (Opens in a new window)" target="_blank" >Calculus : early transcendentals</a>. ISBN: 978-0-495-38273-7<br>
+Gabriela Chaves; Análise Real<br>
+
+## Bibliografia complementar
+Spivak , Michael; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990002401570108801" title="Calculus (Opens in a new window)" target="_blank" >Calculus</a>. ISBN: 0-914098-89-6<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Contact hours are divided into theoretical and practical classes. The former introduces the program's content, using examples to illustrate the concepts covered and guide students. Exercises and problems are solved in the theoretical-practical classes. Support materials are available on the course website. In addition to the classes, there are weekly support periods where students have the opportunity to ask questions.
+
+## Software
+Wolfram Player<br>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 114.0 hours
+- Frequência das aulas: 48.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+<div class=&quot;&quot;><br /><div class=&quot;&quot; tabindex=&quot;&quot;><span class=&quot;&quot; lang=&quot;&quot;>There will be two tests, onde during the semester and the other during the normal exam period; they will both be worth 10 points.<br /><br />The final classification will be the sum of the classification of the two tests.<br /><br />There will be an exam at the time of appeal, accessible to any student who has not passed the normal time.</span></div><br /></div>
+
+## Obtenção de frequência
+<span class=&quot;&quot; lang=&quot;&quot;><span class=&quot;&quot; title=&quot;&quot;>No condition is required to obtain frequency.</span></span>
+

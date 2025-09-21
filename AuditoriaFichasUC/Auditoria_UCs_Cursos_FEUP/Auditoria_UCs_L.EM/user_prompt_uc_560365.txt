@@ -1,0 +1,204 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Conceção e Fabrico Assistidos por Computador
+
+## Curso responsável
+Licenciatura em Engenharia Mecânica
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+Os conteúdos programáticos abordados nesta UC foram estruturados de modo a que os estudantes possam:<br /><br />1. Aprofundar a sua análise funcional de mecanismos.<br />2. Conhecer os fundamentos, as caraterísticas e as funcionalidades de sistemas CAD 2D e 3D.<br />3. Utilizar eficientemente sistemas CAD 2D e 3D para modelar e simular componentes e sistemas mecânicos.<br />4. Realizar testes computacionais de resistência mecânica baseados em soluções integradas em sistemas CAD.<br />5. Conhecer os fundamentos, as caraterísticas e as funcionalidades de sistemas de comando numérico de máquinas ferramentas.<br />6. Programar eficientemente sistemas de comando numérico de máquinas ferramentas.<br />7. Desenvolver aplicações de interface entre sistemas CAD/CAM/CNC/Simulação envolvendo informação geométrica e não geométrica.
+
+## Resultados de aprendizagem e competências
+No final, os estudantes deverão ser capazes de:<br /><br />1) Conhecer os sistemas CAD/CAM mais usuais, bem como saber utilizar as funções disponibilizadas pelos mesmos;<br />2) Executar adequadamente um desenho de definição ou de conjunto usando sistemas CAD;<br />3) Modelar tridimensionalmente componentes de sistemas mecânicos bem como proceder à sua montagem usando sistemas CAD;<br />4) Obter automaticamente desenhos de conjunto de sistemas mecânicos ou desenhos de definição de um dos seus componentes previamente modelados usando sistemas CAD;<br />5) Realizar testes/simulações computacionais de resistência mecânica usando soluções integradas em sistemas CAD;<br />6) Desenvolver programas computacionais para processar informação de sistemas CAD/CAM/CNC/Simulação;<br />8) Conhecer os princípios base de sistemas de comando numérico e de máquinas ferramenta associadas;<br />9) Desenvolver programas de comando numérico para operações de maquinagem em torno e fresadora.
+
+## Pré-requisitos e co-requisitos
+Pré-requisitos<br /><br />Conhecimento sobre conceitos relativos à Normalização em Desenho de Construção Mecânica (unidade de Desenho de Construção Mecânica).<br />Capacidade de realizar análises funcionais de mecanismos (unidade de Desenho de Construção Mecânica).<br />Capacidade de ler e elaborar desenhos de conceção, conjunto e definição de produto acabado (unidade de Desenho de Construção Mecânica).<br />Capacidade de estabelecer relações entre as fases de conceção, definição e fabrico (unidade de Desenho de Construção Mecânica)<br />Conhecimentos sobre processos de fabrico e desenvolvimento de produto (unidade de Introdução à Engenharia Mecânica).<br />Conhecimentos sobre programação de computadores (unidade de Programação de Computadores).
+
+## Programa
+O programa da Unidade Curricular engloba:<br /><br />I) Sistemas CAD, sua descrição e classificação.<br />II) Utilização de sistemas de desenho assistido por computador CAD 2D e de conceção 3D, desenho paramétrico.<br />III) Utilização de sistemas para teste/simulação de resistência mecânica baseados em métodos de simulação integrados em sistemas CAD.<br />IV) Introdução à computação gráfica, curvas, superfícies de interpolação e bibliotecas gráficas.<br />V) Interfaces desenho-conceção, desenho-análise e desenho-fabrico. Desenvolvimento de programas computacionais para processar informação de sistemas CAD/CAM/CNC/Simulação.<br />VI) Programação manual e automática de máquinas CNC.
+
+## Bibliografia obrigatória
+João Manuel R. S. Tavares e Joaquim O. Fonseca; Apontamentos da disciplina reproduzidos na reprografia da AEFEUP, 2008<br>
+João Manuel R. S. Tavares e Joaquim Fonseca; Acetatos das aulas teóricas, 2009 (Disponíveis na página web da disciplina)<br>
+João Manuel R. S. Tavares e Joaquim O. Fonseca; Enunciados de exercícios para as aulas práticas, 2009 (Disponíveis na página web da disciplina)<br>
+
+## Bibliografia complementar
+Pedro Leão Neto;  Domine a 110% AutoCAD 13, FCA, 1997<br>
+Cunha, Luís Veiga da; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004877500108801" title="Desenho Técnico (Abre numa nova janela)" target="_blank" >Desenho Técnico</a><br>
+Relvas, Carlos; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004735180108801" title="Controlo numérico computorizado (Abre numa nova janela)" target="_blank" >Controlo numérico computorizado</a>. ISBN: 972-95794-6-6 <br>
+Garcia, José; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004835340108801" title="AutoCAD 2007 & AutoCad LT 2007 (Abre numa nova janela)" target="_blank" >AutoCAD 2007 & AutoCad LT 2007</a>. ISBN: 972-722-541-1 <br>
+João Santos; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005315610108801" title="AutoCAD 3D 2007 Curso Completo (Abre numa nova janela)" target="_blank" >AutoCAD 3D 2007 Curso Completo</a>, FCA Editora,, 2007. ISBN: 972-722-542-X <br>
+Silva, João 070; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004737870108801" title="Mechanical desktop 4 (Abre numa nova janela)" target="_blank" >Mechanical desktop 4</a>. ISBN: 972-722-152-1 <br>
+Garcia, José; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004737490108801" title="AutoCAD 2002 (Abre numa nova janela)" target="_blank" >AutoCAD 2002</a>. ISBN: 972-722-338-9 <br>
+Ferreira, Fernando Luís; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004737480108801" title="Pogramação em AutoCAD (Abre numa nova janela)" target="_blank" >Pogramação em AutoCAD</a>. ISBN: 972-722-208-0 <br>
+Américo Costa; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005316570108801" title="Autodesk Inventor 10 - Curso Completo (Abre numa nova janela)" target="_blank" >Autodesk Inventor 10 - Curso Completo</a>, FCA, 2005. ISBN: 972-722-367-2<br>
+International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004474200108801" title="Limits, fits and surface properties (Abre numa nova janela)" target="_blank" >Limits, fits and surface properties</a>. ISBN: 92-67-10288-5 <br>
+Campos, Luís de; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004630110108801" title="Programação em Visual Basic 6 (Abre numa nova janela)" target="_blank" >Programação em Visual Basic 6</a>. ISBN: 972-722-154-8 <br>
+French, Thomas E.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004593080108801" title="Engineering drawing and graphic technology (Abre numa nova janela)" target="_blank" >Engineering drawing and graphic technology</a>. ISBN: 0-07-113302-X <br>
+ISO; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004652540108801" title="Fasteners and screws threads (Abre numa nova janela)" target="_blank" >Fasteners and screws threads</a>. ISBN: 92-67-10344-X (vol. 1)<br>
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004264850108801" title="ISO Standards Handbook - TECHNICAL DRAWINGS, Vols 1 e 2 (Abre numa nova janela)" target="_blank" >ISO Standards Handbook - TECHNICAL DRAWINGS, Vols 1 e 2</a>, International Organization for Standardization, 2002<br>
+David C Planchard, Marie P Planchard; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005672440108801" title="SolidWorks 2006 Tutorial (Abre numa nova janela)" target="_blank" >SolidWorks 2006 Tutorial</a>, SDC Publications, 2006. ISBN: 1-58503-264-6 <br>
+Silva, Arlindo 070; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004737940108801" title="Desenho técnico moderno (Abre numa nova janela)" target="_blank" >Desenho técnico moderno</a>. ISBN: 972-757-337-1 <br>
+Plastock, Roy A.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004153400108801" title="Computação gráfica (Abre numa nova janela)" target="_blank" >Computação gráfica</a>. ISBN: 972-9241-18-X <br>
+Costa, Américo; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004737970108801" title="Autodesk Inventor (Abre numa nova janela)" target="_blank" >Autodesk Inventor</a>. ISBN: 972-722-434-2 <br>
+Valentino, James V.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004669500108801" title="Introduction to computer numerical control (CNC) (Abre numa nova janela)" target="_blank" >Introduction to computer numerical control (CNC)</a>. ISBN: 0-13-094424-6 <br>
+Larry Nyhoff, Leestma Sanford; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004264810108801" title="FORTRAN77 for Engineers and Scientists (Abre numa nova janela)" target="_blank" >FORTRAN77 for Engineers and Scientists</a>, Prentice Hall, 1996. ISBN: 0135052157<br>
+Foley, James D. 070; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004148210108801" title="Computer Graphics (Abre numa nova janela)" target="_blank" >Computer Graphics</a>. ISBN: 0-201-12110-7<br>
+Simões Morais, José Almacinha; Texto de Apoio à Disciplina de Desenho de Construção Mecânica (MiEM, AEFEUP, 2007 <br>
+Morais, José Manuel de Simões; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004845380108801" title="Desenho técnico básico (Abre numa nova janela)" target="_blank" >Desenho técnico básico</a>. ISBN: 972-96525-2-X <br>
+Predabon, Edilar Paulo; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004735760108801" title="SolidWorks 2004 (Abre numa nova janela)" target="_blank" >SolidWorks 2004</a>. ISBN: 85-7194-996-4 <br>
+Kief, Hans B.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004221590108801" title="Computer Numerical Control (Abre numa nova janela)" target="_blank" >Computer Numerical Control</a>. ISBN: 0-07-112673-2 <br>
+Garcia, José; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004835340108801" title="AutoCAD 2007 & AutoCad LT 2007 (Abre numa nova janela)" target="_blank" >AutoCAD 2007 & AutoCad LT 2007</a>. ISBN: 972-722-541-1 <br>
+Nina, Nuno; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004833930108801" title="Visual Basic 6 (Abre numa nova janela)" target="_blank" >Visual Basic 6</a>. ISBN: 972-722-162-9 <br>
+Jorge da Cunha Pereira Filho, Caetano Roberto A. Loiola; FORTRAN ANSI77 e WATFIV-S, Editora Campos, 1987<br>
+David I. Schneider; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005316980108801" title="An Introduction to Programming Using Visual Basic 2005, (Abre numa nova janela)" target="_blank" >An Introduction to Programming Using Visual Basic 2005,</a>, Prentice Hall, 2006 (ISBN-13: 978-0-13-030654-8 )<br>
+José Garcia; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005672430108801" title="AutoCAD 2013 & AutoCAD LT 2013 - Curso Completo (Abre numa nova janela)" target="_blank" >AutoCAD 2013 & AutoCAD LT 2013 - Curso Completo</a>, FCA, 2012. ISBN: 978-972-722-737-2<br>
+AutoCAD 3D 2013 - Curso Completo; João Santos, FCA, 2012. ISBN: 978-972-722-722-8<br>
+David Planchard, Marie Planchard; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005672440108801" title="SolidWorks 2012 Tutorial (Abre numa nova janela)" target="_blank" >SolidWorks 2012 Tutorial</a>, SDC Publications, 2012. ISBN: 1585037028<br>
+David I. Schneider; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005672450108801" title="An Introduction to Programming Using Visual Basic 2010 (Abre numa nova janela)" target="_blank" >An Introduction to Programming Using Visual Basic 2010</a>, Prentice Hall, 2010. ISBN: 9780132128568<br>
+
+## Métodos de ensino e atividades de aprendizagem
+O funcionamento previsto para a Unidade Curricular é o seguinte:<br /><br />- Apresentação dos temas abordados na Unidade Curricular durante as aulas teóricas (1,5 h T) com análise de exemplos de aplicação.<br />- Nas aulas práticas laboratoriais (2 h PL), são apresentadas algumas particularidades e propostos exercícios, a realizar em computador, para aplicação dos conceitos apresentados nas aulas teóricas.<br />- Durante as primeiras aulas da Unidade Curricular são propostos diversos temas possíveis para os trabalhos práticos a realizar pelos estudantes durante o semestre.<br />- As últimas aulas da Unidade Curricular são destinadas a um apoio mais intenso aos trabalhos práticos. <br /><br />O atendimento aos estudantes, por parte dos docentes, existe ao longo de todo o semestre, em horário pré-estabelecido. Nos dias antecedentes aos exames, os docentes disponibilizam períodos de atendimento mais prolongados para esclarecimento de dúvidas.
+
+## Software
+SolidWorks<br>
+Force<br>
+Autodesk AutoCAD<br>
+Autodesk Inventor Professional<br>
+Microsoft Visual Studio - Enterprise Edition 6.0<br>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Elaboração de projeto: 60.0 horas
+- Elaboração de relatório/dissertação/tese: 4.5 horas
+- Estudo autónomo: 52.0 horas
+- Frequência das aulas: 45.5 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+Avaliação é distribuída com exame final, baseada nas classificações de de um exame final e de um trabalho prático.<br /><br />Cada estudante deve submeter-se à avaliação em todas as suas componentes: exame escrito sem consulta com duas partes: I - Sistemas de CAD 2D/3D, II - Programação CNC + Desenvolvimento de Aplicações de Interface CAD/CAM/CNC/Simulação, entrega do trabalho prático.<br /><br />A nota final resulta da média pesada das classificações em cada uma das componentes da avaliação, com os pesos:<br /><br />- Exame escrito: 25% + 25%; sendo necessário uma classificação média &gt;= 30/100%;<br />- Trabalho prático: 50%.<br /><br />Relativamente aos trabalhos, os estudantes, individualmente ou em grupos de dois, deverão definir o seu tema e propô-lo aos docentes que os deverão validar.<br /><br />Está prevista a possibilidade de realização de uma prova de recurso versando a matéria de uma ou das duas partes do exame final.
+
+## Obtenção de frequência
+A aprovação na Unidade Curricular está condicionada à prévia obtenção de frequência às aulas práticas laboratoriais.<br /><br />Cada estudante deve, obrigatoriamente, submeter-se à avaliação em todas as suas componentes: exame escrito final (Com 2 partes: I - Sistemas de CAD 2D/3D, II - Programação CNC + Desenvolvimento de Aplicações de Interface CAD/CAM/CNC), entrega do trabalho prático, e eventual apresentação e discussão do trabalho entregue.
+
+## Exames ou Trabalhos Especiais
+Não se aplica.
+
+## Melhoria de classificação
+A melhoria de classificação será realizada de acordo com as Normas Gerais de Avaliação da FEUP.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Computer Aided Design and Manufacturing
+
+## Curso responsável
+Bachelor in Mechanical Engineering
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+2
+
+## Objetivos
+The syllabus contents covered in this curricular unit were structured so that the students can:<br /><br />1. To deepen their functional analysis of mechanisms.<br />2. Know the fundamentals, features, and functionalities of 2D and 3D CAD systems.<br />3. Efficiently use 2D and 3D CAD systems to model and simulate components and mechanical systems.<br />4. Carry out computational tests of mechanical resistance based on integrated solutions in CAD systems.<br />5. To know the fundamentals, the characteristics, and the functionalities of numerical control systems of machine tools.<br />6. Efficiently program numerical control systems for machine tools.<br />7. Develop interface applications between CAD/CAM/CNC/Simulation systems involving geometric and non-geometric information.
+
+## Resultados de aprendizagem e competências
+At the end, the students should be able to:<br /><br />1) Know the most common CAD/CAM systems, as well as know how to use the functions offered by them;<br />2) Properly execute definition and assembly drawings using CAD systems;<br />3) Modeling three-dimensional mechanical system components as well as assembling them using CAD systems;<br />4) Automatically obtain assembly and definition drawings of previously three-dimensional modeled mechanical systems or of one of their components using CAD systems;<br />5) Perform computational tests/simulations of mechanical resistance using solutions integrated in CAD systems;<br />6) Develop computer programs to process information from CAD/CAM/CNC/Simulation systems;<br />8) Know the basic principles of numerical control systems and associated machine tools;<br />9) Develop numerical control programs for machining operations in lathe and milling machines.
+
+## Pré-requisitos e co-requisitos
+Prerequisites<br /><br />Knowledge about the Normalization in Mechanical Construction Design (Mechanical Construction Design unit) concepts.<br />Ability to perform functional analysis of mechanisms (Mechanical Construction Design unit).<br />Ability to read and elaborate drawings of conception, assembly, and definition of finished product (Mechanical Construction Design unit).<br />Ability to establish relationships between the conception, definition, and manufacturing phases (Mechanical Construction Design unit).<br />Knowledge of manufacturing processes and product development (Introduction to Mechanical Engineering unit).<br />Knowledge of computer programming (Computer Programming unit).
+
+## Programa
+Prerequisites<br /><br />Knowledge about the Normalization in Mechanical Construction Design (Mechanical Construction Design unit) concepts.<br />Ability to perform functional analysis of mechanisms (Mechanical Construction Design unit).<br />Ability to read and elaborate drawings of conception, assembly, and definition of finished product (Mechanical Construction Design unit).<br />Ability to establish relationships between the conception, definition, and manufacturing phases (Mechanical Construction Design unit).<br />Knowledge of manufacturing processes and product development (Introduction to Mechanical Engineering unit).<br />Knowledge of computer programming (Computer Programming unit).
+
+## Bibliografia obrigatória
+João Manuel R. S. Tavares e Joaquim O. Fonseca; Apontamentos da disciplina reproduzidos na reprografia da AEFEUP, 2008<br>
+João Manuel R. S. Tavares e Joaquim Fonseca; Acetatos das aulas teóricas, 2009<br>
+João Manuel R. S. Tavares e Joaquim O. Fonseca; Enunciados de exercícios para as aulas práticas, 2009<br>
+
+## Bibliografia complementar
+Pedro Leão Neto;  Domine a 110% AutoCAD 13, FCA, 1997<br>
+Cunha, Luís Veiga da; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004877500108801" title="Desenho Técnico (Opens in a new window)" target="_blank" >Desenho Técnico</a><br>
+Relvas, Carlos; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004735180108801" title="Controlo numérico computorizado (Opens in a new window)" target="_blank" >Controlo numérico computorizado</a>. ISBN: 972-95794-6-6 <br>
+Garcia, José; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004835340108801" title="AutoCAD 2007 & AutoCad LT 2007 (Opens in a new window)" target="_blank" >AutoCAD 2007 & AutoCad LT 2007</a>. ISBN: 972-722-541-1 <br>
+João Santos; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005315610108801" title="AutoCAD 3D 2007 Curso Completo (Opens in a new window)" target="_blank" >AutoCAD 3D 2007 Curso Completo</a>, FCA Editora,, 2007. ISBN: 972-722-542-X <br>
+Silva, João 070; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004737870108801" title="Mechanical desktop 4 (Opens in a new window)" target="_blank" >Mechanical desktop 4</a>. ISBN: 972-722-152-1 <br>
+Garcia, José; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004737490108801" title="AutoCAD 2002 (Opens in a new window)" target="_blank" >AutoCAD 2002</a>. ISBN: 972-722-338-9 <br>
+Ferreira, Fernando Luís; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004737480108801" title="Pogramação em AutoCAD (Opens in a new window)" target="_blank" >Pogramação em AutoCAD</a>. ISBN: 972-722-208-0 <br>
+Américo Costa; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005316570108801" title="Autodesk Inventor 10 - Curso Completo (Opens in a new window)" target="_blank" >Autodesk Inventor 10 - Curso Completo</a>, FCA, 2005. ISBN: 972-722-367-2<br>
+International Organization for Standardization; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004474200108801" title="Limits, fits and surface properties (Opens in a new window)" target="_blank" >Limits, fits and surface properties</a>. ISBN: 92-67-10288-5 <br>
+Campos, Luís de; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004630110108801" title="Programação em Visual Basic 6 (Opens in a new window)" target="_blank" >Programação em Visual Basic 6</a>. ISBN: 972-722-154-8 <br>
+French, Thomas E.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004593080108801" title="Engineering drawing and graphic technology (Opens in a new window)" target="_blank" >Engineering drawing and graphic technology</a>. ISBN: 0-07-113302-X <br>
+ISO; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004652540108801" title="Fasteners and screws threads (Opens in a new window)" target="_blank" >Fasteners and screws threads</a>. ISBN: 92-67-10344-X (vol. 1)<br>
+<a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004264850108801" title="ISO Standards Handbook - TECHNICAL DRAWINGS, Vols 1 e 2 (Opens in a new window)" target="_blank" >ISO Standards Handbook - TECHNICAL DRAWINGS, Vols 1 e 2</a>, International Organization for Standardization, 2002<br>
+David C Planchard, Marie P Planchard; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005672440108801" title="SolidWorks 2006 Tutorial (Opens in a new window)" target="_blank" >SolidWorks 2006 Tutorial</a>, SDC Publications, 2006. ISBN: 1-58503-264-6 <br>
+Silva, Arlindo 070; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004737940108801" title="Desenho técnico moderno (Opens in a new window)" target="_blank" >Desenho técnico moderno</a>. ISBN: 972-757-337-1 <br>
+Plastock, Roy A.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004153400108801" title="Computação gráfica (Opens in a new window)" target="_blank" >Computação gráfica</a>. ISBN: 972-9241-18-X <br>
+Costa, Américo; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004737970108801" title="Autodesk Inventor (Opens in a new window)" target="_blank" >Autodesk Inventor</a>. ISBN: 972-722-434-2 <br>
+Valentino, James V.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004669500108801" title="Introduction to computer numerical control (CNC) (Opens in a new window)" target="_blank" >Introduction to computer numerical control (CNC)</a>. ISBN: 0-13-094424-6 <br>
+Larry Nyhoff, Leestma Sanford; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004264810108801" title="FORTRAN77 for Engineers and Scientists (Opens in a new window)" target="_blank" >FORTRAN77 for Engineers and Scientists</a>, Prentice Hall, 1996. ISBN: 0135052157<br>
+Foley, James D. 070; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004148210108801" title="Computer Graphics (Opens in a new window)" target="_blank" >Computer Graphics</a>. ISBN: 0-201-12110-7<br>
+Simões Morais, José Almacinha; Texto de Apoio à Disciplina de Desenho de Construção Mecânica (MiEM, AEFEUP, 2007 <br>
+Morais, José Manuel de Simões; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004845380108801" title="Desenho técnico básico (Opens in a new window)" target="_blank" >Desenho técnico básico</a>. ISBN: 972-96525-2-X <br>
+Predabon, Edilar Paulo; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004735760108801" title="SolidWorks 2004 (Opens in a new window)" target="_blank" >SolidWorks 2004</a>. ISBN: 85-7194-996-4 <br>
+Kief, Hans B.; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004221590108801" title="Computer Numerical Control (Opens in a new window)" target="_blank" >Computer Numerical Control</a>. ISBN: 0-07-112673-2 <br>
+Garcia, José; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004835340108801" title="AutoCAD 2007 & AutoCad LT 2007 (Opens in a new window)" target="_blank" >AutoCAD 2007 & AutoCad LT 2007</a>. ISBN: 972-722-541-1 <br>
+Nina, Nuno; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990004833930108801" title="Visual Basic 6 (Opens in a new window)" target="_blank" >Visual Basic 6</a>. ISBN: 972-722-162-9 <br>
+Jorge da Cunha Pereira Filho, Caetano Roberto A. Loiola; FORTRAN ANSI77 e WATFIV-S, Editora Campos, 1987<br>
+David I. Schneider; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005316980108801" title="An Introduction to Programming Using Visual Basic 2005, (Opens in a new window)" target="_blank" >An Introduction to Programming Using Visual Basic 2005,</a>, Prentice Hall, 2006<br>
+José Garcia; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005672430108801" title="AutoCAD 2013 & AutoCAD LT 2013 - Curso Completo (Opens in a new window)" target="_blank" >AutoCAD 2013 & AutoCAD LT 2013 - Curso Completo</a>, FCA, 2012. ISBN: 978-972-722-737-2<br>
+AutoCAD 3D 2013 - Curso Completo; João Santos, FCA, 2012. ISBN: 978-972-722-722-8<br>
+David Planchard, Marie Planchard; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005672440108801" title="SolidWorks 2012 Tutorial (Opens in a new window)" target="_blank" >SolidWorks 2012 Tutorial</a>, SDC Publications, 2012. ISBN: 1585037028<br>
+David I. Schneider; <a href="https://discovery.up.pt/permalink/351PUCS_INST/1levj0s/alma990005672450108801" title="An Introduction to Programming Using Visual Basic 2010 (Opens in a new window)" target="_blank" >An Introduction to Programming Using Visual Basic 2010</a>, Prentice Hall, 2010. ISBN: 9780132128568<br>
+
+## Métodos de ensino e atividades de aprendizagem
+The expected functioning of the Curricular Unit is as follows:<br /><br />- Presentation of the topics covered in the Curricular Unit during the theoretical classes (1.5 h T) with analysis of application examples. <br />- In the practical laboratorial classes (2 h L), particularities will be presented, and exercises, to be developed in computer, proposed for application of the concepts presented in the theoretical classes.<br />- During the first classes of the Curricular Unit, several possible topics are proposed for the students&#8217; practical works during the semester.<br />- The last lessons of the Curricular Unit are devoted to give more support to the practical works.<br /><br />Throughout the semester, attending to the students by the Professors is possible during pre-established hours. In the days preceding the exams, the Professors offer extended attending periods to clarify doubts.
+
+## Software
+SolidWorks<br>
+Force<br>
+Autodesk AutoCAD<br>
+Autodesk Inventor Professional<br>
+Microsoft Visual Studio - Enterprise Edition 6.0<br>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Elaboração de projeto: 60.0 hours
+- Elaboração de relatório/dissertação/tese: 4.5 hours
+- Estudo autónomo: 52.0 hours
+- Frequência das aulas: 45.5 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+The course assessment is distributed with a final written exam and one practical work.<br /><br />Each student must submit to the evaluation in all its components: one written exam without consultation allowed and made of two parts: I - 2D/3D CAD systems, II - CNC Programming + CAD/CAM/CNC/Simulation Interface Applications Development, delivery of the practical work.<br /><br />The final grade results from the weighted average of the grades obtained in each of the evaluation components, with the following weights:<br /><br />- Written exam: 25% + 25%; a average rating &gt;= 30/100% is required;<br />- Practical work: 50%.<br /><br />As to the practical work, students, individually or in groups of two, should define their theme and propose it to the teachers, who should validate them. <br /><br />It is foreseen an appealing test regarding the subjects addressed in one or two parts of the final written exam.
+
+## Obtenção de frequência
+To complete this curricular unit, the students must attain the required frequency of the practical laboratorial classes.<br /><br />The students must also undergo all evaluation components, the final written exam (with 2 parts: I - CAD, II - CNC + CAD/CAM interfaces programming), the delivery of the practical assignment, and possibly its presentation and discussion.
+
+## Exames ou Trabalhos Especiais
+Not applicable.
+
+## Melhoria de classificação
+According to the General Evaluation Rules of FEUP.
+

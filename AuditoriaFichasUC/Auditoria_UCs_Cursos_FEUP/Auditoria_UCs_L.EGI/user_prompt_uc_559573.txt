@@ -1,0 +1,555 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Análise Matemática III
+
+## Curso responsável
+Licenciatura em Engenharia e Gestão Industrial
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p data-start="80" data-end="141"><strong data-start="80" data-end="139">Nesta unidade curricular, os principais objectivos são:</strong></p>
+<ul data-start="142" data-end="669">
+<li data-start="142" data-end="358">
+<p data-start="144" data-end="358">Transmitir aos estudantes os conceitos e as técnicas de integração de equações diferenciais ordinárias e de sistemas de equações diferenciais, bem como a sua aplicação a problemas de natureza física e geométrica;</p>
+</li>
+<li data-start="359" data-end="562">
+<p data-start="361" data-end="562">Proporcionar aos estudantes os conhecimentos fundamentais de cálculo integral em curvas e superfícies, assegurando a compreensão e aplicação dos principais teoremas de integrais da análise vectorial;</p>
+</li>
+<li data-start="563" data-end="669">
+<p data-start="565" data-end="669">Habilitar os estudantes a utilizar a representação de funções periódicas através de séries de Fourier.</p>
+</li>
+</ul>
+<p style="padding-left: 60px;"><br /><br /></p>
+
+## Resultados de aprendizagem e competências
+<p><!-- [if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>PT</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="--"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--></p>
+<p><!-- [if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]--><!-- [if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Tabela normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:12.0pt;
+	mso-para-margin-left:36.0pt;
+	text-align:justify;
+	text-indent:-36.0pt;
+	line-height:150%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-fareast-language:EN-US;}
+</style>
+<![endif]--></p>
+<p data-start="140" data-end="179"><strong>Os estudantes deverão ser capazes de:</strong></p>
+<ul data-start="180" data-end="641">
+<li data-start="180" data-end="263">
+<p data-start="182" data-end="263">Identificar e resolver as equações diferenciais ordinárias abordadas nas aulas;</p>
+</li>
+<li data-start="264" data-end="338">
+<p data-start="266" data-end="338">Resolver sistemas de equações diferenciais lineares de primeira ordem;</p>
+</li>
+<li data-start="339" data-end="451">
+<p data-start="341" data-end="451">Determinar as transformadas de Laplace de funções reais de variável positiva e aplicar as suas propriedades;</p>
+</li>
+<li data-start="452" data-end="500">
+<p data-start="454" data-end="500">Calcular integrais de linha e de superfície;</p>
+</li>
+<li data-start="501" data-end="582">
+<p data-start="503" data-end="582">Aplicar os teoremas da análise vetorial a integrais de linha e de superfície;</p>
+</li>
+<li data-start="583" data-end="641">
+<p data-start="585" data-end="641">Determinar a série de Fourier de uma função periódica.</p>
+</li>
+</ul>
+<p><span style="font-size: 11.0pt; line-height: 150%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: PT; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"><br /><br /></span></p>
+
+## Pré-requisitos e co-requisitos
+<div style=&quot;padding-left: 30px;&quot;>AM I, AM II, <span data-huuid=&quot;4882366959038521081&quot;>Álgebra Linear e Geometria Analítica</span></div>
+
+## Programa
+<div style=&quot;text-align: justify;&quot; data-start=&quot;160&quot; data-end=&quot;711&quot;><strong data-start=&quot;160&quot; data-end=&quot;200&quot;>Introdução às Equações Diferenciais:</strong> definição de solução geral e formulação de problemas de valor inicial e de fronteira. Equações diferenciais de primeira ordem. Teorema de existência e unicidade da solução. Equações homogéneas, equações diferenciais exactas e fator integrante. Equações diferenciais lineares, cuja solução geral se obtém como a soma da solução geral da equação homogénea associada com uma solução particular da equação completa - método da variação das constantes; equações redutíveis a lineares, como a equação de Bernoulli.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot; data-start=&quot;713&quot; data-end=&quot;866&quot;><strong data-start=&quot;713&quot; data-end=&quot;743&quot;>Equações de segunda ordem:</strong> equações redutíveis a primeira ordem, com exemplos de redução de equações de segunda ordem a equações de primeira ordem.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot; data-start=&quot;868&quot; data-end=&quot;1180&quot;><strong data-start=&quot;868&quot; data-end=&quot;918&quot;>Equações diferenciais lineares de ordem <span class=&quot;katex&quot;><span class=&quot;katex-mathml&quot;>n</span></span>:</strong> equações homogéneas; equações homogéneas de coeficientes constantes e o correspondente espaço vectorial de soluções. Equações não homogéneas, resolvidas pelo método da variação das constantes (e método de Wronski), para obtenção de uma solução particular.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot; data-start=&quot;1182&quot; data-end=&quot;1463&quot;><strong data-start=&quot;1182&quot; data-end=&quot;1220&quot;>Sistemas de equações diferenciais:</strong> sistemas lineares de primeira ordem e a sua relação com equações lineares de ordem <span class=&quot;katex&quot;><span class=&quot;katex-mathml&quot;>n</span></span>. Sistemas lineares de primeira ordem com coeficientes constantes homogéneos: solução geral. Sistemas não homogéneos: método da variação das constantes.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot; data-start=&quot;1465&quot; data-end=&quot;1764&quot;><strong data-start=&quot;1465&quot; data-end=&quot;1494&quot;>Transformadas de Laplace:</strong> definição e condições de existência; transformada inversa; primeiros e segundos teoremas da translação; transformada de funções descontínuas; transformada da derivada; teorema da convolução. Aplicações à integração de equações diferenciais de coeficientes constantes.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot; data-start=&quot;1766&quot; data-end=&quot;1955&quot;><strong data-start=&quot;1766&quot; data-end=&quot;1789&quot;>Integrais de linha:</strong> propriedades, técnicas de cálculo e aplicações. Curvas e parametrizações. Campos irrotacionais e função potencial. Campos conservativos e independência do caminho.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot; data-start=&quot;1957&quot; data-end=&quot;2035&quot;><strong data-start=&quot;1957&quot; data-end=&quot;1985&quot;>Integrais de superfície:</strong> propriedades, técnicas de cálculo e aplicações.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot; data-start=&quot;2037&quot; data-end=&quot;2211&quot;><strong data-start=&quot;2037&quot; data-end=&quot;2065&quot;>Operadores diferenciais:</strong> gradiente, divergência, rotacional, operadores compostos e Laplaciano. Teoremas de Green, Stokes e Gauss: enunciado, demonstração e aplicações.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot; data-start=&quot;2213&quot; data-end=&quot;2477&quot;><strong data-start=&quot;2213&quot; data-end=&quot;2235&quot;>Séries de Fourier:</strong> funções periódicas, pares e ímpares, e funções não periódicas com expansões periódicas. Séries trigonométricas de funções periódicas, condições de convergência e soma. Aproximação por polinómios trigonométricos e respetivo erro quadrático.<br /><br /><br /></div>
+
+## Bibliografia obrigatória
+Luísa Madureira; Problemas de Equações Diferenciais Ordinárias e Transformandas de Laplace, engebook, 2020. ISBN: 9789898927583 (5ª Edição (Revista e Aumentada))<br>
+Luísa Madureira; Problemas de Análise Matemática para Engenharia  Cálculo do trabalho, fluxo, séries de Fourier e aplicação à equação das ondas, engebook, 2022. ISBN: 9789899101562<br>
+
+## Bibliografia complementar
+Anthony Tromba e Jerrold E. Marsden; Vector Calculus , Macmillan Learning , 2011. ISBN: 9781429215084 <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<div style=&quot;text-align: justify;&quot; data-start=&quot;118&quot; data-end=&quot;464&quot;>As aulas incluem uma componente teórica (T) e uma componente prática (TP). Na parte teórica, o conteúdo é apresentado através de exposições orais, apoiadas por projeção de slides e utilização do quadro branco, sendo a dedução e a abstração consideradas essenciais. Após cada tema, resolvem-se sempre exemplos de aplicação (exercícios práticos).<br /><br /></div><br /><div style=&quot;text-align: justify;&quot; data-start=&quot;466&quot; data-end=&quot;636&quot;>Na componente prática, os alunos são convidados a resolver exercícios previamente sugeridos, baseados tanto nos textos teóricos como no livro de exercícios recomendado.</div>
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Estudo autónomo: 90.0 horas
+- Frequência das aulas: 78.0 horas
+- Total:: 168.0 horas
+
+## Fórmula de cálculo da classificação final
+<p style="text-align: justify;"><strong>Classificação Final:</strong> 50% do primeiro teste + 50% do segundo teste<br /><br />No exame de recurso, os alunos terão que realizar uma prova final com toda a matéria.<br /><br />Os alunos que obtiveram aprovação, podem fazer a melhoria de classificação no exame de recurso, numa prova com toda a matéria.</p>
+<br />
+<p> </p>
+
+## Obtenção de frequência
+<div style=&quot;text-align: justify;&quot; data-start=&quot;107&quot; data-end=&quot;274&quot;>Será feito controlo de presenças nas aulas práticas (TP), não podendo o aluno exceder o limite de faltas permitido, correspondente a 25% do total de aulas previstas.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot; data-start=&quot;276&quot; data-end=&quot;510&quot;>Caso o número de faltas ultrapasse este limite, o aluno não terá frequência na disciplina e não poderá realizar qualquer exame da mesma, salvo se possuir um estatuto especial (consultar as normas pedagógicas e de avaliação da FEUP).</div>
+
+## Exames ou Trabalhos Especiais
+<p>Não previsto.</p>
+
+## Melhoria de classificação
+<p style="text-align: justify;">Os alunos que obtiverem aprovação na época normal, podem realizar a melhoria de classificação no exame de recurso numa prova final com toda a matéria.<br /><br /><br /></p>
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Mathematical Analysis III
+
+## Curso responsável
+Bachelor in Industrial Engineering and Management
+
+## Créditos ECTS
+6
+
+## Ano
+2
+
+## Semestre
+1
+
+## Objetivos
+<p data-start="66" data-end="117"><strong data-start="66" data-end="115">In this course unit, the main objectives are:</strong></p>
+<ul data-start="118" data-end="635">
+<li data-start="118" data-end="347">
+<p data-start="120" data-end="347">To convey to students the concepts and techniques for integrating ordinary differential equations and systems of ordinary differential equations, as well as their application to problems of both physical and geometric nature;</p>
+</li>
+<li data-start="348" data-end="540">
+<p data-start="350" data-end="540">To provide students with the fundamental knowledge of integral calculus on curves and surfaces, ensuring the understanding and application of the main integral theorems of vector analysis;</p>
+</li>
+<li data-start="541" data-end="635">
+<p data-start="543" data-end="635">To enable students to use the representation of periodic functions through Fourier series.</p>
+</li>
+</ul>
+
+## Resultados de aprendizagem e competências
+<p><!-- [if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>PT</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="--"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--></p>
+<p data-start="58" data-end="87"><strong>Students should be able to:</strong></p>
+<ul data-start="88" data-end="509">
+<li data-start="88" data-end="164">
+<p data-start="90" data-end="164">Identify and solve the ordinary differential equations covered in class;</p>
+</li>
+<li data-start="165" data-end="228">
+<p data-start="167" data-end="228">Solve systems of first-order linear differential equations;</p>
+</li>
+<li data-start="229" data-end="339">
+<p data-start="231" data-end="339">Determine the Laplace transforms of real functions of a positive real variable and apply their properties;</p>
+</li>
+<li data-start="340" data-end="379">
+<p data-start="342" data-end="379">Compute line and surface integrals;</p>
+</li>
+<li data-start="380" data-end="452">
+<p data-start="382" data-end="452">Apply the theorems of vector analysis to line and surface integrals;</p>
+</li>
+<li data-start="453" data-end="509">
+<p data-start="455" data-end="509">Determine the Fourier series of a periodic function.</p>
+</li>
+</ul>
+<p><span lang="EN-US" style="font-size: 11.0pt; line-height: 150%; font-family: 'Calibri','sans-serif'; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA;"><br /><br /></span></p>
+
+## Pré-requisitos e co-requisitos
+AM I, AM II, Linear Algebra and Analytic Geometry
+
+## Programa
+<div style=&quot;text-align: justify;&quot; data-start=&quot;101&quot; data-end=&quot;696&quot;><strong data-start=&quot;101&quot; data-end=&quot;144&quot;>Introduction to Differential Equations:</strong> definition of the general solution and formulation of initial and boundary value problems. First-order differential equations. Theorem of existence and uniqueness of solutions. Homogeneous equations, exact differential equations, and integrating factors. Linear differential equations, whose general solution is obtained as the sum of the general solution of the associated homogeneous equation and a particular solution of the complete equation (method of variation of constants); equations reducible to linear form, such as the Bernoulli equation.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot; data-start=&quot;698&quot; data-end=&quot;833&quot;><strong data-start=&quot;698&quot; data-end=&quot;725&quot;>Second-order equations:</strong> equations reducible to first order, with examples of reducing second-order equations to first-order form.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot; data-start=&quot;835&quot; data-end=&quot;1138&quot;><strong data-start=&quot;835&quot; data-end=&quot;884&quot;>Linear differential equations of order <span class=&quot;katex&quot;><span class=&quot;katex-mathml&quot;>n</span></span>:</strong> homogeneous equations; homogeneous equations with constant coefficients and the corresponding solution vector space. Non-homogeneous equations, solved by the method of variation of constants (and the Wronskian method), to obtain a particular solution.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot; data-start=&quot;1140&quot; data-end=&quot;1420&quot;><strong data-start=&quot;1140&quot; data-end=&quot;1178&quot;>Systems of differential equations:</strong> first-order linear systems and their relation to linear differential equations of order <span class=&quot;katex&quot;><span class=&quot;katex-mathml&quot;>n</span></span>. First-order linear systems with constant coefficients, homogeneous: general solution. Non-homogeneous systems: method of variation of constants.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot; data-start=&quot;1422&quot; data-end=&quot;1716&quot;><strong data-start=&quot;1422&quot; data-end=&quot;1445&quot;>Laplace transforms:</strong> definition and conditions of existence; inverse transform; first and second translation theorems; transform of discontinuous functions; transform of derivatives; convolution theorem. Applications to the integration of differential equations with constant coefficients.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot; data-start=&quot;1718&quot; data-end=&quot;1910&quot;><strong data-start=&quot;1718&quot; data-end=&quot;1737&quot;>Line integrals:</strong> properties, calculation techniques, and applications. Curves and parametrizations. Irrotational fields and potential functions. Conservative fields and path independence.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot; data-start=&quot;1912&quot; data-end=&quot;1990&quot;><strong data-start=&quot;1912&quot; data-end=&quot;1934&quot;>Surface integrals:</strong> properties, calculation techniques, and applications.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot; data-start=&quot;1992&quot; data-end=&quot;2175&quot;><strong data-start=&quot;1992&quot; data-end=&quot;2019&quot;>Differential operators:</strong> gradient, divergence, curl, composite operators, and Laplacian. Green&#8217;s theorem, Stokes&#8217; theorem, and Gauss&#8217; theorem: statement, proof, and applications.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot; data-start=&quot;2177&quot; data-end=&quot;2465&quot;><strong data-start=&quot;2177&quot; data-end=&quot;2196&quot;>Fourier series:</strong> periodic functions, even and odd functions, and non-periodic functions with periodic expansions. Trigonometric series of periodic functions, conditions for convergence and summation. Approximation by trigonometric polynomials and the corresponding mean square error.</div>
+
+## Bibliografia obrigatória
+Luísa Madureira; Problemas de Equações Diferenciais Ordinárias e Transformandas de Laplace, engebook, 2020. ISBN: 9789898927583<br>
+Luísa Madureira; Problemas de Análise Matemática para Engenharia  Cálculo do trabalho, fluxo, séries de Fourier e aplicação à equação das ondas, engebook, 2022. ISBN: 9789899101562<br>
+
+## Bibliografia complementar
+Anthony Tromba e Jerrold E. Marsden; Vector Calculus , Macmillan Learning , 2011. ISBN: 9781429215084 <br>
+
+## Métodos de ensino e atividades de aprendizagem
+<div style=&quot;text-align: justify;&quot; data-start=&quot;53&quot; data-end=&quot;393&quot;>The classes consist of a theoretical component (T) and a practical component (TP). In the theoretical part, the material is presented through oral lectures, supported by slides and the use of a whiteboard, with deduction and abstraction considered essential. After each topic, application examples (practical exercises) are always solved.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot; data-start=&quot;395&quot; data-end=&quot;557&quot;>In the practical component, students are expected to solve exercises proposed in advance, based on both the theoretical texts and the recommended exercise book.</div>
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Estudo autónomo: 90.0 hours
+- Frequência das aulas: 78.0 hours
+- Total:: 168.0 hours
+
+## Fórmula de cálculo da classificação final
+<p data-start="67" data-end="128"><strong data-start="67" data-end="83">Final Grade:</strong> 50% of the 1st test + 50% of the 2nd test.</p>
+<p data-start="130" data-end="216">In the resit exam, students must take a final test covering all the course material.</p>
+<p data-start="218" data-end="354" data-is-only-node="">Students who have already passed may take the resit exam to improve their grade, also through a test covering all the course material.</p>
+
+## Obtenção de frequência
+<div style=&quot;text-align: justify;&quot; data-start=&quot;53&quot; data-end=&quot;227&quot;>Attendance will be monitored in the practical classes (TP), and students may not exceed the allowed number of absences, corresponding to 25% of the total scheduled classes.<br /><br /></div><br /><div style=&quot;text-align: justify;&quot; data-start=&quot;229&quot; data-end=&quot;464&quot;>If this limit is exceeded, the student will not be considered to have attended the course and will not be allowed to take any exams for the course, unless they have a special status (see the FEUP academic and assessment regulations).</div>
+
+## Exames ou Trabalhos Especiais
+<p>Not applicable.</p>
+
+## Melhoria de classificação
+<p style="text-align: justify;">Students who pass in the regular exam period may take the resit exam to improve their grade, through a final test covering all the course material.<br /><br /></p>
+

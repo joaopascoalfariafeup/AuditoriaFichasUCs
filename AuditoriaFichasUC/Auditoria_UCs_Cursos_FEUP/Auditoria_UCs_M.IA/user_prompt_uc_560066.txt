@@ -1,0 +1,126 @@
+# Ficha a avaliar - versão em português
+
+## Unidade curricular
+Tópicos Avançados em Aprendizagem Computacional
+
+## Curso responsável
+Mestrado em Inteligência Artificial
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Os estudantes irão obter uma perspectiva global de temáticas da aprendizagem computacional atuais e fruto de grande investigação e desenvolvimento nos últimos tempos.
+
+## Resultados de aprendizagem e competências
+Os estudantes deverão:<br />- conhecer os conceitos fundamentais da a&#769;rea de eXplainable AI (xAI);<br />- reconhecer os principais algoritmos de xAI e compreender o seu funcionamento;<br />- identificar o(s) me&#769;todo(s) que possam ser mais adequados face ao domi&#769;nio e destinata&#769;rios;<br />- ser capazes de fazer uma avaliac&#807;a&#771;o qualitativa e quantitativa das explicac&#807;o&#771;es obtidas, de forma cri&#769;tica;<br />- familiarizar-se com os princípios de meta-aprendizagem e com as diferentes abordagens<br />- compreender a motivação e os componentes dos sistemas AutoML, incluindo a otimização de hiperparâmetros e a pesquisa de arquiteturas de redes neuronais;<br />- compreender os princípios operacionais e as principais arquiteturas dos modelos de linguagem de grande dimensão (LLMs);<br />- conhecer e praticar com ferramentas de aplicação, repositórios de modelos e módulos de programação tipicamente utilizados com modelos avançados de ML;<br />- obter uma visão geral das aplicações multimodais dos LLMs, incluindo a sua utilização no processamento de imagens (por exemplo, imagens biomédicas) e áudio.
+
+## Pré-requisitos e co-requisitos
+Conhecimentos de programação em Python (nível médio).<br />Conhecimentos de estatística.<br />Conhecimento de conceitos elementares/intermédios em aprendizagem computacional.
+
+## Programa
+0. Visão geral e apresentação do curso<br />1. Introdução à IA explica&#769;vel (xAI)<br />2. Metodologias dependentes e agnósticas aos modelos.<br />3. Explicações locais vs globais.<br />4. Métodos baseados na importância de atributos.<br />5. Métodos baseados em exemplos. <br />6. Métodos baseados em regras.<br />7. Métricas de avaliação.<br />8. Meta-learning: princípios e abordagens <br />9. AutoML: motivação e aplicações<br />10. Introdução aos LLMs<br />11. Os LLMs na prática<br />12. Outros tópicos avançados:técnicas xAI em domínios como imagem e texto, desafios atuais; grandes modelos multimodais. Transformadores de visão (ViT).
+
+## Bibliografia obrigatória
+Lewis Tunstall (Autor), Leandro von Werra (Autor), Thomas Wolf (Autor); Natural Language Processing with Transformers: Building Language Applications With Hugging Face, O'Reilly Media, 2022. ISBN: 1098136799<br>
+Christoph Molnar; Interpretable Machine Learning: A Guide For Making Black Box Models Explainable, Leanpub, 2022. ISBN: 979-8411463330 (https://christophm.github.io/interpretable-ml-book/)<br>
+
+## Bibliografia complementar
+Louis-François Bouchard (Autor), Louie Peters (Autor); Building LLMs for Production: Enhancing LLM Abilities and Reliability with Prompting, Fine-Tuning, and RAG, Independently published (21 maio 2024), 2024. ISBN:  979-8324731472<br>
+ Aurélien Géron (Autor); Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent, O'Reilly Media; 3rd ed. edição (8 novembro 2022), 2022. ISBN: 1098125975<br>
+Chris Fregly (Autor), Antje Barth (Autor), Shelbee Eigenbrode (Autor); Generative AI on AWS: Building Context-Aware Multimodal Reasoning Applications , O'Reilly Media, 2023. ISBN: 1098159225<br>
+Michael Munn, David Pitman; Explainable AI for Practitioners, O'Reilly Media, Inc., 2022. ISBN: 9781098119133<br>
+Przemyslaw Biecek and Tomasz Burzykowski; Explanatory Model Analysis, Chapman and Hall/CRC, New York, 2020. ISBN: 9780367135591 (https://pbiecek.github.io/ema/)<br>
+Pavel Brazdil, Jan N. van Rijn, Carlos Soares, Joaquin Vanschoren; Metalearning. Applications to Automated Machine Learning and Data Mining, Springer, 2022. ISBN: 978-3-030-67024-5<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Aulas teórico-práticas com exposição de conteúdos teóricos e resolução de problemas.
+
+## Tipo de avaliação
+Avaliação distribuída sem exame final
+
+## Componentes de Ocupação
+- Elaboração de projeto: 78.0 horas
+- Estudo autónomo: 42.0 horas
+- Frequência das aulas: 42.0 horas
+- Total:: 162.0 horas
+
+## Fórmula de cálculo da classificação final
+Haverá dois testes e dois trabalhos práticos.<br /><br />Os trabalhos práticos deverão ser realizados em grupos de 2-3 alunos.<br /><br />Serão realizadas atividades que promovam a participação e o feedback, tais como questões de aula e discussões de grupo.<br /><br />A nota final é dada pela média pesada das notas teóricas (Teste1 e Teste2)  e notas dos trabalhos práticos (Trab1 e Trab2) de acordo com a seguinte fórmula:<br /><br /><strong>NotaFinal = 0.25 x Teste1 + 0.35 x Trab1 + 0.15 x Teste2 + 0.25 x Trab2</strong>
+
+## Obtenção de frequência
+Nota mínima de 7 (em 20) nos trabalho práticos e nos testes.
+
+## Melhoria de classificação
+Os trabalhos não podem ser considerados para melhoria na época de recurso.
+
+
+
+# Ficha a avaliar - versão em inglês
+
+## Unidade curricular
+Advanced Topics in Machine Learning
+
+## Curso responsável
+Master in Artificial Intelligence
+
+## Créditos ECTS
+6
+
+## Ano
+1
+
+## Semestre
+1
+
+## Objetivos
+Students will gain a global perspective on current topics in machine learning that have been the subject of extensive research and development in recent times.
+
+## Resultados de aprendizagem e competências
+<p>Students should:<br />- know the fundamental concepts of the eXplainable AI (xAI) field;<br />- recognize the main xAI algorithms and understand how they work;<br />- identify the method(s) that may be most appropriate for the domain and target audience;<br />- be able to assess the explanations obtained qualitatively and quantitatively critically;<br />- be familiar with the principles of meta-learning and different approaches<br />- understand the motivation and components of AutoML systems, including hyperparameter optimization and neural architecture search; <br />-understand the operating principles and main architectures of large language models (LLMs); <br />-know and practice with application tools, model repositories, and programming modules commonly used with advanced ML models; <br />- obtain an overview of multimodal applications of LLMs, including their use in image processing (e.g., biomedical imaging) and audio.</p>
+
+## Pré-requisitos e co-requisitos
+Knowledge of Python programming (medium level).<br />Knowledge of statistics.<br />Knowledge of elementary/intermediate concepts in machine learning.
+
+## Programa
+0. Course Overview and presentation<br />1. Introduction to xAI<br />2. Model-dependent and model-agnostic methodologies.<br />3. Local vs global explanations.<br />4. Methods based on feature attribution.<br />5. Methods based on examples <br />6. Methods based on rules.<br />7. Evaluation Metrics.<br />8. Meta-learning: principles and approaches<br />9. AutoML: motivation and applications<br />10. Introduction to LLMs<br />11. LLMs in Practice<br />12. Other advanced topics: AI techniques in image and text domains; open challenges, Large Multimodal Models. Vision Transformers (ViT).
+
+## Bibliografia obrigatória
+Lewis Tunstall (Autor), Leandro von Werra (Autor), Thomas Wolf (Autor); Natural Language Processing with Transformers: Building Language Applications With Hugging Face, O'Reilly Media, 2022. ISBN: 1098136799<br>
+Christoph Molnar; Interpretable Machine Learning: A Guide For Making Black Box Models Explainable, Leanpub, 2022. ISBN: 979-8411463330<br>
+
+## Bibliografia complementar
+Louis-François Bouchard (Autor), Louie Peters (Autor); Building LLMs for Production: Enhancing LLM Abilities and Reliability with Prompting, Fine-Tuning, and RAG, Independently published (21 maio 2024), 2024. ISBN:  979-8324731472<br>
+ Aurélien Géron (Autor); Hands-On Machine Learning with Scikit-Learn, Keras, and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent, O'Reilly Media; 3rd ed. edição (8 novembro 2022), 2022. ISBN: 1098125975<br>
+Chris Fregly (Autor), Antje Barth (Autor), Shelbee Eigenbrode (Autor); Generative AI on AWS: Building Context-Aware Multimodal Reasoning Applications , O'Reilly Media, 2023. ISBN: 1098159225<br>
+Michael Munn, David Pitman; Explainable AI for Practitioners, O'Reilly Media, Inc., 2022. ISBN: 9781098119133<br>
+Przemyslaw Biecek and Tomasz Burzykowski; Explanatory Model Analysis, Chapman and Hall/CRC, New York, 2020. ISBN: 9780367135591<br>
+Pavel Brazdil, Jan N. van Rijn, Carlos Soares, Joaquin Vanschoren; Metalearning. Applications to Automated Machine Learning and Data Mining, Springer, 2022. ISBN: 978-3-030-67024-5<br>
+
+## Métodos de ensino e atividades de aprendizagem
+Theoretical-practical classes with theoretical content and problem-solving.
+
+## Tipo de avaliação
+Distributed evaluation without final exam
+
+## Componentes de Ocupação
+- Elaboração de projeto: 78.0 hours
+- Estudo autónomo: 42.0 hours
+- Frequência das aulas: 42.0 hours
+- Total:: 162.0 hours
+
+## Fórmula de cálculo da classificação final
+There will be two theoretical tests and two practical assignments.<br /><br />The practical assignments should be done in groups of 2-3 students.<br /><br />There will be activities to promote participation and feedback, such as class questions and group discussions.<br /><br />The final grade is given by the weighted average of the theoretical tests (T1 and T2) and practical assignments (PA1 and PA2) grades according to the following formula:<br /><br /><strong>Final grade = 0.25 x T1 + 0.35 x  PA1 + 0.15 x T2 + 0.25 x PA2</strong>
+
+## Obtenção de frequência
+A minimum grade of 7 (out of 20) in the practical assignments and theoretical tests.
+
+## Melhoria de classificação
+Practical Assignments cannot be considered for improvement in the appeal period.
+
