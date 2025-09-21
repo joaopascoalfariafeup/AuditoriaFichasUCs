@@ -1,6 +1,6 @@
 # Revisão Automática de Fichas de Unidades Curriculares
 
-A página seguinte tem os resultados da revisão automática efetuada em 14/9/2025 às fichas mais recentes (2025/2026 ou 2024/25) das unidades curriculares (UCs) dos cursos de licenciatura e mestrado da FEUP, excluindo UCs inativas.
+A página seguinte tem os resultados da revisão automática efetuada em 19/9/2025 às fichas mais recentes (2025/2026 ou 2024/25) das unidades curriculares (UCs) dos cursos de licenciatura e mestrado da FEUP, excluindo UCs inativas.
 
 [Revisão de Fichas de UCs de Cursos da FEUP](https://joaopascoalfariafeup.github.io/AuditoriaFichasUCs/AuditoriaFichasUC/Auditoria_UCs_Cursos_FEUP/sumario_global.html)
 
